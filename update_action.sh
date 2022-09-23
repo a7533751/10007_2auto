@@ -1112,7 +1112,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://hosts.oisd.nl/basic
 https://neodev.team/lite_host
-https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
+https://winhelp2002.mvps.org/hosts.txt
 '
 a=0
 for i in ${hosts_list}
