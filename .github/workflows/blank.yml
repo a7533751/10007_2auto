@@ -1,11 +1,11 @@
 name: addhosts
 on:
   push:
-    branches: [ master ]
+    branches: [ developer ]
   watch:
     types: [started]
   schedule:
-    - cron: 0 6 * * *
+    - cron: 30 * * * *
 
 jobs:
   build:
@@ -25,10 +25,10 @@ jobs:
         git pull
         git config --local user.email ${{ secrets.MYEMAIL }}
         git config --local user.name ${{ secrets.MYUSERNAME }}
-        git add -A
+        git add .
         git commit -m "hosts update" -a
     - name: Push changes
-      uses: ad-m/github-push-action@master
+      uses: ad-m/github-push-action@developer
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
