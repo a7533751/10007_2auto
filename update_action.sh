@@ -1112,7 +1112,7 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 https://hosts.oisd.nl/basic
 https://neodev.team/lite_host
-https://blokada.org/mirror/v5/energized/blu/hosts.txt
+https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts
 '
 a=0
 for i in ${hosts_list}
