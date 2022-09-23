@@ -25,9 +25,8 @@ jobs:
         git pull
         git config --local user.email ${{ secrets.MYEMAIL }}
         git config --local user.name ${{ secrets.MYUSERNAME }}
-        git commit -m "hosts update" -a
         git add -A
-        git checkout --orphan developer
+        git commit -m "hosts update" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
