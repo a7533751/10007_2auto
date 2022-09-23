@@ -28,7 +28,7 @@ jobs:
         git add .
         git commit -m "hosts update" -a
     - name: Push changes
-      uses: ad-m/github-push-action@developer
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
