@@ -1,7 +1,7 @@
 name: add_hosts_developer
 on:
   push:
-    branches: [ developer ]
+    branches: [ master , developer, Feature ]
   watch:
     types: [started]
   schedule:
