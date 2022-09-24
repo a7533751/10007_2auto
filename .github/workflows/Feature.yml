@@ -1,11 +1,11 @@
-name: addhosts
+name: add_hosts_feature
 on:
   push:
     branches: [ Feature ]
   watch:
     types: [started]
   schedule:
-    - cron: 0 6 * * *
+    - cron: 30 * * * *
 
 jobs:
   build:
