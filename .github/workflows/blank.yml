@@ -1,4 +1,4 @@
-name: addhosts
+name: add_hosts_developer
 on:
   push:
     branches: [ developer ]
