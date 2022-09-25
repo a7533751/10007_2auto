@@ -1231,7 +1231,7 @@ key
 
 function transfer_localhosts_to_adguard(){
 if test -f "${1}" ;then
-	sed -i "s|^127.0.0.1|94.140.14.33|g" "${1}" && echo -e "※已将127.0.0.1替换成94.140.14.33"
+	sed -i "s|^127.0.0.1|94.140.14.33|g" "${1}" && echo -e "[$(date +%y-%m-%d-%T)] ※已将127.0.0.1替换成94.140.14.33\n"
 fi
 }
 
