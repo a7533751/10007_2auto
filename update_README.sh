@@ -3,18 +3,18 @@
 function update_readme_Feature(){
 if test -f `pwd`/README.md ;then
 
-test -f `pwd`/reward && count_reward="$(cat `pwd`/reward | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_reward="未知"
-test -f `pwd`/all && count_all="$(cat `pwd`/all | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_all="未知"
+test -f `pwd`/reward && count_reward="$(cat `pwd`/reward 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_reward="未知"
+test -f `pwd`/all && count_all="$(cat `pwd`/all 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_all="未知"
 
 cat << key > `pwd`/README.md
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
 ## 统计
-```
+\`\`\`
 完整版累积拦截域名: ${count_all}
 保留广告奖励累积拦截域名: ${count_all}
-```
+\`\`\`
 
 ## Feature 分支
 ### 将`127.0.0.1`替换成adguard的`94.140.14.33`，企图规避一些问题，例如反复请求引起的耗电。
@@ -31,24 +31,42 @@ cat << key > `pwd`/README.md
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
 key
+cat << key > `pwd`/README_en.md
+## REmove Ads Host
+## [中文](./README.md)
+
+## count
+\`\`\`
+all: ${count_all}
+reward: ${count_reward}
+\`\`\`
+
+| **name** | **links** |
+| :-- | :-- |
+| **all** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/all) |
+| **reward** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/reward) |
+
+## **[Donate](https://github.com/lingeringsound/10007)**
+
+key
 fi
 }
 
 function update_readme_master(){
 if test -f `pwd`/README.md ;then
 
-test -f `pwd`/reward && count_reward="$(cat `pwd`/reward | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_reward="未知"
-test -f `pwd`/all && count_all="$(cat `pwd`/all | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_all="未知"
+test -f `pwd`/reward && count_reward="$(cat `pwd`/reward 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_reward="未知"
+test -f `pwd`/all && count_all="$(cat `pwd`/all 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_all="未知"
 
 cat << key > `pwd`/README.md
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
 ## 统计
-```
+\`\`\`
 完整版累积拦截域名: ${count_all}
 保留广告奖励累积拦截域名: ${count_all}
-```
+\`\`\`
 
 | **名称** | **链接** | **镜像链接** |
 | :-- | :-- | :-- |
@@ -60,24 +78,43 @@ cat << key > `pwd`/README.md
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
 
 key
+
+cat << key > `pwd`/README_en.md
+## REmove Ads Host
+## [中文](./README.md)
+
+## count
+\`\`\`
+all: ${count_all}
+reward: ${count_reward}
+\`\`\`
+
+| **name** | **links** |
+| :-- | :-- |
+| **all** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all) |
+| **reward** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/reward) |
+| **Adblock** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt) |
+
+## **[Donate](https://github.com/lingeringsound/10007)**
+key
 fi
 }
 
 function update_readme_developer(){
 if test -f `pwd`/README.md ;then
 
-test -f `pwd`/reward && count_reward="$(cat `pwd`/reward | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_reward="未知"
-test -f `pwd`/all && count_all="$(cat `pwd`/all | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_all="未知"
+test -f `pwd`/reward && count_reward="$(cat `pwd`/reward 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_reward="未知"
+test -f `pwd`/all && count_all="$(cat `pwd`/all 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_all="未知"
 
 cat << key > `pwd`/README.md
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
 ## 统计
-```
-完整版累积拦截域名: ${count_all}
-保留广告奖励累积拦截域名: ${count_all}
-```
+\`\`\`
+完整版累积拦截域名: $count_all
+保留广告奖励累积拦截域名: $count_reward
+\`\`\`
 
 | **名称** | **链接** | **镜像链接** |
 | :-- | :-- | :-- |
@@ -94,10 +131,10 @@ cat << key > `pwd`/README_en.md
 ## [中文](./README.md)
 
 ## count
-```
+\`\`\`
 all: ${count_all}
-reward: ${count_all}
-```
+reward: ${count_reward}
+\`\`\`
 
 | **name** | **links** |
 | :-- | :-- |
@@ -110,5 +147,7 @@ key
 fi
 }
 
+#update_readme_master
+#update_readme_Feature
 update_readme_developer
 
