@@ -147,7 +147,7 @@ key
 fi
 }
 
-update_readme_master
+#update_readme_master
 update_readme_Feature
-update_readme_developer
+#update_readme_developer
 
