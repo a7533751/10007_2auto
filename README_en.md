@@ -1,6 +1,9 @@
 ## REmove Ads Host
 ## [中文](./README.md)
 
+## count
+
+
 | **name** | **links** |
 | :-- | :-- |
 | **all** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/all) |
