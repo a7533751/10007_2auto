@@ -2,7 +2,10 @@
 ## [中文](./README.md)
 
 ## count
-
+```
+all: 24950
+reward: 24914
+```
 
 | **name** | **links** |
 | :-- | :-- |
