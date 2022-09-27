@@ -1331,10 +1331,11 @@ fi
 function mktouch_host() {
 add_custo `pwd`/configure/自定义.prop `pwd`/result
 add_custo `pwd`/configure/魅族.conf `pwd`/result
-remove_ad `pwd`/configure/广告奖励.prop `pwd`/result/广告奖励.conf `pwd`/all
 combine_file `pwd`/result `pwd`/all
 exclude_value `pwd`/configure/排除列表.prop `pwd`/all
+exclude_value `pwd`/configure/保留奖励.prop `pwd`/reward
 modtifly `pwd`/all
+remove_ad `pwd`/configure/广告奖励.prop `pwd`/result/广告奖励.conf `pwd`/all
 transfer_localhosts_to_adguard `pwd`/all
 write_head `pwd`/all
 }
