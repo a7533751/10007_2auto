@@ -1219,6 +1219,7 @@ function remove_ad() {
 local file="$1"
 local target="$2"
 local local_host_file="$3"
+test -f "${target}" && rm -rf "${target}"
 cat "${file}" 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | while read host ;do
 echo -e "127.0.0.1 $host" >> "$target"
 done
@@ -1238,6 +1239,7 @@ fi
 #写入信息
 function write_head() {
 local target_file="${1}"
+local total_count="$(cat ${target_file} 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l )"
 sed -i "1i #@coolapk 1007" "${target_file}"
 sed -i "2i #有问题可以在文件里搜索关键词" "${target_file}"
 sed -i "3i #例如\"toutiao(头条)\"，\"MIUI xiaomi (小米)\"，\"reward(奖励)\"" "${target_file}"
@@ -1247,7 +1249,8 @@ sed -i "6i 127.0.0.1 localhost" "${target_file}"
 sed -i "7i ::1 localhost" "${target_file}"
 sed -i "8i ::1 ip6-loopback" "${target_file}"
 sed -i "9i ::1 ip6-localhost" "${target_file}"
-sed -i '10i ##################\n' "${target_file}"
+sed -i "10i #规则数量:${total_count}" "${target_file}"
+sed -i '11i ##################\n' "${target_file}"
 }
 
 function write_ad_block_reward_rules(){
