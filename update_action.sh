@@ -1696,8 +1696,7 @@ Do_detect_hosts
 mktouch_host
 #统计
 rm -rf `pwd`/result `pwd`/configure `pwd`/host
-local IFS=$'\r\n'
-test -f `pwd`/all && echo "文件大小 $( du -sh `pwd`/all )，hosts数量: $(cat `pwd`/all | wc -l ) "
+test -f `pwd`/all && echo "文件大小 $( du -sh `pwd`/all )，hosts数量: $(cat `pwd`/all | tr '\r\n' '\n' | wc -l ) "
 
 
 
