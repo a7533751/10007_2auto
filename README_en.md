@@ -3,14 +3,15 @@
 
 ## count
 ```
-all: 25612
-reward: 25581
+All of rules: 0
 ```
+
+## SwitchHosts
+### maybe you will need [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) to manager hosts.
 
 | **name** | **links** |
 | :-- | :-- |
-| **all** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/all) |
-| **reward** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/reward) |
+| **PC rules** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/PC_For_Test/all) |
 
 ## **[Donate](https://github.com/lingeringsound/10007)**
 
