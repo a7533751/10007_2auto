@@ -1,6 +1,7 @@
 #!/bin/bash
 
 function update_readme(){
+local IFS=$'\r\n'
 if test -f `pwd`/README.md ;then
 
 test -f `pwd`/all && count_all="$(cat `pwd`/all 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l)" || count_all="未知"
