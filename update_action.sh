@@ -1335,7 +1335,7 @@ sed -i "3i #例如\"toutiao(头条)\"，\"MIUI xiaomi (小米)\"，\"reward(奖�
 sed -i "4i #在相应行的开头加个\"\#\"号" "${target_file}"
 sed -i "5i #更新时间: $(date '+%F %T') " "${target_file}"
 sed -i "6i #规则数量:${total_count}" "${target_file}"
-sed -i '7i \n' "${target_file}"
+sed -i '7i \r\n##########\r\n' "${target_file}"
 }
 
 
