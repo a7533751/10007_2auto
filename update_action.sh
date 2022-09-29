@@ -1326,7 +1326,7 @@ fi
 }
 
 #写入信息
-function write_head() {
+function write_windows_head() {
 local target_file="${1}"
 local total_count="$(cat ${target_file} 2>/dev/null | sed '/^#/d;/^[[:space:]]*$/d' | wc -l )"
 sed -i "1i #@coolapk 1007" "${target_file}"
@@ -1334,13 +1334,10 @@ sed -i "2i #有问题可以在文件里搜索关键词" "${target_file}"
 sed -i "3i #例如\"toutiao(头条)\"，\"MIUI xiaomi (小米)\"，\"reward(奖励)\"" "${target_file}"
 sed -i "4i #在相应行的开头加个\"\#\"号" "${target_file}"
 sed -i "5i #更新时间: $(date '+%F %T') " "${target_file}"
-sed -i "6i 127.0.0.1 localhost" "${target_file}"
-sed -i "7i ::1 localhost" "${target_file}"
-sed -i "8i ::1 ip6-loopback" "${target_file}"
-sed -i "9i ::1 ip6-localhost" "${target_file}"
-sed -i "10i #规则数量:${total_count}" "${target_file}"
-sed -i '11i ##################\n' "${target_file}"
+sed -i "6i #规则数量:${total_count}" "${target_file}"
+sed -i '7i \n' "${target_file}"
 }
+
 
 function write_ad_block_reward_rules(){
 file="${1}"
@@ -1429,20 +1426,35 @@ exclude_value `pwd`/configure/保留奖励.prop `pwd`/all
 modtifly `pwd`/all
 remove_ad `pwd`/configure/广告奖励.prop `pwd`/result/广告奖励.conf `pwd`/all
 transfer_localhosts_to_adguard `pwd`/all
-write_head `pwd`/all
-}
+write_windows_head `pwd`/all
+local before_local_Host="$( cat `pwd`/all 2>/dev/null | tr '\n' '\r\n' )"
+cat << "key" > `pwd`/all
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
 
-function mktouch_no_host() {
-add_custo `pwd`/configure/自定义.prop `pwd`/result
-add_custo `pwd`/configure/魅族.conf `pwd`/result
-combine_file `pwd`/result `pwd`/reward
-exclude_value `pwd`/configure/排除列表.prop `pwd`/reward
-exclude_value `pwd`/configure/保留奖励.prop `pwd`/reward
-modtifly `pwd`/reward
-transfer_localhosts_to_adguard `pwd`/reward
-write_head `pwd`/reward
-}
+# localhost name resolution is handled within DNS itself.
+#=====================================
 
+#	127.0.0.1       localhost
+#	::1             localhost
+key
+echo -e "\r\n${before_local_Host}" >> `pwd`/all
+}
 
 function RUnning_SETUPS_environment(){
 setup_environment
@@ -1682,16 +1694,9 @@ RUnning_grep_values_conf
 Do_detect_hosts
 #制作去除广告奖励的Host
 mktouch_host
-#制作不包含广告奖励的Host
-mktouch_no_host
-#制作adblock规则
-#adblock `pwd`/reward
 #统计
 rm -rf `pwd`/result `pwd`/configure `pwd`/host
-test -f `pwd`/reward && echo "文件大小 $( du -sh `pwd`/reward )，hosts数量: $(cat `pwd`/reward | wc -l ) "
 test -f `pwd`/all && echo "文件大小 $( du -sh `pwd`/all )，hosts数量: $(cat `pwd`/all | wc -l ) "
-#test -f `pwd`/adb.txt && echo "文件大小 $( du -sh `pwd`/adb.txt )，hosts数量: $(cat `pwd`/adb.txt | wc -l ) "
-
 
 
 
