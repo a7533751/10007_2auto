@@ -1009,8 +1009,13 @@ cat << "key" > ${file}
 ^127.0.0.1[[:space:]]tracker.ai.xiaomi.com$
 #小米主题设计师注册
 ^127.0.0.1[[:space:]]market.xiaomi.com$
-
-
+#QQ/腾讯收集隐私/统计
+#重定向域名情况下，耗电情况有所增加，故剔除
+^127.0.0.1[[:space:]]android.rqd.qq.com$
+^127.0.0.1[[:space:]]otheve.beacon.qq.com$
+#百度广告/输入法热门动图下载
+#重定向域名情况下，耗电情况有所增加，故剔除
+^127.0.0.1[[:space:]]nsclick.baidu.com$
 
 #放到iptables屏蔽的域名
 ^[0-9].*\.fls.doubleclick
