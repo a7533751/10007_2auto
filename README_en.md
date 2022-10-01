@@ -9,8 +9,8 @@ reward: 25642
 
 | **name** | **links** |
 | :-- | :-- |
-| **all** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/all) |
-| **reward** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature/reward) |
+| **all** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature1/all) |
+| **reward** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature1/reward) |
 
 ## **[Donate](https://github.com/lingeringsound/10007)**
 
