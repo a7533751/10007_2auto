@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-10-03 17:02:20 
+#更新时间: 2022-10-03 18:52:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25659
+#规则数量:25076
 ##################
 
 94.140.14.33 0.r.msn.com
@@ -306,14 +306,12 @@
 94.140.14.33 a.api.ad-locus.com
 94.140.14.33 a.appjiagu.com
 94.140.14.33 a.baidu.com
-94.140.14.33 a.bestcontentfood.top
 94.140.14.33 a.bestcontentitem.top
 94.140.14.33 a.bestcontentprogram.top
 94.140.14.33 a.bestcontentproject.top
 94.140.14.33 a.bestcontenttool.top
 94.140.14.33 a.bf-ad.net
 94.140.14.33 a.blogroll.click
-94.140.14.33 a.brand.ad
 94.140.14.33 a.cdn1.pro
 94.140.14.33 a.ckm.iqiyi.com
 94.140.14.33 a.cn.miaozhen.com
@@ -427,7 +425,6 @@
 94.140.14.33 acdn.adnxs-simple.com
 94.140.14.33 acdn.adnxs.com
 94.140.14.33 acdn.uploads.mobi
-94.140.14.33 acdn.xapads.com
 94.140.14.33 ace-lb.advertising.com
 94.140.14.33 ace-tag.advertising.com
 94.140.14.33 ace.advertising.com
@@ -471,7 +468,6 @@
 94.140.14.33 ad-annex.com
 94.140.14.33 ad-apac.doubleclick.net
 94.140.14.33 ad-api-v01.uliza.jp
-94.140.14.33 ad-api.a8.net
 94.140.14.33 ad-api.ad-stir.com
 94.140.14.33 ad-api.cnblogs.com
 94.140.14.33 ad-api.ehawk.com
@@ -572,9 +568,6 @@
 94.140.14.33 ad-maker.net
 94.140.14.33 ad-mapps.com
 94.140.14.33 ad-maven.com
-94.140.14.33 ad-maven.xml-eu.ak-is2.net
-94.140.14.33 ad-maven.xml.ak-is2.net
-94.140.14.33 ad-maven.xs.ak-is2.net
 94.140.14.33 ad-media.org
 94.140.14.33 ad-media.xe.gr
 94.140.14.33 ad-mediation-3.us-east-1.elasticbeanstalk.com
@@ -608,9 +601,7 @@
 94.140.14.33 ad-serve.b-cdn.net
 94.140.14.33 ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
 94.140.14.33 ad-server.co.za
-94.140.14.33 ad-server.eu
 94.140.14.33 ad-server.gulasidorna.se
-94.140.14.33 ad-server.unlimapps.com
 94.140.14.33 ad-serverparc.nl
 94.140.14.33 ad-servicestats.net
 94.140.14.33 ad-serving.de
@@ -621,9 +612,7 @@
 94.140.14.33 ad-souk.com
 94.140.14.33 ad-sp.biz
 94.140.14.33 ad-space.net
-94.140.14.33 ad-spb.ru
 94.140.14.33 ad-specs.guoshipartners.com
-94.140.14.33 ad-spire.genieesspv.jp
 94.140.14.33 ad-spire.net
 94.140.14.33 ad-sponsor.com
 94.140.14.33 ad-srv-track.com
@@ -660,7 +649,6 @@
 94.140.14.33 ad-vanx.com
 94.140.14.33 ad-vanx.fuseplatform.net
 94.140.14.33 ad-venture.com
-94.140.14.33 ad-verification.a8.net
 94.140.14.33 ad-verify.flurry.com
 94.140.14.33 ad-vice.biz
 94.140.14.33 ad-visor.com
@@ -686,7 +674,6 @@
 94.140.14.33 ad.17zhaole.com
 94.140.14.33 ad.1k3.com
 94.140.14.33 ad.1kxun.com
-94.140.14.33 ad.1rx.io
 94.140.14.33 ad.1serve-sys.com
 94.140.14.33 ad.1ting.com
 94.140.14.33 ad.22betpartners.com
@@ -760,7 +747,6 @@
 94.140.14.33 ad.adintensity.com
 94.140.14.33 ad.adip.ly
 94.140.14.33 ad.aditic.net
-94.140.14.33 ad.adition.com
 94.140.14.33 ad.adition.de
 94.140.14.33 ad.adition.net
 94.140.14.33 ad.adk2x.com
@@ -798,7 +784,6 @@
 94.140.14.33 ad.adserver01.de
 94.140.14.33 ad.adserverplus.com
 94.140.14.33 ad.adslim.com
-94.140.14.33 ad.adsloads.com
 94.140.14.33 ad.adsmart.net
 94.140.14.33 ad.adsniper.ru
 94.140.14.33 ad.adsonpop.com
@@ -887,7 +872,6 @@
 94.140.14.33 ad.arklm.com
 94.140.14.33 ad.as.amanad.adtdp.com
 94.140.14.33 ad.asap-asp.net
-94.140.14.33 ad.askingpoint.com
 94.140.14.33 ad.asntown.net
 94.140.14.33 ad.aspm.jp
 94.140.14.33 ad.associatedcontent.com
@@ -902,7 +886,6 @@
 94.140.14.33 ad.aucview.com
 94.140.14.33 ad.audiencemanager.de
 94.140.14.33 ad.auditude.com
-94.140.14.33 ad.automatad.com
 94.140.14.33 ad.autorace.jp
 94.140.14.33 ad.autoview.co.kr
 94.140.14.33 ad.axill.com
@@ -1146,7 +1129,6 @@
 94.140.14.33 ad.fido.net
 94.140.14.33 ad.filmweb.pl
 94.140.14.33 ad.firstadsolution.com
-94.140.14.33 ad.fivecdm.com
 94.140.14.33 ad.flipboard.com
 94.140.14.33 ad.floq.jp
 94.140.14.33 ad.flurry.com
@@ -1154,7 +1136,6 @@
 94.140.14.33 ad.fnnews.com
 94.140.14.33 ad.fo.net
 94.140.14.33 ad.fout.jp
-94.140.14.33 ad.foxitsoftware.com
 94.140.14.33 ad.foxnetworks.com
 94.140.14.33 ad.fr.doubleclick.net
 94.140.14.33 ad.free6.com
@@ -1177,7 +1158,6 @@
 94.140.14.33 ad.gamingdaily.info
 94.140.14.33 ad.ganji.com
 94.140.14.33 ad.garantiarkadas.com
-94.140.14.33 ad.garenanow.com
 94.140.14.33 ad.gate24.ch
 94.140.14.33 ad.gazeta.pl
 94.140.14.33 ad.gdmexchange.com
@@ -1260,7 +1240,6 @@
 94.140.14.33 ad.hu.doubleclick.net
 94.140.14.33 ad.huajiao.com
 94.140.14.33 ad.hutor.ru
-94.140.14.33 ad.huvle.com
 94.140.14.33 ad.hyena.cz
 94.140.14.33 ad.i2idata.com
 94.140.14.33 ad.i30t.com
@@ -1338,7 +1317,6 @@
 94.140.14.33 ad.jedimobi.com
 94.140.14.33 ad.jetsoftware.com
 94.140.14.33 ad.jeune-independant.net
-94.140.14.33 ad.jia.360.cn
 94.140.14.33 ad.jiemian.com
 94.140.14.33 ad.jiguang.cn
 94.140.14.33 ad.jmg.com
@@ -1470,11 +1448,9 @@
 94.140.14.33 ad.mcminteractive.com
 94.140.14.33 ad.media-locator.com
 94.140.14.33 ad.media-servers.net
-94.140.14.33 ad.media01.eu
 94.140.14.33 ad.media6degrees.com
 94.140.14.33 ad.mediabong.com
 94.140.14.33 ad.mediad.co.jp
-94.140.14.33 ad.mediafuse.com
 94.140.14.33 ad.mediaplex.com
 94.140.14.33 ad.mediaprecision.net
 94.140.14.33 ad.mediaprimaplus.com.my
@@ -1510,7 +1486,6 @@
 94.140.14.33 ad.moreto.net
 94.140.14.33 ad.moscowtimes.ru
 94.140.14.33 ad.motiveinteractive.com
-94.140.14.33 ad.movad.net
 94.140.14.33 ad.movile.com
 94.140.14.33 ad.mox.tv
 94.140.14.33 ad.mrtnsvr.com
@@ -1654,7 +1629,6 @@
 94.140.14.33 ad.premiumonlinemedia.com
 94.140.14.33 ad.presco.asia
 94.140.14.33 ad.primead.jp
-94.140.14.33 ad.prisma-ai.com
 94.140.14.33 ad.prismamediadigital.com
 94.140.14.33 ad.pro-advertising.com
 94.140.14.33 ad.profiwin.de
@@ -1673,7 +1647,6 @@
 94.140.14.33 ad.qq.com
 94.140.14.33 ad.qreader.me
 94.140.14.33 ad.qtcs.com.vn
-94.140.14.33 ad.queryly.com
 94.140.14.33 ad.qun.qq.com
 94.140.14.33 ad.quwin.cn
 94.140.14.33 ad.qwapi.com
@@ -1736,7 +1709,6 @@
 94.140.14.33 ad.sensismediasmart.com.au
 94.140.14.33 ad.servisco.net
 94.140.14.33 ad.sethads.info
-94.140.14.33 ad.setn.com
 94.140.14.33 ad.setrowid.com
 94.140.14.33 ad.sevenads.net
 94.140.14.33 ad.sexcount.de
@@ -2096,7 +2068,6 @@
 94.140.14.33 ad1.lbn.ru
 94.140.14.33 ad1.logger.co.kr
 94.140.14.33 ad1.madserving.cn
-94.140.14.33 ad1.missyusa.com
 94.140.14.33 ad1.nend.net
 94.140.14.33 ad1.netshelter.net
 94.140.14.33 ad1.nownews.com
@@ -2235,7 +2206,6 @@
 94.140.14.33 ad199m.adk2.co
 94.140.14.33 ad19m.adk2.co
 94.140.14.33 ad1m.adk2.co
-94.140.14.33 ad2.360yield.com
 94.140.14.33 ad2.adcept.net
 94.140.14.33 ad2.adecn.com
 94.140.14.33 ad2.adfarm1.adition.com
@@ -2295,7 +2265,6 @@
 94.140.14.33 ad2.linxcz.cz
 94.140.14.33 ad2.lupa.cz
 94.140.14.33 ad2.maho.jp
-94.140.14.33 ad2.movad.net
 94.140.14.33 ad2.nationalreview.com
 94.140.14.33 ad2.nend.net
 94.140.14.33 ad2.neodatagroup.com
@@ -2913,7 +2882,6 @@
 94.140.14.33 adashx.m.taobao.com
 94.140.14.33 adashx.ut.taobao.com
 94.140.14.33 adashx4ae.ut.taobao.com
-94.140.14.33 adashx4sg.ut.taobao.com
 94.140.14.33 adashx4yt.m.taobao.com
 94.140.14.33 adashxgc.ut.taobao.com
 94.140.14.33 adavideo.baidu.com
@@ -2933,7 +2901,6 @@
 94.140.14.33 adc.api.nine.com.au
 94.140.14.33 adc2.adcentriconline.com
 94.140.14.33 adc3-assets.adcolony.com
-94.140.14.33 adc3-launch-staging.adcolony.com
 94.140.14.33 adc3-launch.adcolony.com
 94.140.14.33 adcdn.33universal.com
 94.140.14.33 adcdn.goo.ne.jp
@@ -2948,8 +2915,6 @@
 94.140.14.33 adcore.lenovomm.com
 94.140.14.33 adcos.adxmly.com
 94.140.14.33 adcount.mobi
-94.140.14.33 add1.aniview.com
-94.140.14.33 add2.aniview.com
 94.140.14.33 add4.de
 94.140.14.33 addelivery-engine-api.voodoo-ads.io
 94.140.14.33 addthiscdn.com
@@ -3064,23 +3029,17 @@
 94.140.14.33 admin.ad-maker.info
 94.140.14.33 admin.ads.basal.ca
 94.140.14.33 admin.ads.t-online.de
-94.140.14.33 admin.dfnb-ads.com
 94.140.14.33 admin.download-sponsor.de
 94.140.14.33 admin.uz.taobao.com
 94.140.14.33 admin.vserv.mobi
 94.140.14.33 admob.mobi
 94.140.14.33 admon.pro
-94.140.14.33 admonitor-lite.miaozhen.com
-94.140.14.33 admonitor.miaozhen.com
 94.140.14.33 admost-banner.b-cdn.net
 94.140.14.33 admtpmp127.adsk2.co
 94.140.14.33 admusicmatvideo.music.126.net
 94.140.14.33 admusicpic.music.126.net
 94.140.14.33 adn.agrantsem.com
 94.140.14.33 adn.insight.ucweb.com
-94.140.14.33 adn1.adclerks.com
-94.140.14.33 adn2.adclerks.com
-94.140.14.33 adnetwork.ad.kakaocorp.com
 94.140.14.33 adnetwork.fullservices.com.ar
 94.140.14.33 adnewnc.app.autohome.com.cn
 94.140.14.33 adnxs-simple.com
@@ -3169,15 +3128,12 @@
 94.140.14.33 ads-a-darwin.hulu.com
 94.140.14.33 ads-a.juicyads.com
 94.140.14.33 ads-aa.wunderground.com
-94.140.14.33 ads-adaptv.vidible.tv
 94.140.14.33 ads-admin.hubs.vn
 94.140.14.33 ads-adseast.yldbt.com
 94.140.14.33 ads-ap.adaptv.advertising.com
 94.140.14.33 ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com
-94.140.14.33 ads-api.ft.com
 94.140.14.33 ads-api.hackadoll.com
 94.140.14.33 ads-api.playfun.vn
-94.140.14.33 ads-api.tiktok.com
 94.140.14.33 ads-api.twitter.com
 94.140.14.33 ads-api.videojj.com
 94.140.14.33 ads-apsa.lvz-online.de
@@ -3199,7 +3155,6 @@
 94.140.14.33 ads-c-1854119718.us-west-1.elb.amazonaws.com
 94.140.14.33 ads-c.focalink.com
 94.140.14.33 ads-cdn.fptplay.net
-94.140.14.33 ads-cdn.tenmax.io
 94.140.14.33 ads-chunks.prod.ihrhls.com
 94.140.14.33 ads-click.com
 94.140.14.33 ads-cloud.rovio.com
@@ -3227,7 +3182,6 @@
 94.140.14.33 ads-fr.spray.net
 94.140.14.33 ads-game-187f4.firebaseapp.com
 94.140.14.33 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
-94.140.14.33 ads-game-configuration.unityads.unity3d.com
 94.140.14.33 ads-gdl.imovideo.ru
 94.140.14.33 ads-go.adroi.com.cn
 94.140.14.33 ads-hl.noktamedya.com.tr
@@ -3236,8 +3190,6 @@
 94.140.14.33 ads-im-netz.de
 94.140.14.33 ads-instrument.focalink.com
 94.140.14.33 ads-interfaces.sc-cdn.net
-94.140.14.33 ads-intl.everesttech.net
-94.140.14.33 ads-ios-sdk.ogury.co
 94.140.14.33 ads-ipm.adhese.com
 94.140.14.33 ads-kesselhaus.com
 94.140.14.33 ads-kurir.providus.rs
@@ -3252,7 +3204,6 @@
 94.140.14.33 ads-lot.ru
 94.140.14.33 ads-mannenmedia.adhese.com
 94.140.14.33 ads-marketing-vivofs.vivo.com.cn
-94.140.14.33 ads-media-cdn.tenmax.io
 94.140.14.33 ads-media.gameforge.com
 94.140.14.33 ads-mediafin.adhese.com
 94.140.14.33 ads-nrc.adhese.com
@@ -3276,8 +3227,6 @@
 94.140.14.33 ads-roularta.adhese.com
 94.140.14.33 ads-router-noneu.truecaller.com
 94.140.14.33 ads-script.ad-center.com
-94.140.14.33 ads-sdk-configuration-gcp.unityads.unity3d.com
-94.140.14.33 ads-sdk-configuration.unityads.unity3d.com
 94.140.14.33 ads-sdk.avidly.com
 94.140.14.33 ads-sdk.upltv.com
 94.140.14.33 ads-secure.videohub.tv
@@ -3299,7 +3248,6 @@
 94.140.14.33 ads-uat.bridgetrack.com
 94.140.14.33 ads-union.jd.com
 94.140.14.33 ads-us-east-1.axonix.com
-94.140.14.33 ads-us.adtarget.me
 94.140.14.33 ads-us.pictela.net
 94.140.14.33 ads-useast1n.yldbt.com
 94.140.14.33 ads-ussj1.focalink.com
@@ -3308,7 +3256,6 @@
 94.140.14.33 ads-v-darwin.hulu.com
 94.140.14.33 ads-verify.com
 94.140.14.33 ads-verify.flurry.com
-94.140.14.33 ads-verify.yap.yahoo.com
 94.140.14.33 ads-wc.adaptv.advertising.com
 94.140.14.33 ads-wc.v.ssp.yahoo.com
 94.140.14.33 ads-web.mail.com
@@ -3328,7 +3275,6 @@
 94.140.14.33 ads.123net.jp
 94.140.14.33 ads.128b.com
 94.140.14.33 ads.12titans.net
-94.140.14.33 ads.152media.com
 94.140.14.33 ads.160tracker.com
 94.140.14.33 ads.1a-infosysteme.de
 94.140.14.33 ads.1mobile.com
@@ -3348,7 +3294,6 @@
 94.140.14.33 ads.2x4.ru
 94.140.14.33 ads.2xbpub.com
 94.140.14.33 ads.359group.com
-94.140.14.33 ads.360yield.com
 94.140.14.33 ads.365.mk
 94.140.14.33 ads.365cdn.is
 94.140.14.33 ads.3721.com
@@ -3429,7 +3374,6 @@
 94.140.14.33 ads.ad-flow.com
 94.140.14.33 ads.ad-maven.com
 94.140.14.33 ads.ad-vo.net
-94.140.14.33 ads.ad.gt
 94.140.14.33 ads.ad2games.com
 94.140.14.33 ads.ad2iction.com
 94.140.14.33 ads.ad2m.fr
@@ -3444,7 +3388,6 @@
 94.140.14.33 ads.adap.tv
 94.140.14.33 ads.adaptv.advertising.com
 94.140.14.33 ads.adasiaholdings.com
-94.140.14.33 ads.adblade.com
 94.140.14.33 ads.adbooth.com
 94.140.14.33 ads.adbrite.com
 94.140.14.33 ads.adbroker.de
@@ -3473,7 +3416,6 @@
 94.140.14.33 ads.adgorithms.com
 94.140.14.33 ads.adgoto.com
 94.140.14.33 ads.adgrup.com
-94.140.14.33 ads.adhacker.online
 94.140.14.33 ads.adhall.com
 94.140.14.33 ads.adhearus.com
 94.140.14.33 ads.adhese.be
@@ -3523,7 +3465,6 @@
 94.140.14.33 ads.adorigin.com
 94.140.14.33 ads.adplay.de
 94.140.14.33 ads.adplxmd.com
-94.140.14.33 ads.adpone.com
 94.140.14.33 ads.adpowerzone.com
 94.140.14.33 ads.adprofs.com
 94.140.14.33 ads.adpulse.com
@@ -3648,7 +3589,6 @@
 94.140.14.33 ads.al3ably.com
 94.140.14.33 ads.albawaba.com
 94.140.14.33 ads.alchevsk.org
-94.140.14.33 ads.alibaba.com
 94.140.14.33 ads.aliceadsl.fr
 94.140.14.33 ads.alive.com
 94.140.14.33 ads.all-free-download.com
@@ -3692,7 +3632,6 @@
 94.140.14.33 ads.amigos.com
 94.140.14.33 ads.aminews.com
 94.140.14.33 ads.amusive.com
-94.140.14.33 ads.amxrtb.com
 94.140.14.33 ads.and6.ch
 94.140.14.33 ads.androworks.org
 94.140.14.33 ads.anet.ro
@@ -3906,7 +3845,6 @@
 94.140.14.33 ads.beyondunreal.com
 94.140.14.33 ads.bfast.com
 94.140.14.33 ads.bfm.valueclick.net
-94.140.14.33 ads.bfmio.com
 94.140.14.33 ads.bg-mamma.com
 94.140.14.33 ads.bgfree.com
 94.140.14.33 ads.bgrss.com
@@ -3929,7 +3867,6 @@
 94.140.14.33 ads.billiton.de
 94.140.14.33 ads.bilnorge.no
 94.140.14.33 ads.bing.com
-94.140.14.33 ads.bingads.microsoft.com
 94.140.14.33 ads.birdmedia.com
 94.140.14.33 ads.biscom.net
 94.140.14.33 ads.bisnode.de
@@ -4034,7 +3971,6 @@
 94.140.14.33 ads.bugnet.com
 94.140.14.33 ads.buljobs.bg
 94.140.14.33 ads.bulldogcpi.com
-94.140.14.33 ads.bullionyield.com
 94.140.14.33 ads.bullseye.co.uk
 94.140.14.33 ads.bumq.com
 94.140.14.33 ads.burgasinfo.com
@@ -4115,7 +4051,6 @@
 94.140.14.33 ads.cdn-surfline.com
 94.140.14.33 ads.cdn.rovio.com
 94.140.14.33 ads.cdn.viber.com
-94.140.14.33 ads.cdnaz.win
 94.140.14.33 ads.cdnow.com
 94.140.14.33 ads.cdnrl.com
 94.140.14.33 ads.cdnslate.com
@@ -4199,7 +4134,6 @@
 94.140.14.33 ads.clickad.com.pl
 94.140.14.33 ads.clickagents.com
 94.140.14.33 ads.clickbuy.bz
-94.140.14.33 ads.clickdigisol.net
 94.140.14.33 ads.clickheal.com
 94.140.14.33 ads.clickhouse.com
 94.140.14.33 ads.clicksor.cn
@@ -4622,7 +4556,6 @@
 94.140.14.33 ads.epix.net
 94.140.14.33 ads.epltalk.com
 94.140.14.33 ads.epom.com
-94.140.14.33 ads.epomtestsite.com
 94.140.14.33 ads.eqads.com
 94.140.14.33 ads.ere.net
 94.140.14.33 ads.ereklama.mk
@@ -4645,7 +4578,6 @@
 94.140.14.33 ads.ersamedia.ch
 94.140.14.33 ads.esam.ro
 94.140.14.33 ads.escalatemedia.com
-94.140.14.33 ads.eskimi.com
 94.140.14.33 ads.esmas.com
 94.140.14.33 ads.espaciolatino.com
 94.140.14.33 ads.espn.adsonar.com
@@ -4842,7 +4774,6 @@
 94.140.14.33 ads.futurenet.com
 94.140.14.33 ads.fuzzster.com
 94.140.14.33 ads.g-media.com
-94.140.14.33 ads.g.adxadserv.com
 94.140.14.33 ads.gabber.de
 94.140.14.33 ads.gad-network.com
 94.140.14.33 ads.gadget.ro
@@ -5249,7 +5180,6 @@
 94.140.14.33 ads.interfax.ru
 94.140.14.33 ads.intergenia.de
 94.140.14.33 ads.intergi.com
-94.140.14.33 ads.internal.unity3d.com
 94.140.14.33 ads.internet-optimizer.com
 94.140.14.33 ads.internetia.pl
 94.140.14.33 ads.internetwebhosting.com
@@ -5313,7 +5243,6 @@
 94.140.14.33 ads.japanaradio.com
 94.140.14.33 ads.jaring.my
 94.140.14.33 ads.jboss.org
-94.140.14.33 ads.jeded.com
 94.140.14.33 ads.jeneauempire.com
 94.140.14.33 ads.jenite.bg
 94.140.14.33 ads.jerk2it.com
@@ -5397,7 +5326,6 @@
 94.140.14.33 ads.kinxxx.com
 94.140.14.33 ads.kiosked.com
 94.140.14.33 ads.kir.jp
-94.140.14.33 ads.kitidi.com
 94.140.14.33 ads.kixer.com
 94.140.14.33 ads.kizu.org
 94.140.14.33 ads.kleinman.com
@@ -5496,7 +5424,6 @@
 94.140.14.33 ads.livescore.com
 94.140.14.33 ads.livesportmedia.eu
 94.140.14.33 ads.livestation.com
-94.140.14.33 ads.livetv314.me
 94.140.14.33 ads.livetvcdn.net
 94.140.14.33 ads.livinghandy.de
 94.140.14.33 ads.ljworld.com
@@ -5566,7 +5493,6 @@
 94.140.14.33 ads.mail.com
 94.140.14.33 ads.mail2web.com
 94.140.14.33 ads.mail3x.com
-94.140.14.33 ads.mainadv.com
 94.140.14.33 ads.mainetoday.com
 94.140.14.33 ads.makeat.net
 94.140.14.33 ads.maksimum.net
@@ -5618,7 +5544,6 @@
 94.140.14.33 ads.mediacapital.pt
 94.140.14.33 ads.mediaforge.com
 94.140.14.33 ads.mediaforge.com.edgekey.net
-94.140.14.33 ads.mediafuse.com
 94.140.14.33 ads.mediaiprom.com
 94.140.14.33 ads.medialine.gr
 94.140.14.33 ads.mediamatch.info
@@ -5627,7 +5552,6 @@
 94.140.14.33 ads.medianine.com
 94.140.14.33 ads.mediaodyssey.com
 94.140.14.33 ads.mediaon.it
-94.140.14.33 ads.mediarithmics.com
 94.140.14.33 ads.mediaskill.de
 94.140.14.33 ads.mediasmart.es
 94.140.14.33 ads.mediasoul.net
@@ -5957,7 +5881,6 @@
 94.140.14.33 ads.njaccess.com
 94.140.14.33 ads.no
 94.140.14.33 ads.no.webdeal.no
-94.140.14.33 ads.nobid.com
 94.140.14.33 ads.nobuffer.info
 94.140.14.33 ads.nola.com
 94.140.14.33 ads.nordcurrent.com
@@ -6065,10 +5988,7 @@
 94.140.14.33 ads.openx.net
 94.140.14.33 ads.opera.com
 94.140.14.33 ads.operadormovilsms.com
-94.140.14.33 ads.optad360.com
-94.140.14.33 ads.optimizesrv.com
 94.140.14.33 ads.optusnet.com.au
-94.140.14.33 ads.opus-static.net
 94.140.14.33 ads.orange142.com
 94.140.14.33 ads.oregonlive.com
 94.140.14.33 ads.org
@@ -6210,7 +6130,6 @@
 94.140.14.33 ads.planetonline.com
 94.140.14.33 ads.plantyours.com
 94.140.14.33 ads.platform.zalo.me
-94.140.14.33 ads.play.cbsi.video
 94.140.14.33 ads.playandwin.de
 94.140.14.33 ads.playboy.bg
 94.140.14.33 ads.playboy.com
@@ -6306,7 +6225,6 @@
 94.140.14.33 ads.profootballtalk.com
 94.140.14.33 ads.program3.com
 94.140.14.33 ads.programattik.com
-94.140.14.33 ads.projectagoraservices.com
 94.140.14.33 ads.projectdeath.com
 94.140.14.33 ads.promi-mail.com
 94.140.14.33 ads.promiles.com
@@ -6412,7 +6330,6 @@
 94.140.14.33 ads.realmedia.ro
 94.140.14.33 ads.realposition.ru
 94.140.14.33 ads.realslutparty.com
-94.140.14.33 ads.realsrv.com
 94.140.14.33 ads.realtechnetwork.net
 94.140.14.33 ads.realtor.com
 94.140.14.33 ads.reason.com
@@ -6507,7 +6424,6 @@
 94.140.14.33 ads.russiajournal.com
 94.140.14.33 ads.russianct.com
 94.140.14.33 ads.rv.net
-94.140.14.33 ads.rvadnet.com
 94.140.14.33 ads.s-i-r.de
 94.140.14.33 ads.s3.sitepoint.com
 94.140.14.33 ads.saba-e.com
@@ -6672,7 +6588,6 @@
 94.140.14.33 ads.smartstream.tv
 94.140.14.33 ads.smokecds.com
 94.140.14.33 ads.smowtion.com
-94.140.14.33 ads.smrtb.com
 94.140.14.33 ads.smsmich.de
 94.140.14.33 ads.snapchat.com
 94.140.14.33 ads.snet.net
@@ -6883,7 +6798,6 @@
 94.140.14.33 ads.telemedia.ch
 94.140.14.33 ads.telkomsel.com
 94.140.14.33 ads.temadaily.bg
-94.140.14.33 ads.tenmax.io
 94.140.14.33 ads.tennessean.com
 94.140.14.33 ads.tentonhammer.com
 94.140.14.33 ads.terra.cl
@@ -6932,7 +6846,6 @@
 94.140.14.33 ads.thestar.com
 94.140.14.33 ads.thestar.com.my
 94.140.14.33 ads.thestranger.com
-94.140.14.33 ads.thesun.co.uk
 94.140.14.33 ads.thetimes.co.uk
 94.140.14.33 ads.thetrainingofo.com
 94.140.14.33 ads.thewebfreaks.com
@@ -7040,7 +6953,6 @@
 94.140.14.33 ads.trkclk.net
 94.140.14.33 ads.tromaville.com
 94.140.14.33 ads.trove.com
-94.140.14.33 ads.truecaller.com
 94.140.14.33 ads.truecash.com
 94.140.14.33 ads.trumpetherald.com
 94.140.14.33 ads.truongton.net
@@ -7078,7 +6990,6 @@
 94.140.14.33 ads.u-strasbg.fr
 94.140.14.33 ads.ubee.in
 94.140.14.33 ads.uberads.com
-94.140.14.33 ads.uc.cn
 94.140.14.33 ads.uclick.com
 94.140.14.33 ads.uclick.de
 94.140.14.33 ads.ucomics.com
@@ -7480,7 +7391,6 @@
 94.140.14.33 ads.yenimedya.com.tr
 94.140.14.33 ads.yeshanews.com
 94.140.14.33 ads.yieldads.com
-94.140.14.33 ads.yieldlove-ad-serving.net
 94.140.14.33 ads.yieldmedia.net
 94.140.14.33 ads.yieldmo.com
 94.140.14.33 ads.yifan.com
@@ -7836,7 +7746,6 @@
 94.140.14.33 ads3.moitepari.bg
 94.140.14.33 ads3.mojiva.com
 94.140.14.33 ads3.net2day.de
-94.140.14.33 ads3.optad360.com
 94.140.14.33 ads3.qadabra.com
 94.140.14.33 ads3.realcities.com
 94.140.14.33 ads3.searchmiracle.com
@@ -7891,7 +7800,6 @@
 94.140.14.33 ads4.virtumundo.com
 94.140.14.33 ads4.zenotecnico.com
 94.140.14.33 ads5-adnow.com
-94.140.14.33 ads5-eu.truecaller.com
 94.140.14.33 ads5-fo.stickyadstv.com
 94.140.14.33 ads5-noneu.truecaller.com
 94.140.14.33 ads5-normal-hl.zijieapi.com
@@ -7995,7 +7903,6 @@
 94.140.14.33 adsapi.chartbeat.com
 94.140.14.33 adsapi.manhuaren.com
 94.140.14.33 adsapi.snapchat.com
-94.140.14.33 adsapi.togothermany.cn
 94.140.14.33 adsbid-ad-click.adsbid.ru
 94.140.14.33 adsbid-sh-click.adghndou0sdh.ru
 94.140.14.33 adsbid-sh-click.sing.adghndou0sdh.ru
@@ -8112,14 +8019,12 @@
 94.140.14.33 adsrvmedia.adsk2.co
 94.140.14.33 adss.ad-maven.com
 94.140.14.33 adss.video.qq.com
-94.140.14.33 adsservice-external.v.fwmrm.net
 94.140.14.33 adsservices.urekamedia.com
 94.140.14.33 adsspaces.ero-advertising.com
 94.140.14.33 adstaces.ero-advertising.com
 94.140.14.33 adstacksapi.fuse-ad.com
 94.140.14.33 adstage-analytics.herokuapp.com
 94.140.14.33 adstat.cp11.ott.cibntv.net
-94.140.14.33 adstatic.b-cdn.net
 94.140.14.33 adstats.tencentmusic.com
 94.140.14.33 adstax-cdn.adrtx.net
 94.140.14.33 adstextview.qq.com
@@ -8156,7 +8061,6 @@
 94.140.14.33 adtima-media.zascdn.me
 94.140.14.33 adtima-static.zascdn.me
 94.140.14.33 adtima-video.zascdn.me
-94.140.14.33 adtools.inmobicdn.net
 94.140.14.33 adtrack-prod.elasticbeanstalk.com
 94.140.14.33 adtrack.adleadevent.com
 94.140.14.33 adtrack.appcpi.net
@@ -8319,25 +8223,8 @@
 94.140.14.33 adwpaces.ero-advertising.com
 94.140.14.33 adx-api.a.mobimagic.com
 94.140.14.33 adx-api.mobadvent.com
-94.140.14.33 adx-api.otm-r.com
-94.140.14.33 adx-f.ads.heytapmobi.com
-94.140.14.33 adx-f.ads.heytapmobile.com
-94.140.14.33 adx-id.ads.heytapmobi.com
-94.140.14.33 adx-id.ads.heytapmobile.com
-94.140.14.33 adx-id.ads.oppomobile.com
-94.140.14.33 adx-in.ads.heytapmobi.com
-94.140.14.33 adx-in.ads.heytapmobile.com
-94.140.14.33 adx-kh.ads.heytapmobile.com
-94.140.14.33 adx-mm.ads.heytapmobile.com
-94.140.14.33 adx-my.ads.heytapmobile.com
 94.140.14.33 adx-open-service.youku.com
-94.140.14.33 adx-ph.ads.heytapmobile.com
-94.140.14.33 adx-sg.ads.heytapmobi.com
-94.140.14.33 adx-sg.ads.heytapmobile.com
 94.140.14.33 adx-static.ksosoft.com
-94.140.14.33 adx-th.ads.heytapmobile.com
-94.140.14.33 adx-tw.ads.heytapmobile.com
-94.140.14.33 adx-vn.ads.heytapmobile.com
 94.140.14.33 adx.adnxs.com
 94.140.14.33 adx.ads.heytapmobi.com
 94.140.14.33 adx.ads.oppomobile.com
@@ -8350,7 +8237,6 @@
 94.140.14.33 adx1.twinpine.adatrix.com
 94.140.14.33 adx2.adform.net
 94.140.14.33 adx2.chip.de
-94.140.14.33 adx3.adform.net
 94.140.14.33 adx3.iq39.com
 94.140.14.33 adxite-ads.com
 94.140.14.33 adxpremium.services
@@ -8394,7 +8280,6 @@
 94.140.14.33 agd.p.360.cn
 94.140.14.33 agd2.p.360.cn
 94.140.14.33 agedecrease.top
-94.140.14.33 agency.ad.kakao.com
 94.140.14.33 agency.quant-online.click
 94.140.14.33 agent.dcgobmyh.top
 94.140.14.33 agent.deutschemkgw.top
@@ -8441,7 +8326,6 @@
 94.140.14.33 akamai.cdneval.adnxs.com
 94.140.14.33 akamai.smartadserver.com
 94.140.14.33 akme-club.pro
-94.140.14.33 akn.analytics.autodesk.com
 94.140.14.33 aktualnosci-polskie-pl.click
 94.140.14.33 akydbank-invest.pro
 94.140.14.33 alea.adam.ad.daum.net
@@ -8571,7 +8455,6 @@
 94.140.14.33 analvids.top
 94.140.14.33 analy.qq.com
 94.140.14.33 analytics-1.cavai.com
-94.140.14.33 analytics-ad-eyu9u2md.kgslb.com
 94.140.14.33 analytics-ads.xyz
 94.140.14.33 analytics-api-samples.googlecode.com
 94.140.14.33 analytics-api.a-f.io
@@ -8585,7 +8468,6 @@
 94.140.14.33 analytics-api.statvoo.com
 94.140.14.33 analytics-au.clickdimensions.com
 94.140.14.33 analytics-bal-nfl.yinzcam.com
-94.140.14.33 analytics-ca.clickdimensions.com
 94.140.14.33 analytics-cdiscount.com
 94.140.14.33 analytics-cdn.redbubble.com
 94.140.14.33 analytics-chi-nfl.yinzcam.com
@@ -8625,7 +8507,6 @@
 94.140.14.33 analytics-production.hapyak.com
 94.140.14.33 analytics-proxy.springboard.com
 94.140.14.33 analytics-r-ln-2.net.daraz.com
-94.140.14.33 analytics-s4.com
 94.140.14.33 analytics-script.ad-shield.io
 94.140.14.33 analytics-scripts.cablelabs.com
 94.140.14.33 analytics-sdk.jamcity.com
@@ -8638,7 +8519,6 @@
 94.140.14.33 analytics-static.ugc.bazaarvoice.com
 94.140.14.33 analytics-static.unister-gmbh.de
 94.140.14.33 analytics-tcp.mintegral.net
-94.140.14.33 analytics-track.machbird.com
 94.140.14.33 analytics-tracker.thescore.com
 94.140.14.33 analytics-udg.netdna-ssl.com
 94.140.14.33 analytics-union.sandai.net
@@ -8665,7 +8545,6 @@
 94.140.14.33 analytics.ad.daum.net
 94.140.14.33 analytics.adam.page
 94.140.14.33 analytics.adfreetime.com
-94.140.14.33 analytics.adkernel.com
 94.140.14.33 analytics.admicro.vn
 94.140.14.33 analytics.admob.com
 94.140.14.33 analytics.admon.com.vn
@@ -8674,7 +8553,6 @@
 94.140.14.33 analytics.adonisjs.com
 94.140.14.33 analytics.adpost.org
 94.140.14.33 analytics.adsertor.co.uk
-94.140.14.33 analytics.adskeeper.co.uk
 94.140.14.33 analytics.adspaces.ero-advertising.com
 94.140.14.33 analytics.adultempire.com
 94.140.14.33 analytics.adultswim.co.uk
@@ -8684,12 +8562,10 @@
 94.140.14.33 analytics.ae.com
 94.140.14.33 analytics.afirstsoft.cn
 94.140.14.33 analytics.agoda.com
-94.140.14.33 analytics.ahrefs.com
 94.140.14.33 analytics.aimtell.com
 94.140.14.33 analytics.aita.gov.vn
 94.140.14.33 analytics.algoepico.net
 94.140.14.33 analytics.allovoisins.com
-94.140.14.33 analytics.alright.network
 94.140.14.33 analytics.amakings.com
 94.140.14.33 analytics.ambient-platform.com
 94.140.14.33 analytics.americanfunds.com
@@ -8716,7 +8592,6 @@
 94.140.14.33 analytics.atomiconline.com
 94.140.14.33 analytics.audioeye.com
 94.140.14.33 analytics.audionow.de
-94.140.14.33 analytics.autodesk.com
 94.140.14.33 analytics.autozone.com
 94.140.14.33 analytics.avanser.com.au
 94.140.14.33 analytics.aweber.com
@@ -8912,7 +8787,6 @@
 94.140.14.33 analytics.gameforge.de
 94.140.14.33 analytics.ganji.com
 94.140.14.33 analytics.gate.co.id
-94.140.14.33 analytics.gavelz.com
 94.140.14.33 analytics.gazeta.pl
 94.140.14.33 analytics.geekyminds.net
 94.140.14.33 analytics.getshogun.com
@@ -8939,7 +8813,6 @@
 94.140.14.33 analytics.hashnode.com
 94.140.14.33 analytics.haworth.com
 94.140.14.33 analytics.hayneedle.com
-94.140.14.33 analytics.headerbiddr.net
 94.140.14.33 analytics.helpukrainewinwidget.org
 94.140.14.33 analytics.hermesworld.com
 94.140.14.33 analytics.hgcdn.net
@@ -8967,7 +8840,6 @@
 94.140.14.33 analytics.inform.com
 94.140.14.33 analytics.informationweek.com
 94.140.14.33 analytics.inlinemanual.com
-94.140.14.33 analytics.iperceptions.com
 94.140.14.33 analytics.iraiser.eu
 94.140.14.33 analytics.ishopchangi.com
 94.140.14.33 analytics.islamicfinder.org
@@ -9021,7 +8893,6 @@
 94.140.14.33 analytics.loop-cloud.de
 94.140.14.33 analytics.lumberliquidators.com
 94.140.14.33 analytics.lunge.de
-94.140.14.33 analytics.m2.ai
 94.140.14.33 analytics.m7g.twitch.tv
 94.140.14.33 analytics.ma.tune.com
 94.140.14.33 analytics.macklin.me
@@ -9056,7 +8927,6 @@
 94.140.14.33 analytics.microsoft.com
 94.140.14.33 analytics.midwesternmac.com
 94.140.14.33 analytics.mindjolt.com
-94.140.14.33 analytics.mintegral.net
 94.140.14.33 analytics.mlstatic.com
 94.140.14.33 analytics.mobadme.jp
 94.140.14.33 analytics.mobile-cdn.walmart.com.akadns.net
@@ -9104,13 +8974,11 @@
 94.140.14.33 analytics.nextopia.net
 94.140.14.33 analytics.nhattao.com
 94.140.14.33 analytics.nike.com
-94.140.14.33 analytics.ninjakiwi.com
 94.140.14.33 analytics.nordea.com
 94.140.14.33 analytics.nordea.dk
 94.140.14.33 analytics.nordea.fi
 94.140.14.33 analytics.nordea.no
 94.140.14.33 analytics.nordea.se
-94.140.14.33 analytics.nova.fox.com
 94.140.14.33 analytics.nova.foxsports.com
 94.140.14.33 analytics.novanet.vn
 94.140.14.33 analytics.nrg.com
@@ -9155,7 +9023,6 @@
 94.140.14.33 analytics.pogo.tv
 94.140.14.33 analytics.pointdrive.linkedin.com
 94.140.14.33 analytics.pokki.com
-94.140.14.33 analytics.polarbyte.com
 94.140.14.33 analytics.poolshool.com
 94.140.14.33 analytics.pop2watch.com
 94.140.14.33 analytics.popsci.com
@@ -9168,7 +9035,6 @@
 94.140.14.33 analytics.prod.ori.hayneedle.com
 94.140.14.33 analytics.productreview.com.au
 94.140.14.33 analytics.projectcarmen.com
-94.140.14.33 analytics.proper.io
 94.140.14.33 analytics.proxer.me
 94.140.14.33 analytics.prx.org
 94.140.14.33 analytics.publitas.com
@@ -9205,7 +9071,6 @@
 94.140.14.33 analytics.rogersmedia.com
 94.140.14.33 analytics.rotapost.ru
 94.140.14.33 analytics.rover.io
-94.140.14.33 analytics.s.id
 94.140.14.33 analytics.s3.amazonaws.com
 94.140.14.33 analytics.saas-vn.network
 94.140.14.33 analytics.safelinking.net
@@ -9219,15 +9084,12 @@
 94.140.14.33 analytics.schoolwires.com
 94.140.14.33 analytics.seattleclouds.com
 94.140.14.33 analytics.seekxr.com
-94.140.14.33 analytics.seg.ritual.com
-94.140.14.33 analytics.sejda.com
 94.140.14.33 analytics.send.cm
 94.140.14.33 analytics.services.distractify.com
 94.140.14.33 analytics.services.kirra.nl
 94.140.14.33 analytics.servogram.io
 94.140.14.33 analytics.sgnapps.com
 94.140.14.33 analytics.shareaholic.com
-94.140.14.33 analytics.shift.agency
 94.140.14.33 analytics.shop.hisense.com
 94.140.14.33 analytics.shorte.st
 94.140.14.33 analytics.siliconexpert.com
@@ -9266,13 +9128,11 @@
 94.140.14.33 analytics.spoken-tutorial.org
 94.140.14.33 analytics.spongecell.com
 94.140.14.33 analytics.sports.ru
-94.140.14.33 analytics.spotify.com
 94.140.14.33 analytics.spotta.nl
 94.140.14.33 analytics.springboardvideo.com
 94.140.14.33 analytics.sprint.com
 94.140.14.33 analytics.ss88.us
 94.140.14.33 analytics.stanby.com
-94.140.14.33 analytics.starmakerstudios.com
 94.140.14.33 analytics.staticiv.com
 94.140.14.33 analytics.stg.online.xl.pt
 94.140.14.33 analytics.stg.springboardvideo.com
@@ -9351,14 +9211,12 @@
 94.140.14.33 analytics.tout.com
 94.140.14.33 analytics.tradedoubler.com
 94.140.14.33 analytics.traderlink.com
-94.140.14.33 analytics.trafficfactory.biz
 94.140.14.33 analytics.traidnt.net
 94.140.14.33 analytics.transmoni.vn
 94.140.14.33 analytics.traviangames.com
 94.140.14.33 analytics.tresensa.com
 94.140.14.33 analytics.tribeca.vidavee.com
 94.140.14.33 analytics.tripoto.com
-94.140.14.33 analytics.truffle.bid
 94.140.14.33 analytics.trust.page
 94.140.14.33 analytics.trutv.com
 94.140.14.33 analytics.tube8.phncdn.com
@@ -9454,13 +9312,11 @@
 94.140.14.33 analytics.youporn.phncdn.com
 94.140.14.33 analytics.youramigo.com
 94.140.14.33 analytics.yourbankcard.com
-94.140.14.33 analytics.youronlinechoices.com
 94.140.14.33 analytics.yts.vn
 94.140.14.33 analytics.zango.com
 94.140.14.33 analytics.zapps.vn
 94.140.14.33 analytics.zdbb.net
 94.140.14.33 analytics.zeekit.co
-94.140.14.33 analytics.zen.ly
 94.140.14.33 analytics.zendesk.com
 94.140.14.33 analytics.zg-api.com
 94.140.14.33 analytics.zhihu.com
@@ -9509,7 +9365,6 @@
 94.140.14.33 antyweb.push-ad.com
 94.140.14.33 anybunny.mobi
 94.140.14.33 anycast.adnxs.com
-94.140.14.33 anycast.api.adsafeprotected.com
 94.140.14.33 anysex.pro
 94.140.14.33 anyxxx.mobi
 94.140.14.33 anyxxx.pro
@@ -9527,13 +9382,9 @@
 94.140.14.33 ap1.alphagirlz.mobi
 94.140.14.33 ap2.alphagirlz.mobi
 94.140.14.33 apac-ads.flurry.com
-94.140.14.33 apac-hk-ad-track.aralego.com
-94.140.14.33 apac-hk-ads.aralego.net
 94.140.14.33 apac-sg-ad-track.aralego.com
 94.140.14.33 apac-tw-ad-track.aralego.com
-94.140.14.33 apac-tw-ads.aralego.net
 94.140.14.33 apac.analytics.yahoo.com
-94.140.14.33 apac.doubleclick.net
 94.140.14.33 apac.rel.msn.com
 94.140.14.33 aparat.ads.saba-e.com
 94.140.14.33 apex-ad.com
@@ -9549,9 +9400,7 @@
 94.140.14.33 api-2-0.spot.im
 94.140.14.33 api-a.op-mobile.opera.com
 94.140.14.33 api-ad-callback.mobiuspace.net
-94.140.14.33 api-ad-data.kajicam.com
 94.140.14.33 api-ad.kajicam.com
-94.140.14.33 api-adro.xtremepush.com
 94.140.14.33 api-ads.tiantianqutao.com
 94.140.14.33 api-adservices.apple.com
 94.140.14.33 api-analytics-bootstrap.metaps.com
@@ -9564,7 +9413,6 @@
 94.140.14.33 api-analytics.rozetka.com.ua
 94.140.14.33 api-analytics.sazka.cz
 94.140.14.33 api-analytics.t-mobile.cz
-94.140.14.33 api-apac.bidmachine.io
 94.140.14.33 api-app.ants.vn
 94.140.14.33 api-app.coocaa.ottcn.com
 94.140.14.33 api-bts.logsss.com
@@ -9579,8 +9427,6 @@
 94.140.14.33 api-dot-mwm-ad-mediation.appspot.com
 94.140.14.33 api-edge.myfreecams.com
 94.140.14.33 api-es.doglobal.net
-94.140.14.33 api-eu.adsymptotic.com
-94.140.14.33 api-eu.bidmachine.io
 94.140.14.33 api-exp.dfs.uk
 94.140.14.33 api-exponea.o2.cz
 94.140.14.33 api-exponea.o2.sk
@@ -9598,8 +9444,6 @@
 94.140.14.33 api-iam.intercom.io
 94.140.14.33 api-internal-dev.oncustomer.asia
 94.140.14.33 api-internal.oncustomer.asia
-94.140.14.33 api-iot.focas.jp
-94.140.14.33 api-iqzone.advangelists.com
 94.140.14.33 api-js.mixpanel.com
 94.140.14.33 api-keks.com
 94.140.14.33 api-lb-722311334.us-east-1.elb.amazonaws.com
@@ -9630,7 +9474,6 @@
 94.140.14.33 api-rewarded-video.fyber.com
 94.140.14.33 api-rssocks.youzicheng.net
 94.140.14.33 api-s2s.taboola.com
-94.140.14.33 api-sc2.adsymptotic.com
 94.140.14.33 api-scsdk.appcloudbox.net
 94.140.14.33 api-sdk.datadome.co
 94.140.14.33 api-secure.mixpanel.com
@@ -9639,22 +9482,14 @@
 94.140.14.33 api-stage.pornhub.com
 94.140.14.33 api-stage2.pornhub.com
 94.140.14.33 api-stage3.pornhub.com
-94.140.14.33 api-staging.stack-sonar.com
-94.140.14.33 api-staging.wootric.com
 94.140.14.33 api-stg.ensonhaber.com
 94.140.14.33 api-tansoapps.com
 94.140.14.33 api-telemetry.servers.getgo.com
 94.140.14.33 api-test.scaleout.jp
 94.140.14.33 api-test.twitter.com
-94.140.14.33 api-touchstorm.bttrack.com
-94.140.14.33 api-uc.growingio.com
 94.140.14.33 api-upgrade.coocaa.ottcn.com
-94.140.14.33 api-us-east.zqtk.net
 94.140.14.33 api-us.appodealx.com
-94.140.14.33 api-us.bidmachine.io
 94.140.14.33 api-usent.kampyle.com
-94.140.14.33 api-v2.mobfox.com
-94.140.14.33 api-v3.mobfox.com
 94.140.14.33 api-v3.tinypass.com
 94.140.14.33 api-verify.flurry.com
 94.140.14.33 api-vip.immomo.com
@@ -9679,7 +9514,6 @@
 94.140.14.33 api.51.fi
 94.140.14.33 api.51sxzz.com
 94.140.14.33 api.52kkg.com
-94.140.14.33 api.52youtu.com
 94.140.14.33 api.53.localytics.com
 94.140.14.33 api.557400.com
 94.140.14.33 api.558kbet.com
@@ -9696,7 +9530,6 @@
 94.140.14.33 api.accengage.com
 94.140.14.33 api.accengage.net
 94.140.14.33 api.access-mc.com
-94.140.14.33 api.accesstrade.net
 94.140.14.33 api.actonservice.com
 94.140.14.33 api.actonsoftware.com
 94.140.14.33 api.ad-brix.com
@@ -9710,7 +9543,6 @@
 94.140.14.33 api.ad.mobiuspace.net
 94.140.14.33 api.ad.smaato.net
 94.140.14.33 api.ad.snappea.com
-94.140.14.33 api.ad.style
 94.140.14.33 api.ad.wazzapps.org
 94.140.14.33 api.ad.xiaomi.com
 94.140.14.33 api.ad.xv555.com
@@ -9740,8 +9572,6 @@
 94.140.14.33 api.adnet.mob.com
 94.140.14.33 api.adnsafe.org
 94.140.14.33 api.adnxs.com
-94.140.14.33 api.adomik.com
-94.140.14.33 api.adpopcorn.com
 94.140.14.33 api.adquality.ch
 94.140.14.33 api.adrenalads.com
 94.140.14.33 api.adriver.ru
@@ -9753,14 +9583,11 @@
 94.140.14.33 api.ads.watchabc.go.com
 94.140.14.33 api.ads.yahoo.com
 94.140.14.33 api.adsafeprotected.com
-94.140.14.33 api.adserver-e7.com
-94.140.14.33 api.adshop.infolinks.com
 94.140.14.33 api.adskeeper.co.uk
 94.140.14.33 api.adsmogo.net
 94.140.14.33 api.adsnative.com
 94.140.14.33 api.adsniper.ru
 94.140.14.33 api.adsplay.xyz
-94.140.14.33 api.adspyglass.com
 94.140.14.33 api.adsrvmedia.adk2x.com
 94.140.14.33 api.adstract.adk2x.com
 94.140.14.33 api.adsymptotic.com
@@ -9775,7 +9602,6 @@
 94.140.14.33 api.adviad.com
 94.140.14.33 api.advista.no
 94.140.14.33 api.adx.adnxs.com
-94.140.14.33 api.adxadserv.com
 94.140.14.33 api.adxcorp.kr
 94.140.14.33 api.adxpand.com
 94.140.14.33 api.adyoulike.com
@@ -9787,7 +9613,6 @@
 94.140.14.33 api.agrantsem.com
 94.140.14.33 api.ahjinshu.com
 94.140.14.33 api.aiclk.com
-94.140.14.33 api.aimtell.com
 94.140.14.33 api.airbrake.io
 94.140.14.33 api.aixifan.com
 94.140.14.33 api.ak.facebook.com
@@ -9805,7 +9630,6 @@
 94.140.14.33 api.android-root-tool.com
 94.140.14.33 api.android.dianru.com
 94.140.14.33 api.anti.wauee.com
-94.140.14.33 api.anythinktech.com
 94.140.14.33 api.anzhuoshangdian.com
 94.140.14.33 api.api68.com
 94.140.14.33 api.app.masoffer.net
@@ -9813,7 +9637,6 @@
 94.140.14.33 api.app.skysrt.com
 94.140.14.33 api.appcelerator.com
 94.140.14.33 api.appcelerator.net
-94.140.14.33 api.appcloudbox.net
 94.140.14.33 api.appexchange.salesforce.com
 94.140.14.33 api.appfacebook.pl
 94.140.14.33 api.appfireworks.com
@@ -9838,7 +9661,6 @@
 94.140.14.33 api.apptentive.com
 94.140.14.33 api.appwifi.com
 94.140.14.33 api.apsalar.com
-94.140.14.33 api.aqua-adserver.com
 94.140.14.33 api.areametrics.com
 94.140.14.33 api.arity.com
 94.140.14.33 api.asiatone.net
@@ -9861,7 +9683,6 @@
 94.140.14.33 api.baifendian.com
 94.140.14.33 api.bailingjiankang.com
 94.140.14.33 api.batch.com
-94.140.14.33 api.batterylab.duapps.com
 94.140.14.33 api.bayimob.com
 94.140.14.33 api.bd.gl.com
 94.140.14.33 api.bdisl.com
@@ -9874,7 +9695,6 @@
 94.140.14.33 api.betlv.com
 94.140.14.33 api.bhzejltg.info
 94.140.14.33 api.bigmobileads.com
-94.140.14.33 api.bingads.microsoft.com
 94.140.14.33 api.birdmedia.com
 94.140.14.33 api.bitmango.com
 94.140.14.33 api.bitp.it
@@ -9945,7 +9765,6 @@
 94.140.14.33 api.crashlytics.com
 94.140.14.33 api.crispadvertising.com
 94.140.14.33 api.crispwireless.com
-94.140.14.33 api.criteo.com
 94.140.14.33 api.crittercism.com
 94.140.14.33 api.crowdin.com
 94.140.14.33 api.crowdtangle.com
@@ -9974,7 +9793,6 @@
 94.140.14.33 api.df.mob.com
 94.140.14.33 api.dianru.com
 94.140.14.33 api.digicert.com
-94.140.14.33 api.districtm.ca
 94.140.14.33 api.dmzj.com
 94.140.14.33 api.domob.cn
 94.140.14.33 api.donglogs.com
@@ -9995,12 +9813,10 @@
 94.140.14.33 api.ea.eulerian.net
 94.140.14.33 api.elasticemail.com
 94.140.14.33 api.elliehuxtable.com
-94.140.14.33 api.ematicsolutions.com
 94.140.14.33 api.engager.ecbsn.com
 94.140.14.33 api.ent.mobileanjian.com
 94.140.14.33 api.eqmob.com
 94.140.14.33 api.ero-advertising.com
-94.140.14.33 api.eskimi.com
 94.140.14.33 api.essentialchannel.com
 94.140.14.33 api.eu.amplitude.com
 94.140.14.33 api.eu.crittercism.com
@@ -10017,7 +9833,6 @@
 94.140.14.33 api.fc.mob.com
 94.140.14.33 api.fd.mob.com
 94.140.14.33 api.feedad.com
-94.140.14.33 api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
 94.140.14.33 api.fictfa.tc
 94.140.14.33 api.flat-ads.com
 94.140.14.33 api.flicktweets.com
@@ -10026,7 +9841,6 @@
 94.140.14.33 api.flyertown.ca
 94.140.14.33 api.flygame.io
 94.140.14.33 api.forms.ladipage.com
-94.140.14.33 api.forshrd.com
 94.140.14.33 api.fortumo.com
 94.140.14.33 api.fouanalytics.com
 94.140.14.33 api.fuseplatform.net
@@ -10042,10 +9856,7 @@
 94.140.14.33 api.gameanalytics.com
 94.140.14.33 api.gameofwhales.com
 94.140.14.33 api.gamex.mobile.youku.com
-94.140.14.33 api.gemini.yahoo.com
-94.140.14.33 api.geniee.jp
 94.140.14.33 api.geosrv.info
-94.140.14.33 api.getclicky.com
 94.140.14.33 api.getdrip.com
 94.140.14.33 api.getvero.com
 94.140.14.33 api.gi.igexin.com
@@ -10092,17 +9903,14 @@
 94.140.14.33 api.immomo.com
 94.140.14.33 api.imocha.com
 94.140.14.33 api.imqtyik.com
-94.140.14.33 api.indexexchange.com
 94.140.14.33 api.indicative.com
 94.140.14.33 api.infinario.com
 94.140.14.33 api.infiniadmp.com
-94.140.14.33 api.inmobi.cn
 94.140.14.33 api.inmobi.com
 94.140.14.33 api.inmoji.com
 94.140.14.33 api.innomdc.com
 94.140.14.33 api.inrix.com
 94.140.14.33 api.insmobi.com
-94.140.14.33 api.inspectlet.com
 94.140.14.33 api.instabug.com
 94.140.14.33 api.instagram.com
 94.140.14.33 api.instalatorhbogo.siroccomobile.com
@@ -10133,7 +9941,6 @@
 94.140.14.33 api.jetlore.com
 94.140.14.33 api.jialiangad.com
 94.140.14.33 api.jollywallet.com
-94.140.14.33 api.jpush.cn
 94.140.14.33 api.jsecoin.com
 94.140.14.33 api.jsfc8.cn
 94.140.14.33 api.juicyads.com
@@ -10174,10 +9981,8 @@
 94.140.14.33 api.locuslabs.com
 94.140.14.33 api.logentries.com
 94.140.14.33 api.logpartition.com
-94.140.14.33 api.logrocket.com
 94.140.14.33 api.lookupmanager.com
 94.140.14.33 api.lotame.com
-94.140.14.33 api.luckyorange.com
 94.140.14.33 api.luscious.net
 94.140.14.33 api.lytics.io
 94.140.14.33 api.m.17bi.net
@@ -10186,14 +9991,11 @@
 94.140.14.33 api.madkudu.com
 94.140.14.33 api.magmamobile.com
 94.140.14.33 api.mapps.uve.weibo.com
-94.140.14.33 api.market.pubnative.net
 94.140.14.33 api.maropost.com
 94.140.14.33 api.masterprotocols.com
 94.140.14.33 api.mb-click.jp
 94.140.14.33 api.mc876.com
 94.140.14.33 api.mcwbiz.com
-94.140.14.33 api.mediaforge.com
-94.140.14.33 api.mediarithmics.com
 94.140.14.33 api.mediatailor.eu-west-1.amazonaws.com
 94.140.14.33 api.mediation.amberweather.com
 94.140.14.33 api.megacool.co
@@ -10220,7 +10022,6 @@
 94.140.14.33 api.mobpowertech.com
 94.140.14.33 api.mobshark.net
 94.140.14.33 api.mobula.ds.duapps.com
-94.140.14.33 api.mobula.sd.duapps.com
 94.140.14.33 api.mobula.sdk.duapps.com
 94.140.14.33 api.moengage.com
 94.140.14.33 api.monedata.io
@@ -10229,7 +10030,6 @@
 94.140.14.33 api.mopay.com
 94.140.14.33 api.movcloud.net
 94.140.14.33 api.mp.uc.cn
-94.140.14.33 api.mppmnetwork.com
 94.140.14.33 api.mu9.com
 94.140.14.33 api.mu9.win
 94.140.14.33 api.muneris.io
@@ -10245,7 +10045,6 @@
 94.140.14.33 api.naturaltracking.com
 94.140.14.33 api.nend.net
 94.140.14.33 api.net.daraz.com
-94.140.14.33 api.netcoresmartech.com
 94.140.14.33 api.netflare.info
 94.140.14.33 api.newad.ifeng.com
 94.140.14.33 api.newbelden.com
@@ -10261,21 +10060,16 @@
 94.140.14.33 api.np.mobilem.360.cn
 94.140.14.33 api.nrelate.com
 94.140.14.33 api.o2o.lianwifi.com
-94.140.14.33 api.omappapi.com
 94.140.14.33 api.omniata.com
 94.140.14.33 api.omnilocal.ai
-94.140.14.33 api.omnitagjs.com
 94.140.14.33 api.omniture.com
-94.140.14.33 api.onaudience.com
 94.140.14.33 api.oneaudience.com
 94.140.14.33 api.oneyuan.nagezan.net
 94.140.14.33 api.open.oppomobile.com
 94.140.14.33 api.opencandy.com
 94.140.14.33 api.openinstall.io
-94.140.14.33 api.opmnstr.com
 94.140.14.33 api.oppa888.com
 94.140.14.33 api.oppa88888888.com
-94.140.14.33 api.optad360.com
 94.140.14.33 api.optimizely.com
 94.140.14.33 api.optinmonster.com
 94.140.14.33 api.optmnstr.com
@@ -10290,7 +10084,6 @@
 94.140.14.33 api.parrable.com
 94.140.14.33 api.parse.com
 94.140.14.33 api.parsely.com
-94.140.14.33 api.pbbl.co
 94.140.14.33 api.pbxai.com
 94.140.14.33 api.pdbarea.com
 94.140.14.33 api.permutive.com
@@ -10306,7 +10099,6 @@
 94.140.14.33 api.placer.io
 94.140.14.33 api.platform.letv.com
 94.140.14.33 api.player.xcal.tv
-94.140.14.33 api.polarbyte.com
 94.140.14.33 api.poll.aiseet.atianqi.com
 94.140.14.33 api.popads.net
 94.140.14.33 api.popcash.net
@@ -10315,18 +10107,13 @@
 94.140.14.33 api.posst.co
 94.140.14.33 api.postscript.io
 94.140.14.33 api.ppoi.org
-94.140.14.33 api.premiumads.com.br
 94.140.14.33 api.primecaster.net
 94.140.14.33 api.proba.ai
 94.140.14.33 api.prooffactor.com
 94.140.14.33 api.proofpositivemedia.com
-94.140.14.33 api.proper.io
-94.140.14.33 api.pub.network
 94.140.14.33 api.pubfinity.com
-94.140.14.33 api.publift.com
 94.140.14.33 api.publishers.adlive.io
 94.140.14.33 api.pubmatic.com
-94.140.14.33 api.pubmine.com
 94.140.14.33 api.pubnative.net
 94.140.14.33 api.pubwise.io
 94.140.14.33 api.punchh.com
@@ -10340,7 +10127,6 @@
 94.140.14.33 api.pushnami.com
 94.140.14.33 api.pushspring.com
 94.140.14.33 api.pushwoosh.com
-94.140.14.33 api.pvmax.net
 94.140.14.33 api.pxlad.io
 94.140.14.33 api.pymx5.com
 94.140.14.33 api.pzoifaum.info
@@ -10357,7 +10143,6 @@
 94.140.14.33 api.rees46.com
 94.140.14.33 api.reftagger.com
 94.140.14.33 api.relaido.jp
-94.140.14.33 api.relap.io
 94.140.14.33 api.relevantonline.eu
 94.140.14.33 api.reon.club
 94.140.14.33 api.repro.io
@@ -10374,21 +10159,18 @@
 94.140.14.33 api.rtnews.pro
 94.140.14.33 api.rubic.com.tr
 94.140.14.33 api.rudderlabs.com
-94.140.14.33 api.runative.com
 94.140.14.33 api.rvuzov.ru
 94.140.14.33 api.ryanyao.design
 94.140.14.33 api.safedk.com
 94.140.14.33 api.safegraph.com
 94.140.14.33 api.sagent.io
 94.140.14.33 api.sail-personalize.com
-94.140.14.33 api.sail-track.com
 94.140.14.33 api.sailthru.com
 94.140.14.33 api.salmonads.com
 94.140.14.33 api.sandbox53.localytics.com
 94.140.14.33 api.saypromo.net
 94.140.14.33 api.sbtools.me
 94.140.14.33 api.sbz.vn
-94.140.14.33 api.screenshot.triplelift.com
 94.140.14.33 api.scrolller.com
 94.140.14.33 api.sdffwef11.com
 94.140.14.33 api.sdk.fmobi.cn
@@ -10428,19 +10210,15 @@
 94.140.14.33 api.speedshiftmedia.com
 94.140.14.33 api.splkmobile.com
 94.140.14.33 api.sponsorpay.com
-94.140.14.33 api.spotxchange.com
 94.140.14.33 api.ssp.adoceans.com
 94.140.14.33 api.ssp.aomeng.net
 94.140.14.33 api.ssp.zxrtb.com
-94.140.14.33 api.stack-sonar.com
-94.140.14.33 api.staging.wootric.com
 94.140.14.33 api.standarteng.com
 94.140.14.33 api.starstarmobile.com
 94.140.14.33 api.startappservice.com
 94.140.14.33 api.statdns.com
 94.140.14.33 api.stathat.com
 94.140.14.33 api.stats.appa.pe
-94.140.14.33 api.stickers.duapps.com
 94.140.14.33 api.store.sohu.com
 94.140.14.33 api.subiz.com.vn
 94.140.14.33 api.subiz.net
@@ -10478,16 +10256,11 @@
 94.140.14.33 api.tongji.today
 94.140.14.33 api.touchxd.com
 94.140.14.33 api.tr.blismedia.com
-94.140.14.33 api.trackpush.com
 94.140.14.33 api.trackuity.com
-94.140.14.33 api.tradplusad.com
-94.140.14.33 api.trafficstars.com
 94.140.14.33 api.trak.io
 94.140.14.33 api.treasuredata.com
-94.140.14.33 api.triplelift.com
 94.140.14.33 api.triver.jp
 94.140.14.33 api.trueaudience.io
-94.140.14.33 api.truepush.com
 94.140.14.33 api.trustedmode.com
 94.140.14.33 api.trwl1.com
 94.140.14.33 api.ts.feedback.71.am
@@ -10501,16 +10274,13 @@
 94.140.14.33 api.tvpage.com
 94.140.14.33 api.tw06.xlmc.sec.miui.com
 94.140.14.33 api.tweetmeme.com
-94.140.14.33 api.tynt.com
 94.140.14.33 api.uca.cloud.unity3d.com
 94.140.14.33 api.ucheba.ru
 94.140.14.33 api.ujian.cc
 94.140.14.33 api.umbel.com
 94.140.14.33 api.umeng.com
-94.140.14.33 api.unblockia.com
 94.140.14.33 api.unbounce.com
 94.140.14.33 api.unibots.in
-94.140.14.33 api.uniconsent.com
 94.140.14.33 api.union.vip.com
 94.140.14.33 api.uniplayad.com
 94.140.14.33 api.unthem.com
@@ -10540,7 +10310,6 @@
 94.140.14.33 api.veritix.com
 94.140.14.33 api.verticalscope.com
 94.140.14.33 api.vh79.com
-94.140.14.33 api.video.duapps.com
 94.140.14.33 api.videoadda.uodoo.com
 94.140.14.33 api.videometrics.ted.com
 94.140.14.33 api.vidora.com
@@ -10559,14 +10328,12 @@
 94.140.14.33 api.vungle.com
 94.140.14.33 api.vungle.com.edgekey.net
 94.140.14.33 api.vx88.com
-94.140.14.33 api.w.inmobi.cn
 94.140.14.33 api.w.inmobi.com
 94.140.14.33 api.w3i.com
 94.140.14.33 api.webengage.com
 94.140.14.33 api.webpush.jp
 94.140.14.33 api.weltevree.eu
 94.140.14.33 api.west.bidtellect.com
-94.140.14.33 api.wg-aff.com
 94.140.14.33 api.whatsapp.com
 94.140.14.33 api.widget.zalo.me
 94.140.14.33 api.widgetbucks.com
@@ -10584,12 +10351,10 @@
 94.140.14.33 api.xiaoliangchx.com
 94.140.14.33 api.xk.miui.com
 94.140.14.33 api.xmlrtb-stats.rtb.me
-94.140.14.33 api.xtremepush.com
 94.140.14.33 api.y.igexin.com
 94.140.14.33 api.yeahmobi.com
 94.140.14.33 api.yidaomobi.com
 94.140.14.33 api.yieldkit.com
-94.140.14.33 api.yieldlab.net
 94.140.14.33 api.yieldlove-ad-serving.net
 94.140.14.33 api.yieldmagic.com
 94.140.14.33 api.yieldmanager.com
@@ -10610,8 +10375,6 @@
 94.140.14.33 api1.tuisong.baidu.com
 94.140.14.33 api16-access-gcp.pangle.io
 94.140.14.33 api16-access-sg.pangle.io
-94.140.14.33 api16-access-va.pangle.io
-94.140.14.33 api16-endcard-pack-sg.pangle.io
 94.140.14.33 api2.adsmogo.mobi
 94.140.14.33 api2.tuisong.baidu.com
 94.140.14.33 api2.twitter.com
@@ -10658,7 +10421,6 @@
 94.140.14.33 appad-api-02.perfectcorp.com
 94.140.14.33 appad.click
 94.140.14.33 appads.com
-94.140.14.33 appads.in
 94.140.14.33 appfly.mobi
 94.140.14.33 appicsh.qq.com
 94.140.14.33 appie.click
@@ -10769,7 +10531,6 @@
 94.140.14.33 asg.allweb.click
 94.140.14.33 asg.bhabhiporn.pro
 94.140.14.33 asgon-invest.pro
-94.140.14.33 asia-southeast1.ads.playground.xyz
 94.140.14.33 asian-porn.pro
 94.140.14.33 asian-pussy.mobi
 94.140.14.33 asiancream.pro
@@ -10792,9 +10553,6 @@
 94.140.14.33 ass-traffic-porn.blogspot.com
 94.140.14.33 assemblyturtle.top
 94.140.14.33 assets.cntdy.mobi
-94.140.14.33 assoc-msdk-cn.amazon-adsystem.com
-94.140.14.33 assoc-msdk-eu.amazon-adsystem.com
-94.140.14.33 assoc-msdk-us.amazon-adsystem.com
 94.140.14.33 astat.bugly.qq.com
 94.140.14.33 astcreative.top
 94.140.14.33 astrategy.beacon.qq.com
@@ -10808,7 +10566,6 @@
 94.140.14.33 ata.ero-advertising.com
 94.140.14.33 atanx.alicdn.com
 94.140.14.33 atanx2.alicdn.com
-94.140.14.33 ateam-ad.jp
 94.140.14.33 athena-ads.wikia.com
 94.140.14.33 athena.api.kwalee.com
 94.140.14.33 athena.simba.taobao.com
@@ -10830,11 +10587,8 @@
 94.140.14.33 au.umeng.com
 94.140.14.33 auction-banner.unityads.unity3d.com
 94.140.14.33 audible-seo-analytics-satellitescripts.tt.omtrdc.net
-94.140.14.33 audid-api-sg.taobao.com
 94.140.14.33 audid-api.taobao.com
-94.140.14.33 audience.xml.adx1.com
 94.140.14.33 audriasite.pro
-94.140.14.33 australia-southeast1.ads.playground.xyz
 94.140.14.33 auth-google.site
 94.140.14.33 auth-partner.net.daraz.com
 94.140.14.33 auth.be.sec.miui.com
@@ -10898,30 +10652,25 @@
 94.140.14.33 awaps.yandex.ru
 94.140.14.33 awfull.pro
 94.140.14.33 aws-api.sail-personalize.com
-94.140.14.33 aws-api.sail-track.com
 94.140.14.33 aws-production-banner-server-eu-west-1.banner-server.fyber.com
 94.140.14.33 aws-update.net
 94.140.14.33 aws.banner-server.fyber.com
 94.140.14.33 awstats.adsame.com
 94.140.14.33 awsync.yandex.ru
 94.140.14.33 axcus.top
-94.140.14.33 axdsz.pro
 94.140.14.33 axienft.top
 94.140.14.33 axvnsla.top
 94.140.14.33 axzsd.pro
 94.140.14.33 azarlive-branch.vsohu.admaster.com.cn
 94.140.14.33 azxsd.pro
 94.140.14.33 b-api.facebook.com
-94.140.14.33 b-api.omnitagjs.com
 94.140.14.33 b-click.net
-94.140.14.33 b.adnxs-simple.com
 94.140.14.33 b.adnxs.com
 94.140.14.33 b.ads1.msn.com
 94.140.14.33 b.ads2.msads.net
 94.140.14.33 b.ads2.msn.com
 94.140.14.33 b.appjiagu.com
 94.140.14.33 b.baidu.com
-94.140.14.33 b.bestcontentfood.top
 94.140.14.33 b.bestcontentprogram.top
 94.140.14.33 b.bestcontentproject.top
 94.140.14.33 b.clkservice.youdao.com
@@ -11088,6 +10837,7 @@
 94.140.14.33 banner-farm.com
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
+94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-mania.com
 94.140.14.33 banner-media.ru
@@ -11106,7 +10856,6 @@
 94.140.14.33 banner.50starscasino.com
 94.140.14.33 banner.5giay.vn
 94.140.14.33 banner.69stream.com
-94.140.14.33 banner.abbyy.com
 94.140.14.33 banner.ad.nu
 94.140.14.33 banner.addlvr.com
 94.140.14.33 banner.adlink.de
@@ -11141,7 +10890,6 @@
 94.140.14.33 banner.brand.zing.vn
 94.140.14.33 banner.bruteforcemarket.com
 94.140.14.33 banner.buempliz-online.ch
-94.140.14.33 banner.bw88.io
 94.140.14.33 banner.cashinpills.com
 94.140.14.33 banner.casino.net
 94.140.14.33 banner.casino.paddypower.com
@@ -11290,7 +11038,6 @@
 94.140.14.33 banner.relcom.ru
 94.140.14.33 banner.ringofon.com
 94.140.14.33 banner.royaldice.com
-94.140.14.33 banner.samsungmembers.com
 94.140.14.33 banner.sayt.ws
 94.140.14.33 banner.scasino.com
 94.140.14.33 banner.sealmedia.de
@@ -11375,8 +11122,6 @@
 94.140.14.33 bc.adpush.cn
 94.140.14.33 bcbsla.tt.hb-api.omtrdc.net
 94.140.14.33 bcdn-god.we-stats.com
-94.140.14.33 bcdn.automatad.com
-94.140.14.33 bcdn.cpmstar.com
 94.140.14.33 bcdn.grmtas.com
 94.140.14.33 bce.baidu.com
 94.140.14.33 bcli.flash-xxx.com
@@ -11385,12 +11130,7 @@
 94.140.14.33 bd-js1.2345.com
 94.140.14.33 bd.cnzz.com
 94.140.14.33 bd1.click.com.cn
-94.140.14.33 bdapi-id.ads.heytapmobi.com
-94.140.14.33 bdapi-id.ads.heytapmobile.com
 94.140.14.33 bdapi-in-ads.realmemobile.com
-94.140.14.33 bdapi-in.ads.heytapmobi.com
-94.140.14.33 bdapi-in.ads.heytapmobile.com
-94.140.14.33 bdapi.ads.heytapmobi.com
 94.140.14.33 bdapi.ads.oppomobile.com
 94.140.14.33 bdcode.2345.com
 94.140.14.33 bdf-tracker.top
@@ -11458,7 +11198,6 @@
 94.140.14.33 bestvintage.pro
 94.140.14.33 bestwayoflife.top
 94.140.14.33 beta-api.cams.com
-94.140.14.33 beta-api.omappapi.com
 94.140.14.33 beta.ace.advertising.com
 94.140.14.33 beta.ads.cc
 94.140.14.33 beta.api.vpon.com
@@ -11490,7 +11229,6 @@
 94.140.14.33 bihu.adsame.com
 94.140.14.33 bin5y4muil.execute-api.us-east-1.amazonaws.com
 94.140.14.33 binarium.click
-94.140.14.33 bind-gateway.corp.appnexus.com
 94.140.14.33 bingtuo.mobi
 94.140.14.33 birdshome.top
 94.140.14.33 bit-ad.com
@@ -11506,7 +11244,6 @@
 94.140.14.33 bitindexai.top
 94.140.14.33 biz.live.xunlei.com
 94.140.14.33 biz.weibo.com
-94.140.14.33 bj-api.ad.jiguang.cn
 94.140.14.33 bj.bcebos.com
 94.140.14.33 bj.imp.voiceads.cn
 94.140.14.33 bj.voiceads.cn
@@ -11643,7 +11380,6 @@
 94.140.14.33 browserr.top
 94.140.14.33 brstke.top
 94.140.14.33 bs-meta.yandex.ru
-94.140.14.33 bs.ad-stir.com
 94.140.14.33 bs.l.qq.com
 94.140.14.33 bs.yandex.ru
 94.140.14.33 bsgmuyd.top
@@ -11654,7 +11390,6 @@
 94.140.14.33 btlaunch.baidu.com
 94.140.14.33 btrace.play.aiseet.atianqi.com
 94.140.14.33 btrace.qq.com
-94.140.14.33 btrace.video.qq.com
 94.140.14.33 btt-club.pro
 94.140.14.33 btw.ero-advertising.com
 94.140.14.33 bubble.vip.xunlei.com
@@ -11668,7 +11403,6 @@
 94.140.14.33 buomdep.pro
 94.140.14.33 buoyant-force.pro
 94.140.14.33 burporess.pro
-94.140.14.33 business-api.tiktok.com
 94.140.14.33 business.twitter.com
 94.140.14.33 bustamiable.top
 94.140.14.33 bustcream-pro.com
@@ -11689,15 +11423,11 @@
 94.140.14.33 by.advertising.com
 94.140.14.33 byfft.top
 94.140.14.33 byot.adultrevenueservice.com
-94.140.14.33 bypass-adn.ad-stir.com
-94.140.14.33 bypass-bid.ad-stir.com
-94.140.14.33 bypass-image.ad-stir.com
 94.140.14.33 bypass.ad-stir.com
 94.140.14.33 bzclk.baidu.com
 94.140.14.33 c-5uwzmx78pmca09x24aiux2euavx2ekwu.g00.msn.com
 94.140.14.33 c-adash.m.taobao.com
 94.140.14.33 c-api-bit.shopeemobile.com
-94.140.14.33 c-staging.trafficjunky.net
 94.140.14.33 c.7times.top
 94.140.14.33 c.ad-srv.co
 94.140.14.33 c.ad.ru
@@ -11716,7 +11446,6 @@
 94.140.14.33 c.biz.weibo.com
 94.140.14.33 c.br.msn.com
 94.140.14.33 c.ca.msn.com
-94.140.14.33 c.cdn-server.top
 94.140.14.33 c.cl.msn.com
 94.140.14.33 c.click.alimama.com
 94.140.14.33 c.cnzz.com
@@ -11807,7 +11536,6 @@
 94.140.14.33 calopenupdate.comm.miui.com
 94.140.14.33 campaign.ad-brix.com
 94.140.14.33 campaign.adobe.com
-94.140.14.33 campaign.ateam-ad.jp
 94.140.14.33 campaigns.de.euserv.adaos-ads.net
 94.140.14.33 canonch.pro
 94.140.14.33 canvas.gdt.qq.com
@@ -11835,7 +11563,6 @@
 94.140.14.33 cast.ads.jlisting.jp
 94.140.14.33 cata.ero-advertising.com
 94.140.14.33 catalog.video.msn.com
-94.140.14.33 cb-api-eu.maxymiser.com
 94.140.14.33 cb.alimama.cn
 94.140.14.33 cb.baidu.com
 94.140.14.33 cb.l.qq.com
@@ -11864,8 +11591,6 @@
 94.140.14.33 ccc.sys.miui.com
 94.140.14.33 ccm.cnzz.com
 94.140.14.33 ccma.hb-api.omtrdc.net
-94.140.14.33 ccrt-en.ad-stir.com
-94.140.14.33 ccrt-ja.ad-stir.com
 94.140.14.33 ccs.ucweb.com
 94.140.14.33 cctv.adsame.com
 94.140.14.33 cctv.mmstat.com
@@ -11875,7 +11600,6 @@
 94.140.14.33 cdd-pro.web.app
 94.140.14.33 cdn-adn-https-baidu.rayjump.com
 94.140.14.33 cdn-adn-https-share.rayjump.com
-94.140.14.33 cdn-ads.adpushup.com
 94.140.14.33 cdn-ads.oss-cn-shanghai.aliyuncs.com
 94.140.14.33 cdn-ads.thesaigontimes.vn
 94.140.14.33 cdn-analytics.ladmedia.fr
@@ -11900,12 +11624,10 @@
 94.140.14.33 cdn-store-icons-akamai-prd.unityads.unity3d.com.edgekey.net
 94.140.14.33 cdn-store-icons-highwinds-prd.unityads.unity3d.com
 94.140.14.33 cdn-traffic-director.krxd.net
-94.140.14.33 cdn-webview-pge-geocdn-prd.unityads.unity3d.com
 94.140.14.33 cdn-webview-pge.unityads.unity3d.com
 94.140.14.33 cdn-wx.rainbowtgx.com
 94.140.14.33 cdn.ad-maven.com
 94.140.14.33 cdn.ad.citynews.it
-94.140.14.33 cdn.ad.gt
 94.140.14.33 cdn.ad.maist.jp
 94.140.14.33 cdn.ad.plus
 94.140.14.33 cdn.ad.xiaomi.com
@@ -11915,7 +11637,6 @@
 94.140.14.33 cdn.adk2.com
 94.140.14.33 cdn.admitad-connect.com
 94.140.14.33 cdn.admitad.com
-94.140.14.33 cdn.adnxs-simple.com
 94.140.14.33 cdn.adnxs.com
 94.140.14.33 cdn.adonads.com
 94.140.14.33 cdn.ads.fotoable.net
@@ -11926,7 +11647,6 @@
 94.140.14.33 cdn.adviad.com
 94.140.14.33 cdn.adx1.com
 94.140.14.33 cdn.alleliteads.com
-94.140.14.33 cdn.anymad.com
 94.140.14.33 cdn.api-connect.io
 94.140.14.33 cdn.api.fotoable.com
 94.140.14.33 cdn.appads.com
@@ -11937,7 +11657,6 @@
 94.140.14.33 cdn.ayads.co
 94.140.14.33 cdn.banner.thumbplay.com
 94.140.14.33 cdn.beaconads.com
-94.140.14.33 cdn.beaverads.com
 94.140.14.33 cdn.beginads.com
 94.140.14.33 cdn.betrad.com
 94.140.14.33 cdn.bigindiansex.mobi
@@ -11959,7 +11678,6 @@
 94.140.14.33 cdn.doublepimpads.com
 94.140.14.33 cdn.download.sweetpacks.com
 94.140.14.33 cdn.easy-ads.com
-94.140.14.33 cdn.easyads28.mobi
 94.140.14.33 cdn.elasticad.net
 94.140.14.33 cdn.epicgameads.com
 94.140.14.33 cdn.exoticads.com
@@ -11976,8 +11694,6 @@
 94.140.14.33 cdn.microad.jp
 94.140.14.33 cdn.mirageads.net
 94.140.14.33 cdn.moeload.com
-94.140.14.33 cdn.mondiad.net
-94.140.14.33 cdn.movad.net
 94.140.14.33 cdn.movieads.ru
 94.140.14.33 cdn.myad.vn
 94.140.14.33 cdn.nearbyad.com
@@ -11994,8 +11710,6 @@
 94.140.14.33 cdn.purpleads.io
 94.140.14.33 cdn.rdrads.com
 94.140.14.33 cdn.read.html5.qq.com
-94.140.14.33 cdn.retailads.net
-94.140.14.33 cdn.richmediaads.com
 94.140.14.33 cdn.rossoad.com
 94.140.14.33 cdn.serving.ad.org.vn
 94.140.14.33 cdn.shemaletube.pro
@@ -12006,11 +11720,9 @@
 94.140.14.33 cdn.teads.tv
 94.140.14.33 cdn.teads.tv.edgekey.net
 94.140.14.33 cdn.tpdads.com
-94.140.14.33 cdn.tradplusad.com
 94.140.14.33 cdn.tutoads.tv
 94.140.14.33 cdn.uc.atwola.com
 94.140.14.33 cdn.unityads.unity3d.com
-94.140.14.33 cdn.xapads.com
 94.140.14.33 cdn.xxxmovies.pro
 94.140.14.33 cdn0.mobmore.com
 94.140.14.33 cdn0.puata.info
@@ -12021,7 +11733,6 @@
 94.140.14.33 cdn1.ads.brazzers.com
 94.140.14.33 cdn1.ads.contentabc.com
 94.140.14.33 cdn1.ads.mofos.com
-94.140.14.33 cdn1.anymad.com
 94.140.14.33 cdn1.bad-credit-cdn.com
 94.140.14.33 cdn1.clkads.com
 94.140.14.33 cdn1.flash.shareadult.com
@@ -12055,7 +11766,6 @@
 94.140.14.33 cdn2.hdsexvideos.pro
 94.140.14.33 cdn2.inner-active.mobi
 94.140.14.33 cdn2.mediumtube.pro
-94.140.14.33 cdn2.movad.net
 94.140.14.33 cdn2.newteenporn.pro
 94.140.14.33 cdn2.teads.tv
 94.140.14.33 cdn2.teads.tv.edgekey.net
@@ -12066,7 +11776,6 @@
 94.140.14.33 cdn3-analytics.ladmedia.fr
 94.140.14.33 cdn3.18porn.pro
 94.140.14.33 cdn3.18yo.pro
-94.140.14.33 cdn3.bestcontentfood.top
 94.140.14.33 cdn3.freeteensex.pro
 94.140.14.33 cdn3.hdsexvideos.pro
 94.140.14.33 cdn3.mediumtube.pro
@@ -12096,16 +11805,13 @@
 94.140.14.33 cdndownload.liehu.ijinshan.com
 94.140.14.33 cdneval.adnxs.com
 94.140.14.33 cdni.amoad.com
-94.140.14.33 cdnn.ad-stir.com
 94.140.14.33 cdno.ayads.co
 94.140.14.33 cdnonead-onead.cdn.hinet.net
 94.140.14.33 cdnonetag-onead.cdn.hinet.net
-94.140.14.33 cdnp.ad-stir.com
 94.140.14.33 cdnpixel-onead.cdn.hinet.net
 94.140.14.33 cdnprism.pandora.tv
 94.140.14.33 cdnstaging-onead.cdn.hinet.net
 94.140.14.33 cdnuz.adviad.com
-94.140.14.33 cdnv.ad-stir.com
 94.140.14.33 cdnvideos.pro
 94.140.14.33 ceadx.agrantsem.com
 94.140.14.33 cebygijy.pro
@@ -12198,7 +11904,6 @@
 94.140.14.33 chrome-redirect.top
 94.140.14.33 chslwea.top
 94.140.14.33 churchofjesuschrist.hb-api.omtrdc.net
-94.140.14.33 chyjobopse.pro
 94.140.14.33 chykohija.pro
 94.140.14.33 ci.beap.ad.yieldmanager.net
 94.140.14.33 cib.adnxs.com
@@ -12223,14 +11928,6 @@
 94.140.14.33 ckmap.mediav.com
 94.140.14.33 ckxxbao.com
 94.140.14.33 cl-ad.x-flow.app
-94.140.14.33 cl-data-f.ads.heytapmobi.com
-94.140.14.33 cl-data-f.ads.heytapmobile.com
-94.140.14.33 cl-data-id.ads.heytapmobi.com
-94.140.14.33 cl-data-id.ads.heytapmobile.com
-94.140.14.33 cl-data-in.ads.heytapmobi.com
-94.140.14.33 cl-data-in.ads.heytapmobile.com
-94.140.14.33 cl-data-sg.ads.heytapmobi.com
-94.140.14.33 cl-data-vn.ads.heytapmobile.com
 94.140.14.33 cl-data.ads.heytapmobi.com
 94.140.14.33 clairiose.pro
 94.140.14.33 classic-api.prod.adtech.de
@@ -12251,20 +11948,9 @@
 94.140.14.33 click-123.com
 94.140.14.33 click-ads.saoteen.net
 94.140.14.33 click-cdn.com
-94.140.14.33 click-clicker.com
 94.140.14.33 click-cn.plista.com
 94.140.14.33 click-count.info
 94.140.14.33 click-da-click.com
-94.140.14.33 click-dsp-ams1.adkernel.com
-94.140.14.33 click-dsp-eu.adkernel.com
-94.140.14.33 click-dsp-lax1.adkernel.com
-94.140.14.33 click-dsp-nym2.adkernel.com
-94.140.14.33 click-dsp-uswest.adkernel.com
-94.140.14.33 click-dsp.adkernel.com
-94.140.14.33 click-east.acuityplatform.com
-94.140.14.33 click-eu.expmediadirect1.com
-94.140.14.33 click-eu.pclk.name
-94.140.14.33 click-euro.acuityplatform.com
 94.140.14.33 click-find-save.com
 94.140.14.33 click-fr.com
 94.140.14.33 click-haproxy.supersonicads.com
@@ -12280,7 +11966,6 @@
 94.140.14.33 click-staging.food.mercato.com
 94.140.14.33 click-trade-credit.capitalone.com
 94.140.14.33 click-url.com
-94.140.14.33 click-us.mppmnetwork.com
 94.140.14.33 click-west.acuityplatform.com
 94.140.14.33 click.202trackingsoft.com
 94.140.14.33 click.a-ads.com
@@ -12305,13 +11990,11 @@
 94.140.14.33 click.adv.livedoor.com
 94.140.14.33 click.advertnative.com
 94.140.14.33 click.affiliate.ameba.jp
-94.140.14.33 click.aimtell.com
 94.140.14.33 click.airmalta-mail.com
 94.140.14.33 click.alibaba.com
 94.140.14.33 click.alternate.de
 94.140.14.33 click.am1.adm.cnzz.net
 94.140.14.33 click.amazingfacts.org
-94.140.14.33 click.anymad.com
 94.140.14.33 click.appinthestore.com
 94.140.14.33 click.appservinc.com
 94.140.14.33 click.aristotle.net
@@ -12398,9 +12081,7 @@
 94.140.14.33 click.go.idcf.jp
 94.140.14.33 click.go2net.com
 94.140.14.33 click.goeventbase.com
-94.140.14.33 click.google-analytics.com
 94.140.14.33 click.googleanalytics.com
-94.140.14.33 click.goraps.com
 94.140.14.33 click.gospect.com
 94.140.14.33 click.gowadogo.com
 94.140.14.33 click.grandonmedia.com
@@ -12434,7 +12115,6 @@
 94.140.14.33 click.j-a-net.jp
 94.140.14.33 click.jasmin.com
 94.140.14.33 click.jebe.renren.com
-94.140.14.33 click.justpremium.com
 94.140.14.33 click.jve.net
 94.140.14.33 click.kataweb.it
 94.140.14.33 click.khingtracking.com
@@ -12463,7 +12143,6 @@
 94.140.14.33 click.maxxandmore.com
 94.140.14.33 click.mediaforge.com
 94.140.14.33 click.mediav.com
-94.140.14.33 click.meitustat.com
 94.140.14.33 click.mibet.com
 94.140.14.33 click.mibet.mobi
 94.140.14.33 click.mibet88.com
@@ -12474,7 +12153,6 @@
 94.140.14.33 click.monstracking.com
 94.140.14.33 click.moxs.net
 94.140.14.33 click.mp3.com
-94.140.14.33 click.mppmnetwork.com
 94.140.14.33 click.mrrage.com
 94.140.14.33 click.mvc19.com
 94.140.14.33 click.mygeek.com
@@ -12495,7 +12173,6 @@
 94.140.14.33 click.pandaapp.com
 94.140.14.33 click.patner.net.daraz.com
 94.140.14.33 click.payserve.com
-94.140.14.33 click.pclk.name
 94.140.14.33 click.pdl1tracking.com
 94.140.14.33 click.phanquang.vn
 94.140.14.33 click.plista.com
@@ -12523,7 +12200,6 @@
 94.140.14.33 click.sender.yandex.ru
 94.140.14.33 click.serve.adcenter.io
 94.140.14.33 click.sexmoney.com
-94.140.14.33 click.showcasethat.com
 94.140.14.33 click.silvercash.com
 94.140.14.33 click.simba.taobao.com
 94.140.14.33 click.sinx.com
@@ -12543,12 +12219,10 @@
 94.140.14.33 click.taincash.com
 94.140.14.33 click.tanx.com
 94.140.14.33 click.tck-3005-12.pl
-94.140.14.33 click.tecdo-ec.com
 94.140.14.33 click.tianyaui.com
 94.140.14.33 click.tmfmoney.com
 94.140.14.33 click.top10sites.com
 94.140.14.33 click.topica.com
-94.140.14.33 click.tracksummer.com
 94.140.14.33 click.trafikkfondet.no
 94.140.14.33 click.transactional.carousell.com
 94.140.14.33 click.trklinklog.com
@@ -12562,7 +12236,6 @@
 94.140.14.33 click.union.ucweb.com
 94.140.14.33 click.union.vip.com
 94.140.14.33 click.uol.com.br
-94.140.14.33 click.uprimp.com
 94.140.14.33 click.uve.mobile.sina.cn
 94.140.14.33 click.uve.weibo.com
 94.140.14.33 click.v1.de.euserv.gam.adaos-ads.net
@@ -12571,7 +12244,6 @@
 94.140.14.33 click.vieon.vn
 94.140.14.33 click.virt.exacttarget.com
 94.140.14.33 click.watchjmp.com
-94.140.14.33 click.wct.link
 94.140.14.33 click.web.thornburg.com
 94.140.14.33 click.wellmanexteriors.net
 94.140.14.33 click.whittlesbiz.info
@@ -12596,8 +12268,6 @@
 94.140.14.33 client-analytics.braintreegateway.com
 94.140.14.33 client-api.ele.me
 94.140.14.33 client-events.inner-active.mobi
-94.140.14.33 client-uat.addthiscdn.com
-94.140.14.33 client.addthiscdn.com
 94.140.14.33 client.download-sponsor.de
 94.140.14.33 client.rave-api.com
 94.140.14.33 client.show.qq.com
@@ -12628,14 +12298,12 @@
 94.140.14.33 cloudapp.www.partner.net.daraz.com
 94.140.14.33 cloudflare.cdneval.adnxs.com
 94.140.14.33 cloudfront.mclick.mobi
-94.140.14.33 cloudfront.yieldlove-ad-serving.net
 94.140.14.33 cloudpush.iqiyi.com
 94.140.14.33 clrpdhptoddatj49.pro
 94.140.14.33 cluster.ad-serverparc.nl
 94.140.14.33 clydetrade.pro
 94.140.14.33 cm.ac3.msn.com
 94.140.14.33 cm.admaster.com.cn
-94.140.14.33 cm.ads.heytapmobi.com
 94.140.14.33 cm.api.baifendian.com
 94.140.14.33 cm.au.msn.overture.com
 94.140.14.33 cm.baichuan.baidu.com
@@ -12788,7 +12456,6 @@
 94.140.14.33 core.banner.t-online.de
 94.140.14.33 core0.node12.top.mail.ru
 94.140.14.33 corebug.adsame.com
-94.140.14.33 corp-assets.triplelift.com
 94.140.14.33 corp-downloads.com
 94.140.14.33 corp-github.com
 94.140.14.33 corp.163.com
@@ -12800,13 +12467,11 @@
 94.140.14.33 corp.eulerian.net
 94.140.14.33 corp.hunantv.com
 94.140.14.33 corp.kaltura.com
-94.140.14.33 corp.leanplum.com
 94.140.14.33 corp.meitu.com
 94.140.14.33 corp.ns1.viviotech.net.daraz.com
 94.140.14.33 corp.president.co.jp
 94.140.14.33 corp.president.jp
 94.140.14.33 corp.sohu.com
-94.140.14.33 corp.specificmedia.com
 94.140.14.33 cors.hot-mob.com
 94.140.14.33 corus-stage.hb-api.omtrdc.net
 94.140.14.33 corus.hb-api.omtrdc.net
@@ -12861,7 +12526,6 @@
 94.140.14.33 cpu.baidu.com
 94.140.14.33 cpucdn.baidu.com
 94.140.14.33 cpull.360.cn
-94.140.14.33 cpux.gmud.top
 94.140.14.33 cpv-ads.ggytc.com
 94.140.14.33 cpx-traffic.com
 94.140.14.33 cpx.v1.de.euserv.adaos-ads.net
@@ -12973,7 +12637,6 @@
 94.140.14.33 cvrkuribd.top
 94.140.14.33 cvt.mydas.mobi
 94.140.14.33 cxdgfewyhthg.top
-94.140.14.33 cxi-api-staging.wootric.com
 94.140.14.33 cxi-api.wootric.com
 94.140.14.33 cy-s.click
 94.140.14.33 cyberprotection.pro
@@ -13035,7 +12698,6 @@
 94.140.14.33 da.netease.com
 94.140.14.33 daaa.ero-advertising.com
 94.140.14.33 dads.new.digg.com
-94.140.14.33 dads.wedobest.com.cn
 94.140.14.33 daea.ero-advertising.com
 94.140.14.33 daftsex.pro
 94.140.14.33 daia.ero-advertising.com
@@ -13056,7 +12718,6 @@
 94.140.14.33 dart-apac.l.doubleclick.net
 94.140.14.33 dart.l.doubleclick.net
 94.140.14.33 darts-ads.telkom.co.id
-94.140.14.33 darvin-ec.ads.heytapmobi.com
 94.140.14.33 das-millennium.top
 94.140.14.33 dasongti.top
 94.140.14.33 dastrade.top
@@ -13068,10 +12729,8 @@
 94.140.14.33 data-k8s.flurry.com
 94.140.14.33 data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 94.140.14.33 data.ad-score.com
-94.140.14.33 data.ads.heytapmobi.com
 94.140.14.33 data.ads.oppomobile.com
 94.140.14.33 data.ads.t-online.de
-94.140.14.33 data.ads.yahoo.com
 94.140.14.33 data.adsame.com
 94.140.14.33 data.api.kaffnet.com
 94.140.14.33 data.cnzz.com
@@ -13133,7 +12792,6 @@
 94.140.14.33 dcads.sina.com.cn
 94.140.14.33 dcci.adsame.com
 94.140.14.33 dcci.panda.adsame.com
-94.140.14.33 dcdn.adnxs-simple.com
 94.140.14.33 dcdn.adnxs.com
 94.140.14.33 dcenter.cnzz.com
 94.140.14.33 dco-jads-727222375.us-west-2.elb.amazonaws.com
@@ -13173,10 +12831,8 @@
 94.140.14.33 delivery.ads-littlestarmedia.co.uk
 94.140.14.33 delivery.ads.assistance.bg
 94.140.14.33 delivery.ads.gfsrv.net
-94.140.14.33 delivery.api.getadmiral.com
 94.140.14.33 delivery.preprod.trafficjunky.net
 94.140.14.33 delivery.sid-ads.com
-94.140.14.33 delivery.staging.trafficjunky.net
 94.140.14.33 delivery.trafficjunky.net
 94.140.14.33 delivery1.topad.mobi
 94.140.14.33 delivery1.trafficjunky.net
@@ -13192,7 +12848,6 @@
 94.140.14.33 dellvery.dellvery-2345.xyz
 94.140.14.33 delwargal.click
 94.140.14.33 demand.bidgear-syndication.com
-94.140.14.33 demo.ad-brix.com
 94.140.14.33 demo.adsame.com
 94.140.14.33 demo.advertising.com
 94.140.14.33 demo.doubleclick.net
@@ -13215,7 +12870,6 @@
 94.140.14.33 deta.ero-advertising.com
 94.140.14.33 detour.click
 94.140.14.33 dev-about.twitter.com
-94.140.14.33 dev-ad-track.aralego.com
 94.140.14.33 dev-api.persona.ly
 94.140.14.33 dev-blog.twitter.com
 94.140.14.33 dev-brand.twitter.com
@@ -13244,7 +12898,6 @@
 94.140.14.33 df.mob.com
 94.140.14.33 df5b.top
 94.140.14.33 dfe.mic.mob.com
-94.140.14.33 dfnb-ads.com
 94.140.14.33 dfp.doubleclick.net
 94.140.14.33 dfpreports.doubleclick.net
 94.140.14.33 dgafgadsgkjg.top
@@ -13288,14 +12941,11 @@
 94.140.14.33 disneyinternational.hb-api.omtrdc.net
 94.140.14.33 dispatcher.mng-ads.com
 94.140.14.33 dispatcher.upmc.uc.cn
-94.140.14.33 display-ad-rgt0me85.kgslb.com
 94.140.14.33 display.ad.daum.net
-94.140.14.33 display.ad.kakaocorp.com
 94.140.14.33 displayad.layer-ad.org
 94.140.14.33 displayincloud.adk2.co
 94.140.14.33 disqusads.com
 94.140.14.33 dist.ad-stir.com
-94.140.14.33 dist.adp.ad-stir.com
 94.140.14.33 dist.bpc.ad-stir.com
 94.140.14.33 diuleilou.top
 94.140.14.33 dixonsrt.hb-api.omtrdc.net
@@ -13343,14 +12993,11 @@
 94.140.14.33 dm.66qw.net
 94.140.14.33 dm.8800271.com.cn
 94.140.14.33 dm.aizhan.com
-94.140.14.33 dm.aralego.com
 94.140.14.33 dm.bytedance.com
 94.140.14.33 dm.cnbanbao.com
 94.140.14.33 dm.demdex.net
-94.140.14.33 dm.djaxadserver.com
 94.140.14.33 dm.fsyzcs.com
 94.140.14.33 dm.gbeik.com
-94.140.14.33 dm.gg
 94.140.14.33 dm.gucheng.com
 94.140.14.33 dm.huochepiao.com
 94.140.14.33 dm.hxzdhn.com
@@ -13383,7 +13030,6 @@
 94.140.14.33 dmarket.pro
 94.140.14.33 dmojfaerxpqn.top
 94.140.14.33 dmp.adpush.cn
-94.140.14.33 dmp.doubleclick.net
 94.140.14.33 dmp.sina.cn
 94.140.14.33 dmp.vlion.cn
 94.140.14.33 dmtrack.buy.qq.com
@@ -13661,12 +13307,10 @@
 94.140.14.33 dropbox-download.com
 94.140.14.33 drops.ads.visionweb.no
 94.140.14.33 ds-api-public.addthis.com.edgekey.net
-94.140.14.33 ds.ad.gt
 94.140.14.33 ds.ad2-one.com
 94.140.14.33 ds.api.baifendian.com
 94.140.14.33 ds10.api.baifendian.com
 94.140.14.33 ds9e.top
-94.140.14.33 dsengine.doubleclick.net
 94.140.14.33 dsfgasa.top
 94.140.14.33 dsm.doubleclick.net
 94.140.14.33 dsmreports.doubleclick.net
@@ -13714,7 +13358,6 @@
 94.140.14.33 dyn.wps.cn
 94.140.14.33 dyna.agrantsem.com
 94.140.14.33 dynamic-ads.admicro.vn
-94.140.14.33 dynamic-ads.appier.net
 94.140.14.33 dynamic-advertising.de
 94.140.14.33 dynamic-dns.net
 94.140.14.33 dynsrv.wps.cn
@@ -13781,6 +13424,7 @@
 94.140.14.33 ebaycn.doubleclick.net
 94.140.14.33 ebaytw.doubleclick.net
 94.140.14.33 ebazhaheiw.top
+94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebook-res.meizu.com
 94.140.14.33 ebook.res.meizu.com
@@ -13801,7 +13445,6 @@
 94.140.14.33 ecoslimmer.pro
 94.140.14.33 ecppox.skillmodernplan.top
 94.140.14.33 edchargina.pro
-94.140.14.33 edge.ads.twitch.tv
 94.140.14.33 edge.analytics.brightedge.com
 94.140.14.33 edgtsdfhb.top
 94.140.14.33 editor.baidu.com
@@ -13838,7 +13481,6 @@
 94.140.14.33 emailenlist.top
 94.140.14.33 emarketing.sina.com.cn
 94.140.14.33 emdau.pro
-94.140.14.33 emea.doubleclick.net
 94.140.14.33 emea.rel.msn.com
 94.140.14.33 emented.pro
 94.140.14.33 emiratesnbd-upgrade.icu
@@ -13847,7 +13489,6 @@
 94.140.14.33 emoticon.sns.iqiyi.com
 94.140.14.33 ems.youku.com
 94.140.14.33 emu.ilovemp3.top
-94.140.14.33 en.ad-stir.com
 94.140.14.33 en.xvideosx.mobi
 94.140.14.33 en.youporns.mobi
 94.140.14.33 ena-native-ads4.com
@@ -13949,7 +13590,6 @@
 94.140.14.33 euro.adsame.com
 94.140.14.33 eurolive.pro
 94.140.14.33 euronewsgroup.hb-api.omtrdc.net
-94.140.14.33 europe-west2.ads.playground.xyz
 94.140.14.33 eurowin.top
 94.140.14.33 ev.ads.pointroll.com
 94.140.14.33 ev.api.bdg.com
@@ -14031,14 +13671,12 @@
 94.140.14.33 ezine.oupeng.com
 94.140.14.33 ezinemark.top
 94.140.14.33 f-ads.pl
-94.140.14.33 f-api.accesstrade.net
 94.140.14.33 f.360.cn
 94.140.14.33 f.ai.taobao.com
 94.140.14.33 f.gm.mob.com
 94.140.14.33 f.mediav.com
 94.140.14.33 f1.taiv8.top
 94.140.14.33 f19.mobi
-94.140.14.33 f2.ad.gt
 94.140.14.33 f3.mi-stat.gslb.mi-idc.com
 94.140.14.33 facebook-ads.mediaz.vn
 94.140.14.33 facebook-ads.pl
@@ -14235,7 +13873,6 @@
 94.140.14.33 foxentertainment.hb-api.omtrdc.net
 94.140.14.33 foxfile.pro
 94.140.14.33 fp-analytics.hotstar.com
-94.140.14.33 fp.advertising.microsoft.com
 94.140.14.33 fp3.ads.stickyadstv.com.akadns.net
 94.140.14.33 fpa-api.arstechnica.com
 94.140.14.33 fpa.ero-advertising.com
@@ -14417,7 +14054,6 @@
 94.140.14.33 gcdn.2mdn.net
 94.140.14.33 gcdn.3movs.com
 94.140.14.33 gcdn.tranny.one
-94.140.14.33 gd-api.ad.jiguang.cn
 94.140.14.33 gd.ads.vip.gq1.yahoo.com
 94.140.14.33 gd1.doubleclick.net
 94.140.14.33 gd10.doubleclick.net
@@ -14519,7 +14155,6 @@
 94.140.14.33 giroud.top
 94.140.14.33 gitechiphy.pro
 94.140.14.33 gitgrub.pro
-94.140.14.33 gitlab.ad-stir.com
 94.140.14.33 gitlabwww.partner.net.daraz.com
 94.140.14.33 giveawayskin.pro
 94.140.14.33 gj.applog.uc.cn
@@ -14621,7 +14256,6 @@
 94.140.14.33 google.com.bo.admin-mcas-gov.ms
 94.140.14.33 google.com.br.admin-mcas-gov.ms
 94.140.14.33 google.com.gh.admin-mcas-gov.ms
-94.140.14.33 google.east-s2s.1rx.io
 94.140.14.33 google.ghststr.com
 94.140.14.33 google.m.facebook.com
 94.140.14.33 google.mellrichstadt-stadtkapelle.de
@@ -14744,11 +14378,9 @@
 94.140.14.33 gyhsok-invest.pro
 94.140.14.33 gytty.top
 94.140.14.33 gyzyphepsu.pro
-94.140.14.33 gzjkbid.adview.com
 94.140.14.33 gzs20.cnzz.com
 94.140.14.33 h-adashx.ut.taobao.com
 94.140.14.33 h-adashx4ae.ut.taobao.com
-94.140.14.33 h-adashx4sg.ut.taobao.com
 94.140.14.33 h-adashx4yt.ut.taobao.com
 94.140.14.33 h-flash.com
 94.140.14.33 h-sdk.online-metrix.net
@@ -14779,7 +14411,6 @@
 94.140.14.33 h5.zxgiqvb.top
 94.140.14.33 h9ss.top
 94.140.14.33 ha-api.pushwoosh.com
-94.140.14.33 ha.pro-market.net
 94.140.14.33 hack-4-top-eleven.com
 94.140.14.33 hack-download.com
 94.140.14.33 hack-top-eleven.com
@@ -14827,9 +14458,7 @@
 94.140.14.33 hb-api.omnitagjs.com
 94.140.14.33 hb-as.adtech.advertising.com
 94.140.14.33 hb-us.adtech.advertising.com
-94.140.14.33 hb.ads.152media.com
 94.140.14.33 hb.adx1.com
-94.140.14.33 hb.adx2.adform.net
 94.140.14.33 hb8a.top
 94.140.14.33 hbccwlkj.top
 94.140.14.33 hblock-check.molinero.dev
@@ -14906,11 +14535,9 @@
 94.140.14.33 historiepolakow.click
 94.140.14.33 hisxeywwpquys.top
 94.140.14.33 hit-counter-download.com
-94.140.14.33 hit.api.sociaplus.com
 94.140.14.33 hits.top.lv
 94.140.14.33 hiwoshote.pro
 94.140.14.33 hk.napi.ucweb.com
-94.140.14.33 hkbid.adview.com
 94.140.14.33 hklst.top
 94.140.14.33 hl2rcv.adobe.com
 94.140.14.33 hlebo.mobi
@@ -14997,7 +14624,6 @@
 94.140.14.33 hotyoungteen.pro
 94.140.14.33 housead.umeng.com
 94.140.14.33 houtai.2345.com
-94.140.14.33 hp-api.omnitagjs.com
 94.140.14.33 hp.smiler-ad.com
 94.140.14.33 hpd.baidu.com
 94.140.14.33 hpjav.top
@@ -15025,7 +14651,6 @@
 94.140.14.33 httpdns.push.oppomobile.com
 94.140.14.33 httpdns.qq.com
 94.140.14.33 httpdns.qqcdn.com
-94.140.14.33 httpkafka.ads.prd.ie.internal.unity3d.com
 94.140.14.33 httpring.qq.com
 94.140.14.33 hu4c.top
 94.140.14.33 hu7726102eu.click
@@ -15090,11 +14715,9 @@
 94.140.14.33 i.api.ad-locus.com
 94.140.14.33 i.asianladyboys.pro
 94.140.14.33 i.bestcontentfare.top
-94.140.14.33 i.bestcontentfood.top
 94.140.14.33 i.cat-happy.cn
 94.140.14.33 i.clkservice.youdao.com
 94.140.14.33 i.esprit-click.com
-94.140.14.33 i.exit-ad.com
 94.140.14.33 i.flow.browser.oppomobile.com
 94.140.14.33 i.hao61.net
 94.140.14.33 i.image-ad.jp
@@ -15102,7 +14725,6 @@
 94.140.14.33 i.jads.co
 94.140.14.33 i.luyongkang.top
 94.140.14.33 i.mediapower.mobi
-94.140.14.33 i.miaozhen.com
 94.140.14.33 i.psa-ads.openx.com
 94.140.14.33 i.smartnews-ads.com
 94.140.14.33 i.ua-passport.top
@@ -15113,8 +14735,6 @@
 94.140.14.33 i2.adsame.com
 94.140.14.33 i4rsrcj6.top
 94.140.14.33 i7by.top
-94.140.14.33 ia-cert.inner-active.mobi
-94.140.14.33 ia-vast.inner-active.mobi
 94.140.14.33 iad.e.360.cn
 94.140.14.33 iad.g.163.com
 94.140.14.33 iadmusicmat.music.126.net
@@ -15209,7 +14829,6 @@
 94.140.14.33 imageplus.baidu.com
 94.140.14.33 images-cdn.azoogleads.com
 94.140.14.33 images-mcdn.startappexchange.com
-94.140.14.33 images-ppe.adsyndication.msn.com
 94.140.14.33 images.ad-maker.info
 94.140.14.33 images.ad7.com
 94.140.14.33 images.ads.fairfax.com.au
@@ -15242,7 +14861,6 @@
 94.140.14.33 img.9ads.net
 94.140.14.33 img.a.shifen.com
 94.140.14.33 img.ad-seek.jp
-94.140.14.33 img.ad-stir.com
 94.140.14.33 img.ad-trip.com
 94.140.14.33 img.ad.zhangyue.com
 94.140.14.33 img.ad2.maho.jp
@@ -15388,7 +15006,6 @@
 94.140.14.33 info-google.waw.pl
 94.140.14.33 info-miasto.click
 94.140.14.33 info-recovered-ads-identify-active-notify-support.tk
-94.140.14.33 info.ad.daum.net
 94.140.14.33 info.ads.roku.com
 94.140.14.33 info.analysis.kp.sec.miui.com
 94.140.14.33 info.axis-corp.com
@@ -15606,8 +15223,6 @@
 94.140.14.33 inside.baidu.com
 94.140.14.33 insider.pro
 94.140.14.33 insight.ucweb.com
-94.140.14.33 insights-api.parsely.com
-94.140.14.33 insomn.pro
 94.140.14.33 inst.360safe.com
 94.140.14.33 install.365-stream.com
 94.140.14.33 installnow.pro
@@ -15639,7 +15254,6 @@
 94.140.14.33 ip.taobao.com
 94.140.14.33 ip1.ads.stickyadstv.com.akadns.net
 94.140.14.33 ip2.ads.stickyadstv.com.akadns.net
-94.140.14.33 ip4.tracker-api.my.com
 94.140.14.33 iphone.mobpartner.mobi
 94.140.14.33 ipinyou.cm.admaster.com.cn
 94.140.14.33 ipinyou.com
@@ -15674,7 +15288,6 @@
 94.140.14.33 ir.doubleclick.net
 94.140.14.33 ir.surveywall-api.survata.com
 94.140.14.33 iresearch.adsame.com
-94.140.14.33 ironsource.mobi
 94.140.14.33 is-tracking-pixel-api-prod.appspot.com
 94.140.14.33 isafe.baidu.com
 94.140.14.33 isafe.pro
@@ -15687,7 +15300,6 @@
 94.140.14.33 it.best-top.biz
 94.140.14.33 it.snssdk.com.edgekey.net
 94.140.14.33 it5s.top
-94.140.14.33 itag.ads.linkedin.com
 94.140.14.33 item.mediav.com
 94.140.14.33 itsdata.map.baidu.com
 94.140.14.33 itunes.mobpartner.mobi
@@ -15727,7 +15339,6 @@
 94.140.14.33 j.uz.taobao.com
 94.140.14.33 j.wit.qq.com
 94.140.14.33 j9j6l.top
-94.140.14.33 ja.ad-stir.com
 94.140.14.33 jads.co
 94.140.14.33 jailbaitclub.top
 94.140.14.33 jailbaits.top
@@ -15758,7 +15369,6 @@
 94.140.14.33 jb.mbaidu.top
 94.140.14.33 jbazhaheia.top
 94.140.14.33 jc.wangwang.taobao.com
-94.140.14.33 jcdn.ad-stir.com
 94.140.14.33 jcdn.jsoid.com
 94.140.14.33 jd01qstbprek.top
 94.140.14.33 jd5c.top
@@ -15806,7 +15416,6 @@
 94.140.14.33 jnu1usxpndz0.pro
 94.140.14.33 jnwsrqxrdqct.top
 94.140.14.33 jobs.advertising.com
-94.140.14.33 jobs.smartadserver.com
 94.140.14.33 jobs.twitter.com
 94.140.14.33 jodellbrought.pro
 94.140.14.33 jodellvideos.pro
@@ -15819,8 +15428,6 @@
 94.140.14.33 josephineblog.top
 94.140.14.33 jouzeeps.click
 94.140.14.33 joyceblog.top
-94.140.14.33 jp-ads.mediaforge.com
-94.140.14.33 jp-click.mediaforge.com
 94.140.14.33 jp.adnxs.com
 94.140.14.33 jp.ads.justpremium.com
 94.140.14.33 jp.api.share.mob.com
@@ -15854,7 +15461,6 @@
 94.140.14.33 jrlt.beacon.qq.com
 94.140.14.33 js-ad.a.yximgs.com
 94.140.14.33 js-sdk.atom-data.io
-94.140.14.33 js-staging.ad-score.com
 94.140.14.33 js.9ads.net
 94.140.14.33 js.ad-score.com
 94.140.14.33 js.ad-spire.net
@@ -15868,13 +15474,9 @@
 94.140.14.33 js.ads.ero-advertising.com
 94.140.14.33 js.ero-advertising.com
 94.140.14.33 js.hs-analytics.net
-94.140.14.33 js.hs-banner.com
 94.140.14.33 js.lovexia.top
 94.140.14.33 js.mangapro.top
 94.140.14.33 js.miaozhen.com
-94.140.14.33 js.mobileoffers-ac-download.com
-94.140.14.33 js.mobileoffers-al-download.com
-94.140.14.33 js.smac-ad.com
 94.140.14.33 js.tongji.cn.yahoo.com
 94.140.14.33 js.tongji.linezing.com
 94.140.14.33 js.union-wifi.com
@@ -15895,7 +15497,6 @@
 94.140.14.33 jssdk.cnzz.com
 94.140.14.33 jsunion.kankan.xunlei.com
 94.140.14.33 jtdxz.top
-94.140.14.33 ju.mmstat.com
 94.140.14.33 ju.taobao.com
 94.140.14.33 jueditt.top
 94.140.14.33 juicy-news.blogspot.us.intellitxt.com
@@ -15953,9 +15554,6 @@
 94.140.14.33 kabinet-click-alfabank.ru
 94.140.14.33 kabinet-online-open.ru
 94.140.14.33 kads.k-network.com
-94.140.14.33 kakaostory.ad.kakao.com
-94.140.14.33 kakaostory.ad.kakaocorp.com
-94.140.14.33 kakaotalk.ad.kakaocorp.com
 94.140.14.33 kamien.top
 94.140.14.33 kan.daiwofei2019.top
 94.140.14.33 kaneapp.top
@@ -16038,6 +15636,7 @@
 94.140.14.33 krhevkgu.flash.jiehunmishu.com
 94.140.14.33 krombor-invest.pro
 94.140.14.33 krumbleent-ads.info
+94.140.14.33 ks9f.top
 94.140.14.33 ksdk-vh.akamaihd.net
 94.140.14.33 kspush.baidu.com
 94.140.14.33 kstj.baidu.com
@@ -16047,7 +15646,6 @@
 94.140.14.33 ku11.pro
 94.140.14.33 ku6.cnzz.com
 94.140.14.33 kuaikan.netmon.360safe.com
-94.140.14.33 kuasa-api.tenmax.io
 94.140.14.33 kubet.mobi
 94.140.14.33 kukachesy.pro
 94.140.14.33 kumam-bon.click
@@ -16299,7 +15897,6 @@
 94.140.14.33 local.ads.nwsource.com
 94.140.14.33 local.adsame.com
 94.140.14.33 localsexy11.top
-94.140.14.33 location.api.kochava.com
 94.140.14.33 location.ximalaya.com
 94.140.14.33 locustabf14bc0efae8598de5121b616f.dns-cloud.net
 94.140.14.33 log1.mmstat.com
@@ -16376,7 +15973,6 @@
 94.140.14.33 lyraxugle.pro
 94.140.14.33 lyzenoti.pro
 94.140.14.33 m-adash.m.taobao.com
-94.140.14.33 m-ads.mediaforge.com
 94.140.14.33 m-hayakawa.ad.dev.nend.net
 94.140.14.33 m-static.ktokto.mobi
 94.140.14.33 m.1314sss.top
@@ -16593,7 +16189,6 @@
 94.140.14.33 marijejuric.top
 94.140.14.33 mark.l.qq.com
 94.140.14.33 market.m.qq.com
-94.140.14.33 marketing-api.upsight.com
 94.140.14.33 marketing-ssl.upsight-api.com
 94.140.14.33 marketing.click.co.uk
 94.140.14.33 marketing.net.24-ads.com
@@ -16607,7 +16202,6 @@
 94.140.14.33 martafatass.pro
 94.140.14.33 martens1460.top
 94.140.14.33 marvel.hb-api.omtrdc.net
-94.140.14.33 mas-sdk.amazon-adsystem.com
 94.140.14.33 masdk.3g.qq.com
 94.140.14.33 masoweinfo24.click
 94.140.14.33 mass-traffic.com
@@ -16687,7 +16281,6 @@
 94.140.14.33 mcd-mkt-prod31-lb.campaign.adobe.com
 94.140.14.33 mcdn.adspeed.com
 94.140.14.33 mcdn.batmobi.net
-94.140.14.33 mcdn.navdmp.com
 94.140.14.33 mcg-ads.inmobi.com
 94.140.14.33 mcgi.play.aiseet.atianqi.com
 94.140.14.33 mcgi.play.cp81.ott.cibntv.net
@@ -16707,7 +16300,6 @@
 94.140.14.33 mdklc.top
 94.140.14.33 me.xdrig.com
 94.140.14.33 meade.pro
-94.140.14.33 mebed.dm-event.net
 94.140.14.33 mebed.dm.gg
 94.140.14.33 med-api.admost.com
 94.140.14.33 medal.blog.csdn.net
@@ -16739,7 +16331,6 @@
 94.140.14.33 mediavisor.doubleclick.net
 94.140.14.33 mediaxds.fuse-ad.com
 94.140.14.33 medsource.top
-94.140.14.33 medusa-api.cbsileads.com
 94.140.14.33 meet-your-lady2.top
 94.140.14.33 meethotties.mobi
 94.140.14.33 meetyour-partner.life
@@ -16954,14 +16545,12 @@
 94.140.14.33 mob-olx.site
 94.140.14.33 mob-server.com
 94.140.14.33 mob.12365chia.com
-94.140.14.33 mob.152media.com
 94.140.14.33 mob.adnxs.com
 94.140.14.33 mob.adroll.com
 94.140.14.33 mob.adwhirl.com
 94.140.14.33 mob.adzmobi.com
 94.140.14.33 mob.beeps.digital
 94.140.14.33 mob.coolnay.com
-94.140.14.33 mob.djaxadserver.com
 94.140.14.33 mob.guohead.com
 94.140.14.33 mob.huimee.net
 94.140.14.33 mob.olx-pl.club
@@ -16990,7 +16579,6 @@
 94.140.14.33 mobile-browser.me
 94.140.14.33 mobile-check.vietbet.eu
 94.140.14.33 mobile-click.biz
-94.140.14.33 mobile-displayads.l.doubleclick.net
 94.140.14.33 mobile-global.baidu.com
 94.140.14.33 mobile-sdk-config.gservice.emarsys.net
 94.140.14.33 mobile-sdk-resources.jumio.com
@@ -17021,7 +16609,6 @@
 94.140.14.33 mobileoffers-7-q-download.com
 94.140.14.33 mobileoffers-a-download.com
 94.140.14.33 mobileoffers-ac-download.com
-94.140.14.33 mobileoffers-ad-download.com
 94.140.14.33 mobileoffers-al-download.com
 94.140.14.33 mobileoffers-bn-download.com
 94.140.14.33 mobileweb.api.airpush.com
@@ -17942,12 +17529,10 @@
 94.140.14.33 open.oneplus.net
 94.140.14.33 open.phone.igexin.com
 94.140.14.33 open.play.cn
-94.140.14.33 open.popnc.com
 94.140.14.33 open.snssdk.com
 94.140.14.33 open.snssdk.com.bytedns.net
 94.140.14.33 open.talk.igexin.com
 94.140.14.33 open.vmdb.se
-94.140.14.33 open.woodpeckerlog.com
 94.140.14.33 openadid.adnxs.com
 94.140.14.33 openapi-news.meizu.com
 94.140.14.33 openapi.cymera.com
@@ -17966,7 +17551,6 @@
 94.140.14.33 opskins.pro
 94.140.14.33 optimask-pro.com
 94.140.14.33 optimize.doubleclick.net
-94.140.14.33 optimize.google.com
 94.140.14.33 optimus-ads.amap.com
 94.140.14.33 optimus.ipinyou.com
 94.140.14.33 optout.ad1.adfarm1.adition.com
@@ -17977,7 +17561,6 @@
 94.140.14.33 optout.ad6.adfarm1.adition.com
 94.140.14.33 optout.ad7.adfarm1.adition.com
 94.140.14.33 optout.ad8.adfarm1.adition.com
-94.140.14.33 opus-dev.analytics.yahoo.com
 94.140.14.33 opus.analytics.yahoo.com
 94.140.14.33 oqurycnm.top
 94.140.14.33 order.music.xiaomi.com
@@ -18018,7 +17601,6 @@
 94.140.14.33 ourtherss.top
 94.140.14.33 ouruefsabfui.top
 94.140.14.33 outcome-cdn.supersonicads.com
-94.140.14.33 outgoingfan.pro
 94.140.14.33 outspot1-yizhuang.oupeng.com
 94.140.14.33 outward-analytics.elasticbeanstalk.com
 94.140.14.33 ouzhijie.top
@@ -18037,7 +17619,6 @@
 94.140.14.33 p-l.play.cp81.ott.cibntv.net
 94.140.14.33 p-mc.patpat-pro.xyz
 94.140.14.33 p.1ts17.top
-94.140.14.33 p.1ts18.top
 94.140.14.33 p.ace.advertising.com
 94.140.14.33 p.ad.gt
 94.140.14.33 p.admaster.com.cn
@@ -18085,7 +17666,6 @@
 94.140.14.33 p15-ad-sign.byteimg.com
 94.140.14.33 p15-orange.byteorge.com
 94.140.14.33 p16-ad-sign.byteimg.com
-94.140.14.33 p16-ad.byteoversea.com
 94.140.14.33 p16-orange.byteorge.com
 94.140.14.33 p17-ad-sign.byteimg.com
 94.140.14.33 p17-orange.byteorge.com
@@ -18095,7 +17675,6 @@
 94.140.14.33 p19-orange.byteorge.com
 94.140.14.33 p2-ad-sign.byteimg.com
 94.140.14.33 p2-orange.byteorge.com
-94.140.14.33 p2.ad.gt
 94.140.14.33 p2.l.qq.com
 94.140.14.33 p2.tribution.mobi
 94.140.14.33 p20-ad-sign.byteimg.com
@@ -18176,7 +17755,6 @@
 94.140.14.33 pagead2.jujinw.com
 94.140.14.33 pagead2.vxiaoshuo8.com
 94.140.14.33 pagead3.googlesyndication.com
-94.140.14.33 pagead46.googlesyndication.com
 94.140.14.33 pagead46.l.doubleclick.net
 94.140.14.33 pagepeel.ero-advertising.com
 94.140.14.33 pages-juxiao.mediav.com
@@ -18244,7 +17822,6 @@
 94.140.14.33 partner.alfa.kz
 94.140.14.33 partner.alloy.com
 94.140.14.33 partner.amonitsro.sk
-94.140.14.33 partner.api.getadmiral.com
 94.140.14.33 partner.applift.com
 94.140.14.33 partner.artmasteracademy.cz
 94.140.14.33 partner.auxilis.de
@@ -18256,7 +17833,6 @@
 94.140.14.33 partner.bio-nehty.cz
 94.140.14.33 partner.bioaromakosmetika.cz
 94.140.14.33 partner.brawolife.cz
-94.140.14.33 partner.breaktime.com.tw
 94.140.14.33 partner.brilianty.cz
 94.140.14.33 partner.buzzcity.com
 94.140.14.33 partner.candy.cz
@@ -18305,7 +17881,6 @@
 94.140.14.33 partner.hanamoneam.com
 94.140.14.33 partner.haru-shop.jp
 94.140.14.33 partner.hoska-tour.cz
-94.140.14.33 partner.i-mobile.co.jp
 94.140.14.33 partner.imrnous.cz
 94.140.14.33 partner.investinslovakia.eu
 94.140.14.33 partner.iodesign.cz
@@ -18360,7 +17935,6 @@
 94.140.14.33 partner.privatbank.ua
 94.140.14.33 partner.prosperk.cz
 94.140.14.33 partner.psidetektiv.cz
-94.140.14.33 partner.rvadnet.com
 94.140.14.33 partner.sbaffiliates.com
 94.140.14.33 partner.schalke04.de
 94.140.14.33 partner.scilearn.cz
@@ -18450,7 +18024,6 @@
 94.140.14.33 pb3.pstatp.com
 94.140.14.33 pbid.pro-market.net
 94.140.14.33 pbs.lenovomm.com
-94.140.14.33 pbx-ams1.corp.appnexus.com
 94.140.14.33 pc-ads.com
 94.140.14.33 pc.jipinyouwu.com
 94.140.14.33 pc.mobad.ijinshan.com
@@ -18458,7 +18031,6 @@
 94.140.14.33 pc.videoclick.baidu.com
 94.140.14.33 pc.yingshi.tcclick.1kxun.mobi
 94.140.14.33 pcbrowser.dd.qq.com
-94.140.14.33 pcdn.cpmstar.com
 94.140.14.33 pcfg.wps.cn
 94.140.14.33 pcookie.cnzz.com
 94.140.14.33 pcookie.cnzz.net
@@ -18554,7 +18126,6 @@
 94.140.14.33 phimxhay.pro
 94.140.14.33 phimxviet.pro
 94.140.14.33 phobos.apple.com.lp.mydas.mobi
-94.140.14.33 phobygipi.pro
 94.140.14.33 phohothiptu.pro
 94.140.14.33 phone-analytics.com
 94.140.14.33 phone.sendito.click
@@ -18602,7 +18173,6 @@
 94.140.14.33 piwik.adspaces.ero-advertising.com
 94.140.14.33 piwik.ero-advertising.com
 94.140.14.33 piwik.pro
-94.140.14.33 pix.adxpremium.services
 94.140.14.33 pix.eads.com
 94.140.14.33 pix.hyj.mobi
 94.140.14.33 pixel.ad
@@ -18646,15 +18216,12 @@
 94.140.14.33 planning-analytics.ibmcloud.com
 94.140.14.33 platform-api.newrelic.com
 94.140.14.33 platform-api.sharethis.com
-94.140.14.33 platform-metrics-api.sharethis.com
 94.140.14.33 platform.twitter.com
 94.140.14.33 platnosci-konto-update.aktuakont.live
 94.140.14.33 play-google.pl
 94.140.14.33 play.appiq.mobi
 94.140.14.33 play.s01.vidtodo.pro
 94.140.14.33 play.x8vn.top
-94.140.14.33 player-aws.ads.152media.com
-94.140.14.33 player.ads.152media.com
 94.140.14.33 playgo88.top
 94.140.14.33 playpornfree.top
 94.140.14.33 playtest-api.topaz-analytics.com
@@ -18666,7 +18233,6 @@
 94.140.14.33 plprogra-pro.programs-pl.xyz
 94.140.14.33 plsk.poland-pro-one.site
 94.140.14.33 plugin.mobopay.baidu.com
-94.140.14.33 plugin.ucads.ucweb.com
 94.140.14.33 plus.google.com
 94.140.14.33 plusujesz-tankujesz.click
 94.140.14.33 pm1.pvvstream.pro
@@ -18740,7 +18306,6 @@
 94.140.14.33 poogriry.click
 94.140.14.33 pool.ads.netlog.com
 94.140.14.33 pool2.ads.betweendigital.com
-94.140.14.33 pop.adrcdn.com
 94.140.14.33 pop.ero-advertising.com
 94.140.14.33 pop.mobpartner.mobi
 94.140.14.33 pop168.adsame.com
@@ -18790,15 +18355,11 @@
 94.140.14.33 posecoug.pro
 94.140.14.33 post.taobao.linezing.com
 94.140.14.33 post.update.3lift.com
-94.140.14.33 post.update.a-mo.net
 94.140.14.33 post.update.adsrvr.org
-94.140.14.33 post.update.ap.lijit.com
 94.140.14.33 post.update.fbsbx.com
 94.140.14.33 post.update.indexww.com
 94.140.14.33 post.update.moatads.com
 94.140.14.33 post.update.mopub.com
-94.140.14.33 post.update.spotxchange.com
-94.140.14.33 post.update.wo.gumgum.com
 94.140.14.33 post1.voiceads.cn
 94.140.14.33 postmaster-serveremail-update.web.app
 94.140.14.33 potrzebuje.click
@@ -18818,13 +18379,11 @@
 94.140.14.33 pptv.cm.admaster.com.cn
 94.140.14.33 pptv.m.cn.miaozhen.com
 94.140.14.33 ppurifier.game.xiaomi.com
-94.140.14.33 pq.ad.gt
 94.140.14.33 pr.analytics.console.aws.a2z.com
 94.140.14.33 pr.da.netease.com
 94.140.14.33 practivate.adobe.com
 94.140.14.33 prd.ads.aws.fwmrm.net
 94.140.14.33 pre-ad.alimama.com
-94.140.14.33 pre-adui.tg.meitu.com
 94.140.14.33 pre-adv.alimama.com
 94.140.14.33 pre-api-xspace.net.daraz.com
 94.140.14.33 pre-mpnewyear.uc.cn
@@ -18835,10 +18394,7 @@
 94.140.14.33 pre3-ad.alimama.com
 94.140.14.33 preaf-ad.jp
 94.140.14.33 prebid-analytics.tracker.network
-94.140.14.33 prebid-cache.yieldlove-ad-serving.net
-94.140.14.33 prebid-server.yieldlove-ad-serving.net
 94.140.14.33 prebid.ad.smaato.net
-94.140.14.33 prebid.adnxs-simple.com
 94.140.14.33 prebid.adnxs.com
 94.140.14.33 predictelnewv.top
 94.140.14.33 premium4kflix.top
@@ -18847,7 +18403,6 @@
 94.140.14.33 preview.adsame.com
 94.140.14.33 preview.msn.com
 94.140.14.33 preview.smartadserver.com
-94.140.14.33 prg-apac.smartadserver.com
 94.140.14.33 prg.smartadserver.com
 94.140.14.33 prg3429.smartadserver.com
 94.140.14.33 prg8.smartadserver.com
@@ -18862,7 +18417,6 @@
 94.140.14.33 privacy-api.9gag.com
 94.140.14.33 privacy-sdk.talent-soft.com
 94.140.14.33 privacy-update-secu-recovry-page-protection-association.web.id
-94.140.14.33 privacy.yieldlove-ad-serving.net
 94.140.14.33 privatix.pro
 94.140.14.33 privatix.top
 94.140.14.33 prizefestival.mobi
@@ -18871,7 +18425,6 @@
 94.140.14.33 prnhpe.pro
 94.140.14.33 pro-100news.ru
 94.140.14.33 pro-accesssoires.fr
-94.140.14.33 pro-ads.club
 94.140.14.33 pro-advert.de
 94.140.14.33 pro-advertising.com
 94.140.14.33 pro-ana-angels.wetpaint.com
@@ -19037,7 +18590,6 @@
 94.140.14.33 publicxxxvideo.pro
 94.140.14.33 publish-pic-cpu.baidu.com
 94.140.14.33 publish.ad.youth.cn
-94.140.14.33 publisher-api.spotxchange.com
 94.140.14.33 publisher-event.ads.prd.ie.internal.unity3d.com
 94.140.14.33 publisher-reporting-api.fyber.com
 94.140.14.33 publisherportal.doubleclick.net
@@ -19086,11 +18638,9 @@
 94.140.14.33 pw.analytics.console.aws.a2z.com
 94.140.14.33 pw.cnzz.com
 94.140.14.33 pwmail.cnzz.com
-94.140.14.33 px-intl.ucweb.com
 94.140.14.33 px.ads.linkedin.com
 94.140.14.33 px.pandora.com
 94.140.14.33 px.ucweb.com
-94.140.14.33 px4.ads.linkedin.com
 94.140.14.33 pxe.cnzz.com
 94.140.14.33 pxl.ace.advertising.com
 94.140.14.33 pxl.idx.admaster.com.cn
@@ -19190,7 +18740,6 @@
 94.140.14.33 r-ad.ne.jp
 94.140.14.33 r.2ad.wtf
 94.140.14.33 r.ace.advertising.com
-94.140.14.33 r.ad-stir.com
 94.140.14.33 r.ad1.ru
 94.140.14.33 r.ad4.com.cn
 94.140.14.33 r.ads.zynga.com
@@ -19239,7 +18788,6 @@
 94.140.14.33 rayli.adsame.com
 94.140.14.33 raymondblog.top
 94.140.14.33 razmokl-invest.pro
-94.140.14.33 rb.adnxs-simple.com
 94.140.14.33 rb.adnxs.com
 94.140.14.33 rbazhaheiz.top
 94.140.14.33 rc7e.top
@@ -19272,7 +18820,6 @@
 94.140.14.33 readyfacet.top
 94.140.14.33 readysugerfree.top
 94.140.14.33 readyupdate.thelatestmostreadytocontentgetnowfast.top
-94.140.14.33 real.sp.analytics.yahoo.com
 94.140.14.33 realsrv.com
 94.140.14.33 realsrv.name
 94.140.14.33 realtime-metrics.flurry.com
@@ -19293,7 +18840,6 @@
 94.140.14.33 reddleops.pro
 94.140.14.33 redewdit.pro
 94.140.14.33 redir-traffic.elephant-traffic.com
-94.140.14.33 redir.jads.co
 94.140.14.33 redirect-ads.com
 94.140.14.33 redirect-analytics.toast.com
 94.140.14.33 redirect.ad-feeds.com
@@ -19327,7 +18873,6 @@
 94.140.14.33 refuzzlizing.pro
 94.140.14.33 reginablog.top
 94.140.14.33 reginanahum.top
-94.140.14.33 region1.google-analytics.com
 94.140.14.33 register.inner-active.mobi
 94.140.14.33 register.xmpush.xiaomi.com
 94.140.14.33 regulamin24poczta.click
@@ -19355,21 +18900,16 @@
 94.140.14.33 removalconstraint.top
 94.140.14.33 remove-ads.xyz
 94.140.14.33 render-server.cdn.bcebos.com
-94.140.14.33 report-scripts.adrcdn.com
 94.140.14.33 report-stats.ad.jiguang.cn
 94.140.14.33 report.adview.cn
-94.140.14.33 report.adview.com
 94.140.14.33 report.appmetrica.yandex.net
-94.140.14.33 report.pro-market.net
 94.140.14.33 report.qq.com
-94.140.14.33 report.uc.heytapmobi.com
 94.140.14.33 report.url.cn
 94.140.14.33 report.vip.qq.com
 94.140.14.33 reportcentral.doubleclick.com
 94.140.14.33 reportcentral.doubleclick.net
 94.140.14.33 reports-api.oncustomer.asia
 94.140.14.33 reports-api.sqreen.io
-94.140.14.33 reports.ad.plus
 94.140.14.33 reports.advertising.com
 94.140.14.33 reports.doubleclick.com
 94.140.14.33 reports.doubleclick.net
@@ -19377,17 +18917,11 @@
 94.140.14.33 repostuj.push-ad.com
 94.140.14.33 req.adsmogo.mobi
 94.140.14.33 req.appads.com
-94.140.14.33 req.appads.in
 94.140.14.33 req1.appads.com
 94.140.14.33 req2.appads.com
 94.140.14.33 req3.appads.com
-94.140.14.33 request.adrcdn.com
 94.140.14.33 reroplittrewheck.pro
-94.140.14.33 res-ad-kr.kajicam.com
-94.140.14.33 res-ad.kajicam.com
 94.140.14.33 res-push.ad.jiguang.cn
-94.140.14.33 res.ad.jiguang.cn
-94.140.14.33 res.ateam-ad.jp
 94.140.14.33 res.mmstat.com
 94.140.14.33 resad.mediaid.click
 94.140.14.33 rescn.u3.ucweb.com
@@ -19480,15 +19014,12 @@
 94.140.14.33 rt.bongacams.mobi
 94.140.14.33 rta.vlion.cn
 94.140.14.33 rtb-ads.avazu.net
-94.140.14.33 rtb-analytics.brand-display.com
-94.140.14.33 rtb-api.rtbsuperhub.com
 94.140.14.33 rtb-csync-blackhole.smartadserver.com
 94.140.14.33 rtb-csync-eqx.smartadserver.com
 94.140.14.33 rtb-csync-itx4.smartadserver.com
 94.140.14.33 rtb-csync-itx5.smartadserver.com
 94.140.14.33 rtb-csync-tmk.smartadserver.com
 94.140.14.33 rtb-csync.smartadserver.com
-94.140.14.33 rtb-doubleclick.tenmax.io
 94.140.14.33 rtb.ad-stir.com
 94.140.14.33 rtb.admaster.com.cn
 94.140.14.33 rtb.adview.cn
@@ -19512,7 +19043,6 @@
 94.140.14.33 rujume.top
 94.140.14.33 rule34.top
 94.140.14.33 rum.api.intuit.com
-94.140.14.33 rum.browser-intake-datadoghq.com
 94.140.14.33 rusinlepading.pro
 94.140.14.33 ruslx.top
 94.140.14.33 russianschoolgirls.top
@@ -19528,7 +19058,6 @@
 94.140.14.33 rzekbhnk.top
 94.140.14.33 s-adobe.wacoal.jp
 94.140.14.33 s-yoolk-banner-assets.yoolk.com
-94.140.14.33 s.1ts18.top
 94.140.14.33 s.23dsf.top
 94.140.14.33 s.360.cn
 94.140.14.33 s.388bet.top
@@ -19537,7 +19066,6 @@
 94.140.14.33 s.ad4.com.cn
 94.140.14.33 s.adm.cnzz.net
 94.140.14.33 s.ads-twitter.com
-94.140.14.33 s.ads.152media.com
 94.140.14.33 s.ads.sohu.com
 94.140.14.33 s.ads.t-online.de
 94.140.14.33 s.adzmedia.mobi
@@ -19577,9 +19105,7 @@
 94.140.14.33 s.twitter.com
 94.140.14.33 s.union.360.cn
 94.140.14.33 s.update.3lift.com
-94.140.14.33 s.update.a-mo.net
 94.140.14.33 s.update.adsrvr.org
-94.140.14.33 s.update.ap.lijit.com
 94.140.14.33 s.update.fbsbx.com
 94.140.14.33 s.update.ib.adnxs.com
 94.140.14.33 s.update.indexww.com
@@ -19589,7 +19115,6 @@
 94.140.14.33 s.update.openx.com
 94.140.14.33 s.update.postimp-ofw.fyber.com
 94.140.14.33 s.update.rubiconproject.com
-94.140.14.33 s.update.spotxchange.com
 94.140.14.33 s.update.stickyadstv.com
 94.140.14.33 s.update.tas.yieldmo.com
 94.140.14.33 s.update.wo.gumgum.com
@@ -19681,7 +19206,6 @@
 94.140.14.33 s28.cnzz.com
 94.140.14.33 s29.cnzz.com
 94.140.14.33 s2s.adjust.com
-94.140.14.33 s2s.yieldlove-ad-serving.net
 94.140.14.33 s3-analytics-events.easybrain.com
 94.140.14.33 s3.cnzz.com
 94.140.14.33 s3.pfp.sina.net
@@ -19806,7 +19330,6 @@
 94.140.14.33 sanalytics.tbs.com
 94.140.14.33 sand-01.adnxs.com
 94.140.14.33 sand.api.adnxs.com
-94.140.14.33 sandbox.google-analytics.com
 94.140.14.33 sandbox.google.com.admin-mcas-gov.ms
 94.140.14.33 sandbox.sjws.baidu.com
 94.140.14.33 sanity-check.org
@@ -19905,8 +19428,6 @@
 94.140.14.33 sdk-controller.widespace.com
 94.140.14.33 sdk-data.bidmotion.com
 94.140.14.33 sdk-data.nv.prod.bidmotion.com
-94.140.14.33 sdk-diagnostics.prd.mz.internal.unity3d.com
-94.140.14.33 sdk-diagnostics.stg.mz.internal.unity3d.com
 94.140.14.33 sdk-endpoint.prod.tda.link
 94.140.14.33 sdk-events.inner-active.mobi
 94.140.14.33 sdk-globalconfig.aiclk.com
@@ -19926,7 +19447,6 @@
 94.140.14.33 sdk-vmh.prod-univision.com
 94.140.14.33 sdk.51.la
 94.140.14.33 sdk.91demi.com
-94.140.14.33 sdk.a-mo.net
 94.140.14.33 sdk.a4.tl
 94.140.14.33 sdk.a79h.cn
 94.140.14.33 sdk.ad.smaato.net
@@ -19983,14 +19503,12 @@
 94.140.14.33 sdk.guard.mob.com
 94.140.14.33 sdk.hansel.io
 94.140.14.33 sdk.hexia.io
-94.140.14.33 sdk.heyzap.com
 94.140.14.33 sdk.hockeyapp.net
 94.140.14.33 sdk.hostyour.video
 94.140.14.33 sdk.iad-01.braze.com
 94.140.14.33 sdk.iad-02.braze.com
 94.140.14.33 sdk.iad-03.appboy.com
 94.140.14.33 sdk.iad-03.braze.com
-94.140.14.33 sdk.iad-05.braze.com
 94.140.14.33 sdk.iad-06.braze.com
 94.140.14.33 sdk.iad-08.braze.com
 94.140.14.33 sdk.iappgame.com
@@ -20005,7 +19523,6 @@
 94.140.14.33 sdk.inlocomedia.com
 94.140.14.33 sdk.inmobi.cn
 94.140.14.33 sdk.inmobi.com
-94.140.14.33 sdk.ironbeast.io
 94.140.14.33 sdk.jeeng.com
 94.140.14.33 sdk.jiguang.cn
 94.140.14.33 sdk.justad.mobi
@@ -20061,7 +19578,6 @@
 94.140.14.33 sdk.tigertext.me
 94.140.14.33 sdk.touchcast.com
 94.140.14.33 sdk.tresensa.com
-94.140.14.33 sdk.truepush.com
 94.140.14.33 sdk.upush.co
 94.140.14.33 sdk.user.gamex.mobile.youku.com
 94.140.14.33 sdk.verification.jiguang.cn
@@ -20134,7 +19650,6 @@
 94.140.14.33 secure.runescape.com-iii.top
 94.140.14.33 secure.runescape.com-rka.top
 94.140.14.33 secure.uac.advertising.com
-94.140.14.33 secureframe.doubleclick.net
 94.140.14.33 securepubads.g.doubleclick.net
 94.140.14.33 security-alert.kej8i8i69v.top
 94.140.14.33 security-alert.wz6l9nmd.top
@@ -20177,18 +19692,14 @@
 94.140.14.33 server.roulette-faker.pro
 94.140.14.33 service-ad-impression-proxy.clusters.pluto.tv
 94.140.14.33 service-api.accesstrade.vn
-94.140.14.33 service-dev.idsync.analytics.yahoo.com
 94.140.14.33 service.ad.adesk.com
 94.140.14.33 service.ad.duomi.com
-94.140.14.33 service.idsync.analytics.yahoo.com
 94.140.14.33 service.jiagu.360.cn
 94.140.14.33 service.sp.advertising.com
 94.140.14.33 servicer.traffic-media.co.uk
 94.140.14.33 services.runescape.com-wet.top
 94.140.14.33 serving-ad.tv24.vn
 94.140.14.33 serving.ad.org.vn
-94.140.14.33 serving.dfnb-ads.com
-94.140.14.33 session-replay.browser-intake-datadoghq.com
 94.140.14.33 sessotube.pro
 94.140.14.33 sestat.baidu.com
 94.140.14.33 setting.snswin.qq.com
@@ -20252,7 +19763,6 @@
 94.140.14.33 sfp-adserver-cdn.sharethrough.com
 94.140.14.33 sfzhd.top
 94.140.14.33 sg-ad.sam4m.com
-94.140.14.33 sg-tracker.appads.in
 94.140.14.33 sg.a.stat.mi.com
 94.140.14.33 sg.mmstat.com
 94.140.14.33 sg01.top
@@ -20279,7 +19789,6 @@
 94.140.14.33 share-stores.com
 94.140.14.33 share-your-wife-with-us.tumblr.com
 94.140.14.33 share.9cdn.net
-94.140.14.33 share.asianmedia.com
 94.140.14.33 share.baidu.com
 94.140.14.33 share.connect.aig
 94.140.14.33 share.ebforms.com
@@ -20321,7 +19830,6 @@
 94.140.14.33 shondy.adsame.com
 94.140.14.33 shop.cnzz.com
 94.140.14.33 shop115048570.taobao.com
-94.140.14.33 shopping.ad.kakaocorp.com
 94.140.14.33 shoppingbox.partner.leguide.com
 94.140.14.33 shoptylasty.pro
 94.140.14.33 short-share.com
@@ -20417,7 +19925,6 @@
 94.140.14.33 slog.sina.cn
 94.140.14.33 slog.sina.com.cn
 94.140.14.33 sloopyjoes.com.top
-94.140.14.33 slot.union.ucweb.com
 94.140.14.33 sltint.adv.ott.cibntv.net
 94.140.14.33 sm-campaign.s3-us-west-2.amazonaws.com
 94.140.14.33 sm-epsilon.com
@@ -20466,7 +19973,6 @@
 94.140.14.33 smt.admaster.com.cn
 94.140.14.33 smtp.ero-advertising.com
 94.140.14.33 smtp.mobpartner.mobi
-94.140.14.33 smtp.trafficjunky.net
 94.140.14.33 smutindia.pro
 94.140.14.33 sn001.trax-ad.jp
 94.140.14.33 sn002.trax-ad.jp
@@ -20502,8 +20008,6 @@
 94.140.14.33 soloteenmovs.pro
 94.140.14.33 solutions.playernetca.top
 94.140.14.33 solvement.mobi
-94.140.14.33 soma-ap-southeast-1.ad.smaato.net
-94.140.14.33 soma-eu-west-1.ad.smaato.net
 94.140.14.33 sopes.dns-cloud.net
 94.140.14.33 sor-sdk.follow-apps.com
 94.140.14.33 sotetahe.pro
@@ -20513,9 +20017,7 @@
 94.140.14.33 source.click.ipd.pps.tv
 94.140.14.33 sourcecode.pro
 94.140.14.33 southwest-airlines-mkt-prod1-lb.campaign.adobe.com
-94.140.14.33 sp-api.a8.net
 94.140.14.33 sp-api.dable.io
-94.140.14.33 sp-ycpi.analytics.yahoo.com
 94.140.14.33 sp.ad.adlantis.jp
 94.140.14.33 sp.ads-tool.jp
 94.140.14.33 sp.ads.jlisting.jp
@@ -20563,7 +20065,6 @@
 94.140.14.33 sports-update.mobileposse.com
 94.140.14.33 spot-01.trackingpro.pro
 94.140.14.33 sppk-update.top
-94.140.14.33 spr.ad-stir.com
 94.140.14.33 springclick-ads.s3.amazonaws.com
 94.140.14.33 springdetect.top
 94.140.14.33 sprm4xcn.top
@@ -20579,7 +20080,6 @@
 94.140.14.33 sqyx.top
 94.140.14.33 sr-dynamic-content.ext.api.leclerc
 94.140.14.33 sr.impact-ad.jp
-94.140.14.33 sra-delivery.yieldlove-ad-serving.net
 94.140.14.33 srd.simba.taobao.com
 94.140.14.33 sredscee.top
 94.140.14.33 srtb.msn.com
@@ -20643,26 +20143,17 @@
 94.140.14.33 st.pay-click.ru
 94.140.14.33 st3.wagbridge.advertisement.tanx.com
 94.140.14.33 stack-exchange-dynamic-ads.herokuapp.com
-94.140.14.33 stage-ad.ad-stir.com
 94.140.14.33 stage-spyder-api.partner.net.daraz.com
 94.140.14.33 stage-uev.ad-stir.com
-94.140.14.33 stage.ad-stir.com
-94.140.14.33 stage.ad.mediawayss.com
 94.140.14.33 stage.adjust.io
 94.140.14.33 stage.alphagirlz.mobi
 94.140.14.33 stage.ap1.alphagirlz.mobi
 94.140.14.33 stage.ap2.alphagirlz.mobi
-94.140.14.33 stage.tr.ad-stir.com
-94.140.14.33 staging-ads.adtarget.me
-94.140.14.33 staging-ads.blogherads.com
 94.140.14.33 staging-ads.flurry.com
-94.140.14.33 staging-api.omappapi.com
 94.140.14.33 staging-console-cdn.adnxs.com
 94.140.14.33 staging-e-vcdn.anthill.vn
 94.140.14.33 staging.admin.e.mi.com
 94.140.14.33 staging.api.adtimaserver.vn
-94.140.14.33 staging.campaign.ateam-ad.jp
-94.140.14.33 staging.corp.evidon.com
 94.140.14.33 staging.sdkconfig.ad.xiaomi.srv
 94.140.14.33 stalluva.pro
 94.140.14.33 star-advertising.com
@@ -20700,12 +20191,9 @@
 94.140.14.33 stat2.corp.v-56.com
 94.140.14.33 stat3.corp.v-56.com
 94.140.14.33 static-addtoany-com.cdn.ampproject.org
-94.140.14.33 static-ads.adtarget.me
 94.140.14.33 static-ads.akamaized.net
 94.140.14.33 static-ads.zaloapp.com
-94.140.14.33 static-analytics.adkernel.com
 94.140.14.33 static-analytics.nativeads.com
-94.140.14.33 static-doubleclick-net.l.google.com
 94.140.14.33 static-google-analtyic.com
 94.140.14.33 static-interactive-api.nend.net
 94.140.14.33 static-ssl.mediav.com
@@ -20724,8 +20212,6 @@
 94.140.14.33 static.adwo.com
 94.140.14.33 static.alimama.com
 94.140.14.33 static.analytics-site.com
-94.140.14.33 static.analytics.adkernel.com
-94.140.14.33 static.api.sociaplus.com
 94.140.14.33 static.cdn.gtsads.com
 94.140.14.33 static.de.euserv.adaos-ads.net
 94.140.14.33 static.doubleclick.com
@@ -20739,7 +20225,6 @@
 94.140.14.33 static.map.bdimg.com
 94.140.14.33 static.mediav.com
 94.140.14.33 static.mibi.xiaomi.com
-94.140.14.33 static.mobads.baidu.com
 94.140.14.33 static.pay.baidu.com
 94.140.14.33 static.rtb.adx1.com
 94.140.14.33 static.safe.baidu.com
@@ -20783,7 +20268,6 @@
 94.140.14.33 stats.justad.mobi
 94.140.14.33 stats.l.doubleclick.net
 94.140.14.33 stats.mokeedev.com
-94.140.14.33 stats.ord.trafficjunky.net
 94.140.14.33 stats.osteopathes.pro
 94.140.14.33 stats.pandora.com
 94.140.14.33 stats.paysagistes.pro
@@ -20807,23 +20291,7 @@
 94.140.14.33 steenbergen.web.ero-advertising.com
 94.140.14.33 stenadewy.pro
 94.140.14.33 stepsothohe.pro
-94.140.14.33 stg-data-f.ads.heytapmobi.com
-94.140.14.33 stg-data-f.ads.heytapmobile.com
-94.140.14.33 stg-data-id.ads.heytapmobi.com
-94.140.14.33 stg-data-id.ads.heytapmobile.com
-94.140.14.33 stg-data-in.ads.heytapmobi.com
-94.140.14.33 stg-data-in.ads.heytapmobile.com
-94.140.14.33 stg-data-kh.ads.heytapmobile.com
-94.140.14.33 stg-data-mm.ads.heytapmobile.com
-94.140.14.33 stg-data-my.ads.heytapmobile.com
-94.140.14.33 stg-data-ph.ads.heytapmobile.com
-94.140.14.33 stg-data-sg.ads.heytapmobi.com
-94.140.14.33 stg-data-sg.ads.heytapmobile.com
-94.140.14.33 stg-data-th.ads.heytapmobile.com
-94.140.14.33 stg-data-tw.ads.heytapmobile.com
-94.140.14.33 stg-data-vn.ads.heytapmobile.com
 94.140.14.33 stg-data.ads.heytapmobi.com
-94.140.14.33 stg-partner.breaktime.com.tw
 94.140.14.33 stgowan.com
 94.140.14.33 sticans.pro
 94.140.14.33 stinger-ad.bidr.io
@@ -20855,8 +20323,6 @@
 94.140.14.33 streamwatch.pro
 94.140.14.33 strip.alicdn.com
 94.140.14.33 strip.taobaocdn.com
-94.140.14.33 sts.advertising.microsoft.com
-94.140.14.33 sts.si.advertising.microsoft.com
 94.140.14.33 sttcc.top
 94.140.14.33 sttrr.top
 94.140.14.33 studio.doubleclick.com
@@ -20907,7 +20373,6 @@
 94.140.14.33 sv-static1-lottery.headlines.pw
 94.140.14.33 sv.video.qq.com
 94.140.14.33 svc-analytics.adkernel.com
-94.140.14.33 svc.analytics.adkernel.com
 94.140.14.33 svc.analytics.nativeads.com
 94.140.14.33 svekolasg.pro
 94.140.14.33 svwsvn.top
@@ -20929,7 +20394,6 @@
 94.140.14.33 sync.3g.qq.com
 94.140.14.33 sync.ad-stir.com
 94.140.14.33 sync.adaptv.advertising.com
-94.140.14.33 sync.ads.152media.com
 94.140.14.33 sync.ads.yieldmo.com
 94.140.14.33 sync.adx.adnxs.com
 94.140.14.33 sync.ero-advertising.com
@@ -20944,7 +20408,6 @@
 94.140.14.33 syndication.adk2x.com
 94.140.14.33 syndication.adlandmark.com
 94.140.14.33 syndication.advertiserurl.com
-94.140.14.33 syndication.adxoo.com
 94.140.14.33 syndication.cntrafficpro.com
 94.140.14.33 syndication.dtcn.com
 94.140.14.33 syndication.dynsrvtbg.com
@@ -20959,7 +20422,6 @@
 94.140.14.33 syndication.exoclick.com
 94.140.14.33 syndication.exoclickz.com
 94.140.14.33 syndication.exosrv.com
-94.140.14.33 syndication.exrtbsrv.com
 94.140.14.33 syndication.globaltraffico.com
 94.140.14.33 syndication.intel.com
 94.140.14.33 syndication.jobthread.com
@@ -20988,7 +20450,6 @@
 94.140.14.33 syndication.voodoo.com
 94.140.14.33 syndication.whibd.com
 94.140.14.33 syndication.whibp.com
-94.140.14.33 syndication.winadx.com
 94.140.14.33 sys.8kun.top
 94.140.14.33 sys_andriod20_designer.dynamic-dns.net
 94.140.14.33 sysitemff.customeronline.top
@@ -21016,7 +20477,6 @@
 94.140.14.33 t.agrantsem.com
 94.140.14.33 t.alimama.com
 94.140.14.33 t.dsp.mediav.com
-94.140.14.33 t.easyads28.mobi
 94.140.14.33 t.extreme-dm.com
 94.140.14.33 t.hmwebs.top
 94.140.14.33 t.l.qq.com
@@ -21062,12 +20522,10 @@
 94.140.14.33 tag-dev.sp.advertising.com
 94.140.14.33 tag-store.ads-pixiv.net
 94.140.14.33 tag.admaster.com.cn
-94.140.14.33 tag.idsync.analytics.yahoo.com
 94.140.14.33 tag.links-analytics.com
 94.140.14.33 tag.sp.advertising.com
 94.140.14.33 tagmanager.smartadserver.com
 94.140.14.33 tags-cdn.deployads.com
-94.140.14.33 tags-uc.growingio.com
 94.140.14.33 tags.api.umbel.com
 94.140.14.33 tags.native-ad.net
 94.140.14.33 taiheian.top
@@ -21153,7 +20611,6 @@
 94.140.14.33 telemetry.api.playstation.com
 94.140.14.33 telemetry.api.swiftkey.com
 94.140.14.33 telemetry.appex.bing.net
-94.140.14.33 telemetry.sdk.eastus-ssp.appgwv2.inmobi.com
 94.140.14.33 telemetry.sdk.inmobi.cn
 94.140.14.33 telemetry.sdk.inmobi.com
 94.140.14.33 telemetry.sdk.vip.ams1.inmobi.com
@@ -21361,7 +20818,6 @@
 94.140.14.33 tools.ad-net.co.uk
 94.140.14.33 tools.mobpartner.mobi
 94.140.14.33 tools.sbs-ad.com
-94.140.14.33 top-advertise.com
 94.140.14.33 top-application-web-online.site
 94.140.14.33 top-bloggers.com
 94.140.14.33 top-camgirls.com
@@ -21500,15 +20956,12 @@
 94.140.14.33 toutiao.jxnews.com.cn
 94.140.14.33 toutiao.xn--fiqs8s
 94.140.14.33 touzi110.mobi
-94.140.14.33 tp.ads.yahoo.com
 94.140.14.33 tp992.top
 94.140.14.33 tpat.api.vungle.akadns.net
 94.140.14.33 tpat.api.vungle.com
 94.140.14.33 tpc.googlesyndication.com
 94.140.14.33 tpc.googlesyndication.com.proxy.c9w.net
 94.140.14.33 tpcnc.googlesyndication.com
-94.140.14.33 tpe-ads-cdn.tenmax.io
-94.140.14.33 tpe-ads-media-cdn.tenmax.io
 94.140.14.33 tpptv.ipdx.cn.miaozhen.com
 94.140.14.33 tpush.html5.qq.com
 94.140.14.33 tqgj.mediav.com
@@ -21533,7 +20986,6 @@
 94.140.14.33 trace-2000.com
 94.140.14.33 trace.690.co
 94.140.14.33 trace.ad7.com
-94.140.14.33 trace.browser-intake-datadoghq.com
 94.140.14.33 trace.events
 94.140.14.33 trace.insead.edu
 94.140.14.33 trace.jdtracker.com
@@ -21546,12 +20998,10 @@
 94.140.14.33 trace.ynet.com
 94.140.14.33 trace.zhiziyun.com
 94.140.14.33 track-help.admaster.com.cn
-94.140.14.33 track-sdk.customer.io
 94.140.14.33 track.ad.nl
 94.140.14.33 track.ad.xiaomi.com
 94.140.14.33 track.admaster.com.cn
 94.140.14.33 track.adwo.com
-94.140.14.33 track.analytics-data.io
 94.140.14.33 track.bcvc.mobi
 94.140.14.33 track.buybox.click
 94.140.14.33 track.hot-mob.com
@@ -21613,7 +21063,6 @@
 94.140.14.33 traffic-monetizer.com
 94.140.14.33 traffic-offers.com
 94.140.14.33 traffic-redirecting.com
-94.140.14.33 traffic-serv.winadx.com
 94.140.14.33 traffic-staff.com
 94.140.14.33 traffic-stats.streamsolutions.co.uk
 94.140.14.33 traffic-supremacy.com
@@ -21818,7 +21267,6 @@
 94.140.14.33 uc.xiansuper.com
 94.140.14.33 uc.zhuici.com
 94.140.14.33 uc9.ucweb.com
-94.140.14.33 ucads.ucweb.com
 94.140.14.33 ucdc-upaas.uc.cn
 94.140.14.33 ucdn.website
 94.140.14.33 ucone.click
@@ -21835,8 +21283,6 @@
 94.140.14.33 ug.rtb.adx1.com
 94.140.14.33 ug.snssdk.com
 94.140.14.33 ugok.fessing.top
-94.140.14.33 ui-api.youbora.com
-94.140.14.33 ui.ad-score.com
 94.140.14.33 uid.ksosoft.com
 94.140.14.33 uil.cbs.baidu.com
 94.140.14.33 uk-ad2.adinfuse.com
@@ -21870,7 +21316,6 @@
 94.140.14.33 unifiedbidding.ad.smaato.net
 94.140.14.33 unilife.top
 94.140.14.33 unimportant-vehicle.pro
-94.140.14.33 union-tracking.duapps.com
 94.140.14.33 union.114.com.cn
 94.140.14.33 union.163.com
 94.140.14.33 union.2345.com
@@ -21905,7 +21350,6 @@
 94.140.14.33 union.star-media.cn
 94.140.14.33 union.tanx.com
 94.140.14.33 union.tudou.com
-94.140.14.33 union.ucweb.com
 94.140.14.33 union.xunlei.com
 94.140.14.33 union.yesky.com
 94.140.14.33 union.yihaodian.com
@@ -21958,11 +21402,9 @@
 94.140.14.33 update.360safe.com
 94.140.14.33 update.3lift.com
 94.140.14.33 update.51edm.net
-94.140.14.33 update.a-mo.net
 94.140.14.33 update.adflex.vn
 94.140.14.33 update.adsmogo.net
 94.140.14.33 update.adsrvr.org
-94.140.14.33 update.ap.lijit.com
 94.140.14.33 update.aubemobile.com
 94.140.14.33 update.baidu.com
 94.140.14.33 update.bainv.net
@@ -21972,7 +21414,6 @@
 94.140.14.33 update.cg100iii.com
 94.140.14.33 update.coolyun.com
 94.140.14.33 update.cpc.sogou.com
-94.140.14.33 update.crashlytics.com
 94.140.14.33 update.dbankcdn.com
 94.140.14.33 update.fbsbx.com
 94.140.14.33 update.fortinetantivirus.com
@@ -22024,7 +21465,6 @@
 94.140.14.33 upload.ksapisrv.com
 94.140.14.33 upload.twitter.com
 94.140.14.33 upload_data.qq.com
-94.140.14.33 uploaded.yieldlove-ad-serving.net
 94.140.14.33 uplynk.adaptv.advertising.com
 94.140.14.33 upoll.umengcloud.com
 94.140.14.33 uporn.pro
@@ -22051,13 +21491,10 @@
 94.140.14.33 us-east-2.prod.pr.analytics.console.aws.a2z.com
 94.140.14.33 us-east-ad-track.aralego.com
 94.140.14.33 us-east-ads.aralego.com
-94.140.14.33 us-east4.ads.playground.xyz
 94.140.14.33 us-events.api.iheart.com
 94.140.14.33 us-west-2.prod.pr.analytics.console.aws.a2z.com
 94.140.14.33 us-west-2.stinger-ad.bidr.io
-94.140.14.33 us-west1.ads.playground.xyz
 94.140.14.33 us.ads.justpremium.com
-94.140.14.33 us.ads.yap.yahoo.com
 94.140.14.33 us.best-top.biz
 94.140.14.33 us.cfcnet.top
 94.140.14.33 us.event.cmp.advertising.com
@@ -22206,7 +21643,6 @@
 94.140.14.33 vashebiwa.pro
 94.140.14.33 vast-events-staging.inner-active.mobi
 94.140.14.33 vast-events.inner-active.mobi
-94.140.14.33 vast.ad-score.com
 94.140.14.33 vavada-casino.top
 94.140.14.33 vazypteke.pro
 94.140.14.33 vbaof.admaster.com.cn
@@ -22216,14 +21652,12 @@
 94.140.14.33 vbucksbooster.pro
 94.140.14.33 vcdn.18teenpornhd.com
 94.140.14.33 vcdn.18teenpussyfuck.com
-94.140.14.33 vcdn.adnxs-simple.com
 94.140.14.33 vcdn.adnxs.com
 94.140.14.33 vcdn.anthill.vn
 94.140.14.33 vcdn.biz
 94.140.14.33 vcdn.media.innity.net
 94.140.14.33 vcdn.slushe.com
 94.140.14.33 vcdn.teensonporn.com
-94.140.14.33 vcdn.tsyndicate.com
 94.140.14.33 vcdn.xozilla.com
 94.140.14.33 vcdn.xtits.com
 94.140.14.33 vcdn.zbporn.com
@@ -22242,7 +21676,6 @@
 94.140.14.33 verification.jiguang.cn
 94.140.14.33 verified-download.com
 94.140.14.33 verify.mob.com
-94.140.14.33 verity-api.gumgum.com
 94.140.14.33 veronicablog.top
 94.140.14.33 vertical.adsame.com
 94.140.14.33 verycheap.cheap-ads.net
@@ -22271,7 +21704,6 @@
 94.140.14.33 video-ads.rubiconproject.com-v1.edgekey.net
 94.140.14.33 video-analytics.l.google.com
 94.140.14.33 video-stats.video.google.com
-94.140.14.33 video.ad.plus
 94.140.14.33 video.adaptv.advertising.com
 94.140.14.33 video.market.xiaomi.com
 94.140.14.33 video.mpush.qq.com
@@ -22279,7 +21711,6 @@
 94.140.14.33 video.ureport.push.qq.com
 94.140.14.33 video.wap.mpush.qq.com
 94.140.14.33 video.xiaomi.com
-94.140.14.33 videoapi.smartadserver.com
 94.140.14.33 videolucah.mobi
 94.140.14.33 videomature.pro
 94.140.14.33 videopotok.pro
@@ -22290,7 +21721,6 @@
 94.140.14.33 videotrailer.top
 94.140.14.33 videoxlist.mobi
 94.140.14.33 videoxxx.mobi
-94.140.14.33 vidspot-adn.ad-stir.com
 94.140.14.33 view-ads.de
 94.140.14.33 view-prod.ad.singular.net
 94.140.14.33 view.adjust.com
@@ -22766,7 +22196,6 @@
 94.140.14.33 vmap.v.ad-generation.jp
 94.140.14.33 vmco.adk2.co
 94.140.14.33 vmindhls.tc.qq.com
-94.140.14.33 vn.ad.lgsmartad.com
 94.140.14.33 vn.adsame.com
 94.140.14.33 vn.avhd.mobi
 94.140.14.33 vn88.mobi
@@ -22780,7 +22209,6 @@
 94.140.14.33 voiceads.cn
 94.140.14.33 volkin-invest.pro
 94.140.14.33 voodoo-ads.io
-94.140.14.33 voodoo-analytics.io
 94.140.14.33 voordeel.ad.nl
 94.140.14.33 vortex.data.msn.com
 94.140.14.33 voyeurhouse.pro
@@ -22791,7 +22219,6 @@
 94.140.14.33 vpptv.admaster.com.cn
 94.140.14.33 vpt58.tvnewtop.pro
 94.140.14.33 vqq.admaster.com.cn
-94.140.14.33 vr.ad-stir.com
 94.140.14.33 vrt.hb-api.omtrdc.net
 94.140.14.33 vs-andr-push.baidu.com
 94.140.14.33 vs-api.voodoo-tech.io
@@ -23175,7 +22602,6 @@
 94.140.14.33 vzxredtgyiqw.top
 94.140.14.33 vzxvhfds.top
 94.140.14.33 w-dramat.click
-94.140.14.33 w.ad.style
 94.140.14.33 w.ads2.eqads.com
 94.140.14.33 w.cnzz.com
 94.140.14.33 w.extreme-dm.com
@@ -23250,7 +22676,6 @@
 94.140.14.33 web-ad.xyz
 94.140.14.33 web-analysis.click
 94.140.14.33 web-analytics.date
-94.140.14.33 web-analytics.smile.io
 94.140.14.33 web-check.co
 94.140.14.33 web-ib-mizuhobankc-co-jp.top
 94.140.14.33 web-ib-mizuhobankg-co-jp.top
@@ -23339,7 +22764,6 @@
 94.140.14.33 wiadomoscipolska99.pro-linuxpl.com
 94.140.14.33 widget-analytics.virool.com
 94.140.14.33 widget.weibo.com
-94.140.14.33 widgets.ad.style
 94.140.14.33 widgets.platform.twitter.com
 94.140.14.33 wifesharing.pro
 94.140.14.33 wifi-api.adsplay.xyz
@@ -23405,7 +22829,6 @@
 94.140.14.33 wp.brandnewapp.pro
 94.140.14.33 wp.stat.xunlei.com
 94.140.14.33 wpr.hot-mob.com
-94.140.14.33 wps.relateddigital.com
 94.140.14.33 wr.da.netease.com
 94.140.14.33 wracam.click
 94.140.14.33 wrontonshatbona.pro
@@ -25178,10 +24601,8 @@
 94.140.14.33 xads.100links.com
 94.140.14.33 xads.codon.vn
 94.140.14.33 xads.joboko.com
-94.140.14.33 xads.one
 94.140.14.33 xads.zedo.com
 94.140.14.33 xamvn.pro
-94.140.14.33 xapi.jads.co
 94.140.14.33 xbc8fsvo5w75wwx8.pro
 94.140.14.33 xbvcfrte.top
 94.140.14.33 xbx.mobi
@@ -25385,7 +24806,6 @@
 94.140.14.33 xzj.kebi1.top
 94.140.14.33 xzwdo.top
 94.140.14.33 xzx.mobi
-94.140.14.33 y.analytics.app-adforce.jp
 94.140.14.33 y.analytics.yahoo.com
 94.140.14.33 y.extreme-dm.com
 94.140.14.33 y.one.impact-ad.com
@@ -25417,7 +24837,6 @@
 94.140.14.33 yds.kebi1.top
 94.140.14.33 yeah.qq.com
 94.140.14.33 yellowskin.top
-94.140.14.33 yeti-api.automatad.com
 94.140.14.33 yfcbqz.thousandquotientscience.top
 94.140.14.33 ygbhn.upling.top
 94.140.14.33 ygfjy.top
@@ -25550,8 +24969,6 @@
 94.140.14.33 zalo-ads.mediaz.vn
 94.140.14.33 zalo-ads.zadn.vn
 94.140.14.33 zaloapp.ads.zdn.vn
-94.140.14.33 zaloramy.api.sociaplus.com
-94.140.14.33 zalorasg.api.sociaplus.com
 94.140.14.33 zaqedc.top
 94.140.14.33 zavunuve.pro
 94.140.14.33 zazerygu.pro
