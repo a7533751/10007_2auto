@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-10-06 17:00:50 
+#更新时间: 2022-10-06 18:20:34 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25864
+#规则数量:25886
 ##################
 
 1.1.1.1 0.r.msn.com
@@ -8307,6 +8307,7 @@
 1.1.1.1 advertpay.vip.xunlei.com
 1.1.1.1 advice-ads-cdn.vice.com
 1.1.1.1 advice-ads.s3.amazonaws.com
+1.1.1.1 advideo.dsp.yandexadexchange.net
 1.1.1.1 adview.cn
 1.1.1.1 adview.com
 1.1.1.1 adview.pl
@@ -8332,6 +8333,7 @@
 1.1.1.1 adx-api.a.mobimagic.com
 1.1.1.1 adx-api.mobadvent.com
 1.1.1.1 adx-api.otm-r.com
+1.1.1.1 adx-dre.op.hicloud.com
 1.1.1.1 adx-f.ads.heytapmobi.com
 1.1.1.1 adx-f.ads.heytapmobile.com
 1.1.1.1 adx-id.ads.heytapmobi.com
@@ -8574,6 +8576,7 @@
 1.1.1.1 an.appads.com
 1.1.1.1 an.pxl.ace.advertising.com
 1.1.1.1 an.yandex.ru
+1.1.1.1 an.yandexadexchange.net
 1.1.1.1 anal-porno.pro
 1.1.1.1 analitics-pro.cyou
 1.1.1.1 analpics.pro
@@ -11513,6 +11516,7 @@
 1.1.1.1 bigbrainker.top
 1.1.1.1 bigdesign.top
 1.1.1.1 bigindiansex.mobi
+1.1.1.1 bigo.dsp.yandexadexchange.net
 1.1.1.1 bihu.adsame.com
 1.1.1.1 billing-partner.net.daraz.com
 1.1.1.1 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -13125,6 +13129,7 @@
 1.1.1.1 data.emb-api.com
 1.1.1.1 data.ero-advertising.com
 1.1.1.1 data.flurry.com
+1.1.1.1 data.hicloud.com
 1.1.1.1 data.kaoyany.top
 1.1.1.1 data.mob.com
 1.1.1.1 data.ppn-ad-cdn.populis.com
@@ -13134,6 +13139,7 @@
 1.1.1.1 data.wunderman-email.cjm.adobe.com
 1.1.1.1 data2.ad-score.com
 1.1.1.1 data2.ero-advertising.com
+1.1.1.1 datacollector-dra.dt.hicloud.com
 1.1.1.1 dataf.ads.oppomobile.com
 1.1.1.1 datais.ads.targetnet.com
 1.1.1.1 datalab.cloud.google.com.admin-mcas-df.ms
@@ -14032,6 +14038,7 @@
 1.1.1.1 events-api.outfit7.com
 1.1.1.1 events-api.outfit7.net
 1.1.1.1 events-collector-api.viacom.tech
+1.1.1.1 events-dra.op.hicloud.com
 1.1.1.1 events-jp.splash-screen.net
 1.1.1.1 events.adjust.com
 1.1.1.1 events.api.boomtrain.com
@@ -16382,6 +16389,7 @@
 1.1.1.1 log57.top
 1.1.1.1 log7.mmstat.com
 1.1.1.1 logabc.pro
+1.1.1.1 logbak.hicloud.com
 1.1.1.1 logging.api.intuit.com
 1.1.1.1 logging03.wxs.nl
 1.1.1.1 login.365.eperidemo.net
@@ -16390,6 +16398,9 @@
 1.1.1.1 logistichygienic.top
 1.1.1.1 logsdk.qq.com
 1.1.1.1 logserver.insight.ucweb.com
+1.1.1.1 logservice-dra.platform.hicloud.com
+1.1.1.1 logservice.hicloud.com
+1.1.1.1 logservice1.hicloud.com
 1.1.1.1 logssug.ucweb.com
 1.1.1.1 logupdate.avlyun.sec.miui.com
 1.1.1.1 logview.uc.alimama.com
@@ -16862,10 +16873,17 @@
 1.1.1.1 metrica.yandex.ru
 1.1.1.1 metrica.yandex.ua
 1.1.1.1 metrics-api.librato.com
+1.1.1.1 metrics-dra.dt.hicloud.com
 1.1.1.1 metrics.api.drift.com
 1.1.1.1 metrics.api.yle.fi
+1.1.1.1 metrics.data.hicloud.com
 1.1.1.1 metrics.pandora.com
 1.1.1.1 metrics.tbs.com
+1.1.1.1 metrics1.data.hicloud.com
+1.1.1.1 metrics2.data.hicloud.com
+1.1.1.1 metrics3.data.hicloud.com
+1.1.1.1 metrics4.data.hicloud.com
+1.1.1.1 metrics5.data.hicloud.com
 1.1.1.1 metrika.yandex.by
 1.1.1.1 metrika.yandex.com
 1.1.1.1 metrika.yandex.com.tr
@@ -17074,6 +17092,7 @@
 1.1.1.1 mobile.mng-ads.com
 1.1.1.1 mobile.smartadserver.com
 1.1.1.1 mobile.traffic-tracker.net
+1.1.1.1 mobile.yandexadexchange.net
 1.1.1.1 mobilead.kuwo.cn
 1.1.1.1 mobilead.vn
 1.1.1.1 mobileads.dieuviet.com
@@ -18896,6 +18915,7 @@
 1.1.1.1 post.update.spotxchange.com
 1.1.1.1 post.update.wo.gumgum.com
 1.1.1.1 post1.voiceads.cn
+1.1.1.1 postback.yandexadexchange.net
 1.1.1.1 postmaster-serveremail-update.web.app
 1.1.1.1 potrzebuje.click
 1.1.1.1 poweredby.jads.co
@@ -20771,6 +20791,7 @@
 1.1.1.1 st.n.ads2-adnow.com
 1.1.1.1 st.n.ads3-adnow.com
 1.1.1.1 st.pay-click.ru
+1.1.1.1 st.yandexadexchange.net
 1.1.1.1 st3.wagbridge.advertisement.tanx.com
 1.1.1.1 stack-exchange-dynamic-ads.herokuapp.com
 1.1.1.1 stage-ad.ad-stir.com
@@ -25610,6 +25631,7 @@
 1.1.1.1 yamada.ad.dev.nend.net
 1.1.1.1 yandex-account-security.com
 1.1.1.1 yandex-coupouns.ru
+1.1.1.1 yandexadexchange.net
 1.1.1.1 yanghuaer.mobi
 1.1.1.1 yanzunyang.top
 1.1.1.1 yaolan.adsame.com
