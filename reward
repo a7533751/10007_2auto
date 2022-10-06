@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-10-06 17:00:29 
+#更新时间: 2022-10-06 18:20:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25864
+#规则数量:25886
 ##################
 
 94.140.14.33 0.r.msn.com
@@ -8307,6 +8307,7 @@
 94.140.14.33 advertpay.vip.xunlei.com
 94.140.14.33 advice-ads-cdn.vice.com
 94.140.14.33 advice-ads.s3.amazonaws.com
+94.140.14.33 advideo.dsp.yandexadexchange.net
 94.140.14.33 adview.cn
 94.140.14.33 adview.com
 94.140.14.33 adview.pl
@@ -8332,6 +8333,7 @@
 94.140.14.33 adx-api.a.mobimagic.com
 94.140.14.33 adx-api.mobadvent.com
 94.140.14.33 adx-api.otm-r.com
+94.140.14.33 adx-dre.op.hicloud.com
 94.140.14.33 adx-f.ads.heytapmobi.com
 94.140.14.33 adx-f.ads.heytapmobile.com
 94.140.14.33 adx-id.ads.heytapmobi.com
@@ -8574,6 +8576,7 @@
 94.140.14.33 an.appads.com
 94.140.14.33 an.pxl.ace.advertising.com
 94.140.14.33 an.yandex.ru
+94.140.14.33 an.yandexadexchange.net
 94.140.14.33 anal-porno.pro
 94.140.14.33 analitics-pro.cyou
 94.140.14.33 analpics.pro
@@ -11513,6 +11516,7 @@
 94.140.14.33 bigbrainker.top
 94.140.14.33 bigdesign.top
 94.140.14.33 bigindiansex.mobi
+94.140.14.33 bigo.dsp.yandexadexchange.net
 94.140.14.33 bihu.adsame.com
 94.140.14.33 billing-partner.net.daraz.com
 94.140.14.33 bin5y4muil.execute-api.us-east-1.amazonaws.com
@@ -13125,6 +13129,7 @@
 94.140.14.33 data.emb-api.com
 94.140.14.33 data.ero-advertising.com
 94.140.14.33 data.flurry.com
+94.140.14.33 data.hicloud.com
 94.140.14.33 data.kaoyany.top
 94.140.14.33 data.mob.com
 94.140.14.33 data.ppn-ad-cdn.populis.com
@@ -13134,6 +13139,7 @@
 94.140.14.33 data.wunderman-email.cjm.adobe.com
 94.140.14.33 data2.ad-score.com
 94.140.14.33 data2.ero-advertising.com
+94.140.14.33 datacollector-dra.dt.hicloud.com
 94.140.14.33 dataf.ads.oppomobile.com
 94.140.14.33 datais.ads.targetnet.com
 94.140.14.33 datalab.cloud.google.com.admin-mcas-df.ms
@@ -14032,6 +14038,7 @@
 94.140.14.33 events-api.outfit7.com
 94.140.14.33 events-api.outfit7.net
 94.140.14.33 events-collector-api.viacom.tech
+94.140.14.33 events-dra.op.hicloud.com
 94.140.14.33 events-jp.splash-screen.net
 94.140.14.33 events.adjust.com
 94.140.14.33 events.api.boomtrain.com
@@ -16382,6 +16389,7 @@
 94.140.14.33 log57.top
 94.140.14.33 log7.mmstat.com
 94.140.14.33 logabc.pro
+94.140.14.33 logbak.hicloud.com
 94.140.14.33 logging.api.intuit.com
 94.140.14.33 logging03.wxs.nl
 94.140.14.33 login.365.eperidemo.net
@@ -16390,6 +16398,9 @@
 94.140.14.33 logistichygienic.top
 94.140.14.33 logsdk.qq.com
 94.140.14.33 logserver.insight.ucweb.com
+94.140.14.33 logservice-dra.platform.hicloud.com
+94.140.14.33 logservice.hicloud.com
+94.140.14.33 logservice1.hicloud.com
 94.140.14.33 logssug.ucweb.com
 94.140.14.33 logupdate.avlyun.sec.miui.com
 94.140.14.33 logview.uc.alimama.com
@@ -16862,10 +16873,17 @@
 94.140.14.33 metrica.yandex.ru
 94.140.14.33 metrica.yandex.ua
 94.140.14.33 metrics-api.librato.com
+94.140.14.33 metrics-dra.dt.hicloud.com
 94.140.14.33 metrics.api.drift.com
 94.140.14.33 metrics.api.yle.fi
+94.140.14.33 metrics.data.hicloud.com
 94.140.14.33 metrics.pandora.com
 94.140.14.33 metrics.tbs.com
+94.140.14.33 metrics1.data.hicloud.com
+94.140.14.33 metrics2.data.hicloud.com
+94.140.14.33 metrics3.data.hicloud.com
+94.140.14.33 metrics4.data.hicloud.com
+94.140.14.33 metrics5.data.hicloud.com
 94.140.14.33 metrika.yandex.by
 94.140.14.33 metrika.yandex.com
 94.140.14.33 metrika.yandex.com.tr
@@ -17074,6 +17092,7 @@
 94.140.14.33 mobile.mng-ads.com
 94.140.14.33 mobile.smartadserver.com
 94.140.14.33 mobile.traffic-tracker.net
+94.140.14.33 mobile.yandexadexchange.net
 94.140.14.33 mobilead.kuwo.cn
 94.140.14.33 mobilead.vn
 94.140.14.33 mobileads.dieuviet.com
@@ -18896,6 +18915,7 @@
 94.140.14.33 post.update.spotxchange.com
 94.140.14.33 post.update.wo.gumgum.com
 94.140.14.33 post1.voiceads.cn
+94.140.14.33 postback.yandexadexchange.net
 94.140.14.33 postmaster-serveremail-update.web.app
 94.140.14.33 potrzebuje.click
 94.140.14.33 poweredby.jads.co
@@ -20771,6 +20791,7 @@
 94.140.14.33 st.n.ads2-adnow.com
 94.140.14.33 st.n.ads3-adnow.com
 94.140.14.33 st.pay-click.ru
+94.140.14.33 st.yandexadexchange.net
 94.140.14.33 st3.wagbridge.advertisement.tanx.com
 94.140.14.33 stack-exchange-dynamic-ads.herokuapp.com
 94.140.14.33 stage-ad.ad-stir.com
@@ -25610,6 +25631,7 @@
 94.140.14.33 yamada.ad.dev.nend.net
 94.140.14.33 yandex-account-security.com
 94.140.14.33 yandex-coupouns.ru
+94.140.14.33 yandexadexchange.net
 94.140.14.33 yanghuaer.mobi
 94.140.14.33 yanzunyang.top
 94.140.14.33 yaolan.adsame.com
