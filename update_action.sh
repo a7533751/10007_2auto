@@ -1020,6 +1020,12 @@ cat << "key" > ${file}
 #百度广告/输入法热门动图下载
 #重定向域名情况下，耗电情况有所增加，故剔除
 ^127.0.0.1[[:space:]]nsclick.baidu.com$
+#百度贴吧表情误杀
+
+^127.0.0.1[[:space:]]static.tieba.baidu.com$
+
+
+
 
 #放到iptables屏蔽的域名
 ^[0-9].*\.fls.doubleclick
