@@ -1015,6 +1015,11 @@ cat << "key" > ${file}
 ^127.0.0.1[[:space:]]market.xiaomi.com$
 #百度贴吧表情误杀
 ^127.0.0.1[[:space:]]static.tieba.baidu.com$
+#咪咕爱看视频
+^127.0.0.1[[:space:]]aikanvod.miguvideo.com$
+^127.0.0.1[[:space:]]aikanlive.miguvideo.com$
+
+
 
 
 #放到iptables屏蔽的域名
