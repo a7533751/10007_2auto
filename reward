@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-10-13 23:56:19 
+#更新时间: 2022-10-14 01:59:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26123
+#规则数量:26175
 ##################
 
 1.1.1.1 0.r.msn.com
@@ -1797,6 +1797,7 @@
 1.1.1.1 ad.sab.woowy.com
 1.1.1.1 ad.sacitaslan.com
 1.1.1.1 ad.samsungadhub.com
+1.1.1.1 ad.samsungads.com
 1.1.1.1 ad.sbb.bg
 1.1.1.1 ad.scadnet.com
 1.1.1.1 ad.scanmedios.com
@@ -2385,6 +2386,7 @@
 1.1.1.1 ad2.peel.com
 1.1.1.1 ad2.pl
 1.1.1.1 ad2.pl.mediainter.net
+1.1.1.1 ad2.plugmedia.hk
 1.1.1.1 ad2.pop.com.br
 1.1.1.1 ad2.popupad.net
 1.1.1.1 ad2.rambler.ru
@@ -6882,6 +6884,7 @@
 1.1.1.1 ads.sunmaker.com
 1.1.1.1 ads.suomiautomaatti.com
 1.1.1.1 ads.sup.com
+1.1.1.1 ads.superad.cc
 1.1.1.1 ads.superawesome.tv
 1.1.1.1 ads.superonline.com
 1.1.1.1 ads.superphp.com.br
@@ -7509,6 +7512,7 @@
 1.1.1.1 ads.xedoisong.vn
 1.1.1.1 ads.xeezy.com
 1.1.1.1 ads.xemphimso.com
+1.1.1.1 ads.xfastest.com
 1.1.1.1 ads.xflogger.com
 1.1.1.1 ads.xfyun.cn
 1.1.1.1 ads.xhamster.com
@@ -10005,6 +10009,7 @@
 1.1.1.1 api.celtra.com
 1.1.1.1 api.chartbeat.com
 1.1.1.1 api.chartboost.com
+1.1.1.1 api.chat.xiaomi.net
 1.1.1.1 api.cheatsheet.me
 1.1.1.1 api.cho-ro.club
 1.1.1.1 api.choicestream.com
@@ -10060,6 +10065,7 @@
 1.1.1.1 api.demandbase.com
 1.1.1.1 api.destinationrewards.com
 1.1.1.1 api.developer.xiaomi.com
+1.1.1.1 api.device.hw.skysrt.com
 1.1.1.1 api.device.skysrt.com
 1.1.1.1 api.dewmobile.net
 1.1.1.1 api.df.mob.com
@@ -10126,6 +10132,7 @@
 1.1.1.1 api.fw.tv
 1.1.1.1 api.fyber.com
 1.1.1.1 api.fyreball.com
+1.1.1.1 api.g.micloud.xiaomi.net
 1.1.1.1 api.g1.junfull.com
 1.1.1.1 api.g2.junfull.com
 1.1.1.1 api.game.letvstore.com
@@ -10158,6 +10165,7 @@
 1.1.1.1 api.hdtv.letv.com
 1.1.1.1 api.hexagram.com
 1.1.1.1 api.hfyhjg.cn
+1.1.1.1 api.hoisin.hw.coocaatv.com
 1.1.1.1 api.home.skysrt.com
 1.1.1.1 api.hostip.info
 1.1.1.1 api.huq.io
@@ -10586,6 +10594,7 @@
 1.1.1.1 api.tumra.com
 1.1.1.1 api.turn.com
 1.1.1.1 api.tusdk.com
+1.1.1.1 api.tvinfo.skysrt.com
 1.1.1.1 api.tvpage.com
 1.1.1.1 api.tw06.xlmc.sec.miui.com
 1.1.1.1 api.tweetmeme.com
@@ -10602,6 +10611,7 @@
 1.1.1.1 api.union.vip.com
 1.1.1.1 api.uniplayad.com
 1.1.1.1 api.unthem.com
+1.1.1.1 api.upgrade.skysrt.com
 1.1.1.1 api.uprivaladserver.net
 1.1.1.1 api.us-east-1.aiv-delivery.net
 1.1.1.1 api.usabilla.com
@@ -11017,6 +11027,7 @@
 1.1.1.1 b.getprizenow.top
 1.1.1.1 b.gtimg.com
 1.1.1.1 b.meiliyue.top
+1.1.1.1 b.netcheck.gallery.pandora.xiaomi.com
 1.1.1.1 b.qchannel03.cn
 1.1.1.1 b.rad.msn.com
 1.1.1.1 b.resad.mediaid.click
@@ -11498,6 +11509,7 @@
 1.1.1.1 bdyingxiaocms.cdn.bcebos.com
 1.1.1.1 be-analytics.net.daraz.com
 1.1.1.1 be.ads.justpremium.com
+1.1.1.1 be01.hh.xiaomi.com
 1.1.1.1 beacon-api.aliyuncs.com
 1.1.1.1 beacon.gtimg.com
 1.1.1.1 beacon.qq.com
@@ -11513,6 +11525,7 @@
 1.1.1.1 bemydate.mobi
 1.1.1.1 bendigo-update.com
 1.1.1.1 beneficial-gather.pro
+1.1.1.1 benteng.ad.xiaomi.com
 1.1.1.1 benz.adsame.com
 1.1.1.1 beserte.pro
 1.1.1.1 besguses.pro
@@ -11612,6 +11625,7 @@
 1.1.1.1 bjiiascfgd.top
 1.1.1.1 bk.da520.top
 1.1.1.1 bk.r-ad.ne.jp
+1.1.1.1 bk01.hh.xiaomi.com
 1.1.1.1 bkmcgi.play.cp81.ott.cibntv.net
 1.1.1.1 bksdkconfig.play.cp81.ott.cibntv.net
 1.1.1.1 bksoup.v.qq.com
@@ -11637,6 +11651,7 @@
 1.1.1.1 blog.ero-advertising.com
 1.1.1.1 blog.intext.ero-advertising.com
 1.1.1.1 blog.twitter.com
+1.1.1.1 blog.xiaomi.com
 1.1.1.1 blog2019.top
 1.1.1.1 blog4u.top
 1.1.1.1 blogking.top
@@ -12731,6 +12746,7 @@
 1.1.1.1 clkservice.youdao.com
 1.1.1.1 clkservice2.dict.youdao.com
 1.1.1.1 clkstat.qihoo.com
+1.1.1.1 clock.ad.xiaomi.com
 1.1.1.1 clock.update.zdworks.com
 1.1.1.1 clokden-invest.pro
 1.1.1.1 cloud-emea.analytics-egain.com
@@ -12795,6 +12811,7 @@
 1.1.1.1 cname1.igexin.com
 1.1.1.1 cname2.igexin.com
 1.1.1.1 cname3.igexin.com
+1.1.1.1 cnc.fe01.lg.xiaomi.com
 1.1.1.1 cnf.adbana.com
 1.1.1.1 cntdy.mobi
 1.1.1.1 cnzz.172internet.com
@@ -12885,6 +12902,7 @@
 1.1.1.1 continuefaf.top
 1.1.1.1 control-test-ec.adaptv.advertising.com
 1.1.1.1 control.www.partner.net.daraz.com
+1.1.1.1 controller.intl.xiaomi.com
 1.1.1.1 conv.youdao.com
 1.1.1.1 conversation2.api.driftqa.com
 1.1.1.1 conversion.pro.cn
@@ -13057,6 +13075,8 @@
 1.1.1.1 csync.smartadserver.com
 1.1.1.1 ct.niu.xunlei.com
 1.1.1.1 ct4s.top
+1.1.1.1 ctc.fe01.c3.xiaomi.com
+1.1.1.1 ctc.fe02.c3.xiaomi.com
 1.1.1.1 ctj.wenku.baidu.com
 1.1.1.1 ctmail.dns-dns.com
 1.1.1.1 ctologger01.analytics.go.com
@@ -13180,6 +13200,7 @@
 1.1.1.1 data-id.ads.oppomobile.com
 1.1.1.1 data-ipv6.flurry.com
 1.1.1.1 data-k8s.flurry.com
+1.1.1.1 data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 1.1.1.1 data.ad-score.com
 1.1.1.1 data.ads.heytapmobi.com
 1.1.1.1 data.ads.oppomobile.com
@@ -14079,6 +14100,7 @@
 1.1.1.1 etikhgcx.top
 1.1.1.1 etl-xlmc-ssl.xunlei.com
 1.1.1.1 etl.xlmc.sec.miui.com
+1.1.1.1 etl.xlmc.sec.miui.comm
 1.1.1.1 etracking.pro
 1.1.1.1 etxjbxs.top
 1.1.1.1 eu-ad.sam4m.com
@@ -14244,6 +14266,7 @@
 1.1.1.1 fdhghjga.top
 1.1.1.1 fds.api.moji.com
 1.1.1.1 fds.bmfwwz.top
+1.1.1.1 fe05.lg.xiaomi.com
 1.1.1.1 fedethezo.pro
 1.1.1.1 feed-ads.com
 1.1.1.1 feed-image.baidu.com
@@ -15004,6 +15027,8 @@
 1.1.1.1 hcadv.video.ums.uc.cn
 1.1.1.1 hd-porn-video.pro
 1.1.1.1 hd.mmstat.com
+1.1.1.1 hd.xiaomi.com
+1.1.1.1 hd02.lg.xiaomi.com
 1.1.1.1 hddss.top
 1.1.1.1 hdfreeporn.mobi
 1.1.1.1 hdfwetu.top
@@ -15088,6 +15113,7 @@
 1.1.1.1 hm.baidu.com.zzsdtzb.com
 1.1.1.1 hm.l.qq.com
 1.1.1.1 hm.woozooo.com
+1.1.1.1 hm.xiaomi.com
 1.1.1.1 hm2.cnzz.com
 1.1.1.1 hm3.cnzz.com
 1.1.1.1 hmma.baidu.com
@@ -15365,7 +15391,9 @@
 1.1.1.1 im2ss2ss.top
 1.1.1.1 imads.ero-advertising.com
 1.1.1.1 image.ad-smile.jp
+1.1.1.1 image.cdn.mvideo.xiaomi.com
 1.1.1.1 image.click.livedoor.com
+1.1.1.1 image.pandora.xiaomi.com
 1.1.1.1 image.sbs-ad.com
 1.1.1.1 image.zzd.sm.cn
 1.1.1.1 imagedvdreview.analytics.qlook.net
@@ -15396,6 +15424,7 @@
 1.1.1.1 imagzine.oppomobile.com
 1.1.1.1 imc.l.qq.com
 1.1.1.1 imcnzz.cnzz.com
+1.1.1.1 ime.api.xiaomi.com
 1.1.1.1 imeds.ero-advertising.com
 1.1.1.1 imf.cnzz.com
 1.1.1.1 imfsr.lenovomm.com
@@ -15463,6 +15492,7 @@
 1.1.1.1 imgapp.top
 1.1.1.1 imgcache.classesusa.com
 1.1.1.1 imgcache.vmsn.de
+1.1.1.1 imgg.traffic-media.co
 1.1.1.1 imgs.jads.co
 1.1.1.1 imgstat.baidu.com
 1.1.1.1 imgx.mediav.com
@@ -15528,6 +15558,7 @@
 1.1.1.1 in.analytics.glance.inmobi.com
 1.1.1.1 in.api.clevertap.com
 1.1.1.1 in.api.glance.inmobi.com
+1.1.1.1 in.o2o.api.xiaomi.com
 1.1.1.1 inail.simcoin.webd.pro
 1.1.1.1 inbound-analytics.pixlee.co
 1.1.1.1 inc2.igexin.com
@@ -15559,6 +15590,7 @@
 1.1.1.1 info-recovered-ads-identify-active-notify-support.tk
 1.1.1.1 info.ad.daum.net
 1.1.1.1 info.ads.roku.com
+1.1.1.1 info.analysis.kp.sec.miui.com
 1.1.1.1 info.cnzz.com
 1.1.1.1 info.commercial.keurig.com
 1.1.1.1 info.dm-s.co.jp
@@ -16394,6 +16426,7 @@
 1.1.1.1 lf7-common-ckv-tos.pstatp.com
 1.1.1.1 lf8-common-ckv-tos.pstatp.com
 1.1.1.1 lf9-common-ckv-tos.pstatp.com
+1.1.1.1 lg-bgp.pandora.xiaomi.com
 1.1.1.1 lg.tr.pandora.tv
 1.1.1.1 lghewdbvx.top
 1.1.1.1 lgih.scendo.top
@@ -16849,6 +16882,7 @@
 1.1.1.1 max-files.oupeng.com
 1.1.1.1 max-l.mediav.com
 1.1.1.1 max-zzl.mediav.com
+1.1.1.1 max.ad.xiaomi.com
 1.1.1.1 max.adsame.com
 1.1.1.1 max.mediav.com
 1.1.1.1 maxgns.cnzz.jiehunmishu.com
@@ -16856,6 +16890,7 @@
 1.1.1.1 maxi-pro.maxipl-system.xyz
 1.1.1.1 maxinesamson.top
 1.1.1.1 maxsys.adsame.com
+1.1.1.1 mazu.3g.qq.com
 1.1.1.1 mazu.sec.miui.com
 1.1.1.1 mb-click.jp
 1.1.1.1 mb.adres.wpscdn.cn
@@ -16881,6 +16916,7 @@
 1.1.1.1 mc.yandex.ru
 1.1.1.1 mcc-ad.com
 1.1.1.1 mcc.godaddy.com
+1.1.1.1 mcc.intl.inf.miui.com
 1.1.1.1 mcd-mkt-prod31-lb.campaign.adobe.com
 1.1.1.1 mcdn.adspeed.com
 1.1.1.1 mcdn.batmobi.net
@@ -16946,6 +16982,7 @@
 1.1.1.1 megacdn.top
 1.1.1.1 meihua.adsame.com
 1.1.1.1 meihua.d.adsame.com
+1.1.1.1 meihua.xiaomi.com
 1.1.1.1 meijutt.tv
 1.1.1.1 meikacrcadmy.top
 1.1.1.1 meipai.dl.meitu.com
@@ -17120,11 +17157,13 @@
 1.1.1.1 miresnahapsi.pro
 1.1.1.1 mirnews.pro
 1.1.1.1 mis.g.mi.com
+1.1.1.1 mis.migc.xiaomi.comfile.m
 1.1.1.1 misc.api.snaptube.app
 1.1.1.1 misc.wcd.qq.com
 1.1.1.1 mishishoka.pro
 1.1.1.1 mishop.pandora.xiaomi.com.
 1.1.1.1 mistat.xiaomi.com
+1.1.1.1 mitv.tracking.intl.miui.com
 1.1.1.1 miui.hftaili.com
 1.1.1.1 mivideo.g.mi.com
 1.1.1.1 mix.adsame.com
@@ -18178,6 +18217,7 @@
 1.1.1.1 openapi-news.meizu.com
 1.1.1.1 openapi.cymera.com
 1.1.1.1 openapi.guanjia.qq.com
+1.1.1.1 openapi.samsung.com
 1.1.1.1 openbox.mobilem.360.cn
 1.1.1.1 openjmacs.m.taobao.com
 1.1.1.1 openrcv.baidu.com
@@ -18207,6 +18247,7 @@
 1.1.1.1 opus.analytics.yahoo.com
 1.1.1.1 oqurycnm.top
 1.1.1.1 orbimer-investing.pro
+1.1.1.1 order.music.xiaomi.com
 1.1.1.1 orderlyregister.pro
 1.1.1.1 org-upgrade.com
 1.1.1.1 org.zaloapp.ads.zdn.vn
@@ -18917,6 +18958,7 @@
 1.1.1.1 plusujesz-tankujesz.click
 1.1.1.1 pm1.pvvstream.pro
 1.1.1.1 pm2b.top
+1.1.1.1 pmall.migc.xiaomi.com
 1.1.1.1 pmg.ad-logics.com
 1.1.1.1 pmir.3g.qq.com
 1.1.1.1 pmp-ad.cdn.bcebos.com
@@ -21035,6 +21077,7 @@
 1.1.1.1 static.jupin.mediav.com
 1.1.1.1 static.map.bdimg.com
 1.1.1.1 static.mediav.com
+1.1.1.1 static.mibi.xiaomi.com
 1.1.1.1 static.mobads.baidu.com
 1.1.1.1 static.pay.baidu.com
 1.1.1.1 static.rtb.adx1.com
@@ -21086,6 +21129,7 @@
 1.1.1.1 stats.share.link
 1.1.1.1 stats.speedclicks.ero-advertising.com
 1.1.1.1 stats.spyware-browser.com
+1.1.1.1 stats.xiaomi.com
 1.1.1.1 stats.zone-telechargement.click
 1.1.1.1 statsonline.pushct.baidu.com
 1.1.1.1 statstest.upti.pro
@@ -21423,6 +21467,7 @@
 1.1.1.1 tattle.api.osano.com
 1.1.1.1 tbazhaheii.top
 1.1.1.1 tbs.tradedoubler.com
+1.1.1.1 tc.hd.xiaomi.com
 1.1.1.1 tcbox.baidu.com
 1.1.1.1 tce.alicdn.com
 1.1.1.1 tcm.optica.ero-advertising.com
@@ -21470,6 +21515,7 @@
 1.1.1.1 teinfo.wps.cn
 1.1.1.1 teitsag.click
 1.1.1.1 tejia.taobao.com
+1.1.1.1 tel.fe01.hh.xiaomi.com
 1.1.1.1 telemetry.adobe.io
 1.1.1.1 telemetry.api.playstation.com
 1.1.1.1 telemetry.api.swiftkey.com
@@ -21518,6 +21564,7 @@
 1.1.1.1 test.new.api.ad.xiaomi.com
 1.1.1.1 test.surepush.cn
 1.1.1.1 test.vlion.cn
+1.1.1.1 test.xiaomi.com
 1.1.1.1 test.zeus.ad.xiaomi.com
 1.1.1.1 test1.adsame.com
 1.1.1.1 test1.sem-tracking-analytics.com
@@ -22613,6 +22660,7 @@
 1.1.1.1 video.twitter.com
 1.1.1.1 video.ureport.push.qq.com
 1.1.1.1 video.wap.mpush.qq.com
+1.1.1.1 video.xiaomi.com
 1.1.1.1 videoapi.smartadserver.com
 1.1.1.1 videolucah.mobi
 1.1.1.1 videomature.pro
@@ -23652,6 +23700,7 @@
 1.1.1.1 warporn.pro
 1.1.1.1 wat.ad.daum.net
 1.1.1.1 watch.advertising.speed.cdn.vip.xunlei.com
+1.1.1.1 watchdog.goodbyeads.xiaomi
 1.1.1.1 watchfreeporn.pro
 1.1.1.1 watchmygf.mobi
 1.1.1.1 watchmytopapp.top
@@ -25700,6 +25749,7 @@
 1.1.1.1 xingzhu.top
 1.1.1.1 xinhuan.mobi
 1.1.1.1 xinhuanet.adsame.com
+1.1.1.1 xitong.xiaomi.com
 1.1.1.1 xiuxiu.android.dl.meitu.com
 1.1.1.1 xiuxiu.mobile.meitu.com
 1.1.1.1 xk3b.top
@@ -25780,6 +25830,7 @@
 1.1.1.1 xrpinvest.pro
 1.1.1.1 xsapp.cdn.bcebos.com
 1.1.1.1 xsexvideos.pro
+1.1.1.1 xshare.api.xiaomi.com
 1.1.1.1 xswape.top
 1.1.1.1 xteenvids.pro
 1.1.1.1 xteenx.pro
@@ -26119,6 +26170,7 @@
 1.1.1.1 zwariowane-to.click
 1.1.1.1 zwogldq.top
 1.1.1.1 zww.ero-advertising.com
+1.1.1.1 zx.game.xiaomi.com
 1.1.1.1 zxvathfdj.top
 1.1.1.1 zyciewazne.click
 1.1.1.1 zyje-czas.click
