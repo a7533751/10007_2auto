@@ -1694,6 +1694,8 @@ grep_value_file '1' 'zijieapi' "${hosts_file}"
 grep_value_file '1' 'zzd' "${hosts_file}"
 #22.09.26
 grep_value_file '1' 'yandex' "${hosts_file}"
+#22.10.13
+grep_value_file '1' 'xyz' "${hosts_file}"
 }
 
 #开始运行
