@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-10-18 13:20:06 
+#更新时间: 2022-10-18 15:54:14 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26934
+#规则数量:26935
 ##################
 
 1.1.1.1 0.r.msn.com
@@ -11658,6 +11658,7 @@
 1.1.1.1 barbarahome.top
 1.1.1.1 base.api.my7v.com
 1.1.1.1 basiakurier.top
+1.1.1.1 basic-check.oisd.nl
 1.1.1.1 bat.r.msn.com
 1.1.1.1 batch.upsight-api.com
 1.1.1.1 batecrowle.click
