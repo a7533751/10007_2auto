@@ -1032,7 +1032,8 @@ cat << "key" > ${file}
 ^127.0.0.1[[:space:]]app.chat.xiaomi.net$
 #部分设备的小米云服务
 ^127.0.0.1[[:space:]]api.g.micloud.xiaomi.net$
-
+#QQ浏览器插件误杀
+^127.0.0.1[[:space:]]tbsone.imtt.qq.com$
 
 
 #放到iptables屏蔽的域名
