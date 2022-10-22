@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-10-23 01:18:34 
+#更新时间: 2022-10-23 03:18:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26819
+#规则数量:26821
 ##################
 
 1.1.1.1 0.r.msn.com
@@ -3338,6 +3338,7 @@
 1.1.1.1 ads-03.tor.focusin.ads.targetnet.com
 1.1.1.1 ads-205.quarterserver.de
 1.1.1.1 ads-3711.kxcdn.com
+1.1.1.1 ads-6686.top
 1.1.1.1 ads-816899299.ap-southeast-1.elb.amazonaws.com
 1.1.1.1 ads-a-darwin.hulu.com
 1.1.1.1 ads-a.juicyads.com
@@ -11400,6 +11401,7 @@
 1.1.1.1 banner-farm.com
 1.1.1.1 banner-gateway.supersonicads.com
 1.1.1.1 banner-img.haber7.com
+1.1.1.1 banner-in.net
 1.1.1.1 banner-madai-com.s3.amazonaws.com
 1.1.1.1 banner-mania.com
 1.1.1.1 banner-media.ru
@@ -14226,6 +14228,7 @@
 1.1.1.1 ebaycn.doubleclick.net
 1.1.1.1 ebaytw.doubleclick.net
 1.1.1.1 ebazhaheiw.top
+1.1.1.1 eberalofe.pro
 1.1.1.1 ebmzp.top
 1.1.1.1 ebook-res.meizu.com
 1.1.1.1 ebook.res.meizu.com
@@ -14377,7 +14380,6 @@
 1.1.1.1 estj.msn.com
 1.1.1.1 et.dexuanyu.top
 1.1.1.1 etahub.com
-1.1.1.1 eth-2x.pro
 1.1.1.1 eth2x.pro
 1.1.1.1 ethdw.top
 1.1.1.1 ether-api.com
@@ -14386,7 +14388,6 @@
 1.1.1.1 etherblog.click
 1.1.1.1 etherget.pro
 1.1.1.1 ethertake.pro
-1.1.1.1 ethfree.pro
 1.1.1.1 ethgift.pro
 1.1.1.1 ethgive.pro
 1.1.1.1 ethgives.pro
@@ -17822,6 +17823,7 @@
 1.1.1.1 mp.adnxs.com
 1.1.1.1 mp.cmllw.iego.net
 1.1.1.1 mp.huangye.miui.com
+1.1.1.1 mp3statycy.top
 1.1.1.1 mplaylist-ads.zadn.vn
 1.1.1.1 mplaylist-ads.zascdn.me
 1.1.1.1 mpn-analytics.mokonocdn.com
