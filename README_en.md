@@ -3,8 +3,8 @@
 
 ## count
 ```
-all: 26845
-reward: 26814
+all: 26846
+reward: 26815
 ```
 
 | **name** | **links** |
@@ -13,4 +13,14 @@ reward: 26814
 | **reward** | [Subscription link](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature1/reward) |
 
 ## **[Donate](https://github.com/lingeringsound/10007)**
+
+
+| **Hosts引用链接** | 感谢各位大佬 |
+| :-- | :-- |
+| [大圣净化](https://github.com/jdlingyu/ad-wars) | ❤感谢！❤ |
+| [yhost](https://github.com/VeleSila/yhosts) | ❤感谢！❤ |
+| [Steven Black](https://github.com/StevenBlack/hosts) | ❤感谢！❤ |
+| [oisd](https://oisd.nl/howto) | ❤感谢！❤ |
+| [1024](https://github.com/Goooler/1024_hosts) | ❤感谢！❤ |
+| [adhost](https://github.com/E7KMbb/AD-hosts) | ❤感谢！❤ |
 
