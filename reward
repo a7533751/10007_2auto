@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-10-25 00:27:42 
+#更新时间: 2022-10-25 00:38:45 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26806
+#规则数量:26859
 ##################
 
 1.1.1.1 0.r.msn.com
@@ -37,6 +37,7 @@
 1.1.1.1 05w0bq3nbq9b.top
 1.1.1.1 0676el9lskux.top
 1.1.1.1 07wr439dfait.top
+1.1.1.1 08.185.87.163.liveadvert.com
 1.1.1.1 08uxmg2bz7hc.top
 1.1.1.1 0a8d87mlbcac.top
 1.1.1.1 0b57ha4k4zrd.top
@@ -92,6 +93,9 @@
 1.1.1.1 1494.top
 1.1.1.1 14x5vjrnjelo.top
 1.1.1.1 15-partner.net.daraz.com
+1.1.1.1 163.6.87.194.dynamic.dol.ru
+1.1.1.1 163.lu
+1.1.1.1 163.wrating.com
 1.1.1.1 1669323.r.msn.com
 1.1.1.1 1669437.r.msn.com
 1.1.1.1 1695693.r.msn.com
@@ -155,6 +159,7 @@
 1.1.1.1 2020workaffnew.top
 1.1.1.1 2021pro1.pro
 1.1.1.1 2022-upgrade-server.pvsolar.com.br
+1.1.1.1 208.185.87.163.liveadvert.com
 1.1.1.1 20min.app.tamedia.click
 1.1.1.1 21.tx.gongxifacai21.top
 1.1.1.1 2149921.r.msn.com
@@ -3097,6 +3102,7 @@
 1.1.1.1 adbreak.cubecdn.net
 1.1.1.1 adbs.ximalaya.com
 1.1.1.1 adc-ad-assets.adtilt.com
+1.1.1.1 adc.163.com
 1.1.1.1 adc.api.nine.com.au
 1.1.1.1 adc2.adcentriconline.com
 1.1.1.1 adc3-assets.adcolony.com
@@ -3111,6 +3117,7 @@
 1.1.1.1 adclick.g.doubleclick.net
 1.1.1.1 adclick.tencentmusic.com
 1.1.1.1 adclickservice.com
+1.1.1.1 adclient.163.com
 1.1.1.1 adcmtd.mac-torrent-download.net
 1.1.1.1 adconfig.infolife.mobi
 1.1.1.1 adcore.lenovomm.com
@@ -3144,6 +3151,7 @@
 1.1.1.1 adfstat.yandex.ru
 1.1.1.1 adfunds.org
 1.1.1.1 adg6.tt.omtrdc.net
+1.1.1.1 adgeo.163.com
 1.1.1.1 adhouse.cubecdn.net
 1.1.1.1 adhouse.pro
 1.1.1.1 adim.pinduoduo.com
@@ -3220,6 +3228,7 @@
 1.1.1.1 adm1.autoimg.cn
 1.1.1.1 adm2.autoimg.cn
 1.1.1.1 adm3.autoimg.cn
+1.1.1.1 admail.163.com
 1.1.1.1 admanagerplus.flurry.com
 1.1.1.1 admarket.mobi
 1.1.1.1 admarvel.top
@@ -3319,6 +3328,7 @@
 1.1.1.1 adplace.adsame.com
 1.1.1.1 adplace.i.adsame.com
 1.1.1.1 adplexmedia.adk2.co
+1.1.1.1 adpmt.mail.163.com
 1.1.1.1 adpretirementservices.122.2o7.net
 1.1.1.1 adpro.pro.cn
 1.1.1.1 adpulse.ads.targetnet.com
@@ -8684,6 +8694,7 @@
 1.1.1.1 allowip.cnzz.com
 1.1.1.1 allprofitsurvey.top
 1.1.1.1 allteenmovies.pro
+1.1.1.1 allyes.nie.163.com
 1.1.1.1 alog-default.umeng.com
 1.1.1.1 alog.umeng.co
 1.1.1.1 alog.umeng.com
@@ -11891,6 +11902,7 @@
 1.1.1.1 bncvaejfw.top
 1.1.1.1 bndbddt.top
 1.1.1.1 bobi-mobi.info
+1.1.1.1 bobo.163.com
 1.1.1.1 bodycorrector.top
 1.1.1.1 boersego-ads.de
 1.1.1.1 bohelady.adsame.com
@@ -12488,6 +12500,7 @@
 1.1.1.1 chanel.wohewodejxz.top
 1.1.1.1 changement.pro
 1.1.1.1 channel.api.duapp.com
+1.1.1.1 channel.m.163.com
 1.1.1.1 charge.adapp.baidu.com
 1.1.1.1 chartbeat-sdk.s3.amazonaws.com
 1.1.1.1 chartbeat.download.akamai.com
@@ -12977,6 +12990,8 @@
 1.1.1.1 client.vads.net.vn
 1.1.1.1 client.video.ucweb.com
 1.1.1.1 client2009x25.xcdn.ovh
+1.1.1.1 clientlog.music.163.com
+1.1.1.1 clientlog3.music.163.com
 1.1.1.1 clients-api.adcolony.com
 1.1.1.1 clients-api.pushengage.com
 1.1.1.1 clients-share.com
@@ -13192,6 +13207,12 @@
 1.1.1.1 cosimotable.pro
 1.1.1.1 cosmossolitude.top
 1.1.1.1 count-ad.net
+1.1.1.1 count.mail.163.com
+1.1.1.1 count.mail.163.com.agapehealthservicesinc.com
+1.1.1.1 count.mail.163.com.duncanhotcher.ga
+1.1.1.1 count.mail.163.com.impactmedfoundation.com
+1.1.1.1 count.mail.163.com.statistic.adasweb.ir
+1.1.1.1 count.mail.163.com.statistic.er.adasweb.ir
 1.1.1.1 count.taobao.com
 1.1.1.1 count.video.sina.com.cn
 1.1.1.1 count3.mobi
@@ -13213,6 +13234,7 @@
 1.1.1.1 cpa-tracking.mclick.mobi
 1.1.1.1 cpa.ads8.com
 1.1.1.1 cpam.pro
+1.1.1.1 cpc.163.com
 1.1.1.1 cpc.click.alimama.com
 1.1.1.1 cpm-ad.com
 1.1.1.1 cpoml.iask.sina.com.cn
@@ -13252,9 +13274,11 @@
 1.1.1.1 cqzakup.top
 1.1.1.1 crab.baidu.com
 1.1.1.1 crash-metrics.sdk.inmobi.com
+1.1.1.1 crash.163.com
 1.1.1.1 crash.browser.qq.com
 1.1.1.1 crash2.zhihu.com
 1.1.1.1 crashes.mo.wps.cn
+1.1.1.1 crashlytics.163.com
 1.1.1.1 crbug.com
 1.1.1.1 crcdn.adnxs.com
 1.1.1.1 crcdn01.adnxs.com
@@ -14131,6 +14155,7 @@
 1.1.1.1 dtscout.rtb.adx1.com
 1.1.1.1 dtta.ero-advertising.com
 1.1.1.1 dtx.click
+1.1.1.1 du.163.com
 1.1.1.1 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 1.1.1.1 duanzi.m.xunlei.com
 1.1.1.1 dub.mobileads.msn.com
@@ -14169,6 +14194,7 @@
 1.1.1.1 e-ads.eqads.com
 1.1.1.1 e-click.jp
 1.1.1.1 e-hpaces.ero-advertising.com
+1.1.1.1 e-p4p.163.com
 1.1.1.1 e-partner.ru
 1.1.1.1 e-vcdn.anthill.vn
 1.1.1.1 e.ad.xiaomi.com
@@ -14506,6 +14532,7 @@
 1.1.1.1 f2.ad.gt
 1.1.1.1 f3.mi-stat.gslb.mi-idc.com
 1.1.1.1 f4.uaevivi.top
+1.1.1.1 fa.163.com
 1.1.1.1 facebook-ads.mediaz.vn
 1.1.1.1 facebook-ads.pl
 1.1.1.1 fagywalu.pro
@@ -14817,6 +14844,7 @@
 1.1.1.1 fz2c.top
 1.1.1.1 fz8g.top
 1.1.1.1 fztmn.top
+1.1.1.1 g.163.com
 1.1.1.1 g.ad8.cc
 1.1.1.1 g.adimg.net
 1.1.1.1 g.adnxs.com
@@ -14839,6 +14867,7 @@
 1.1.1.1 g.wan.2345.com
 1.1.1.1 g.x.cn.miaozhen.com
 1.1.1.1 g0.doubleclick.net
+1.1.1.1 g1.163.com
 1.1.1.1 g1.ads.oppomobile.com
 1.1.1.1 g1.doubleclick.net
 1.1.1.1 g1.tagtic.cn
@@ -15757,6 +15786,7 @@
 1.1.1.1 img-ad.oupeng.com
 1.1.1.1 img-fotki.yandex.ru
 1.1.1.1 img-x.jd.com
+1.1.1.1 img.163.com
 1.1.1.1 img.9ads.net
 1.1.1.1 img.a.shifen.com
 1.1.1.1 img.ad-seek.jp
@@ -16229,6 +16259,7 @@
 1.1.1.1 ipost.udacsiedo58437.click
 1.1.1.1 ipost.umowa40067.top
 1.1.1.1 ipost.umowa58194b.top
+1.1.1.1 ipservice.163.com
 1.1.1.1 iq.mobilix.mobi
 1.1.1.1 iqiyi.irs01.com
 1.1.1.1 iqiyi.kim
@@ -16241,9 +16272,11 @@
 1.1.1.1 iqzn-emea.adnxs.com
 1.1.1.1 iqzn-useast.adnxs.com
 1.1.1.1 ir.doubleclick.net
+1.1.1.1 ir.mail.163.com
 1.1.1.1 ir.surveywall-api.survata.com
 1.1.1.1 iresearch.adsame.com
 1.1.1.1 ironsource.mobi
+1.1.1.1 irpmt.mail.163.com
 1.1.1.1 is-tracking-pixel-api-prod.appspot.com
 1.1.1.1 isafe.baidu.com
 1.1.1.1 isafe.pro
@@ -17892,6 +17925,13 @@
 1.1.1.1 mta-sts.mail2.ahcdn.com
 1.1.1.1 mta.qq.com
 1.1.1.1 mta.vkrpep12.com
+1.1.1.1 mta61-163.muc.bh-mail.com
+1.1.1.1 mta62-163.muc.bh-mail.com
+1.1.1.1 mta63-163.muc.bh-mail.com
+1.1.1.1 mta64-163.muc.bh-mail.com
+1.1.1.1 mta65-163.muc.bh-mail.com
+1.1.1.1 mta66-163.muc.bh-mail.com
+1.1.1.1 mta67-163.muc.bh-mail.com
 1.1.1.1 mtj.baidu.com
 1.1.1.1 mtpint.mobi
 1.1.1.1 mtrace.play.aiseet.atianqi.com
@@ -17965,6 +18005,7 @@
 1.1.1.1 n-ad-bg.adwo.com
 1.1.1.1 n-ad.work
 1.1.1.1 n-analytics.io
+1.1.1.1 n.3g.163.com
 1.1.1.1 n.ad-back.net
 1.1.1.1 n.ads1-adnow.com
 1.1.1.1 n.ads2-adnow.com
@@ -18110,6 +18151,7 @@
 1.1.1.1 newton-api.ele.me
 1.1.1.1 newxxx.pro
 1.1.1.1 newyiba.top
+1.1.1.1 nex.163.com
 1.1.1.1 nexage.advertising.com
 1.1.1.1 nextpsh.top
 1.1.1.1 nextsteptrack.top
@@ -19472,6 +19514,7 @@
 1.1.1.1 popads.ero-advertising.com
 1.1.1.1 popander.mobi
 1.1.1.1 popeng.top
+1.1.1.1 popme.163.com
 1.1.1.1 pops.ero-advertising.com
 1.1.1.1 popteen.pro
 1.1.1.1 popup.msn.com
@@ -19725,6 +19768,7 @@
 1.1.1.1 program-top-group.us
 1.1.1.1 programavanzapaisolicita.top
 1.1.1.1 progressive.lp.mydas.mobi
+1.1.1.1 proimg.163.com
 1.1.1.1 promedia-click.ru
 1.1.1.1 promo-banner.ru
 1.1.1.1 promo.adrevservice.com
@@ -19815,6 +19859,7 @@
 1.1.1.1 push.res.meizu.com
 1.1.1.1 push.wps.cn
 1.1.1.1 push.xdrig.com
+1.1.1.1 push.yuedu.163.com
 1.1.1.1 push.zhanzhang.baidu.com
 1.1.1.1 push77-sdk.com
 1.1.1.1 pushapi.lenovomm.com
@@ -19942,6 +19987,7 @@
 1.1.1.1 r.dmp.sina.com.cn
 1.1.1.1 r.h.qiao.baidu.com
 1.1.1.1 r.m.taobao.com
+1.1.1.1 r.mail.163.com
 1.1.1.1 r.mobpartner.mobi
 1.1.1.1 r.msn.com
 1.1.1.1 r.partner.badoo.ru
@@ -20021,6 +20067,7 @@
 1.1.1.1 rec-corp.xyz
 1.1.1.1 rec.api.baifendian.com
 1.1.1.1 rec.api.gamex.mobile.youku.com
+1.1.1.1 rec.g.163.com
 1.1.1.1 rec.mob.com
 1.1.1.1 recallsyrup.top
 1.1.1.1 reckinbuttiten.pro
@@ -21912,6 +21959,7 @@
 1.1.1.1 tads.mobadvent.com
 1.1.1.1 tag-dev.sp.advertising.com
 1.1.1.1 tag-store.ads-pixiv.net
+1.1.1.1 tag.163.com
 1.1.1.1 tag.admaster.com.cn
 1.1.1.1 tag.idsync.analytics.yahoo.com
 1.1.1.1 tag.links-analytics.com
@@ -22023,6 +22071,7 @@
 1.1.1.1 temai.m.taobao.com
 1.1.1.1 temai.snssdk.com
 1.1.1.1 temai.taobao.com
+1.1.1.1 temp.163.com
 1.1.1.1 temptation.ad.nl
 1.1.1.1 tenant-content.apm.appfolio-analytics.com
 1.1.1.1 tencent-dtv.m.cn.miaozhen.com
@@ -22122,6 +22171,7 @@
 1.1.1.1 tile-api.inrix.com
 1.1.1.1 tim.hb-api.omtrdc.net
 1.1.1.1 time.cnzz.com
+1.1.1.1 timejs.game.163.com
 1.1.1.1 timeone.pro
 1.1.1.1 timeserver.cnzz.net
 1.1.1.1 timeswap.pro
@@ -24581,6 +24631,7 @@
 1.1.1.1 www.1-free-share-buttons.com
 1.1.1.1 www.10086.cn.baidu.cdn.yiwk.com
 1.1.1.1 www.123456.click
+1.1.1.1 www.163.com.rshygs.com
 1.1.1.1 www.17bqg.top
 1.1.1.1 www.18porn.pro
 1.1.1.1 www.18yo.pro
@@ -26532,6 +26583,8 @@
 1.1.1.1 yangzxsh.top
 1.1.1.1 yanzunyang.top
 1.1.1.1 yaolan.adsame.com
+1.1.1.1 yaolu.mh.163.com
+1.1.1.1 yaolu.yuedu.163.com
 1.1.1.1 yaosahrmncc.top
 1.1.1.1 yapi.awe.sm
 1.1.1.1 ybaf.tarsern.top
