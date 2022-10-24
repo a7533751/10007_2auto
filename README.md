@@ -3,7 +3,7 @@
 
 ## 统计
 ```
-累积拦截域名: 46678
+累积拦截域名: 46681
 ```
 
 ## PC 分支 仅做测试
@@ -19,3 +19,13 @@
 | **PC规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/PC_For_Test/all) | [Gitlink镜像](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/all?ref=PC_For_Test) |
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
+
+| **Hosts引用链接** | 感谢各位大佬 |
+| :-- | :-- |
+| [大圣净化](https://github.com/jdlingyu/ad-wars) | ❤感谢！❤ |
+| [yhost](https://github.com/VeleSila/yhosts) | ❤感谢！❤ |
+| [Steven Black](https://github.com/StevenBlack/hosts) | ❤感谢！❤ |
+| [oisd](https://oisd.nl/howto) | ❤感谢！❤ |
+| [1024](https://github.com/Goooler/1024_hosts) | ❤感谢！❤ |
+| [adhost](https://github.com/E7KMbb/AD-hosts) | ❤感谢！❤ |
+
