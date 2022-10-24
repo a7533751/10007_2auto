@@ -53,6 +53,7 @@ fi
 function echo_thank(){
 cat << "key" >> `pwd`/README.md
 
+## 引用和致谢
 | **Hosts引用链接** | 感谢各位大佬 |
 | :-- | :-- |
 | [大圣净化](https://github.com/jdlingyu/ad-wars) | ❤感谢！❤ |
@@ -65,6 +66,7 @@ cat << "key" >> `pwd`/README.md
 key
 cat << "key" >> `pwd`/README_en.md
 
+## 引用和致谢
 | **Hosts引用链接** | 感谢各位大佬 |
 | :-- | :-- |
 | [大圣净化](https://github.com/jdlingyu/ad-wars) | ❤感谢！❤ |
