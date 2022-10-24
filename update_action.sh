@@ -1706,6 +1706,8 @@ grep_value_file '1' 'zzd' "${hosts_file}"
 grep_value_file '1' 'yandex' "${hosts_file}"
 #22.10.13
 grep_value_file '1' 'xyz' "${hosts_file}"
+#22.10.24 网易邮箱
+grep_value_file '1' '163' "${hosts_file}"
 }
 
 #开始运行
