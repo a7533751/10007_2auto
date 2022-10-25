@@ -1708,6 +1708,8 @@ grep_value_file '1' 'yandex' "${hosts_file}"
 grep_value_file '1' 'xyz' "${hosts_file}"
 #22.10.24 网易邮箱
 grep_value_file '1' '163' "${hosts_file}"
+#22.10.25 恢复QQ相关域名拦截，可能会有大量误杀
+grep_value_file '1' 'qq' "${hosts_file}"
 }
 
 #开始运行
