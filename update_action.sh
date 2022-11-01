@@ -1032,6 +1032,8 @@ cat << "key" > ${file}
 ^127.0.0.1[[:space:]]puds.ucweb.com$
 #OPPO账号相关？
 ^127.0.0.1[[:space:]]u.oppomobile.com$
+#新浪新闻图片
+^127.0.0.1[[:space:]]k.sinaimg.cn$
 
 
 #放到iptables屏蔽的域名
