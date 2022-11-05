@@ -676,6 +676,11 @@ cat << "key" > ${file}
 203.208.40.66 translate.googleapis.com
 203.208.40.66 translate.google.com
 
+#谷歌翻译
+180.163.151.162 translate.googleapis.com
+203.208.40.66 translate.googleapis.com
+203.208.40.66 translate.google.com
+
 
 key
 test -f "${file}" && echo -e "创建文件${file}成功！"
