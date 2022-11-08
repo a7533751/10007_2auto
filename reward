@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-11-08 18:08:33 
+#更新时间: 2022-11-08 19:06:22 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:27546
+#规则数量:27544
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -5700,7 +5700,6 @@
 1.1.1.1 ads.lk
 1.1.1.1 ads.lmmob.com
 1.1.1.1 ads.lnkworld.com
-1.1.1.1 ads.localhost.net.ar
 1.1.1.1 ads.localnow.com
 1.1.1.1 ads.localyokelmedia.com
 1.1.1.1 ads.localytics.com
@@ -10083,7 +10082,6 @@
 1.1.1.1 api.ads.yahoo.com
 1.1.1.1 api.adsafeprotected.com
 1.1.1.1 api.adserver-e7.com
-1.1.1.1 api.adshop.infolinks.com
 1.1.1.1 api.adskeeper.co.uk
 1.1.1.1 api.adsmogo.net
 1.1.1.1 api.adsnative.com
