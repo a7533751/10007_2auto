@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-11-09 19:08:22 
+#更新时间: 2022-11-09 20:17:25 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:27989
+#规则数量:27988
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -6495,7 +6495,6 @@
 1.1.1.1 ads.pressflex.com
 1.1.1.1 ads.prestigecasino.com
 1.1.1.1 ads.pricescan.com
-1.1.1.1 ads.priel.co.kr
 1.1.1.1 ads.primaryclick.com
 1.1.1.1 ads.primeinteractive.net
 1.1.1.1 ads.primissima.it
@@ -15200,7 +15199,6 @@
 1.1.1.1 gdfp.ksapisrv.com
 1.1.1.1 gds.mmstat.com
 1.1.1.1 gdsns1.mmstat.com
-1.1.1.1 gdt.com.pe
 1.1.1.1 gdt.dc.ctags.cn
 1.1.1.1 gdt.dsp.mediav.com
 1.1.1.1 gdt.qq.com
@@ -22085,6 +22083,7 @@
 1.1.1.1 sm-ini.ru
 1.1.1.1 sm-ini2.com
 1.1.1.1 sm-projekt.si
+1.1.1.1 sm-sp.followfollow.com
 1.1.1.1 sm-tc.cn
 1.1.1.1 sm.0.0.0.0.cn
 1.1.1.1 sm.aport.ru
