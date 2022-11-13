@@ -1105,6 +1105,9 @@ cat << "key" > ${file}
 ^127.0.0.1[[:space:]]u.oppomobile.com$
 #新浪新闻图片
 ^127.0.0.1[[:space:]]k.sinaimg.cn$
+#酷安推送来自酷安@ck388(http://www.coolapk.com/u/1347977)
+^127.0.0.1[[:space:]]guid.tpns.tencent.com$
+^127.0.0.1[[:space:]]access1.tpns.tencent.com$
 
 
 
