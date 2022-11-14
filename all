@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-11-15 06:09:00 
+#更新时间: 2022-11-15 07:07:02 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:34749
+#规则数量:34756
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -11324,6 +11324,7 @@
 1.1.1.1 analytics.zhihu.com
 1.1.1.1 analytics.ziftsolutions.com
 1.1.1.1 analytics.zim.vn
+1.1.1.1 analytics.zoomit.ir
 1.1.1.1 analyticsaccount-partner.net.daraz.com
 1.1.1.1 analyticsr-es-1-analytics-www.partner.net.daraz.com
 1.1.1.1 analyticsr-es-1-api-docs-r-oa-5.net.daraz.com
@@ -16161,6 +16162,7 @@
 1.1.1.1 click-eu.expmediadirect1.com
 1.1.1.1 click-eu.jadspro.live
 1.1.1.1 click-eu.pclk.name
+1.1.1.1 click-eu.plarimoplus.com
 1.1.1.1 click-euro.acuityplatform.com
 1.1.1.1 click-find-save.com
 1.1.1.1 click-fr.com
@@ -19001,6 +19003,7 @@
 1.1.1.1 filmyhit.14.partner.net.daraz.com
 1.1.1.1 filmyhit14.partner.net.daraz.com
 1.1.1.1 filter.poprtb.pro
+1.1.1.1 filter.pwr-ads.com
 1.1.1.1 fim.adnxs.com
 1.1.1.1 finance-corp.info
 1.1.1.1 finance-pro.site
@@ -26273,6 +26276,7 @@
 1.1.1.1 push-api.topaz-analytics.com
 1.1.1.1 push-notifications.top
 1.1.1.1 push-sdk-backend-production.ap-south-1.elasticbeanstalk.com
+1.1.1.1 push-sdk.net
 1.1.1.1 push.cdnads.com
 1.1.1.1 push.ksapisrv.com
 1.1.1.1 push.lx.netease.com
@@ -26554,6 +26558,7 @@
 1.1.1.1 reader.browser.miui.com
 1.1.1.1 reader.meizu.com
 1.1.1.1 reader.res.meizu.com
+1.1.1.1 ready-for-download.com
 1.1.1.1 ready-to-download.com
 1.1.1.1 readyfacet.top
 1.1.1.1 readysugerfree.top
@@ -30015,6 +30020,8 @@
 1.1.1.1 tweightment.pro
 1.1.1.1 twitter-badges.s3.amazonaws.com
 1.1.1.1 twitter-info-22759960930.azureedge.net
+1.1.1.1 twitter-invest.com
+1.1.1.1 twitter-invest.org
 1.1.1.1 twitter-us.com
 1.1.1.1 twitter.agichi.com
 1.1.1.1 twitter.cm
