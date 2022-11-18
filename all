@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-11-19 06:07:02 
+#更新时间: 2022-11-19 07:06:26 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:29423
+#规则数量:29428
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1833,6 +1833,7 @@
 94.140.14.33 ad.jumbaexchange.com
 94.140.14.33 ad.jxnews.com.cn
 94.140.14.33 ad.k.21cn.com
+94.140.14.33 ad.kaskus.co.id
 94.140.14.33 ad.kat.ph
 94.140.14.33 ad.kataweb.it
 94.140.14.33 ad.kau.li
@@ -6034,6 +6035,7 @@
 94.140.14.33 ads.lk
 94.140.14.33 ads.lmmob.com
 94.140.14.33 ads.lnkworld.com
+94.140.14.33 ads.localhost.net.ar
 94.140.14.33 ads.localnow.com
 94.140.14.33 ads.localyokelmedia.com
 94.140.14.33 ads.localytics.com
@@ -10564,6 +10566,7 @@
 94.140.14.33 api.ads.yahoo.com
 94.140.14.33 api.adsafeprotected.com
 94.140.14.33 api.adserver-e7.com
+94.140.14.33 api.adshop.infolinks.com
 94.140.14.33 api.adskeeper.co.uk
 94.140.14.33 api.adsmogo.net
 94.140.14.33 api.adsnative.com
@@ -23491,6 +23494,7 @@
 94.140.14.33 state-kz.top
 94.140.14.33 static-01-apisellerpackaging.www.partner-pay.net.daraz.com
 94.140.14.33 static-addtoany-com.cdn.ampproject.org
+94.140.14.33 static-ads.adtarget.me
 94.140.14.33 static-ads.akamaized.net
 94.140.14.33 static-ads.zaloapp.com
 94.140.14.33 static-analytics.adkernel.com
@@ -28919,6 +28923,7 @@
 94.140.14.33 xrkadslmgg.top
 94.140.14.33 xroll.pro
 94.140.14.33 xrp-bonus.pro
+94.140.14.33 xrp-gift.pro
 94.140.14.33 xsapp.cdn.bcebos.com
 94.140.14.33 xsexvideos.pro
 94.140.14.33 xsolid.baidu.com
