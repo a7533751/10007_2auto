@@ -1786,6 +1786,9 @@ grep_value_file '1' '163' "${hosts_file}"
 #22.10.25 恢复QQ相关域名拦截，可能会有大量误杀
 grep_value_file '1' 'qq' "`pwd`/tmp_hosts/yhost"
 grep_value_file '1' 'qq' "`pwd`/tmp_hosts/大圣净化"
+#虎扑 2022.11.20
+grep_value_file "1" 'hupu' "${hosts_file}"
+
 }
 
 #开始运行
