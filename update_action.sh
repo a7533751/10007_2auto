@@ -741,6 +741,11 @@ cat << "key" > ${file}
 #coolapk
 127.0.0.1 gromore.pangolin-sdk-toutiao.com
 
+#22.11.23
+#有道翻译官
+127.0.0.1 ad-sdk-config.youdao.com
+#127.0.0.1 openapi.youdao.com
+#127.0.0.1 oimagea2.ydstatic.com
 
 key
 test -f "${file}" && echo -e "创建文件${file}成功！"
@@ -1097,6 +1102,8 @@ cat << "key" > ${file}
 ^127.0.0.1[[:space:]]puds.ucweb.com$
 #新浪新闻图片
 ^127.0.0.1[[:space:]]k.sinaimg.cn$
+#有道翻译官网页翻译
+^127.0.0.1[[:space:]]c.youdao.com$
 
 
 
