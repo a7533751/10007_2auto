@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-11-24 16:08:53 
+#更新时间: 2022-11-24 17:06:55 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20203
+#规则数量:20204
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -59,6 +59,7 @@
 1.1.1.1 0lx-pl.umowa-pl29348.click
 1.1.1.1 0n.click
 1.1.1.1 0ndfls4hmp.top
+1.1.1.1 0smg.top
 1.1.1.1 0tp13ntwgjkfryr63w.fixiy.pro
 1.1.1.1 0u37vw5na9w0.top
 1.1.1.1 0udonfv52o9k.top
@@ -5819,7 +5820,6 @@
 1.1.1.1 api.sdffwef11.com
 1.1.1.1 api.sdk.zadn.vn
 1.1.1.1 api.sdkbox.com
-1.1.1.1 api.sdo.caspian.agency
 1.1.1.1 api.secondstreetapp.com
 1.1.1.1 api.segment.io
 1.1.1.1 api.sentiance.com
@@ -14111,6 +14111,7 @@
 1.1.1.1 rs.ero-advertising.com
 1.1.1.1 rs.top-daily-profit.com
 1.1.1.1 rs2.ero-advertising.com
+1.1.1.1 rss9f.top
 1.1.1.1 rt.ad-score.com
 1.1.1.1 rt.analytics.anvato.net
 1.1.1.1 rt.bongacams.mobi
@@ -14142,7 +14143,6 @@
 1.1.1.1 ru.huyamba.mobi
 1.1.1.1 ru.mst.dns-cloud.net
 1.1.1.1 rudeinversion.top
-1.1.1.1 rujume.top
 1.1.1.1 rule34.top
 1.1.1.1 rum.api.intuit.com
 1.1.1.1 rum.browser-intake-datadoghq.com
@@ -20018,6 +20018,7 @@
 1.1.1.1 zeus.ad.xiaomi.com
 1.1.1.1 zfbwdt.top
 1.1.1.1 zgbtw.mobi
+1.1.1.1 zgfckf.mobi
 1.1.1.1 zgfushi.mobi
 1.1.1.1 zgmtw.mobi
 1.1.1.1 zgnz020.mobi
