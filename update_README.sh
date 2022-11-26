@@ -9,7 +9,7 @@ cat << key > `pwd`/README.md
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
-## 统计
+## 统计 (`date +'%F %T'`)
 \`\`\`
 累积拦截域名: ${count_all}
 \`\`\`
@@ -21,6 +21,7 @@ cat << key > `pwd`/README.md
 ### 您可以选择 [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) 对hosts进行管理。
 
 ## 订阅
+### 国内请用 **镜像链接**  
 
 | **名称** | **链接** | **镜像链接** |
 | :-- | :-- | :-- |
