@@ -10,7 +10,7 @@ cat << key > `pwd`/README.md
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
-## 统计
+## 统计 (`date +'%F %T'`)
 \`\`\`
 完整版累积拦截域名: ${count_all}
 保留广告奖励累积拦截域名: ${count_reward}
@@ -23,6 +23,7 @@ cat << key > `pwd`/README.md
 ### 请在Adaway中选择**重定向(Apply redirected hosts)**
 
 ## 订阅
+### 国内请用 **镜像链接**  
 
 | **名称** | **链接** | **镜像链接** |
 | :-- | :-- | :-- |
