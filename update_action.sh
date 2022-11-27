@@ -1104,6 +1104,8 @@ cat << "key" > ${file}
 ^127.0.0.1[[:space:]]k.sinaimg.cn$
 #有道翻译官网页翻译
 ^127.0.0.1[[:space:]]c.youdao.com$
+#百度网盘签到图片界面
+^127.0.0.1[[:space:]]staticsns.cdn.bcebos.com$
 
 
 
