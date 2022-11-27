@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-11-27 19:03:36 
+#更新时间: 2022-11-27 20:10:43 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20221
+#规则数量:20232
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -2536,6 +2536,7 @@
 1.1.1.1 ads.fox.com
 1.1.1.1 ads.foxnetworks.com
 1.1.1.1 ads.foxnews.com
+1.1.1.1 ads.fpt.vn
 1.1.1.1 ads.fptplay.net.vn
 1.1.1.1 ads.fredericksburg.com
 1.1.1.1 ads.free-to.download
@@ -3746,6 +3747,7 @@
 1.1.1.1 ads8-normal.zijieapi.com
 1.1.1.1 ads8.com
 1.1.1.1 ads8.contentabc.com
+1.1.1.1 ads8.fpt.vn
 1.1.1.1 ads8.speedbit.com
 1.1.1.1 ads9-normal-hl.zijieapi.com
 1.1.1.1 ads9-normal-lf.zijieapi.com
@@ -4288,6 +4290,7 @@
 1.1.1.1 analytics.247sports.com
 1.1.1.1 analytics.300624.com
 1.1.1.1 analytics.30m.com
+1.1.1.1 analytics.365scores.com
 1.1.1.1 analytics.74.ru
 1.1.1.1 analytics.a-f.io
 1.1.1.1 analytics.aasaam.com
@@ -5199,6 +5202,7 @@
 1.1.1.1 api-keks.com
 1.1.1.1 api-ldp.novaonx.com
 1.1.1.1 api-live.outgrow.co
+1.1.1.1 api-logdev.sohatv.vn
 1.1.1.1 api-luckycoinsdk.doglobal.net
 1.1.1.1 api-marketolog.mts.ru
 1.1.1.1 api-mcp.adsp.xunlei.com
@@ -5651,6 +5655,7 @@
 1.1.1.1 api.maropost.com
 1.1.1.1 api.masterprotocols.com
 1.1.1.1 api.mb-click.jp
+1.1.1.1 api.mbrx.app
 1.1.1.1 api.mc876.com
 1.1.1.1 api.mcwbiz.com
 1.1.1.1 api.mediaforge.com
@@ -6376,6 +6381,7 @@
 1.1.1.1 banner-exchange-24.de
 1.1.1.1 banner-gateway.supersonicads.com
 1.1.1.1 banner-img.haber7.com
+1.1.1.1 banner-in.net
 1.1.1.1 banner-madai-com.s3.amazonaws.com
 1.1.1.1 banner-media.ru
 1.1.1.1 banner-rotation.com
@@ -8155,6 +8161,7 @@
 1.1.1.1 dgqpjkjn.lungcomplacency.top
 1.1.1.1 dgviylvgbhkxn.top
 1.1.1.1 dhm1.top
+1.1.1.1 dhn-ads-api.365scores.com
 1.1.1.1 di.rhlxm.top
 1.1.1.1 dia-traffic.com
 1.1.1.1 diadem-invest.pro
@@ -8597,6 +8604,7 @@
 1.1.1.1 ebank.partner-api1.net.daraz.com
 1.1.1.1 ebazhaheiw.top
 1.1.1.1 ebclyqrvltydf.top
+1.1.1.1 eberalofe.pro
 1.1.1.1 ebmzp.top
 1.1.1.1 ebook-res.meizu.com
 1.1.1.1 ebook.res.meizu.com
@@ -9581,6 +9589,7 @@
 1.1.1.1 health-partner.net
 1.1.1.1 hearbreakingfizz.top
 1.1.1.1 heavenwil.top
+1.1.1.1 hebgb.top
 1.1.1.1 hecan123.top
 1.1.1.1 heclnyu.top
 1.1.1.1 hegarberetrof.pro
@@ -16435,6 +16444,7 @@
 1.1.1.1 u3.ucweb.com
 1.1.1.1 uac.advertising.com
 1.1.1.1 uads.shop
+1.1.1.1 uaery.top
 1.1.1.1 uannoxbyb.top
 1.1.1.1 uapi.ads.heytapmobi.com
 1.1.1.1 uapi.ads.oppomobile.com
@@ -20067,6 +20077,7 @@
 1.1.1.1 zfbwdt.top
 1.1.1.1 zgbtw.mobi
 1.1.1.1 zgfckf.mobi
+1.1.1.1 zgfdczj.mobi
 1.1.1.1 zgfushi.mobi
 1.1.1.1 zgmtw.mobi
 1.1.1.1 zgnz020.mobi
