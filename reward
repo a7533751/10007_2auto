@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-11-28 12:08:16 
+#更新时间: 2022-11-28 13:07:23 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20228
+#规则数量:20214
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -4197,9 +4197,9 @@
 1.1.1.1 amauxe.qortk3.top
 1.1.1.1 amavirgin.pro
 1.1.1.1 amaz.emailon.top
-1.1.1.1 amazonget.top
+1.1.1.1 amazon-jap.top
+1.1.1.1 amazonmalls.top
 1.1.1.1 amazonmx.top
-1.1.1.1 amazons-update.live
 1.1.1.1 amcqufwanofuv.top
 1.1.1.1 amdc.m.taobao.com
 1.1.1.1 amdcopen.m.taobao.com
@@ -5070,6 +5070,7 @@
 1.1.1.1 analytics.yourbankcard.com
 1.1.1.1 analytics.youronlinechoices.com
 1.1.1.1 analytics.yts.vn
+1.1.1.1 analytics.yugen.to
 1.1.1.1 analytics.zapps.vn
 1.1.1.1 analytics.zdbb.net
 1.1.1.1 analytics.zeekit.co
@@ -5116,6 +5117,7 @@
 1.1.1.1 anquan.baidu.com
 1.1.1.1 ant-top.ru
 1.1.1.1 anti-bot.baidu.com
+1.1.1.1 antiq.serreer.top
 1.1.1.1 antispam-pro.us
 1.1.1.1 antivirus.baidu.com
 1.1.1.1 antyweb.push-ad.com
@@ -5734,7 +5736,6 @@
 1.1.1.1 api.parrable.com
 1.1.1.1 api.parse.com
 1.1.1.1 api.parsely.com
-1.1.1.1 api.passodetorres.infinitybase.app
 1.1.1.1 api.pbbl.co
 1.1.1.1 api.pbxai.com
 1.1.1.1 api.pdbarea.com
@@ -6085,6 +6086,7 @@
 1.1.1.1 arkgives.pro
 1.1.1.1 arkinfo.pro
 1.1.1.1 arnaz0n.nmrde.top
+1.1.1.1 arous.serreer.top
 1.1.1.1 arpe.top
 1.1.1.1 art-family.pro
 1.1.1.1 artblog.top
@@ -6187,7 +6189,6 @@
 1.1.1.1 audid-api.taobao.com
 1.1.1.1 audience.xml.adx1.com
 1.1.1.1 audriasite.pro
-1.1.1.1 aurora-google.work
 1.1.1.1 australia-southeast1.ads.playground.xyz
 1.1.1.1 auth-google.site
 1.1.1.1 auth-partner.net.daraz.com
@@ -6924,6 +6925,7 @@
 1.1.1.1 canvas.gdt.qq.com
 1.1.1.1 caopanshou.top
 1.1.1.1 cap-ad.doublemax.net
+1.1.1.1 capab.thankon.top
 1.1.1.1 caphyon-analytics.com
 1.1.1.1 capture-api.ap3prod.com
 1.1.1.1 capture-api.autopilotapp.com
@@ -7163,6 +7165,7 @@
 1.1.1.1 cdnuz.adviad.com
 1.1.1.1 cdnv.ad-stir.com
 1.1.1.1 cdnvideos.pro
+1.1.1.1 ce-cedyna.top
 1.1.1.1 ceadx.agrantsem.com
 1.1.1.1 cebygijy.pro
 1.1.1.1 celeb-ads.com
@@ -7221,7 +7224,6 @@
 1.1.1.1 check.dropcanoiles.com
 1.1.1.1 check.dummy280280.net
 1.1.1.1 check.fashionid.de
-1.1.1.1 check.fedex-tracking.me
 1.1.1.1 check.lawashpol.site
 1.1.1.1 check.rayjump.com
 1.1.1.1 check.safelinkonly.top
@@ -7254,7 +7256,6 @@
 1.1.1.1 chyjobopse.pro
 1.1.1.1 chykohija.pro
 1.1.1.1 chystechagre.pro
-1.1.1.1 cibc-update-online.net
 1.1.1.1 cigrylecha.pro
 1.1.1.1 cimage.adobe.com
 1.1.1.1 cimm.top
@@ -8044,6 +8045,9 @@
 1.1.1.1 dbs-pay.top
 1.1.1.1 dbs-sg.top
 1.1.1.1 dbsa.top
+1.1.1.1 dbspayapp.top
+1.1.1.1 dbspayl.top
+1.1.1.1 dbspaylsho.top
 1.1.1.1 dbssg.top
 1.1.1.1 dbswallets.top
 1.1.1.1 dbta.ero-advertising.com
@@ -8786,7 +8790,6 @@
 1.1.1.1 events.splash-screen.net
 1.1.1.1 events.twitter.com
 1.1.1.1 eventsteam.pro
-1.1.1.1 ever.diition.top
 1.1.1.1 eviclick.pro
 1.1.1.1 evjtloaxy.top
 1.1.1.1 evtubescms.phncdn.com
@@ -8828,6 +8831,7 @@
 1.1.1.1 f5w.as12df.top
 1.1.1.1 fa.163.com
 1.1.1.1 facebook-ads.pl
+1.1.1.1 facebookvideo.click
 1.1.1.1 fact.mestopoland.pro
 1.1.1.1 faggai.pro
 1.1.1.1 fagywalu.pro
@@ -8914,6 +8918,7 @@
 1.1.1.1 filter.poprtb.pro
 1.1.1.1 filter.pwr-ads.com
 1.1.1.1 fim.adnxs.com
+1.1.1.1 finak.top
 1.1.1.1 finance-corp.info
 1.1.1.1 finance-pro.site
 1.1.1.1 finanse-internetowe.click
@@ -8998,6 +9003,7 @@
 1.1.1.1 forms.share.works
 1.1.1.1 formula-bogactwa.click
 1.1.1.1 fortniteapk.mobi
+1.1.1.1 fortra.pro
 1.1.1.1 fortress-check.site
 1.1.1.1 forum.ero-advertising.com
 1.1.1.1 forum.square-enix.com-jm.top
@@ -9351,7 +9357,6 @@
 1.1.1.1 goodwold.top
 1.1.1.1 goog.emailon.top
 1.1.1.1 google-analytics.com
-1.1.1.1 google-authenti-gmail-authentication.gaspbenin.com
 1.1.1.1 google-deckoffice.ml
 1.1.1.1 google-docs.org
 1.1.1.1 google-jobs-verify.justhiredph.com
@@ -9586,6 +9591,7 @@
 1.1.1.1 hdxxx.top
 1.1.1.1 health-partner.net
 1.1.1.1 hearbreakingfizz.top
+1.1.1.1 heavenly-test.pro
 1.1.1.1 heavenwil.top
 1.1.1.1 hebgb.top
 1.1.1.1 hecan123.top
@@ -10166,6 +10172,7 @@
 1.1.1.1 inpost-pl-myid271xs.id-umowa458230.click
 1.1.1.1 inpost-pl-myid271xs.jetfilez.top
 1.1.1.1 inpost-pl-myid271xs.jon23.top
+1.1.1.1 inpost-pl-myid271xs.khjkk.top
 1.1.1.1 inpost-pl-myid271xs.lakshmi.top
 1.1.1.1 inpost-pl-myid271xs.oq7.top
 1.1.1.1 inpost-pl-myid271xs.order-id78921.top
@@ -10493,7 +10500,6 @@
 1.1.1.1 japan-smbcbank.exrlsr.top
 1.1.1.1 japan-smbcbank.eykdya.top
 1.1.1.1 japan-smbcbank.hfjeog.top
-1.1.1.1 japan-smbcbank.hiwxjt.top
 1.1.1.1 japan-smbcbank.iomggi.top
 1.1.1.1 japan-smbcbank.kwuiub.top
 1.1.1.1 japan-smbcbank.vcktda.top
@@ -10731,6 +10737,7 @@
 1.1.1.1 kelun13.top
 1.1.1.1 kengi.top
 1.1.1.1 kenhjav.pro
+1.1.1.1 kependable.top
 1.1.1.1 keqrd.top
 1.1.1.1 kerberos.frontpage-partner.net.daraz.com
 1.1.1.1 kermo.click
@@ -11115,7 +11122,6 @@
 1.1.1.1 loneptipy.pro
 1.1.1.1 longup.best-sales.top
 1.1.1.1 longxia-designer.top
-1.1.1.1 looksrrare.click
 1.1.1.1 lootplatform.pro
 1.1.1.1 lotpt.top
 1.1.1.1 lottery-bingo.com
@@ -11324,7 +11330,6 @@
 1.1.1.1 marketingplatform.google.com
 1.1.1.1 marketplace.trafficjunky.net
 1.1.1.1 marklokdinvest.pro
-1.1.1.1 markulit.top
 1.1.1.1 martafatass.pro
 1.1.1.1 martens1460.top
 1.1.1.1 marvel.hb-api.omtrdc.net
@@ -11762,7 +11767,6 @@
 1.1.1.1 monitoring-sdk.experimentation.intuit.com
 1.1.1.1 montafp.top
 1.1.1.1 montangop.top
-1.1.1.1 montepopt.top
 1.1.1.1 montkpl.top
 1.1.1.1 montkyodo.top
 1.1.1.1 montpdp.top
@@ -12007,7 +12011,6 @@
 1.1.1.1 nerckcmo.top
 1.1.1.1 nesaporn.mobi
 1.1.1.1 netfilxbillingsupport.top
-1.1.1.1 netflix-info.top
 1.1.1.1 netflix-login-update.com
 1.1.1.1 netflix-payment-update-id0112.com
 1.1.1.1 netflix-update.platnosci.medalcheck.com
@@ -13010,7 +13013,6 @@
 1.1.1.1 pattled.click
 1.1.1.1 pautina.mobi
 1.1.1.1 paxdola.click
-1.1.1.1 paxful-es.pro
 1.1.1.1 paxful.mobi
 1.1.1.1 paxfulcg2.top
 1.1.1.1 pay-ads.com
@@ -13254,6 +13256,7 @@
 1.1.1.1 ping-traffic.info
 1.1.1.1 pinger.ads.nexage.com
 1.1.1.1 pinkypants.top
+1.1.1.1 pint.fodee.top
 1.1.1.1 piohbdisp.hb.adx1.com
 1.1.1.1 pirater-facebook-msn.com
 1.1.1.1 pirater-msn-facebook.eu
@@ -13339,6 +13342,7 @@
 1.1.1.1 plugin.mobopay.baidu.com
 1.1.1.1 plugin.ucads.ucweb.com
 1.1.1.1 plujrydghnavlup.top
+1.1.1.1 plura.dipscut.top
 1.1.1.1 plus.google.com
 1.1.1.1 plusujesz-tankujesz.click
 1.1.1.1 pm1.pvvstream.pro
@@ -13466,7 +13470,6 @@
 1.1.1.1 pos.baidu.com
 1.1.1.1 posecoug.pro
 1.1.1.1 poseidon.partner-4.net.daraz.com
-1.1.1.1 post-ch-app.click
 1.1.1.1 post.update.3lift.com
 1.1.1.1 post.update.a-mo.net
 1.1.1.1 post.update.ap.lijit.com
@@ -13696,7 +13699,6 @@
 1.1.1.1 psiwaphado.pro
 1.1.1.1 psozyhotho.pro
 1.1.1.1 psuhexitu.pro
-1.1.1.1 psusi.top
 1.1.1.1 pswv.top
 1.1.1.1 pt.trafficjunky.net
 1.1.1.1 ptbus.com
@@ -13898,7 +13900,6 @@
 1.1.1.1 rajska-wyspa.click
 1.1.1.1 rajwap.pro
 1.1.1.1 rakapsysty.pro
-1.1.1.1 rakduten.top
 1.1.1.1 rakuten-security-ja.abhrkw.top
 1.1.1.1 rakuten-security-ja.aflizy.top
 1.1.1.1 rakuten-security-ja.aqpsac.top
@@ -13921,19 +13922,16 @@
 1.1.1.1 rakuten-security-ja.mnkzbu.top
 1.1.1.1 rakuten-security-ja.mrdypc.top
 1.1.1.1 rakuten-security-ja.npvaym.top
-1.1.1.1 rakuten-security-ja.ofssyv.top
 1.1.1.1 rakuten-security-ja.oypfuy.top
 1.1.1.1 rakuten-security-ja.qfrnhy.top
 1.1.1.1 rakuten-security-ja.qtcxue.top
 1.1.1.1 rakuten-security-ja.quyoae.top
-1.1.1.1 rakuten-security-ja.rlwyrk.top
 1.1.1.1 rakuten-security-ja.suqehq.top
 1.1.1.1 rakuten-security-ja.syhoio.top
 1.1.1.1 rakuten-security-ja.szvohn.top
 1.1.1.1 rakuten-security-ja.tpexjg.top
 1.1.1.1 rakuten-security-ja.tryago.top
 1.1.1.1 rakuten-security-ja.ttjmfe.top
-1.1.1.1 rakuten-security-ja.umoxwq.top
 1.1.1.1 rakuten-security-ja.vulhwa.top
 1.1.1.1 rakuten-security-ja.ykhhtu.top
 1.1.1.1 rakuten-youdens.top
@@ -13954,6 +13952,7 @@
 1.1.1.1 rb.adnxs-simple.com
 1.1.1.1 rb.adnxs.com
 1.1.1.1 rbazhaheiz.top
+1.1.1.1 rbfccu.top
 1.1.1.1 rbqljpjq.top
 1.1.1.1 rc7e.top
 1.1.1.1 rcauqrtiqwo.top
@@ -14096,6 +14095,7 @@
 1.1.1.1 rgtlexcqqtvc.top
 1.1.1.1 rhlvhsqibvcgv.top
 1.1.1.1 rhpgedrtvysg.top
+1.1.1.1 rib.thankon.top
 1.1.1.1 rich-banner.ru
 1.1.1.1 riimjpjnqo.top
 1.1.1.1 rise.andain.top
@@ -14745,6 +14745,7 @@
 1.1.1.1 session-replay.browser-intake-datadoghq.com
 1.1.1.1 sessotube.pro
 1.1.1.1 sestat.baidu.com
+1.1.1.1 setti.serreer.top
 1.1.1.1 seure-update.fartit.com
 1.1.1.1 sex-com.pro
 1.1.1.1 sex-hd.pro
@@ -15245,7 +15246,7 @@
 1.1.1.1 solutions.playernetca.top
 1.1.1.1 soma-ap-southeast-1.ad.smaato.net
 1.1.1.1 soma-eu-west-1.ad.smaato.net
-1.1.1.1 sopeccj.top
+1.1.1.1 somet.thement.top
 1.1.1.1 sopes.dns-cloud.net
 1.1.1.1 sopulit.top
 1.1.1.1 sor-sdk.follow-apps.com
@@ -15484,32 +15485,19 @@
 1.1.1.1 statstest.upti.pro
 1.1.1.1 status.twitter.com
 1.1.1.1 steamcommunityio.top
-1.1.1.1 steamcommunityoiq.top
-1.1.1.1 steamcommunityoit.top
-1.1.1.1 steamcommunityoiuc.top
 1.1.1.1 steamcommunityoiw.top
-1.1.1.1 steamcommunityoiwn.top
-1.1.1.1 steamcommunityoiwo.top
 1.1.1.1 steamcommunityoiwx.top
-1.1.1.1 steamcommunityoq.top
 1.1.1.1 steamcommunitysin.top
-1.1.1.1 steamcommunitysio.top
 1.1.1.1 steamcommunitysiv.top
 1.1.1.1 steamcommunityuiwn.top
-1.1.1.1 steamcommunityuiwv.top
 1.1.1.1 steamcommunityuvi.top
 1.1.1.1 steamcommunityvirv.top
 1.1.1.1 steamcommunityvitr.top
-1.1.1.1 steamcommunityviwn.top
 1.1.1.1 steamcommunityxioa.top
 1.1.1.1 steamcommunityxion.top
 1.1.1.1 steamcommunityxioq.top
 1.1.1.1 steamcommunityxvnr.top
-1.1.1.1 steamcommunityzixn.top
-1.1.1.1 steamcommunityzowe.top
 1.1.1.1 steamcommunityzve.top
-1.1.1.1 steamcommunityzvo.top
-1.1.1.1 steamcommunityzvw.top
 1.1.1.1 steamcommunityzxco.top
 1.1.1.1 steamcommunityzxcv.top
 1.1.1.1 steamcommunityzxcw.top
@@ -15591,6 +15579,7 @@
 1.1.1.1 support.browser.heytapmobi.com
 1.1.1.1 support.streamjav.top
 1.1.1.1 support.twitter.com
+1.1.1.1 supportteam26495126.click
 1.1.1.1 suppressiveruthless.top
 1.1.1.1 surf-bar-traffic.com
 1.1.1.1 surf-traffic.com
@@ -15777,7 +15766,6 @@
 1.1.1.1 tangxiaodou.top
 1.1.1.1 taniapaczka.top
 1.1.1.1 tanigrogi.pro
-1.1.1.1 taobao.com
 1.1.1.1 taobao.qq.com
 1.1.1.1 taoyuay.top
 1.1.1.1 tapchisex.click
@@ -15902,7 +15890,6 @@
 1.1.1.1 tfsnp.hnhgmh.mobi
 1.1.1.1 tgeiauhiaall.top
 1.1.1.1 thankful-conference.pro
-1.1.1.1 that.trahoon.top
 1.1.1.1 thatobjective.pro
 1.1.1.1 the-bitcoin-era-pro.com
 1.1.1.1 the-bitcoin-rush-pro.financialmarketsworld.com
@@ -16418,7 +16405,6 @@
 1.1.1.1 tyh.taobao.com
 1.1.1.1 typo3.ero-advertising.com
 1.1.1.1 tytx.m.cn.miaozhen.com
-1.1.1.1 tyurin.pro
 1.1.1.1 tyutuyoo.top
 1.1.1.1 tzaupye.top
 1.1.1.1 u-ad.info
@@ -16573,6 +16559,7 @@
 1.1.1.1 update-info.centrumconsumer.live
 1.1.1.1 update-informasi.kmgireland.net
 1.1.1.1 update-information-pp0.blogspot.com.by
+1.1.1.1 update-information-tax.knfg4.live
 1.1.1.1 update-information.lakespoint.com.au
 1.1.1.1 update-information.zzux.com
 1.1.1.1 update-it-now.com
@@ -16653,7 +16640,6 @@
 1.1.1.1 ups.package-tracking-tool.datouwhkji.top
 1.1.1.1 ups.package-tracking-tool.kwfynb.top
 1.1.1.1 ups.package-tracking-tool.ntzdhv.top
-1.1.1.1 ups.package-tracking-tool.tksfbn.top
 1.1.1.1 ups.package-tracking-tool.udijhx.top
 1.1.1.1 ups.package.datouwhkji.top
 1.1.1.1 upsight-api.com
@@ -16714,6 +16700,7 @@
 1.1.1.1 usluga.kontrola-poczty.top
 1.1.1.1 usp1.baidu.com
 1.1.1.1 uspd.top
+1.1.1.1 uspl.top
 1.1.1.1 usps-coma.top
 1.1.1.1 usps-come.top
 1.1.1.1 usps-comq.top
@@ -17840,6 +17827,7 @@
 1.1.1.1 wads.ozap.com
 1.1.1.1 wads.plurielles.fr
 1.1.1.1 wager.dm
+1.1.1.1 wagon.serreer.top
 1.1.1.1 walletconnectmainet.top
 1.1.1.1 wallinside.top
 1.1.1.1 wan.2345.com
@@ -18036,6 +18024,7 @@
 1.1.1.1 worldsex.pro
 1.1.1.1 worthless-living.pro
 1.1.1.1 wotythowe.pro
+1.1.1.1 wound.acrory.top
 1.1.1.1 wow.ero-advertising.com
 1.1.1.1 woxcerxgwpvm.top
 1.1.1.1 wp-cdn.cityads.com
@@ -18130,7 +18119,6 @@
 1.1.1.1 wws.lanzoud.com
 1.1.1.1 wws.lanzous.com
 1.1.1.1 wws.lanzouz.com
-1.1.1.1 wwvvcajasullana.top
 1.1.1.1 www-122seks.partner-pay.net.daraz.com
 1.1.1.1 www-19-partner.partner-pay.net.daraz.com
 1.1.1.1 www-accountingns5.partner-pay.net.daraz.com
@@ -18180,7 +18168,6 @@
 1.1.1.1 www.3ds.ero-advertising.com
 1.1.1.1 www.3xp4e3kno6.top
 1.1.1.1 www.3xxx.pro
-1.1.1.1 www.4-collab-land.pro
 1.1.1.1 www.4anners.ero-advertising.com
 1.1.1.1 www.4porn.mobi
 1.1.1.1 www.4ur.click
@@ -18559,7 +18546,6 @@
 1.1.1.1 www.finanse-internetowe.click
 1.1.1.1 www.find.my-xiaomi.live
 1.1.1.1 www.findlak-investing.pro
-1.1.1.1 www.findphone.mobi
 1.1.1.1 www.fineporn.pro
 1.1.1.1 www.fingerless-click.000webhostapp.com
 1.1.1.1 www.firma-tuningowa.lublin.click
@@ -18618,7 +18604,6 @@
 1.1.1.1 www.google.bv-hilden-west.de
 1.1.1.1 www.google.mellrichstadt-stadtkapelle.de
 1.1.1.1 www.google.olinails.de
-1.1.1.1 www.google.pem.app
 1.1.1.1 www.google.schreinerei-wohlfart.de
 1.1.1.1 www.googletagmanager.com
 1.1.1.1 www.goonline.bookerlsat.pro
@@ -19313,6 +19298,7 @@
 1.1.1.1 www.the-bitcoin-rush-pro.financialmarketsworld.com
 1.1.1.1 www.thebitcoins-pro.financialmarketsworld.com
 1.1.1.1 www.thegroup.click
+1.1.1.1 www.thorchaim.click
 1.1.1.1 www.thumb.ero-advertising.com
 1.1.1.1 www.thumbads.ero-advertising.com
 1.1.1.1 www.thumbs.ero-advertising.com
@@ -19906,7 +19892,6 @@
 1.1.1.1 yaosahrmncc.top
 1.1.1.1 yapdqykkttuqdl.top
 1.1.1.1 yarbwyaexcb.top
-1.1.1.1 yashevents.top
 1.1.1.1 ybn4.top
 1.1.1.1 ybwvqsjoluhrfmm.top
 1.1.1.1 yc-ads.s3.amazonaws.com
@@ -20074,6 +20059,7 @@
 1.1.1.1 zfbwdt.top
 1.1.1.1 zgbtw.mobi
 1.1.1.1 zgfckf.mobi
+1.1.1.1 zgfdczj.mobi
 1.1.1.1 zgfushi.mobi
 1.1.1.1 zgmtw.mobi
 1.1.1.1 zgnz020.mobi
