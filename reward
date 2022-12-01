@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-12-01 16:09:45 
+#更新时间: 2022-12-01 17:07:22 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20082
+#规则数量:20053
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -455,7 +455,6 @@
 94.140.14.33 abc.comick.top
 94.140.14.33 abc.hb-api.omtrdc.net
 94.140.14.33 abc.rwpt.top
-94.140.14.33 abc.zdfjas.top
 94.140.14.33 abcnews.hb-api.omtrdc.net
 94.140.14.33 abcotv.hb-api.omtrdc.net
 94.140.14.33 abctcqq.top
@@ -737,6 +736,7 @@
 94.140.14.33 ad.adnetwork.net
 94.140.14.33 ad.adnow.com
 94.140.14.33 ad.adnxs.com
+94.140.14.33 ad.adondemand.com
 94.140.14.33 ad.adorika.com
 94.140.14.33 ad.adpon.jp
 94.140.14.33 ad.adresult.jp
@@ -1683,6 +1683,7 @@
 94.140.14.33 adc3-launch-staging.adcolony.com
 94.140.14.33 adc3-launch.adcolony.com
 94.140.14.33 adcdn.goo.ne.jp
+94.140.14.33 adcdn.holmesmind.com
 94.140.14.33 adcdn.hpplay.cn
 94.140.14.33 adcdn.tencentmusic.com
 94.140.14.33 adcenterservices.com
@@ -5065,9 +5066,11 @@
 94.140.14.33 aomgqlaty.top
 94.140.14.33 aosnimcbskyhy.top
 94.140.14.33 aoul.top
+94.140.14.33 aoyou1.top
 94.140.14.33 aoyou2.top
 94.140.14.33 aoyou3.top
 94.140.14.33 aoyou4.top
+94.140.14.33 aoyou5.top
 94.140.14.33 ap-southeast-1-ads.yieldmo.com
 94.140.14.33 ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 94.140.14.33 ap.ad-feed.com
@@ -5188,7 +5191,6 @@
 94.140.14.33 api.0530hz.cn
 94.140.14.33 api.06fgej.com
 94.140.14.33 api.1101yh.com
-94.140.14.33 api.1106yh.com
 94.140.14.33 api.112.2o7.net
 94.140.14.33 api.118kbet.com
 94.140.14.33 api.11h5.com
@@ -5378,7 +5380,6 @@
 94.140.14.33 api.bugsee.com
 94.140.14.33 api.bugsnag.com
 94.140.14.33 api.bunzlaucastle.com
-94.140.14.33 api.bwdhuanbao.com
 94.140.14.33 api.c.avazunativeads.com
 94.140.14.33 api.callget.cn
 94.140.14.33 api.calq.io
@@ -6029,7 +6030,6 @@
 94.140.14.33 artpress.top
 94.140.14.33 as.ad-brix.com
 94.140.14.33 as.ad.impact-ad.jp
-94.140.14.33 as.afenx.top
 94.140.14.33 as.ao.impact-ad.jp
 94.140.14.33 as.baidu.com
 94.140.14.33 as.bi.impact-ad.jp
@@ -6038,7 +6038,6 @@
 94.140.14.33 as.ch.impact-ad.jp
 94.140.14.33 as.cw.impact-ad.jp
 94.140.14.33 as.dc.impact-ad.jp
-94.140.14.33 as.dingyar.top
 94.140.14.33 as.hc.impact-ad.jp
 94.140.14.33 as.ik.impact-ad.jp
 94.140.14.33 as.in.impact-ad.jp
@@ -6046,13 +6045,11 @@
 94.140.14.33 as.iy.impact-ad.jp
 94.140.14.33 as.kd.impact-ad.jp
 94.140.14.33 as.ko.impact-ad.jp
-94.140.14.33 as.kuanxin.top
 94.140.14.33 as.mc.impact-ad.jp
 94.140.14.33 as.mv.impact-ad.jp
 94.140.14.33 as.oe.impact-ad.jp
 94.140.14.33 as.se.impact-ad.jp
 94.140.14.33 as.sp.impact-ad.jp
-94.140.14.33 as.tiandesign.top
 94.140.14.33 as.ve.impact-ad.jp
 94.140.14.33 as.weixin.qq.com
 94.140.14.33 as.yl.impact-ad.jp
@@ -6200,9 +6197,7 @@
 94.140.14.33 axzsd.pro
 94.140.14.33 ayeahbrnrjnq.top
 94.140.14.33 ayuofbrugwgsl.top
-94.140.14.33 az.tiandesign.top
 94.140.14.33 azarlive-branch.vsohu.admaster.com.cn
-94.140.14.33 azs.fcheng.top
 94.140.14.33 azxsd.pro
 94.140.14.33 b-api.facebook.com
 94.140.14.33 b-api.omnitagjs.com
@@ -6691,6 +6686,7 @@
 94.140.14.33 bricks.e.qq.com
 94.140.14.33 bro.flyme.cn
 94.140.14.33 brodgikinvest.pro
+94.140.14.33 brownfox.top
 94.140.14.33 brownsite.click
 94.140.14.33 browser-intake-datadoghq.com
 94.140.14.33 browser-intake-datadoghq.eu
@@ -6737,6 +6733,7 @@
 94.140.14.33 buy-traffic.org
 94.140.14.33 buy.gasent.top
 94.140.14.33 buylike.pro
+94.140.14.33 buzien.top
 94.140.14.33 bv-analytics-js-prod.s3.amazonaws.com
 94.140.14.33 bv-analytics-js-qa.s3.amazonaws.com
 94.140.14.33 bwogldv.top
@@ -6799,7 +6796,6 @@
 94.140.14.33 c.my.msn.com
 94.140.14.33 c.nl.msn.com
 94.140.14.33 c.no.msn.com
-94.140.14.33 c.nuannuanqi.top
 94.140.14.33 c.ph.msn.com
 94.140.14.33 c.prodigy.msn.com
 94.140.14.33 c.pt.msn.com
@@ -6948,7 +6944,6 @@
 94.140.14.33 cdn.autoads.asia
 94.140.14.33 cdn.automatad.com
 94.140.14.33 cdn.ayads.co
-94.140.14.33 cdn.baidu.xahycw.com
 94.140.14.33 cdn.banner.thumbplay.com
 94.140.14.33 cdn.beaconads.com
 94.140.14.33 cdn.beaverads.com
@@ -7125,7 +7120,6 @@
 94.140.14.33 chajv.top
 94.140.14.33 chameleon.ad
 94.140.14.33 chance-ad.com
-94.140.14.33 chanel.wohewodejxp.top
 94.140.14.33 chanel.wohewodejxy.top
 94.140.14.33 chanel.wohewodejxz.top
 94.140.14.33 changement.pro
@@ -7201,7 +7195,6 @@
 94.140.14.33 ck.ads.heytapmobi.com
 94.140.14.33 ck.ads.oppomobile.com
 94.140.14.33 ck.jads.co
-94.140.14.33 ck.tcsgcdn.top
 94.140.14.33 ckmap.mediav.com
 94.140.14.33 ckxxbao.com
 94.140.14.33 cl-ad.x-flow.app
@@ -7979,7 +7972,6 @@
 94.140.14.33 dc.api.my7v.com
 94.140.14.33 dc.cp21.ott.cibntv.net
 94.140.14.33 dc.csdn.net
-94.140.14.33 dc.wtiaw.top
 94.140.14.33 dc2.csdn.net
 94.140.14.33 dcads.sina.com.cn
 94.140.14.33 dcci.adsame.com
@@ -8002,7 +7994,6 @@
 94.140.14.33 de.as.cp61.ott.cibntv.net
 94.140.14.33 de.pandora.xiaomi.com
 94.140.14.33 de.xxx-porn.top
-94.140.14.33 de3.linyongming.top
 94.140.14.33 deagpunjab.top
 94.140.14.33 death.jugetic.top
 94.140.14.33 debet.top
@@ -8072,6 +8063,7 @@
 94.140.14.33 devs.data.mob.com
 94.140.14.33 dewapa.top
 94.140.14.33 dewapsithi.pro
+94.140.14.33 dexuanyu.top
 94.140.14.33 dezinsektor-pro.ru
 94.140.14.33 df.mic.mob.com
 94.140.14.33 df.mob.com
@@ -8086,7 +8078,7 @@
 94.140.14.33 dhcms.partner.net.daraz.com
 94.140.14.33 dhm1.top
 94.140.14.33 dhn-ads-api.365scores.com
-94.140.14.33 di.rhlxm.top
+94.140.14.33 di2y21.top
 94.140.14.33 dia-traffic.com
 94.140.14.33 diadem-invest.pro
 94.140.14.33 diagnosis.ad.intl.xiaomi.com
@@ -8454,6 +8446,7 @@
 94.140.14.33 dub.mobileads.msn.com
 94.140.14.33 duckporn.pro
 94.140.14.33 duclick.baidu.com
+94.140.14.33 duier.top
 94.140.14.33 duiwai.baidu.com
 94.140.14.33 dukesike.top
 94.140.14.33 dumakuli.pro
@@ -8627,7 +8620,6 @@
 94.140.14.33 epp.2polj.top
 94.140.14.33 eqx-secure.smartadserver.com
 94.140.14.33 eqx.smartadserver.com
-94.140.14.33 er4.javase.top
 94.140.14.33 erebor.douban.com
 94.140.14.33 ereg.adobe.com
 94.140.14.33 erenchinterried.pro
@@ -8647,7 +8639,6 @@
 94.140.14.33 esgoufpvtsgjqsp.top
 94.140.14.33 espn.hb-api.omtrdc.net
 94.140.14.33 est-mta.b2b-mail.net
-94.140.14.33 et.dexuanyu.top
 94.140.14.33 etahub.com
 94.140.14.33 ethdw.top
 94.140.14.33 ether-api.com
@@ -8788,6 +8779,7 @@
 94.140.14.33 fc-feed.cdn.bcebos.com
 94.140.14.33 fcanr.tracking.miui.com
 94.140.14.33 fcb8.top
+94.140.14.33 fcheng.top
 94.140.14.33 fclick.baidu.com
 94.140.14.33 fclog.baidu.com
 94.140.14.33 fcmatch.google.com
@@ -8901,7 +8893,6 @@
 94.140.14.33 flxly.pro
 94.140.14.33 fly-analytics.com
 94.140.14.33 fm.ipinyou.com
-94.140.14.33 fmh.guangzhengtwentynine.top
 94.140.14.33 fms.ipinyou.com
 94.140.14.33 fmu1qrtjoamc.pro
 94.140.14.33 fmvgabveululvb.top
@@ -9096,7 +9087,6 @@
 94.140.14.33 gan.doubleclick.net
 94.140.14.33 gangtabli.top
 94.140.14.33 gaoyuhu.top
-94.140.14.33 gardens.shjha.top
 94.140.14.33 gass.top
 94.140.14.33 gata.ero-advertising.com
 94.140.14.33 gateway-banner.eravage.com
@@ -9356,6 +9346,7 @@
 94.140.14.33 gta5-free-download.com
 94.140.14.33 gta5-pc-download.com
 94.140.14.33 gts-ads.twistbox.com
+94.140.14.33 guangzhengtwentynine.top
 94.140.14.33 guangzhouta.top
 94.140.14.33 guard.mob.com
 94.140.14.33 guasim.top
@@ -9535,11 +9526,13 @@
 94.140.14.33 hexagon-analytics.com
 94.140.14.33 hexovythi.pro
 94.140.14.33 heylookhere.top
+94.140.14.33 hezhib.top
 94.140.14.33 hfcpa.top
 94.140.14.33 hflalffajhf.top
 94.140.14.33 hgcmnews.pro
 94.140.14.33 hggtt.top
 94.140.14.33 hhppy.top
+94.140.14.33 hhttm.top
 94.140.14.33 hhyyt.top
 94.140.14.33 hi.zeri3a.click
 94.140.14.33 hibikiluler.top
@@ -9567,7 +9560,6 @@
 94.140.14.33 hkbid.adview.com
 94.140.14.33 hklst.top
 94.140.14.33 hktrghvcunndw.top
-94.140.14.33 hl.brownfox.top
 94.140.14.33 hlbgw.top
 94.140.14.33 hlebo.mobi
 94.140.14.33 hlkyji.termquotientbeen.top
@@ -9584,7 +9576,6 @@
 94.140.14.33 hmcbup.top
 94.140.14.33 hmma.baidu.com
 94.140.14.33 hmwebs.top
-94.140.14.33 hn.sportsdream.top
 94.140.14.33 hnb2c.adsame.com
 94.140.14.33 hog.mobi
 94.140.14.33 holaenergy.click
@@ -10436,6 +10427,7 @@
 94.140.14.33 jav-porn.pro
 94.140.14.33 jav2.pro
 94.140.14.33 jav2022.top
+94.140.14.33 javase.top
 94.140.14.33 javdep.pro
 94.140.14.33 javhd.pro
 94.140.14.33 javnhatban.pro
@@ -10485,9 +10477,7 @@
 94.140.14.33 jiwekawe.top
 94.140.14.33 jjiv.top
 94.140.14.33 jjvbuipgkkhnkpf.top
-94.140.14.33 jk.hezhib.top
 94.140.14.33 jkjjkj.top
-94.140.14.33 jl.wangxialin.top
 94.140.14.33 jlwsw.top
 94.140.14.33 jmk1uttboek0.pro
 94.140.14.33 jmrnews.pro
@@ -10559,7 +10549,6 @@
 94.140.14.33 js.smac-ad.com
 94.140.14.33 js.tongji.linezing.com
 94.140.14.33 js.union-wifi.com
-94.140.14.33 js.wangxialin.top
 94.140.14.33 js.winc-ad.com
 94.140.14.33 js2.ad-score.com
 94.140.14.33 js2.ad-stir.com
@@ -10614,8 +10603,6 @@
 94.140.14.33 jz8b.top
 94.140.14.33 jzcool.top
 94.140.14.33 k.tcp.push.mob.com
-94.140.14.33 k7.kazigua.top
-94.140.14.33 k8.buzien.top
 94.140.14.33 k8vn.pro
 94.140.14.33 k9offh-upqs.click
 94.140.14.33 k9s-dev-api-docs.dns1.freshegg.net.daraz.com
@@ -10633,6 +10620,7 @@
 94.140.14.33 kasheglesy.pro
 94.140.14.33 kashtanka.mobi
 94.140.14.33 kassa-olx.dostawa-pl89340.click
+94.140.14.33 katelin.top
 94.140.14.33 katerigordas.pro
 94.140.14.33 kazigua.top
 94.140.14.33 kb-render.alicdn.com
@@ -10692,14 +10680,11 @@
 94.140.14.33 klik4d.top
 94.140.14.33 klmwmehxabhsyl.top
 94.140.14.33 klodben-invest.pro
-94.140.14.33 km.senxiaopang.top
 94.140.14.33 kmasds.top
-94.140.14.33 kmb.gaoyuhu.top
 94.140.14.33 kmrk-system.click
 94.140.14.33 knbsccieud.top
 94.140.14.33 knf.share-point.pl
 94.140.14.33 knja123.top
-94.140.14.33 knt.viplp.top
 94.140.14.33 kntvosnphnysv.top
 94.140.14.33 knutenegros.pro
 94.140.14.33 koivistonkuja.top
@@ -10721,6 +10706,8 @@
 94.140.14.33 kordlang-investing.pro
 94.140.14.33 koreanporn.pro
 94.140.14.33 kowalskypage.pro
+94.140.14.33 kowqd1.top
+94.140.14.33 kowqd5.top
 94.140.14.33 kowqd7.top
 94.140.14.33 kowqd9.top
 94.140.14.33 kpmqhplnay.top
@@ -10731,16 +10718,17 @@
 94.140.14.33 krebsonsecurity.top
 94.140.14.33 krombor-invest.pro
 94.140.14.33 krr894.top
-94.140.14.33 krt.zhengxiaoliu.top
 94.140.14.33 krumbleent-ads.info
 94.140.14.33 krursdtypueg.top
 94.140.14.33 ks2g.top
 94.140.14.33 ks9f.top
+94.140.14.33 kshuiz.top
 94.140.14.33 kstj.baidu.com
 94.140.14.33 ktokto.mobi
 94.140.14.33 ku11.pro
 94.140.14.33 ku6.cnzz.com
 94.140.14.33 kuaikan.netmon.360safe.com
+94.140.14.33 kuanxin.top
 94.140.14.33 kuasa-api.tenmax.io
 94.140.14.33 kube.analytics-yancancook.net.daraz.com
 94.140.14.33 kube.api-xspacewww.partner.net.daraz.com
@@ -10838,6 +10826,7 @@
 94.140.14.33 lbancalnterbank-porinternelt.financiatupres-tamoperu.top
 94.140.14.33 lbazhaheil.top
 94.140.14.33 lbpi-update.com.uberaddis.com
+94.140.14.33 lcdn.runative-syndicate.com
 94.140.14.33 lcdn.tsyndicate.com
 94.140.14.33 lcqosckc.top
 94.140.14.33 lcrmm.top
@@ -10942,6 +10931,7 @@
 94.140.14.33 linksex.pro
 94.140.14.33 lintyone.top
 94.140.14.33 liny-ads.net
+94.140.14.33 linyongming.top
 94.140.14.33 lisaiservice.top
 94.140.14.33 list.setoon.top
 94.140.14.33 listof.mobi
@@ -10976,7 +10966,7 @@
 94.140.14.33 lixudong.top
 94.140.14.33 liyueao.top
 94.140.14.33 lk-api-beta.ads2.bid
-94.140.14.33 lkm.bangyuandianzi.top
+94.140.14.33 lknlkndasda.top
 94.140.14.33 lksw1.top
 94.140.14.33 lksw3.top
 94.140.14.33 lkudmfdww.top
@@ -11041,6 +11031,7 @@
 94.140.14.33 loneptipy.pro
 94.140.14.33 longup.best-sales.top
 94.140.14.33 longxia-designer.top
+94.140.14.33 looedu.top
 94.140.14.33 lootplatform.pro
 94.140.14.33 lorrainearnold.top
 94.140.14.33 lotpt.top
@@ -11312,13 +11303,10 @@
 94.140.14.33 mazu.sec.miui.com
 94.140.14.33 mb-click.jp
 94.140.14.33 mb.adres.wpscdn.cn
-94.140.14.33 mb.tianyuewangluo.top
 94.140.14.33 mbazhaheix.top
 94.140.14.33 mbbg.pro
 94.140.14.33 mbbhij.mi-home.pl
 94.140.14.33 mbdlog.iqiyi.com
-94.140.14.33 mbt.hongmao39.top
-94.140.14.33 mbt.tangk.top
 94.140.14.33 mbveryu.top
 94.140.14.33 mbzl-pro.xyz
 94.140.14.33 mc.yandex.com
@@ -11502,9 +11490,7 @@
 94.140.14.33 mjp-analytics.ximad.com
 94.140.14.33 mjrdficwuyy.top
 94.140.14.33 mjtvrpopntqrjl.top
-94.140.14.33 mk.zlnmzc.top
 94.140.14.33 mkoh.top
-94.140.14.33 mkt.zihuiguochao.top
 94.140.14.33 mktsound.cos.tx.xmcdn.com
 94.140.14.33 mlb.hb-api.omtrdc.net
 94.140.14.33 mm-api.agency
@@ -11939,7 +11925,6 @@
 94.140.14.33 network.hot-mob.com
 94.140.14.33 new.cnzz.com
 94.140.14.33 new.traffic.ru
-94.140.14.33 newa.nuannuanqi.top
 94.140.14.33 newanimalfuck.top
 94.140.14.33 newenglandsportsnetworkinc.hb-api.omtrdc.net
 94.140.14.33 newlamp.top
@@ -12048,6 +12033,7 @@
 94.140.14.33 ntralpenedhy.pro
 94.140.14.33 nttrr.top
 94.140.14.33 ntyrt.top
+94.140.14.33 nuannuanqi.top
 94.140.14.33 nudeafrica.click
 94.140.14.33 nudebabespics.pro
 94.140.14.33 nudebeachpics.pro
@@ -13178,7 +13164,6 @@
 94.140.14.33 pixels.ad.gt
 94.140.14.33 pixiu.shangshufang.ksosoft.com
 94.140.14.33 pixon.ads-pixiv.net
-94.140.14.33 pj.looedu.top
 94.140.14.33 pjewriw.top
 94.140.14.33 pkcqicfgnxs.top
 94.140.14.33 pkg.sinaimg.cn
@@ -13753,13 +13738,10 @@
 94.140.14.33 quantum-advertising.com
 94.140.14.33 qusiwang.top
 94.140.14.33 qvaliti-invest.pro
-94.140.14.33 qw.dingyar.top
-94.140.14.33 qw.kuanxin.top
 94.140.14.33 qwe0231141.bj.bcebos.com
 94.140.14.33 qwogldy.top
 94.140.14.33 qx3g.top
 94.140.14.33 qxyu.top
-94.140.14.33 qybs.mclseww.top
 94.140.14.33 qylr.scendo.top
 94.140.14.33 qyzyd.top
 94.140.14.33 qz15.top
@@ -13988,6 +13970,7 @@
 94.140.14.33 rgkrhwhai.top
 94.140.14.33 rgtlexcqqtvc.top
 94.140.14.33 rhlvhsqibvcgv.top
+94.140.14.33 rhlxm.top
 94.140.14.33 rhpgedrtvysg.top
 94.140.14.33 rib.thankon.top
 94.140.14.33 rich-banner.ru
@@ -14978,6 +14961,7 @@
 94.140.14.33 shillivee.pro
 94.140.14.33 shinyshock.pro
 94.140.14.33 shiryharu.pro
+94.140.14.33 shjha.top
 94.140.14.33 shockingteens.pro
 94.140.14.33 shopping.ad.kakaocorp.com
 94.140.14.33 shoptylasty.pro
@@ -15198,6 +15182,7 @@
 94.140.14.33 splashqqlive.gtimg.com
 94.140.14.33 sportingbeteur.adsrv.eacdn.com
 94.140.14.33 sportplus.pro
+94.140.14.33 sportsdream.top
 94.140.14.33 spot-01.trackingpro.pro
 94.140.14.33 spr.ad-stir.com
 94.140.14.33 springclick-ads.s3.amazonaws.com
@@ -15230,12 +15215,10 @@
 94.140.14.33 ssc.api.bbc.com
 94.140.14.33 ssdk.adkmob.com
 94.140.14.33 ssdsss.top
-94.140.14.33 ssh.lknlkndasda.top
 94.140.14.33 sskmnews.pro
 94.140.14.33 ssl-google-analytics.l.google.com
 94.140.14.33 ssl-msn.oewabox.at
 94.140.14.33 ssl-top.oewabox.at
-94.140.14.33 ssl.caopanshou.top
 94.140.14.33 ssl.google-analytics.com
 94.140.14.33 ssl.msdk.qq.com
 94.140.14.33 ssl.trace.zhiziyun.com
@@ -15649,6 +15632,7 @@
 94.140.14.33 talazywho.pro
 94.140.14.33 talk.igexin.com
 94.140.14.33 talk.nz.igexin.com
+94.140.14.33 tangk.top
 94.140.14.33 tangram.e.qq.com
 94.140.14.33 tangxiaodou.top
 94.140.14.33 taniapaczka.top
@@ -15673,6 +15657,7 @@
 94.140.14.33 tce.alicdn.com
 94.140.14.33 tcm.optica.ero-advertising.com
 94.140.14.33 tcp.push.mob.com
+94.140.14.33 tcsgcdn.top
 94.140.14.33 td.twitter.com
 94.140.14.33 tdcv3.talkingdata.net
 94.140.14.33 tdid.m.qq.com
@@ -15804,11 +15789,13 @@
 94.140.14.33 thumbs2.ero-advertising.com
 94.140.14.33 thunder.adnxs.com
 94.140.14.33 thygrepuwo.pro
+94.140.14.33 tiandesign.top
 94.140.14.33 tianhong.mobi
 94.140.14.33 tianii.top
 94.140.14.33 tianmenshan.top
 94.140.14.33 tianshu-x.gtimg.cn
 94.140.14.33 tianvip.top
+94.140.14.33 tianyuewangluo.top
 94.140.14.33 tichatafe.pro
 94.140.14.33 tidint.pro
 94.140.14.33 tiglesoshi.pro
@@ -16273,7 +16260,6 @@
 94.140.14.33 txmsw.mobi
 94.140.14.33 txppnmhnoqjhc.top
 94.140.14.33 txthelj.click
-94.140.14.33 ty.lizehuandian.top
 94.140.14.33 ty.viqiyi.admaster.com.cn
 94.140.14.33 ty.vletv.admaster.com.cn
 94.140.14.33 tyaqy.m.cn.miaozhen.com
@@ -16287,7 +16273,6 @@
 94.140.14.33 u-x.jd.com
 94.140.14.33 u.api.look.360.cn
 94.140.14.33 u.extreme-dm.com
-94.140.14.33 u.katelin.top
 94.140.14.33 u.qiaobaba.top
 94.140.14.33 u.qscwdv.top
 94.140.14.33 u.ssp.admobile.top
@@ -16422,7 +16407,6 @@
 94.140.14.33 up-banner.wavecdn.net
 94.140.14.33 up.wps.kingsoft.com
 94.140.14.33 up1.tj.u2.ucweb.com
-94.140.14.33 up1ep9mauzpsblrhtg.youku6.top
 94.140.14.33 up4.ucweb.com
 94.140.14.33 upage.imtt.qq.com
 94.140.14.33 update-1.com
@@ -16584,6 +16568,7 @@
 94.140.14.33 utop.umengcloud.com
 94.140.14.33 utp-dmp.ucweb.com
 94.140.14.33 utp.ucweb.com
+94.140.14.33 uttlinediv.top
 94.140.14.33 utymkfblmxitaef.top
 94.140.14.33 uusee.adsame.com
 94.140.14.33 uuywe.top
@@ -16696,7 +16681,6 @@
 94.140.14.33 vast.ad-score.com
 94.140.14.33 vavada-casino.top
 94.140.14.33 vazypteke.pro
-94.140.14.33 vb.yubingyuan.top
 94.140.14.33 vbaof.admaster.com.cn
 94.140.14.33 vbtrst.pro
 94.140.14.33 vbucksbooster.pro
@@ -17333,6 +17317,7 @@
 94.140.14.33 vip.cfcnet.top
 94.140.14.33 vip.streamwatch.pro
 94.140.14.33 vip9x.pro
+94.140.14.33 viplp.top
 94.140.14.33 viqiyi.admaster.com.cn
 94.140.14.33 virted-pl-fi551.advouf.top
 94.140.14.33 virted-pl-fi551.ayudas.top
@@ -17711,6 +17696,7 @@
 94.140.14.33 wangliqin.top
 94.140.14.33 wangmeng.baidu.com
 94.140.14.33 wangqing7.top
+94.140.14.33 wangxialin.top
 94.140.14.33 wangxiankang.top
 94.140.14.33 wangyao.pro
 94.140.14.33 wangzezhong.top
@@ -17719,7 +17705,6 @@
 94.140.14.33 wap-click.com
 94.140.14.33 wap-click.net
 94.140.14.33 wap.hot-mob.com
-94.140.14.33 wap.mbveryu.top
 94.140.14.33 waplog.mobi
 94.140.14.33 wapserepti.pro
 94.140.14.33 wapwbclick.mobile.sina.cn
@@ -17887,6 +17872,7 @@
 94.140.14.33 wnbqnxlymr.top
 94.140.14.33 wnedmpewmyv.top
 94.140.14.33 wo19.top
+94.140.14.33 wohewodejxp.top
 94.140.14.33 wohoretoatckij.top
 94.140.14.33 wohytuddyf.top
 94.140.14.33 woocall.sina.com.cn
@@ -17926,6 +17912,7 @@
 94.140.14.33 wtfdrop.top
 94.140.14.33 wtg-ads.com
 94.140.14.33 wth.lenovomm.com
+94.140.14.33 wtiaw.top
 94.140.14.33 wtrwx.top
 94.140.14.33 wufgkofinvesting.pro
 94.140.14.33 wukelansm.top
@@ -19483,7 +19470,6 @@
 94.140.14.33 xbmcpqbftqpiibl.top
 94.140.14.33 xbwfvksdxibsn.top
 94.140.14.33 xbx.mobi
-94.140.14.33 xc.shigl.top
 94.140.14.33 xc7789.top
 94.140.14.33 xcjcy.pro
 94.140.14.33 xd.mediav.com
@@ -19524,24 +19510,12 @@
 94.140.14.33 xg-hacks.com
 94.140.14.33 xg.adbeuch.cn
 94.140.14.33 xg.binkens.cn
-94.140.14.33 xg.eqlidke.cn
 94.140.14.33 xg.gars57.cn
 94.140.14.33 xg.hbcygs518.com
-94.140.14.33 xg.hbzhenquan.cn
 94.140.14.33 xg.huataisangao.cn
-94.140.14.33 xg.jiezoiq.cn
-94.140.14.33 xg.jisukuaisong.cn
-94.140.14.33 xg.kmgfjc.cn
 94.140.14.33 xg.kxapctq.cn
-94.140.14.33 xg.lgygy.cn
-94.140.14.33 xg.monsteredward.com
-94.140.14.33 xg.mvlkvth.cn
-94.140.14.33 xg.s4zqj3m.cn
-94.140.14.33 xg.sciillr.cn
-94.140.14.33 xg.svvbrkk.cn
 94.140.14.33 xg.wdswgjn.cn
 94.140.14.33 xg.whsbpw.cn
-94.140.14.33 xg.y0764.cn
 94.140.14.33 xgirls.top
 94.140.14.33 xgqqffjme.top
 94.140.14.33 xgrwjbui.top
@@ -19625,7 +19599,6 @@
 94.140.14.33 xn--wxtr9fwyxk9c.top
 94.140.14.33 xn--xhq9mt12cf5v.top
 94.140.14.33 xn-xx.pro
-94.140.14.33 xn.duier.top
 94.140.14.33 xn2x.top
 94.140.14.33 xn3x.pro
 94.140.14.33 xnt.di2y21.top
@@ -19787,6 +19760,7 @@
 94.140.14.33 yieldlove-ad-serving.net
 94.140.14.33 yierheng.top
 94.140.14.33 yigesi.top
+94.140.14.33 yijiayi07.top
 94.140.14.33 yim3eyv5.top
 94.140.14.33 yingxiao.baidu.com
 94.140.14.33 yinshuahangyewang.mobi
@@ -19817,6 +19791,7 @@
 94.140.14.33 youhehuixiangxinxi.top
 94.140.14.33 youku-acs.m.taobao.com
 94.140.14.33 youku-dtv.m.cn.miaozhen.com
+94.140.14.33 youku6.top
 94.140.14.33 young-porn.pro
 94.140.14.33 youngerporn.mobi
 94.140.14.33 youngfuck.pro
@@ -19913,9 +19888,9 @@
 94.140.14.33 zbieram-bonusy.click
 94.140.14.33 zbpfrd.powerskyslip.top
 94.140.14.33 zbzbzzz.top
-94.140.14.33 zc.tiandesign.top
 94.140.14.33 zclick.pro
 94.140.14.33 zconfig.alibabausercontent.com
+94.140.14.33 zdfjas.top
 94.140.14.33 zen-test.yandex.ru
 94.140.14.33 zendplace.pro
 94.140.14.33 zenfield.pro
@@ -19937,6 +19912,7 @@
 94.140.14.33 zgzrmh.mobi
 94.140.14.33 zhaibei112.top
 94.140.14.33 zhangbaochang.top
+94.140.14.33 zhangjiaqi.top
 94.140.14.33 zhangyumo.top
 94.140.14.33 zhangyunxiawinner.top
 94.140.14.33 zhannei-dm.csdn.net
@@ -19965,7 +19941,6 @@
 94.140.14.33 zjrtuhds.top
 94.140.14.33 zjxrg.top
 94.140.14.33 zk6c.top
-94.140.14.33 zl.shenhl.top
 94.140.14.33 zlgame.top
 94.140.14.33 zllnb.top
 94.140.14.33 zlnmzc.top
@@ -19989,7 +19964,6 @@
 94.140.14.33 zphimsex.pro
 94.140.14.33 zq9a.top
 94.140.14.33 zrelki.top
-94.140.14.33 zs.dingyar.top
 94.140.14.33 zs1.cnzz.com
 94.140.14.33 zs10.cnzz.com
 94.140.14.33 zs11.cnzz.com
@@ -20018,9 +19992,6 @@
 94.140.14.33 zwariowane-to.click
 94.140.14.33 zwogldq.top
 94.140.14.33 zww.ero-advertising.com
-94.140.14.33 zx.kuanxin.top
-94.140.14.33 zx.tiandesign.top
-94.140.14.33 zxc.yijiayi07.top
 94.140.14.33 zyciewazne.click
 94.140.14.33 zyje-czas.click
 94.140.14.33 zymo.mps.weibo.com
