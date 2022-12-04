@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-12-05 03:03:10 
+#更新时间: 2022-12-05 04:05:19 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20093
+#规则数量:20097
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -6569,6 +6569,7 @@
 94.140.14.33 bid.adview.com
 94.140.14.33 bid.g.doubleclick.net
 94.140.14.33 bidgear-syndication.com
+94.140.14.33 bifrost-api.hotstar.com
 94.140.14.33 big-bang-ads.com
 94.140.14.33 bigbos.top
 94.140.14.33 bigbrainker.top
@@ -8697,6 +8698,7 @@
 94.140.14.33 event.inner-active.mobi
 94.140.14.33 event.ksosoft.com
 94.140.14.33 eventcsgo.pro
+94.140.14.33 events-analytics.hotstar.com
 94.140.14.33 events-api.otherlevels.com
 94.140.14.33 events-api.outfit7.com
 94.140.14.33 events-api.outfit7.net
@@ -11584,6 +11586,7 @@
 94.140.14.33 moja-paczka-pl-myid576xs.espaco.top
 94.140.14.33 moja-paczka-pl-myid576xs.fynet.top
 94.140.14.33 moja-paczka-pl-myid576xs.gebeng.top
+94.140.14.33 moja-paczka-pl-myid576xs.gmjbm785.top
 94.140.14.33 moja-paczka-pl-myid576xs.jiasule.top
 94.140.14.33 moja-paczka-pl-myid576xs.neworder-pl23813.click
 94.140.14.33 moja-paczka-pl-myid576xs.ppav79791.top
@@ -14619,6 +14622,7 @@
 94.140.14.33 session-replay.browser-intake-datadoghq.com
 94.140.14.33 sessotube.pro
 94.140.14.33 sestat.baidu.com
+94.140.14.33 settings-analytics.hotstar.com
 94.140.14.33 seure-update.fartit.com
 94.140.14.33 sex-com.pro
 94.140.14.33 sex-hd.pro
