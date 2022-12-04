@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-12-05 03:03:13 
+#更新时间: 2022-12-05 04:05:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20093
+#规则数量:20097
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -6569,6 +6569,7 @@
 1.1.1.1 bid.adview.com
 1.1.1.1 bid.g.doubleclick.net
 1.1.1.1 bidgear-syndication.com
+1.1.1.1 bifrost-api.hotstar.com
 1.1.1.1 big-bang-ads.com
 1.1.1.1 bigbos.top
 1.1.1.1 bigbrainker.top
@@ -8697,6 +8698,7 @@
 1.1.1.1 event.inner-active.mobi
 1.1.1.1 event.ksosoft.com
 1.1.1.1 eventcsgo.pro
+1.1.1.1 events-analytics.hotstar.com
 1.1.1.1 events-api.otherlevels.com
 1.1.1.1 events-api.outfit7.com
 1.1.1.1 events-api.outfit7.net
@@ -11584,6 +11586,7 @@
 1.1.1.1 moja-paczka-pl-myid576xs.espaco.top
 1.1.1.1 moja-paczka-pl-myid576xs.fynet.top
 1.1.1.1 moja-paczka-pl-myid576xs.gebeng.top
+1.1.1.1 moja-paczka-pl-myid576xs.gmjbm785.top
 1.1.1.1 moja-paczka-pl-myid576xs.jiasule.top
 1.1.1.1 moja-paczka-pl-myid576xs.neworder-pl23813.click
 1.1.1.1 moja-paczka-pl-myid576xs.ppav79791.top
@@ -14619,6 +14622,7 @@
 1.1.1.1 session-replay.browser-intake-datadoghq.com
 1.1.1.1 sessotube.pro
 1.1.1.1 sestat.baidu.com
+1.1.1.1 settings-analytics.hotstar.com
 1.1.1.1 seure-update.fartit.com
 1.1.1.1 sex-com.pro
 1.1.1.1 sex-hd.pro
