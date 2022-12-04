@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-12-04 16:07:55 
+#更新时间: 2022-12-04 17:05:10 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20072
+#规则数量:20064
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -116,6 +116,7 @@
 94.140.14.33 1papa.top
 94.140.14.33 1porp.top
 94.140.14.33 1pro.pro-masters.xyz
+94.140.14.33 1qm5.top
 94.140.14.33 1rjtdluzie7c.top
 94.140.14.33 1stc6vz58kxw.top
 94.140.14.33 1ts03.top
@@ -1683,7 +1684,6 @@
 94.140.14.33 adcdn.holmesmind.com
 94.140.14.33 adcdn.hpplay.cn
 94.140.14.33 adcdn.tencentmusic.com
-94.140.14.33 adcenterservices.com
 94.140.14.33 adchina.cc
 94.140.14.33 adclick.g.doubleclick.net
 94.140.14.33 adclick.tencentmusic.com
@@ -4300,7 +4300,6 @@
 94.140.14.33 analytics.bloomberg.com
 94.140.14.33 analytics.blue
 94.140.14.33 analytics.bluekai.com
-94.140.14.33 analytics.bluemotionmedia.vn
 94.140.14.33 analytics.boing.es
 94.140.14.33 analytics.bolavip.com
 94.140.14.33 analytics.boomerangtv.co.uk
@@ -5509,10 +5508,8 @@
 94.140.14.33 api.huq.io
 94.140.14.33 api.huqindustries.co.uk
 94.140.14.33 api.i8bet.org
-94.140.14.33 api.i99902.com
 94.140.14.33 api.i99903.com
 94.140.14.33 api.i99908.com
-94.140.14.33 api.i9bet102.com
 94.140.14.33 api.i9bet105.com
 94.140.14.33 api.i9bet106.com
 94.140.14.33 api.i9bet108.com
@@ -5950,7 +5947,6 @@
 94.140.14.33 apiconfig.adwo.com
 94.140.14.33 apistat.adbana.com
 94.140.14.33 apkncohajlyoj.top
-94.140.14.33 apkpoint.top
 94.140.14.33 apo.ero-advertising.com
 94.140.14.33 apoll.m.taobao.com
 94.140.14.33 app-ad.variflight.com
@@ -8295,7 +8291,6 @@
 94.140.14.33 download-cdn.com
 94.140.14.33 download-fast.net
 94.140.14.33 download-file.ml
-94.140.14.33 download-files-pdf.de
 94.140.14.33 download-film-porno-gratis.blogspot.com
 94.140.14.33 download-free-ebooks.in
 94.140.14.33 download-free-hack.com
@@ -8486,7 +8481,6 @@
 94.140.14.33 dx-cards-css.iqiyi.com
 94.140.14.33 dxp.baidu.com
 94.140.14.33 dyalkttqn.top
-94.140.14.33 dydns.top
 94.140.14.33 dyn.wps.cn
 94.140.14.33 dyna.agrantsem.com
 94.140.14.33 dynamic-ads.appier.net
@@ -11118,7 +11112,6 @@
 94.140.14.33 m-static.ktokto.mobi
 94.140.14.33 m.1314sss.top
 94.140.14.33 m.388bet.top
-94.140.14.33 m.8live.top
 94.140.14.33 m.ad.zhangyue.com
 94.140.14.33 m.adnxs.com
 94.140.14.33 m.ads.sohu.com
@@ -11421,7 +11414,6 @@
 94.140.14.33 metrics4.data.hicloud.com
 94.140.14.33 metrics5.data.hicloud.com
 94.140.14.33 metrika.yandex.ru
-94.140.14.33 metroverce.top
 94.140.14.33 mfsr.lenovomm.com
 94.140.14.33 mg.games.sina.com.cn
 94.140.14.33 mgmyxwxoea.top
@@ -12628,7 +12620,6 @@
 94.140.14.33 p9-orange.byteorge.com
 94.140.14.33 p9.tribution.mobi
 94.140.14.33 paas-push-api.immomo.com
-94.140.14.33 pabryd01.top
 94.140.14.33 paczka-pl.id-dostawa23480.click
 94.140.14.33 paczka-pl.zamow38495.click
 94.140.14.33 pads.cdnads.com
@@ -15108,6 +15099,7 @@
 94.140.14.33 smt.admaster.com.cn
 94.140.14.33 smtp.ero-advertising.com
 94.140.14.33 smtp.trafficjunky.net
+94.140.14.33 smuggather.pro
 94.140.14.33 smutindia.pro
 94.140.14.33 snake.jugetic.top
 94.140.14.33 snapchathack.mobi
