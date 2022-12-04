@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-12-04 11:08:15 
+#更新时间: 2022-12-04 12:07:33 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20104
+#规则数量:20107
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -5500,6 +5500,7 @@
 1.1.1.1 api.growthbeat.com
 1.1.1.1 api.growthpush.com
 1.1.1.1 api.grumft.com
+1.1.1.1 api.hb88h.com
 1.1.1.1 api.hb88p.com
 1.1.1.1 api.hdtv.letv.com
 1.1.1.1 api.hfyhjg.cn
@@ -10067,6 +10068,7 @@
 1.1.1.1 inpost-pl-hid226ks.uktp.top
 1.1.1.1 inpost-pl-my-id2g3ys.ahwl.top
 1.1.1.1 inpost-pl-my-id2g3ys.bbsxt.top
+1.1.1.1 inpost-pl-my-id2g3ys.chihpih45984.top
 1.1.1.1 inpost-pl-my-id2g3ys.getthe.top
 1.1.1.1 inpost-pl-my-id2g3ys.grupozg.top
 1.1.1.1 inpost-pl-my-id2g3ys.haiwu.top
@@ -10211,6 +10213,7 @@
 1.1.1.1 inpost.ikav.top
 1.1.1.1 inpost.jsyngj.top
 1.1.1.1 inpost.kbiao.top
+1.1.1.1 inpost.lawsoms.top
 1.1.1.1 inpost.lawsuits.top
 1.1.1.1 inpost.leidei.top
 1.1.1.1 inpost.mujer.top
