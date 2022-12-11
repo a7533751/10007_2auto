@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2022-12-12 00:23:56 
+#更新时间: 2022-12-12 01:03:38 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:19510
+#规则数量:19439
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -620,7 +620,6 @@
 1.1.1.1 ad-thd-east.tagdelivery.com
 1.1.1.1 ad-tizer.net
 1.1.1.1 ad-tool.com
-1.1.1.1 ad-track.de
 1.1.1.1 ad-track.jp
 1.1.1.1 ad-track.paravi.jp
 1.1.1.1 ad-u.com
@@ -707,7 +706,6 @@
 1.1.1.1 ad.adstract.adk2x.com
 1.1.1.1 ad.adtegrity.net
 1.1.1.1 ad.adtoma.com
-1.1.1.1 ad.adtraq.com
 1.1.1.1 ad.adultfriendfinder.com
 1.1.1.1 ad.aduserver.com
 1.1.1.1 ad.adverticum.net
@@ -723,10 +721,8 @@
 1.1.1.1 ad.afy11.net
 1.1.1.1 ad.agilemedia.jp
 1.1.1.1 ad.agrantsem.com
-1.1.1.1 ad.aliceadsl.fr
 1.1.1.1 ad.alimama.com
 1.1.1.1 ad.allboxing.ru
-1.1.1.1 ad.alldatasheet.com
 1.1.1.1 ad.allstar.cz
 1.1.1.1 ad.allyes.cn
 1.1.1.1 ad.aloodo.com
@@ -819,7 +815,6 @@
 1.1.1.1 ad.cgi.cz
 1.1.1.1 ad.cgv.co.kr
 1.1.1.1 ad.ch.doubleclick.net
-1.1.1.1 ad.chandrabindu.net
 1.1.1.1 ad.chieuhoa.com
 1.1.1.1 ad.choiceradio.com
 1.1.1.1 ad.choingay88.com
@@ -1119,7 +1114,6 @@
 1.1.1.1 ad.mrtnsvr.com
 1.1.1.1 ad.mtburn.com
 1.1.1.1 ad.munion.in
-1.1.1.1 ad.musica.com
 1.1.1.1 ad.musicmatch.com
 1.1.1.1 ad.muyang888.top
 1.1.1.1 ad.my.doubleclick.net
@@ -1167,13 +1161,11 @@
 1.1.1.1 ad.partis.si
 1.1.1.1 ad.partner.gifshow.com
 1.1.1.1 ad.pchome.com.tw
-1.1.1.1 ad.pentabox.net
 1.1.1.1 ad.period-calendar.com
 1.1.1.1 ad.phaserep.com
 1.1.1.1 ad.phunuxuavanay.vn
 1.1.1.1 ad.pickple.net
 1.1.1.1 ad.pitta.ne.jp
-1.1.1.1 ad.pixfs.net
 1.1.1.1 ad.piximedia.com
 1.1.1.1 ad.pixnet.net
 1.1.1.1 ad.pl.doubleclick.net
@@ -1265,7 +1257,6 @@
 1.1.1.1 ad.sp.mbga.jp
 1.1.1.1 ad.spreaker.com
 1.1.1.1 ad.ssp.d2c.ne.jp
-1.1.1.1 ad.stadtplan.net
 1.1.1.1 ad.starlightmedia.ua
 1.1.1.1 ad.style
 1.1.1.1 ad.sunflower.vn
@@ -1337,11 +1328,9 @@
 1.1.1.1 ad.weatherbug.com
 1.1.1.1 ad.webdice.jp
 1.1.1.1 ad.webnext.ru
-1.1.1.1 ad.webzdarma.cz
 1.1.1.1 ad.weixin.qq.com
 1.1.1.1 ad.weplayer.cc
 1.1.1.1 ad.where.com
-1.1.1.1 ad.widgetserver.com
 1.1.1.1 ad.wingads.com
 1.1.1.1 ad.winrar.com.cn
 1.1.1.1 ad.wmt.dk
@@ -1642,7 +1631,6 @@
 1.1.1.1 adimg.163.com
 1.1.1.1 adimg.activeadv.net
 1.1.1.1 adimg.cbsi.com
-1.1.1.1 adimg.com
 1.1.1.1 adimg.com.com
 1.1.1.1 adimg.cqnews.net
 1.1.1.1 adimg.daumcdn.net
@@ -1695,7 +1683,6 @@
 1.1.1.1 adn1.adclerks.com
 1.1.1.1 adn2.adclerks.com
 1.1.1.1 adnetwork.ad.kakaocorp.com
-1.1.1.1 adnetwork.fullservices.com.ar
 1.1.1.1 adnewnc.app.autohome.com.cn
 1.1.1.1 adnitro.pro
 1.1.1.1 adnxs-simple.com
@@ -1860,7 +1847,6 @@
 1.1.1.1 ads-wordego.azureedge.net
 1.1.1.1 ads-yallo-production.imgix.net
 1.1.1.1 ads.123net.jp
-1.1.1.1 ads.128b.com
 1.1.1.1 ads.1thegioi.vn
 1.1.1.1 ads.211.ru
 1.1.1.1 ads.359group.com
@@ -1869,7 +1855,6 @@
 1.1.1.1 ads.365cdn.is
 1.1.1.1 ads.3e-news.net
 1.1.1.1 ads.3sfmedia.com
-1.1.1.1 ads.3xmedia.ro
 1.1.1.1 ads.49inchporn.club
 1.1.1.1 ads.4tube.com
 1.1.1.1 ads.568play.vn
@@ -1963,7 +1948,6 @@
 1.1.1.1 ads.adultpopunders.com
 1.1.1.1 ads.adultswim.com
 1.1.1.1 ads.advance.net
-1.1.1.1 ads.advanceweb.com
 1.1.1.1 ads.adverline.com
 1.1.1.1 ads.advertise.net
 1.1.1.1 ads.advertisespace.com
@@ -2106,14 +2090,12 @@
 1.1.1.1 ads.bloomberg.com
 1.1.1.1 ads.bluecava.com
 1.1.1.1 ads.bluelithium.com
-1.1.1.1 ads.bluemongoose.com
 1.1.1.1 ads.bluemountain.com
 1.1.1.1 ads.bninews.com
 1.1.1.1 ads.bnmedia.com
 1.1.1.1 ads.boardtracker.com
 1.1.1.1 ads.boerding.com
 1.1.1.1 ads.boerse-express.com
-1.1.1.1 ads.bomis.com
 1.1.1.1 ads.bondage.com
 1.1.1.1 ads.bonnint.net
 1.1.1.1 ads.botbanhang.vn
@@ -2133,10 +2115,7 @@
 1.1.1.1 ads.bullionyield.com
 1.1.1.1 ads.bumq.com
 1.1.1.1 ads.burgasinfo.com
-1.1.1.1 ads.buscape.com.ar
 1.1.1.1 ads.buscape.com.br
-1.1.1.1 ads.buscape.com.mx
-1.1.1.1 ads.buscouniversidad.com
 1.1.1.1 ads.businessclick.com
 1.1.1.1 ads.businessstyle.vn
 1.1.1.1 ads.businessweek.com
@@ -2310,7 +2289,6 @@
 1.1.1.1 ads.einmedia.com
 1.1.1.1 ads.eircom.net
 1.1.1.1 ads.elcarado.com
-1.1.1.1 ads.elcomercioperu.com.pe
 1.1.1.1 ads.electrocelt.com
 1.1.1.1 ads.elitetrader.com
 1.1.1.1 ads.elmaz.com
@@ -2333,9 +2311,7 @@
 1.1.1.1 ads.eropower.de
 1.1.1.1 ads.erotism.com
 1.1.1.1 ads.eskimi.com
-1.1.1.1 ads.espaciolatino.com
 1.1.1.1 ads.espn.adsonar.com
-1.1.1.1 ads.esquemas.com
 1.1.1.1 ads.eu.criteo.com
 1.1.1.1 ads.eu.e-planning.net
 1.1.1.1 ads.eu.msn.com
@@ -2365,7 +2341,6 @@
 1.1.1.1 ads.fetnet.net
 1.1.1.1 ads.fiat-bg.org
 1.1.1.1 ads.fileindexer.com
-1.1.1.1 ads.filez.com
 1.1.1.1 ads.filmup.com
 1.1.1.1 ads.finance.yahoo.com
 1.1.1.1 ads.financialcontent.com
@@ -2492,7 +2467,6 @@
 1.1.1.1 ads.horsehero.com
 1.1.1.1 ads.horyzon-media.com
 1.1.1.1 ads.host.camz.com
-1.1.1.1 ads.host.sk
 1.1.1.1 ads.house365.com
 1.1.1.1 ads.hsoub.com
 1.1.1.1 ads.huan.tv
@@ -2517,7 +2491,6 @@
 1.1.1.1 ads.ign.com
 1.1.1.1 ads.iknowthatgirl.com
 1.1.1.1 ads.illuminatednation.com
-1.1.1.1 ads.imagine-inc.com
 1.1.1.1 ads.imagistica.com
 1.1.1.1 ads.imarketservices.com
 1.1.1.1 ads.imbc.com
@@ -2527,7 +2500,6 @@
 1.1.1.1 ads.imguol.com
 1.1.1.1 ads.imgur.com
 1.1.1.1 ads.imovideo.ru
-1.1.1.1 ads.incubu.com
 1.1.1.1 ads.indeed.com
 1.1.1.1 ads.independent.com.mt
 1.1.1.1 ads.indexinfo.org
@@ -2554,7 +2526,6 @@
 1.1.1.1 ads.inviziads.com
 1.1.1.1 ads.ioam.de
 1.1.1.1 ads.iosappsworld.com
-1.1.1.1 ads.iplan.com.ar
 1.1.1.1 ads.ipowerweb.com
 1.1.1.1 ads.ireel.com
 1.1.1.1 ads.ireport.com
@@ -2563,7 +2534,6 @@
 1.1.1.1 ads.iwangmedia.com
 1.1.1.1 ads.iwannawatch.to
 1.1.1.1 ads.iwon.com
-1.1.1.1 ads.ixo.com
 1.1.1.1 ads.jeded.com
 1.1.1.1 ads.jerk2it.com
 1.1.1.1 ads.jetpackdigital.com
@@ -2610,14 +2580,12 @@
 1.1.1.1 ads.kure.tv
 1.1.1.1 ads.kureren.no
 1.1.1.1 ads.kyalon.net
-1.1.1.1 ads.lacoctelera.com
 1.1.1.1 ads.lamchame.vn
 1.1.1.1 ads.lanistaads.com
 1.1.1.1 ads.laodongbinhduong.org.vn
 1.1.1.1 ads.laodongnghean.vn
 1.1.1.1 ads.lapalingo.com
 1.1.1.1 ads.larryaffiliates.com
-1.1.1.1 ads.latinmedios.com
 1.1.1.1 ads.layer-ad.org
 1.1.1.1 ads.leadboltads.net
 1.1.1.1 ads.lektion.se
@@ -2641,7 +2609,6 @@
 1.1.1.1 ads.livetv314.me
 1.1.1.1 ads.livetvcdn.net
 1.1.1.1 ads.lmmob.com
-1.1.1.1 ads.localhost.net.ar
 1.1.1.1 ads.localyokelmedia.com
 1.1.1.1 ads.localytics.com
 1.1.1.1 ads.lomadee.com
@@ -2695,7 +2662,6 @@
 1.1.1.1 ads.mindviz.com
 1.1.1.1 ads.minmote.no
 1.1.1.1 ads.mircx.com
-1.1.1.1 ads.mirrormedia.co.uk
 1.1.1.1 ads.mixbg.net
 1.1.1.1 ads.mlive.com
 1.1.1.1 ads.mm.ap.org
@@ -2744,7 +2710,6 @@
 1.1.1.1 ads.mysimon.com
 1.1.1.1 ads.mytelus.com
 1.1.1.1 ads.n-ws.org
-1.1.1.1 ads.narrowline.com
 1.1.1.1 ads.nationalreview.com
 1.1.1.1 ads.nationchannel.com
 1.1.1.1 ads.nccwebs.com
@@ -2785,7 +2750,6 @@
 1.1.1.1 ads.novem.pl
 1.1.1.1 ads.novinhagostosa10.com
 1.1.1.1 ads.novsport.com
-1.1.1.1 ads.noxvo.com
 1.1.1.1 ads.nrc.adhese.com
 1.1.1.1 ads.ntadvice.com
 1.1.1.1 ads.nudereviews.com
@@ -2797,11 +2761,9 @@
 1.1.1.1 ads.nzcity.co.nz
 1.1.1.1 ads.o-networkaffiliates.com
 1.1.1.1 ads.o2.pl
-1.1.1.1 ads.ociomedia.com
 1.1.1.1 ads.oddschecker.com
 1.1.1.1 ads.offsidebet.com
 1.1.1.1 ads.ogdenpubs.com
-1.1.1.1 ads.oi.com.br
 1.1.1.1 ads.okcimg.com
 1.1.1.1 ads.ole.com
 1.1.1.1 ads.olx.com
@@ -2811,7 +2773,6 @@
 1.1.1.1 ads.oneway.mobi
 1.1.1.1 ads.online.ie
 1.1.1.1 ads.ontarget.mobi
-1.1.1.1 ads.ontecnia.com
 1.1.1.1 ads.onvertise.com
 1.1.1.1 ads.ookla.com
 1.1.1.1 ads.open.pl
@@ -2984,7 +2945,6 @@
 1.1.1.1 ads.samba.tv
 1.1.1.1 ads.samsung.com
 1.1.1.1 ads.samsungads.com
-1.1.1.1 ads.sandino.net
 1.1.1.1 ads.sapo.pt
 1.1.1.1 ads.satyamonline.com
 1.1.1.1 ads.saymedia.com
@@ -3264,7 +3224,6 @@
 1.1.1.1 ads.waps.cn
 1.1.1.1 ads.wapx.cn
 1.1.1.1 ads.warnerbros.com
-1.1.1.1 ads.washingtonpost.com
 1.1.1.1 ads.wasu.tv
 1.1.1.1 ads.watchmygf.net
 1.1.1.1 ads.waterbondage.com
@@ -3379,12 +3338,10 @@
 1.1.1.1 ads1.omdadget.com
 1.1.1.1 ads1.opensubtitles.org
 1.1.1.1 ads1.performancingads.com
-1.1.1.1 ads1.planisys.net
 1.1.1.1 ads1.realcities.com
 1.1.1.1 ads1.revenue.net
 1.1.1.1 ads1.rne.com
 1.1.1.1 ads1.speedbit.com
-1.1.1.1 ads1.telecentro.net.ar
 1.1.1.1 ads1.tripod.com
 1.1.1.1 ads1.tuccus.com
 1.1.1.1 ads1.updated.com
@@ -3817,7 +3774,6 @@
 1.1.1.1 advertising.microsoft.com
 1.1.1.1 advertising.online-media24.de
 1.1.1.1 advertising.paltalk.com
-1.1.1.1 advertising.quote.com
 1.1.1.1 advertising.thediabetesnetwork.com
 1.1.1.1 advertising.twitter.com
 1.1.1.1 advertising.valuedrugco.com
@@ -3919,7 +3875,6 @@
 1.1.1.1 agent.deutschemkgw.top
 1.1.1.1 agent.kpdgmk.top
 1.1.1.1 agentchannel.api.duapp.com
-1.1.1.1 agenziaonline.top
 1.1.1.1 agility.tbs.com
 1.1.1.1 agjfjdtsbuf.top
 1.1.1.1 agmermer.pro
@@ -5498,7 +5453,6 @@
 1.1.1.1 api.mu9.com
 1.1.1.1 api.myeforsa.pl
 1.1.1.1 api.myendpoint.io
-1.1.1.1 api.myhappyads.com
 1.1.1.1 api.nanigans.com
 1.1.1.1 api.nas.nct.vn
 1.1.1.1 api.native-track.com
@@ -6207,7 +6161,6 @@
 1.1.1.1 banner.freeservers.com
 1.1.1.1 banner.fyber.com
 1.1.1.1 banner.goldenpalace.com
-1.1.1.1 banner.grupos.com.br
 1.1.1.1 banner.hpmdnetwork.ru
 1.1.1.1 banner.icmedia.eu
 1.1.1.1 banner.img.co.za
@@ -6288,7 +6241,6 @@
 1.1.1.1 batch.upsight-api.com
 1.1.1.1 batecrowle.click
 1.1.1.1 bavners2.ero-advertising.com
-1.1.1.1 baxusanu.pro
 1.1.1.1 baywttgdhe.download
 1.1.1.1 bbazhaheiv.top
 1.1.1.1 bbwmovies.pro
@@ -6510,7 +6462,6 @@
 1.1.1.1 bricks.e.qq.com
 1.1.1.1 bro.flyme.cn
 1.1.1.1 brodgikinvest.pro
-1.1.1.1 brownsite.click
 1.1.1.1 browser-intake-datadoghq.com
 1.1.1.1 browser-intake-datadoghq.eu
 1.1.1.1 browser-onlytv.ru
@@ -7059,7 +7010,6 @@
 1.1.1.1 click-west.acuityplatform.com
 1.1.1.1 click.a-ads.com
 1.1.1.1 click.aaptiv.com
-1.1.1.1 click.abctrack.bid
 1.1.1.1 click.activehealthworks.org
 1.1.1.1 click.actongroup.com
 1.1.1.1 click.ad-stir.com
@@ -8051,7 +8001,6 @@
 1.1.1.1 download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw
 1.1.1.1 download-bb.com
 1.1.1.1 download-fast.net
-1.1.1.1 download-file.ml
 1.1.1.1 download-film-porno-gratis.blogspot.com
 1.1.1.1 download-free-ebooks.in
 1.1.1.1 download-free-hack.com
@@ -9100,7 +9049,6 @@
 1.1.1.1 guess.tf.360.cn
 1.1.1.1 guidance.godaddy.com
 1.1.1.1 gujiadayuan.top
-1.1.1.1 gumk.pro
 1.1.1.1 guojinfeng123.top
 1.1.1.1 gusabid.adview.com
 1.1.1.1 gusarcasino.top
@@ -9314,7 +9262,6 @@
 1.1.1.1 hordasinvest.pro
 1.1.1.1 horizon.twitter.com
 1.1.1.1 hornyteenmovs.pro
-1.1.1.1 horried.pro
 1.1.1.1 horse.uhaveto.click
 1.1.1.1 horsefairgreen.top
 1.1.1.1 host11.traffic-builders.com
@@ -10585,7 +10532,6 @@
 1.1.1.1 likidmokh.top
 1.1.1.1 liliwoin.top
 1.1.1.1 limdarwin.top
-1.1.1.1 lindenlaugh.pro
 1.1.1.1 lingke03.top
 1.1.1.1 lingke05.top
 1.1.1.1 link.cado.pro
@@ -10736,7 +10682,6 @@
 1.1.1.1 ly.yjlianyi.top
 1.1.1.1 lychardlyco.top
 1.1.1.1 lyetxecwubolcrq.top
-1.1.1.1 lyferere.pro
 1.1.1.1 lyggt.top
 1.1.1.1 lyjegushe.pro
 1.1.1.1 lyraxugle.pro
@@ -11183,7 +11128,6 @@
 1.1.1.1 mobileads.ero-advertising.com
 1.1.1.1 mobileads.indiatimes.com
 1.1.1.1 mobileads.msn.com
-1.1.1.1 mobileads.ru
 1.1.1.1 mobileapi.advertising.com
 1.1.1.1 mobileboutique.mobi
 1.1.1.1 mobileleads.msn.com
@@ -11635,7 +11579,6 @@
 1.1.1.1 norrbyvagen.top
 1.1.1.1 nota.click
 1.1.1.1 notablenephew.top
-1.1.1.1 notbad-ads.com
 1.1.1.1 notes-analytics-events.apple.com
 1.1.1.1 notice.iqiyi.com
 1.1.1.1 notification-browser.com
@@ -12265,9 +12208,7 @@
 1.1.1.1 pangolin.snssdk.com
 1.1.1.1 paopao-monitor.iqiyi.com
 1.1.1.1 paopao.iqiyi.com
-1.1.1.1 papereu.click
 1.1.1.1 papi.look.360.cn
-1.1.1.1 papoptidu.pro
 1.1.1.1 papsotiwi.pro
 1.1.1.1 par.shop-pro.jp
 1.1.1.1 pardot.analytics.mcgill.ca
@@ -12946,7 +12887,6 @@
 1.1.1.1 pornxxxhub.mobi
 1.1.1.1 pornyoung.pro
 1.1.1.1 pos.baidu.com
-1.1.1.1 posecoug.pro
 1.1.1.1 post.update.3lift.com
 1.1.1.1 post.update.a-mo.net
 1.1.1.1 post.update.ap.lijit.com
@@ -13051,7 +12991,6 @@
 1.1.1.1 pro-hacks.com
 1.1.1.1 pro-inves-pl.web.app
 1.1.1.1 pro-inw.web.app
-1.1.1.1 pro-iptv.net
 1.1.1.1 pro-iu.web.app
 1.1.1.1 pro-lifemax.xyz
 1.1.1.1 pro-m.activ-chz.xyz
@@ -13181,7 +13120,6 @@
 1.1.1.1 ptokp.pro
 1.1.1.1 ptstnews.pro
 1.1.1.1 ptufubimu.pro
-1.1.1.1 ptunogrywhy.pro
 1.1.1.1 ptywajofa.pro
 1.1.1.1 pub-sdk-cfg.criteo.com
 1.1.1.1 pubads.g.doubleclick.net
@@ -13551,7 +13489,6 @@
 1.1.1.1 roligom-investing.pro
 1.1.1.1 rollskins.top
 1.1.1.1 romdpoejl.top
-1.1.1.1 root-top.com
 1.1.1.1 rosemand.pro
 1.1.1.1 rosenberg.appmetrica.yandex.net
 1.1.1.1 roslom-invest.pro
@@ -14612,7 +14549,6 @@
 1.1.1.1 smart-ad.sakura.ne.jp
 1.1.1.1 smart-name.pro
 1.1.1.1 smartadserver.com
-1.1.1.1 smartadserver.es
 1.1.1.1 smartlock.google.com
 1.1.1.1 smartmnews.pro
 1.1.1.1 smartnews-ads.com
@@ -14704,7 +14640,6 @@
 1.1.1.1 splash-tastic.tumblr.com
 1.1.1.1 splash.appsgeyser.com
 1.1.1.1 splashelicit.top
-1.1.1.1 spoken-english.pro
 1.1.1.1 sportingbeteur.adsrv.eacdn.com
 1.1.1.1 sportplus.pro
 1.1.1.1 spot-01.trackingpro.pro
@@ -14968,7 +14903,6 @@
 1.1.1.1 support.twitter.com
 1.1.1.1 suppressiveruthless.top
 1.1.1.1 surf-bar-traffic.com
-1.1.1.1 surf-traffic.com
 1.1.1.1 surfe.pro
 1.1.1.1 survey.admaster.com.cn
 1.1.1.1 survey.g.doubleclick.net
@@ -15396,7 +15330,6 @@
 1.1.1.1 top-groupprogram.biz
 1.1.1.1 top-groupprogram.us
 1.1.1.1 top-hacks.net
-1.1.1.1 top-info.ir
 1.1.1.1 top-instagram.info
 1.1.1.1 top-invest-pl.site
 1.1.1.1 top-investments.info
@@ -15601,7 +15534,6 @@
 1.1.1.1 traffic-delivery.com
 1.1.1.1 traffic-exchange.com
 1.1.1.1 traffic-exchange.tv
-1.1.1.1 traffic-go.com
 1.1.1.1 traffic-king.ru
 1.1.1.1 traffic-media.co
 1.1.1.1 traffic-media.co.uk
@@ -15999,7 +15931,6 @@
 1.1.1.1 usdcoin.top
 1.1.1.1 useenterpris.click
 1.1.1.1 usenet-nl.top
-1.1.1.1 usenetnl.download
 1.1.1.1 user-api.com
 1.1.1.1 user-login-amazno.diyong.top
 1.1.1.1 user-login-amazno.wabian.top
@@ -17291,7 +17222,6 @@
 1.1.1.1 wifesharing.pro
 1.1.1.1 wiki.ero-advertising.com
 1.1.1.1 wikia-ads.wikia.com
-1.1.1.1 wilburshort.pro
 1.1.1.1 wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 1.1.1.1 wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
 1.1.1.1 wildindianporn.pro
@@ -17312,7 +17242,6 @@
 1.1.1.1 windy-bench.pro
 1.1.1.1 wininst.top-prizes-me.buzz
 1.1.1.1 wintravel-share.com
-1.1.1.1 wirelesstube.mobi
 1.1.1.1 wisepush.video.baidu.com
 1.1.1.1 withdromnit.pro
 1.1.1.1 withholdventilate.top
