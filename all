@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-05 07:04:37 
+#更新时间: 2023-01-05 08:32:58 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:19634
+#规则数量:19645
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -624,6 +624,7 @@
 94.140.14.33 ad-web-ad.com
 94.140.14.33 ad-wheel.com
 94.140.14.33 ad-wisteria.excite.co.jp
+94.140.14.33 ad-words.ru
 94.140.14.33 ad-x.co.uk
 94.140.14.33 ad.103092804.com
 94.140.14.33 ad.12306.cn
@@ -709,7 +710,6 @@
 94.140.14.33 ad.afy11.net
 94.140.14.33 ad.agilemedia.jp
 94.140.14.33 ad.agrantsem.com
-94.140.14.33 ad.aliceadsl.fr
 94.140.14.33 ad.alimama.com
 94.140.14.33 ad.allboxing.ru
 94.140.14.33 ad.allstar.cz
@@ -2312,7 +2312,6 @@
 94.140.14.33 ads.eropower.de
 94.140.14.33 ads.erotism.com
 94.140.14.33 ads.eskimi.com
-94.140.14.33 ads.espaciolatino.com
 94.140.14.33 ads.espn.adsonar.com
 94.140.14.33 ads.eu.criteo.com
 94.140.14.33 ads.eu.e-planning.net
@@ -2616,7 +2615,6 @@
 94.140.14.33 ads.livetv314.me
 94.140.14.33 ads.livetvcdn.net
 94.140.14.33 ads.lmmob.com
-94.140.14.33 ads.localhost.net.ar
 94.140.14.33 ads.localyokelmedia.com
 94.140.14.33 ads.localytics.com
 94.140.14.33 ads.lomadee.com
@@ -2759,7 +2757,6 @@
 94.140.14.33 ads.novem.pl
 94.140.14.33 ads.novinhagostosa10.com
 94.140.14.33 ads.novsport.com
-94.140.14.33 ads.noxvo.com
 94.140.14.33 ads.nrc.adhese.com
 94.140.14.33 ads.ntadvice.com
 94.140.14.33 ads.nudereviews.com
@@ -2771,11 +2768,9 @@
 94.140.14.33 ads.nzcity.co.nz
 94.140.14.33 ads.o-networkaffiliates.com
 94.140.14.33 ads.o2.pl
-94.140.14.33 ads.ociomedia.com
 94.140.14.33 ads.oddschecker.com
 94.140.14.33 ads.offsidebet.com
 94.140.14.33 ads.ogdenpubs.com
-94.140.14.33 ads.oi.com.br
 94.140.14.33 ads.okcimg.com
 94.140.14.33 ads.ole.com
 94.140.14.33 ads.olx.com
@@ -2786,7 +2781,6 @@
 94.140.14.33 ads.online.ie
 94.140.14.33 ads.onlyfanspornvideo.com
 94.140.14.33 ads.ontarget.mobi
-94.140.14.33 ads.ontecnia.com
 94.140.14.33 ads.onvertise.com
 94.140.14.33 ads.ookla.com
 94.140.14.33 ads.open.pl
@@ -4124,6 +4118,7 @@
 94.140.14.33 analytics.allovoisins.com
 94.140.14.33 analytics.alright.network
 94.140.14.33 analytics.amakings.com
+94.140.14.33 analytics.amazing-media.com
 94.140.14.33 analytics.ambient-platform.com
 94.140.14.33 analytics.americanfunds.com
 94.140.14.33 analytics.amica.com
@@ -4620,6 +4615,7 @@
 94.140.14.33 analytics.ratemymeeting.co
 94.140.14.33 analytics.ratioform.it
 94.140.14.33 analytics.ratopanda.com
+94.140.14.33 analytics.ravelz.com
 94.140.14.33 analytics.rayjump.com
 94.140.14.33 analytics.realestate.com.au
 94.140.14.33 analytics.rechtslupe.org
@@ -6180,6 +6176,7 @@
 94.140.14.33 banner-exchange-24.de
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
+94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
 94.140.14.33 banner-rotation.com
@@ -6311,6 +6308,7 @@
 94.140.14.33 baozp.top
 94.140.14.33 bar.baidu.com
 94.140.14.33 barbarahome.top
+94.140.14.33 barrenmixture.pro
 94.140.14.33 base.api.my7v.com
 94.140.14.33 basiakurier.top
 94.140.14.33 basic-check.oisd.nl
@@ -7546,6 +7544,7 @@
 94.140.14.33 crash2.zhihu.com
 94.140.14.33 crashes.mo.wps.cn
 94.140.14.33 crashlytics.163.com
+94.140.14.33 crazyabuse.pro
 94.140.14.33 crbug.com
 94.140.14.33 crcdn01.adnxs.com
 94.140.14.33 crcdn09.adnxs.com
@@ -7560,6 +7559,7 @@
 94.140.14.33 creatives.dfnb-ads.com
 94.140.14.33 creatives.doubleclick.net
 94.140.14.33 creatopy-adtag-production.b-cdn.net
+94.140.14.33 creawww.top
 94.140.14.33 creusatcom.tt.hb-api.omtrdc.net
 94.140.14.33 critariatele.pro
 94.140.14.33 crm-analytics.imweb.ru
@@ -7573,6 +7573,7 @@
 94.140.14.33 crypto-stuff.pro
 94.140.14.33 crypto-usdt.top
 94.140.14.33 cryptoloot.pro
+94.140.14.33 cryptox-ads.io
 94.140.14.33 crystal-ad.ge
 94.140.14.33 crystalapp.miguvideo.com
 94.140.14.33 cs-feige.iqiyi.com
@@ -8081,6 +8082,7 @@
 94.140.14.33 download.bayvip.tv
 94.140.14.33 download.browseraccelerator.com
 94.140.14.33 download.buzzfiles.net
+94.140.14.33 download.caihong.com
 94.140.14.33 download.cdn.sharelive.net
 94.140.14.33 download.cdn.torchbrowser.com
 94.140.14.33 download.cm
@@ -8292,6 +8294,7 @@
 94.140.14.33 ebalovo.pro
 94.140.14.33 ebazhaheiw.top
 94.140.14.33 ebclyqrvltydf.top
+94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebook-res.meizu.com
 94.140.14.33 ebook.res.meizu.com
@@ -9650,6 +9653,7 @@
 94.140.14.33 imposst.polandgktr.top
 94.140.14.33 imposst.srvgektor.top
 94.140.14.33 imposst.srvplgktr.top
+94.140.14.33 imps.xoom-ads.com
 94.140.14.33 impservice-test.dictapp.youdao.com
 94.140.14.33 impservice.dict.youdao.com
 94.140.14.33 impservice.dictapp.youdao.com
@@ -10922,6 +10926,7 @@
 94.140.14.33 mastaptasti.pro
 94.140.14.33 masterhkb.pro
 94.140.14.33 masture.mobi
+94.140.14.33 mat.cryptox-ads.io
 94.140.14.33 mata.ero-advertising.com
 94.140.14.33 match.ads.betweendigital.com
 94.140.14.33 match.p4p.1688.com
@@ -13116,6 +13121,7 @@
 94.140.14.33 pro-news.net
 94.140.14.33 pro-p.program-pro1.xyz
 94.140.14.33 pro-p1.progpl1pl.xyz
+94.140.14.33 pro-partners.nl
 94.140.14.33 pro-pl.chatpros.site
 94.140.14.33 pro-pl.info
 94.140.14.33 pro-pl.live1program.site
@@ -13235,6 +13241,7 @@
 94.140.14.33 ptufubimu.pro
 94.140.14.33 ptywajofa.pro
 94.140.14.33 pub-sdk-cfg.criteo.com
+94.140.14.33 pub.cryptox-ads.io
 94.140.14.33 pubads.g.doubleclick.net
 94.140.14.33 publicpartner.click
 94.140.14.33 publicpussy.pro
@@ -13650,6 +13657,7 @@
 94.140.14.33 rum.api.intuit.com
 94.140.14.33 rum.browser-intake-datadoghq.com
 94.140.14.33 rundownhang.pro
+94.140.14.33 runnypage.pro
 94.140.14.33 rusiuplj.top
 94.140.14.33 ruslx.top
 94.140.14.33 russianschoolgirls.top
@@ -13991,6 +13999,7 @@
 94.140.14.33 sdk-analytics.inner-active.mobi
 94.140.14.33 sdk-android.ad.smaato.net
 94.140.14.33 sdk-api-v1.singular.net
+94.140.14.33 sdk-api.cryptox-ads.io
 94.140.14.33 sdk-assets-zy8pe3h4v8msjk6x2sq4.stackpathdns.com
 94.140.14.33 sdk-assets.localytics.com
 94.140.14.33 sdk-b.apptornado.com
@@ -15685,6 +15694,7 @@
 94.140.14.33 tracking.v.tf.360.cn
 94.140.14.33 tracking.v2.yieldlove-ad-serving.net
 94.140.14.33 tracking.wao-corp.com
+94.140.14.33 tracking.xoom-ads.com
 94.140.14.33 tracking.yieldlove-ad-serving.net
 94.140.14.33 trackingpro.pro
 94.140.14.33 trackoffnext.top
@@ -19200,6 +19210,7 @@
 94.140.14.33 xodduuumdjec.top
 94.140.14.33 xomk.jiangjunmh.top
 94.140.14.33 xoofhpjtuduqgd.top
+94.140.14.33 xoom-ads.com
 94.140.14.33 xosgan-investing.pro
 94.140.14.33 xoslan-invest.pro
 94.140.14.33 xphimsex.pro
