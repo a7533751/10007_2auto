@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-08 15:03:32 
+#更新时间: 2023-01-08 16:08:05 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:19644
+#规则数量:19679
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -753,6 +753,7 @@
 94.140.14.33 ad.at.doubleclick.net
 94.140.14.33 ad.atdmt.com
 94.140.14.33 ad.atkamackerel.com
+94.140.14.33 ad.atlas.cz
 94.140.14.33 ad.atown.jp
 94.140.14.33 ad.au.doubleclick.net
 94.140.14.33 ad.aucfan.com
@@ -778,6 +779,7 @@
 94.140.14.33 ad.bitmedia.io
 94.140.14.33 ad.bizo.com
 94.140.14.33 ad.blackystars.com
+94.140.14.33 ad.blm.net
 94.140.14.33 ad.bloggerads.net
 94.140.14.33 ad.bluepartner.eu
 94.140.14.33 ad.bnmla.com
@@ -832,6 +834,7 @@
 94.140.14.33 ad.dev.360.cn
 94.140.14.33 ad.deviantart.com
 94.140.14.33 ad.digitallook.com
+94.140.14.33 ad.directanetworks.com
 94.140.14.33 ad.directmirror.com
 94.140.14.33 ad.directrev.com
 94.140.14.33 ad.divreach.com
@@ -843,6 +846,7 @@
 94.140.14.33 ad.dmm.com
 94.140.14.33 ad.dnoticias.pt
 94.140.14.33 ad.doganburda.com
+94.140.14.33 ad.dogpile.com
 94.140.14.33 ad.domainfactory.de
 94.140.14.33 ad.donanimhaber.com
 94.140.14.33 ad.dongdong.madserving.com
@@ -912,6 +916,7 @@
 94.140.14.33 ad.genybet.fr
 94.140.14.33 ad.ghfusion.com
 94.140.14.33 ad.globalgrape.no
+94.140.14.33 ad.globalinteractive.com
 94.140.14.33 ad.gmw.cn
 94.140.14.33 ad.go.com
 94.140.14.33 ad.goo.ne.jp
@@ -961,6 +966,7 @@
 94.140.14.33 ad.ichiban-boshi.com
 94.140.14.33 ad.iconadserver.com
 94.140.14.33 ad.ie.doubleclick.net
+94.140.14.33 ad.ieurop.net
 94.140.14.33 ad.iinfo.cz
 94.140.14.33 ad.ikonke.com
 94.140.14.33 ad.il.doubleclick.net
@@ -1318,11 +1324,13 @@
 94.140.14.33 ad.weixin.qq.com
 94.140.14.33 ad.weplayer.cc
 94.140.14.33 ad.where.com
+94.140.14.33 ad.widgetserver.com
 94.140.14.33 ad.wingads.com
 94.140.14.33 ad.winrar.com.cn
 94.140.14.33 ad.wmt.dk
 94.140.14.33 ad.woman.mynavi.jp
 94.140.14.33 ad.wretch.cc
+94.140.14.33 ad.wslinx.com
 94.140.14.33 ad.wsod.com
 94.140.14.33 ad.wurangxian.top
 94.140.14.33 ad.wynk.in
@@ -1836,6 +1844,7 @@
 94.140.14.33 ads-wordego.azureedge.net
 94.140.14.33 ads-yallo-production.imgix.net
 94.140.14.33 ads.123net.jp
+94.140.14.33 ads.128b.com
 94.140.14.33 ads.1thegioi.vn
 94.140.14.33 ads.211.ru
 94.140.14.33 ads.359group.com
@@ -1854,6 +1863,7 @@
 94.140.14.33 ads.7days.ae
 94.140.14.33 ads.8live.com
 94.140.14.33 ads.a-snag-smartmoney.fyi
+94.140.14.33 ads.a-static.com
 94.140.14.33 ads.aarhusupdate.dk
 94.140.14.33 ads.aavv.com
 94.140.14.33 ads.abbythetraveler.com
@@ -2079,12 +2089,14 @@
 94.140.14.33 ads.bloomberg.com
 94.140.14.33 ads.bluecava.com
 94.140.14.33 ads.bluelithium.com
+94.140.14.33 ads.bluemongoose.com
 94.140.14.33 ads.bluemountain.com
 94.140.14.33 ads.bninews.com
 94.140.14.33 ads.bnmedia.com
 94.140.14.33 ads.boardtracker.com
 94.140.14.33 ads.boerding.com
 94.140.14.33 ads.boerse-express.com
+94.140.14.33 ads.bomis.com
 94.140.14.33 ads.bondage.com
 94.140.14.33 ads.bonnint.net
 94.140.14.33 ads.botbanhang.vn
@@ -2094,6 +2106,7 @@
 94.140.14.33 ads.brand.net
 94.140.14.33 ads.brandenburg.is
 94.140.14.33 ads.brazzers.com
+94.140.14.33 ads.breakthru.com
 94.140.14.33 ads.bridgebase.com
 94.140.14.33 ads.bridgetrack.com
 94.140.14.33 ads.bridgetrack.com.edgesuite.net
@@ -2116,6 +2129,7 @@
 94.140.14.33 ads.carmudi.vn
 94.140.14.33 ads.carocean.co.uk
 94.140.14.33 ads.cars.com
+94.140.14.33 ads.cashsurfers.com
 94.140.14.33 ads.casinocity.com
 94.140.14.33 ads.casumoaffiliates.com
 94.140.14.33 ads.catholic.org
@@ -2328,6 +2342,7 @@
 94.140.14.33 ads.fetnet.net
 94.140.14.33 ads.fiat-bg.org
 94.140.14.33 ads.fileindexer.com
+94.140.14.33 ads.filez.com
 94.140.14.33 ads.filmup.com
 94.140.14.33 ads.finance.yahoo.com
 94.140.14.33 ads.financialcontent.com
@@ -2338,6 +2353,7 @@
 94.140.14.33 ads.flooble.com
 94.140.14.33 ads.floridatoday.com
 94.140.14.33 ads.flurry.com
+94.140.14.33 ads.focalink.com
 94.140.14.33 ads.focus-news.net
 94.140.14.33 ads.fool.com
 94.140.14.33 ads.footymad.net
@@ -2370,6 +2386,7 @@
 94.140.14.33 ads.gamecity.net
 94.140.14.33 ads.gamecopyworld.no
 94.140.14.33 ads.gamelink.com
+94.140.14.33 ads.gamershell.com
 94.140.14.33 ads.gameservers.com
 94.140.14.33 ads.gamespyid.com
 94.140.14.33 ads.gamigo.de
@@ -2399,6 +2416,7 @@
 94.140.14.33 ads.godt.no
 94.140.14.33 ads.gofuckyourself.com
 94.140.14.33 ads.gold
+94.140.14.33 ads.golem.de
 94.140.14.33 ads.golfweek.com
 94.140.14.33 ads.goodreads.com
 94.140.14.33 ads.google.com
@@ -2461,6 +2479,7 @@
 94.140.14.33 ads.hun.is
 94.140.14.33 ads.hwn.no
 94.140.14.33 ads.i-am-bored.com
+94.140.14.33 ads.i33.com
 94.140.14.33 ads.iawsnetwork.com
 94.140.14.33 ads.ibest.com.br
 94.140.14.33 ads.ibryte.com
@@ -2475,6 +2494,7 @@
 94.140.14.33 ads.ign.com
 94.140.14.33 ads.iknowthatgirl.com
 94.140.14.33 ads.illuminatednation.com
+94.140.14.33 ads.imagine-inc.com
 94.140.14.33 ads.imagistica.com
 94.140.14.33 ads.imarketservices.com
 94.140.14.33 ads.imbc.com
@@ -2495,6 +2515,7 @@
 94.140.14.33 ads.inetinteractive.com
 94.140.14.33 ads.infi.net
 94.140.14.33 ads.infomediainc.com
+94.140.14.33 ads.infospace.com
 94.140.14.33 ads.injersey.com
 94.140.14.33 ads.inmobi.com
 94.140.14.33 ads.insikt24.se
@@ -2517,6 +2538,7 @@
 94.140.14.33 ads.iwangmedia.com
 94.140.14.33 ads.iwannawatch.to
 94.140.14.33 ads.iwon.com
+94.140.14.33 ads.ixo.com
 94.140.14.33 ads.jeded.com
 94.140.14.33 ads.jerk2it.com
 94.140.14.33 ads.jetpackdigital.com
@@ -2563,6 +2585,7 @@
 94.140.14.33 ads.kure.tv
 94.140.14.33 ads.kureren.no
 94.140.14.33 ads.kyalon.net
+94.140.14.33 ads.lacoctelera.com
 94.140.14.33 ads.lamchame.vn
 94.140.14.33 ads.lanistaads.com
 94.140.14.33 ads.laodongbinhduong.org.vn
@@ -2664,6 +2687,7 @@
 94.140.14.33 ads.mofos.com
 94.140.14.33 ads.mondogames.com
 94.140.14.33 ads.monetize-me.com
+94.140.14.33 ads.mooxar.com
 94.140.14.33 ads.mopub.com
 94.140.14.33 ads.morningstar.com
 94.140.14.33 ads.motor-forum.nl
@@ -2692,6 +2716,7 @@
 94.140.14.33 ads.mysimon.com
 94.140.14.33 ads.mytelus.com
 94.140.14.33 ads.n-ws.org
+94.140.14.33 ads.narrowline.com
 94.140.14.33 ads.nationalreview.com
 94.140.14.33 ads.nationchannel.com
 94.140.14.33 ads.nccwebs.com
@@ -2888,6 +2913,7 @@
 94.140.14.33 ads.reader.yueyouxs.com
 94.140.14.33 ads.realcastmedia.com
 94.140.14.33 ads.realcities.com
+94.140.14.33 ads.realmedia.com.br
 94.140.14.33 ads.realmedia.de
 94.140.14.33 ads.realsrv.com
 94.140.14.33 ads.recoletos.es
@@ -2997,6 +3023,7 @@
 94.140.14.33 ads.socialtheater.com
 94.140.14.33 ads.soft32.com
 94.140.14.33 ads.sohu.com
+94.140.14.33 ads.sol.no
 94.140.14.33 ads.somd.com
 94.140.14.33 ads.sonataplatform.com
 94.140.14.33 ads.sondakika.com
@@ -3057,6 +3084,7 @@
 94.140.14.33 ads.technoratimedia.com
 94.140.14.33 ads.techvibes.com
 94.140.14.33 ads.techweb.com
+94.140.14.33 ads.teenport.com
 94.140.14.33 ads.tele.net
 94.140.14.33 ads.telecinco.es
 94.140.14.33 ads.telkomsel.com
@@ -3178,6 +3206,7 @@
 94.140.14.33 ads.vidoomy.com
 94.140.14.33 ads.vidsense.com
 94.140.14.33 ads.vietbao.vn
+94.140.14.33 ads.viksaffiliates.com
 94.140.14.33 ads.vimg.net
 94.140.14.33 ads.vipbaihe.com
 94.140.14.33 ads.vipcams.com
@@ -3204,6 +3233,7 @@
 94.140.14.33 ads.walkiberia.com
 94.140.14.33 ads.waps.cn
 94.140.14.33 ads.wapx.cn
+94.140.14.33 ads.warnerbros.com
 94.140.14.33 ads.wasu.tv
 94.140.14.33 ads.watchmygf.net
 94.140.14.33 ads.waterbondage.com
@@ -3469,6 +3499,7 @@
 94.140.14.33 ads3.freebannertrade.com
 94.140.14.33 ads3.gamecity.net
 94.140.14.33 ads3.haber3.com
+94.140.14.33 ads3.hpg.com.br
 94.140.14.33 ads3.optad360.com
 94.140.14.33 ads3.realcities.com
 94.140.14.33 ads3.speedbit.com
@@ -6209,6 +6240,7 @@
 94.140.14.33 banner.freeservers.com
 94.140.14.33 banner.fyber.com
 94.140.14.33 banner.goldenpalace.com
+94.140.14.33 banner.grupos.com.br
 94.140.14.33 banner.hpmdnetwork.ru
 94.140.14.33 banner.icmedia.eu
 94.140.14.33 banner.img.co.za
@@ -7041,6 +7073,7 @@
 94.140.14.33 click-eu.pclk.name
 94.140.14.33 click-eu.plarimoplus.com
 94.140.14.33 click-euro.acuityplatform.com
+94.140.14.33 click-fr.com
 94.140.14.33 click-haproxy.supersonicads.com
 94.140.14.33 click-here.it
 94.140.14.33 click-mdsp.avazutracking.net
@@ -8059,6 +8092,7 @@
 94.140.14.33 download.bayvip247.page
 94.140.14.33 download.browseraccelerator.com
 94.140.14.33 download.buzzfiles.net
+94.140.14.33 download.caihong.com
 94.140.14.33 download.cdn.sharelive.net
 94.140.14.33 download.cdn.torchbrowser.com
 94.140.14.33 download.cm
@@ -12631,6 +12665,7 @@
 94.140.14.33 pgold.pro
 94.140.14.33 pgonews.pro
 94.140.14.33 pgporn.top
+94.140.14.33 ph-ad.focalink.com
 94.140.14.33 ph.xxxindianporn.pro
 94.140.14.33 phang.pro
 94.140.14.33 phanycesa.pro
