@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-10 11:08:31 
+#更新时间: 2023-01-10 12:07:53 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:18892
+#规则数量:18898
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -3608,6 +3608,7 @@
 94.140.14.33 adver.qq.com
 94.140.14.33 advert.lx.netease.com
 94.140.14.33 advertica-cdn.com
+94.140.14.33 advertise.admetix.com
 94.140.14.33 advertise.bingads.microsoft.com
 94.140.14.33 advertise.com
 94.140.14.33 advertise.ldplayer.net
@@ -5839,6 +5840,7 @@
 94.140.14.33 banner-exchange-24.de
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
+94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
 94.140.14.33 banner-rotation.com
@@ -6663,7 +6665,9 @@
 94.140.14.33 click-plus.net
 94.140.14.33 click-rtb2-eu.convergeselect.net
 94.140.14.33 click-rtb2-eu.e-volution.ai
+94.140.14.33 click-rtb2-eu.waardex.com
 94.140.14.33 click-rtb2-useast.adsync.global
+94.140.14.33 click-rtb2-useast.e-volution.ai
 94.140.14.33 click-staging.food.mercato.com
 94.140.14.33 click-testing.moselo.com
 94.140.14.33 click-trade-credit.capitalone.com
@@ -6696,6 +6700,7 @@
 94.140.14.33 click.alternate.de
 94.140.14.33 click.amazingfacts.org
 94.140.14.33 click.americasaving.com
+94.140.14.33 click.anytheengmedia.com
 94.140.14.33 click.appinthestore.com
 94.140.14.33 click.assent.com
 94.140.14.33 click.assentcompliance.com
@@ -7832,6 +7837,7 @@
 94.140.14.33 ebalovo.pro
 94.140.14.33 ebazhaheiw.top
 94.140.14.33 ebclyqrvltydf.top
+94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebook-res.meizu.com
 94.140.14.33 ebook.res.meizu.com
