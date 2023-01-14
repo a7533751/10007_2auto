@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-14 21:09:29 
+#更新时间: 2023-01-14 22:03:11 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:19830
+#规则数量:19866
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -136,9 +136,11 @@
 94.140.14.33 2014.twitter.com
 94.140.14.33 2016.sina.cn
 94.140.14.33 20193a.secure-cloud.pro
+94.140.14.33 2020workaffnew.top
 94.140.14.33 2021pro1.pro
 94.140.14.33 21.tx.gongxifacai21.top
 94.140.14.33 21naturals.top
+94.140.14.33 22ark.pro
 94.140.14.33 238ym2umhodj.top
 94.140.14.33 23986834.com
 94.140.14.33 23dsf.top
@@ -169,6 +171,7 @@
 94.140.14.33 2show4tv.click
 94.140.14.33 2vccc34khitd.top
 94.140.14.33 2x8p4mtjtm63.top
+94.140.14.33 2xether.pro
 94.140.14.33 2xnra503obzf.top
 94.140.14.33 2xy2a2jgnepm6fxp69zxu9h0br.fixiy.pro
 94.140.14.33 2xy2a6thaa9vxa8.fixiy.pro
@@ -636,6 +639,7 @@
 94.140.14.33 ad-web-ad.com
 94.140.14.33 ad-wheel.com
 94.140.14.33 ad-wisteria.excite.co.jp
+94.140.14.33 ad-words.ru
 94.140.14.33 ad-x.co.uk
 94.140.14.33 ad.103092804.com
 94.140.14.33 ad.12306.cn
@@ -5379,6 +5383,7 @@
 94.140.14.33 api.ent.mobileanjian.com
 94.140.14.33 api.eqmob.com
 94.140.14.33 api.ero-advertising.com
+94.140.14.33 api.essentialchannel.com
 94.140.14.33 api.eu.amplitude.com
 94.140.14.33 api.europe.bidtellect.com
 94.140.14.33 api.exc.mob.com
@@ -5461,6 +5466,8 @@
 94.140.14.33 api.intellimize.co
 94.140.14.33 api.intensifier.de
 94.140.14.33 api.intentiq.com
+94.140.14.33 api.interfacehelper.com
+94.140.14.33 api.interfacesmode.com
 94.140.14.33 api.inwemo.com
 94.140.14.33 api.ipdata.co
 94.140.14.33 api.iperceptions.com
@@ -5508,7 +5515,9 @@
 94.140.14.33 api.locately.com
 94.140.14.33 api.locuslabs.com
 94.140.14.33 api.logentries.com
+94.140.14.33 api.logpartition.com
 94.140.14.33 api.logrocket.com
+94.140.14.33 api.lookupmanager.com
 94.140.14.33 api.luckyorange.com
 94.140.14.33 api.luscious.net
 94.140.14.33 api.lwxs99.com
@@ -5518,6 +5527,7 @@
 94.140.14.33 api.mapps.uve.weibo.com
 94.140.14.33 api.market.pubnative.net
 94.140.14.33 api.maropost.com
+94.140.14.33 api.masterprotocols.com
 94.140.14.33 api.mb-click.jp
 94.140.14.33 api.mbrx.app
 94.140.14.33 api.mc876.com
@@ -5664,6 +5674,7 @@
 94.140.14.33 api.revcontent.com
 94.140.14.33 api.rlcdn.com
 94.140.14.33 api.rollbar.com
+94.140.14.33 api.rotatornet.com
 94.140.14.33 api.rqmob.com
 94.140.14.33 api.rtnews.pro
 94.140.14.33 api.rubic.com.tr
@@ -5721,6 +5732,7 @@
 94.140.14.33 api.st66606.com
 94.140.14.33 api.stack-sonar.com
 94.140.14.33 api.staging.wootric.com
+94.140.14.33 api.standarteng.com
 94.140.14.33 api.stathat.com
 94.140.14.33 api.stats.appa.pe
 94.140.14.33 api.statsig.com
@@ -5756,6 +5768,7 @@
 94.140.14.33 api.triver.jp
 94.140.14.33 api.trueaudience.io
 94.140.14.33 api.truepush.com
+94.140.14.33 api.trustedmode.com
 94.140.14.33 api.trwl1.com
 94.140.14.33 api.ts.feedback.71.am
 94.140.14.33 api.ts.feedback.qy.net
@@ -5923,7 +5936,11 @@
 94.140.14.33 arcturus-investing.pro
 94.140.14.33 arechassista.top
 94.140.14.33 ariat-polska.top
+94.140.14.33 ark-event.pro
 94.140.14.33 ark.cp21.ott.cibntv.net
+94.140.14.33 arketh.pro
+94.140.14.33 arkgives.pro
+94.140.14.33 arkinfo.pro
 94.140.14.33 arlyreven.top
 94.140.14.33 arpe.top
 94.140.14.33 art-family.pro
@@ -6586,6 +6603,7 @@
 94.140.14.33 bsnnes.click
 94.140.14.33 bsnnes.pro
 94.140.14.33 bss.pandora.xiaomi.com
+94.140.14.33 btcark.pro
 94.140.14.33 btob.ouestfrance-auto.pro
 94.140.14.33 btrace.play.aiseet.atianqi.com
 94.140.14.33 btrace.qq.com
@@ -6971,6 +6989,7 @@
 94.140.14.33 centro.pixel.ad
 94.140.14.33 centrum24.pro
 94.140.14.33 centurylink.hb-api.omtrdc.net
+94.140.14.33 ceoark.pro
 94.140.14.33 certificates.godaddy.com
 94.140.14.33 cf-ad.ad-stir.com
 94.140.14.33 cf-ads.pinger.com
@@ -7839,6 +7858,7 @@
 94.140.14.33 de.xxx-porn.top
 94.140.14.33 deagpunjab.top
 94.140.14.33 debet.top
+94.140.14.33 debrahinton.pro
 94.140.14.33 decentraland.pro
 94.140.14.33 defacto-analytics.net
 94.140.14.33 defcon.pro
@@ -8109,6 +8129,7 @@
 94.140.14.33 download-minecraft.ru
 94.140.14.33 download-officesetup.com
 94.140.14.33 download-porn-movies.blogspot.com
+94.140.14.33 download-ready-now.com
 94.140.14.33 download-ready.net
 94.140.14.33 download-readynow.com
 94.140.14.33 download-setupnow.com
@@ -8330,6 +8351,7 @@
 94.140.14.33 easy-ad.no
 94.140.14.33 easy-ads.com
 94.140.14.33 easy-ads.dk
+94.140.14.33 easy-download.co
 94.140.14.33 easyaccess.mobi
 94.140.14.33 easyads28.mobi
 94.140.14.33 easyads28.pro
@@ -8993,6 +9015,7 @@
 94.140.14.33 gia.jd.com
 94.140.14.33 giaitriviet.click
 94.140.14.33 gidro-partner.ru
+94.140.14.33 giftsark.pro
 94.140.14.33 gifttopsurvey.top
 94.140.14.33 giglelazo.pro
 94.140.14.33 gimg.baidu.com
@@ -9805,6 +9828,7 @@
 94.140.14.33 informacje-polska.click
 94.140.14.33 information-update.dynamic-dns.net
 94.140.14.33 informer.yandex.ru
+94.140.14.33 infotesla.pro
 94.140.14.33 infotrack.gdt.qq.com
 94.140.14.33 ini.sm-nat.com
 94.140.14.33 ini.update.360safe.com
@@ -11550,6 +11574,7 @@
 94.140.14.33 multidefichain.pro
 94.140.14.33 munion.mediav.com
 94.140.14.33 music.twitter.com
+94.140.14.33 muskbtc.pro
 94.140.14.33 muslim-pro.my.id
 94.140.14.33 mustang-browser.com
 94.140.14.33 mux.twitter.com
@@ -11713,6 +11738,7 @@
 94.140.14.33 newsuccsess.click
 94.140.14.33 newsupdate.mobi
 94.140.14.33 newteenporn.pro
+94.140.14.33 newtesla.pro
 94.140.14.33 newvideoapp.pro
 94.140.14.33 newxxx.pro
 94.140.14.33 nex.163.com
@@ -13245,6 +13271,7 @@
 94.140.14.33 pro-news.net
 94.140.14.33 pro-p.program-pro1.xyz
 94.140.14.33 pro-p1.progpl1pl.xyz
+94.140.14.33 pro-partners.nl
 94.140.14.33 pro-pl.chatpros.site
 94.140.14.33 pro-pl.info
 94.140.14.33 pro-pl.live1program.site
@@ -15486,6 +15513,12 @@
 94.140.14.33 teshose.click
 94.140.14.33 tesla-global-top.biz
 94.140.14.33 tesla-platform.pro
+94.140.14.33 tesla23new.pro
+94.140.14.33 teslado.pro
+94.140.14.33 teslaeth.pro
+94.140.14.33 teslaevent.top
+94.140.14.33 teslaget.pro
+94.140.14.33 teslanew.pro
 94.140.14.33 teslax-pro.com
 94.140.14.33 tesler-project.pro
 94.140.14.33 teslpolx.top
@@ -19251,6 +19284,7 @@
 94.140.14.33 x-videos.mobi
 94.140.14.33 x.jd.com
 94.140.14.33 x29l.top
+94.140.14.33 x2get.pro
 94.140.14.33 x2tesla-event.pro
 94.140.14.33 x3.extreme-dm.com
 94.140.14.33 x4hub-pro.com
@@ -19428,6 +19462,8 @@
 94.140.14.33 xqestkttemcqob.top
 94.140.14.33 xratt15.sky1818.net
 94.140.14.33 xroll.pro
+94.140.14.33 xrp-bonus.pro
+94.140.14.33 xrp-gift.pro
 94.140.14.33 xsapp.cdn.bcebos.com
 94.140.14.33 xsexvideos.pro
 94.140.14.33 xsolid.baidu.com
