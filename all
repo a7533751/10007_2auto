@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-16 07:44:30 
+#更新时间: 2023-01-16 08:32:18 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:19896
+#规则数量:19895
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -15512,7 +15512,6 @@
 1.1.1.1 tesla-platform.pro
 1.1.1.1 tesla23new.pro
 1.1.1.1 teslado.pro
-1.1.1.1 teslaeth.pro
 1.1.1.1 teslaevent.top
 1.1.1.1 teslaget.pro
 1.1.1.1 teslanew.pro
