@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-19 12:08:13 
+#更新时间: 2023-01-19 13:05:43 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:19382
+#规则数量:19400
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -3962,6 +3962,7 @@
 1.1.1.1 analytics-ingress.bitmovin.com
 1.1.1.1 analytics-lgs.corebridgefinancial.com
 1.1.1.1 analytics-listener.trafficmanager.net
+1.1.1.1 analytics-mkt.wemakeprice.com
 1.1.1.1 analytics-myhermes.wt-eu02.net
 1.1.1.1 analytics-phi-nfl.yinzcam.com
 1.1.1.1 analytics-pit-nfl.yinzcam.com
@@ -4664,6 +4665,7 @@
 1.1.1.1 analytics.tv189.cn
 1.1.1.1 analytics.tver.jp
 1.1.1.1 analytics.twitter.com
+1.1.1.1 analytics.ubports.com
 1.1.1.1 analytics.ubs.com
 1.1.1.1 analytics.unand.ac.id
 1.1.1.1 analytics.underarmour.com
@@ -5653,8 +5655,8 @@
 1.1.1.1 apple-icloud-lost.top
 1.1.1.1 apple-id-cziphone.top
 1.1.1.1 apple.com.auth-sign.top
+1.1.1.1 applecss.top
 1.1.1.1 appleid.apple.com.supportaccount.dns-cloud.net
-1.1.1.1 applesacc.top
 1.1.1.1 appleworldwidedeveloper-stage.hb-api.omtrdc.net
 1.1.1.1 appleworldwidedeveloper.hb-api.omtrdc.net
 1.1.1.1 applink.mob.com
@@ -5672,6 +5674,7 @@
 1.1.1.1 apps.bytesfield.com
 1.1.1.1 apps.twitter.com
 1.1.1.1 appwall.api.airpush.com
+1.1.1.1 aprobacionesconfirmadasenlinea.accesoseguroperu.top
 1.1.1.1 apt.ahentai.top
 1.1.1.1 aqiongbei.top
 1.1.1.1 aqntswfhpxwlifl.top
@@ -6154,6 +6157,7 @@
 1.1.1.1 bestcontentplan.top
 1.1.1.1 bestcontentprogram.top
 1.1.1.1 bestcontentproject.top
+1.1.1.1 bestcontentprovider.top
 1.1.1.1 bestcontentservice.top
 1.1.1.1 bestcontentsoftware.top
 1.1.1.1 bestcontenttrade.top
@@ -7121,7 +7125,6 @@
 1.1.1.1 cof.felain.top
 1.1.1.1 coin-ad.com
 1.1.1.1 coinbase.download-update.com
-1.1.1.1 coinbasedex.top
 1.1.1.1 coindark-invest.pro
 1.1.1.1 coinlife.click
 1.1.1.1 coinpkonew.click
@@ -7470,6 +7473,7 @@
 1.1.1.1 datacollector-dra.dt.hicloud.com
 1.1.1.1 dataf.ads.oppomobile.com
 1.1.1.1 dataose.top
+1.1.1.1 datasecurityagency.click
 1.1.1.1 datax.baidu.com
 1.1.1.1 date-update-ups.com
 1.1.1.1 date.ero-advertising.com
@@ -7719,6 +7723,7 @@
 1.1.1.1 dobreprogramy.pro
 1.1.1.1 doc.cnzz.com
 1.1.1.1 docomo-analytics.com
+1.1.1.1 docs.google.com.mcas-df-gov.us
 1.1.1.1 doesok.top
 1.1.1.1 dofohuwha.pro
 1.1.1.1 dogus-ads-cdn.dygdigital.com
@@ -8597,11 +8602,13 @@
 1.1.1.1 gdt.qq.com
 1.1.1.1 gecko-hl.snssdk.com
 1.1.1.1 gecko-lq.snssdk.com
+1.1.1.1 geckopad.top
 1.1.1.1 geeb.pro
 1.1.1.1 gefadythi.pro
 1.1.1.1 gemini2.click
 1.1.1.1 gemuuhxtbvyvem.top
 1.1.1.1 gen.alicdn.com
+1.1.1.1 genialinvest.top
 1.1.1.1 genishury.pro
 1.1.1.1 geo.adobe.com
 1.1.1.1 geo.ads.audio.thisisdax.com
@@ -8682,6 +8689,7 @@
 1.1.1.1 gl1e.top
 1.1.1.1 glaphechemy.pro
 1.1.1.1 glephycyti.pro
+1.1.1.1 glitteringbrush.pro
 1.1.1.1 glixenusti.pro
 1.1.1.1 glkcqlfoedabea.top
 1.1.1.1 glob-markets.pro
@@ -8750,6 +8758,7 @@
 1.1.1.1 google-pagerank.net
 1.1.1.1 google-shopping-v2.sapoapps.vn
 1.1.1.1 google-shopping.sapoapps.vn
+1.1.1.1 google.accounts.certifiedsafepages.net
 1.1.1.1 google.agichi.com
 1.1.1.1 google.bv-hilden-west.de
 1.1.1.1 google.com-firewall.online
@@ -8816,6 +8825,7 @@
 1.1.1.1 gromder-invest.pro
 1.1.1.1 gromore.pangolin-sdk-toutiao.com
 1.1.1.1 grounded-card.pro
+1.1.1.1 groupviralviwfldx.new-online.click
 1.1.1.1 growingfailure.pro
 1.1.1.1 groxton-invest.pro
 1.1.1.1 gruchipevi.pro
@@ -8971,6 +8981,7 @@
 1.1.1.1 hellocdn.top
 1.1.1.1 helmovaorlova.top
 1.1.1.1 help.cnzz.com
+1.1.1.1 help.pass-google.tk
 1.1.1.1 hentai-flash-game.blogspot.com
 1.1.1.1 hentai-porn.top
 1.1.1.1 hentai-top-manga.blogspot.com
@@ -9037,6 +9048,7 @@
 1.1.1.1 hmwebs.top
 1.1.1.1 hnb2c.adsame.com
 1.1.1.1 hog.mobi
+1.1.1.1 hokalopesko.top
 1.1.1.1 holaenergy.click
 1.1.1.1 holbrooked.top
 1.1.1.1 homeindiansex.mobi
@@ -9958,6 +9970,7 @@
 1.1.1.1 join.pro-gaming-world.com
 1.1.1.1 joktauninvest.pro
 1.1.1.1 jordadokinvest.pro
+1.1.1.1 jordannorge.top
 1.1.1.1 josephineblog.top
 1.1.1.1 jospbggjfbybldn.top
 1.1.1.1 jouzeeps.click
@@ -10352,6 +10365,7 @@
 1.1.1.1 lingke03.top
 1.1.1.1 lingke05.top
 1.1.1.1 link.cado.pro
+1.1.1.1 link.tngo.top
 1.1.1.1 linkpay.top
 1.1.1.1 linkplat.click
 1.1.1.1 links-and-traffic.com
@@ -10420,6 +10434,7 @@
 1.1.1.1 lnpost-polsca.wertuoklips2764.click
 1.1.1.1 lnpost-polska.pay-id63524.top
 1.1.1.1 lnpost.h-yuan.top
+1.1.1.1 lnpost.kirei-hada.top
 1.1.1.1 lnpost.pl-id234701.top
 1.1.1.1 lnt-r.bnk-bnk.top
 1.1.1.1 lntl-lnc.top
@@ -10430,7 +10445,6 @@
 1.1.1.1 local-analytics.uberinternal.com
 1.1.1.1 local-download.com
 1.1.1.1 location.ximalaya.com
-1.1.1.1 locato.top
 1.1.1.1 locustabf14bc0efae8598de5121b616f.dns-cloud.net
 1.1.1.1 log1.mmstat.com
 1.1.1.1 log2.sina.cn
@@ -11850,6 +11864,7 @@
 1.1.1.1 openinvst.top
 1.1.1.1 openjmacs.m.taobao.com
 1.1.1.1 openrcv.baidu.com
+1.1.1.1 opensea-app.click
 1.1.1.1 openstorage.ad.cmvideo.cn
 1.1.1.1 operator-platnosci.click
 1.1.1.1 ophistler.pro
@@ -14698,7 +14713,6 @@
 1.1.1.1 stats.speedclicks.ero-advertising.com
 1.1.1.1 statstest.upti.pro
 1.1.1.1 status.twitter.com
-1.1.1.1 steam-api.kenrich.io
 1.1.1.1 steamcommunityio.top
 1.1.1.1 steeltour.pro
 1.1.1.1 steenbergen.web.ero-advertising.com
@@ -14760,6 +14774,7 @@
 1.1.1.1 supjav.com.jav-7mmtv.top
 1.1.1.1 supletcedintand.pro
 1.1.1.1 support.browser.heytapmobi.com
+1.1.1.1 support.locato.top
 1.1.1.1 support.streamjav.top
 1.1.1.1 support.twitter.com
 1.1.1.1 supportiveworking.pro
@@ -15367,6 +15382,7 @@
 1.1.1.1 track.uc.cn
 1.1.1.1 tracker-api.my.com
 1.1.1.1 tracker.baidu.com
+1.1.1.1 tracker.dcdn.baidu.com
 1.1.1.1 tracker.ero-advertising.com
 1.1.1.1 tracker.mca-analytics.com
 1.1.1.1 tracker.sns.iqiyi.com
@@ -15579,7 +15595,6 @@
 1.1.1.1 ua-00-car31-traffic-r-oa-1.net.daraz.com
 1.1.1.1 uac.advertising.com
 1.1.1.1 uads.shop
-1.1.1.1 uaery.top
 1.1.1.1 ualaki-analytics.vacations.united.com
 1.1.1.1 uannoxbyb.top
 1.1.1.1 uapi.ads.heytapmobi.com
@@ -15620,6 +15635,7 @@
 1.1.1.1 ug.snssdk.com
 1.1.1.1 uglypath.pro
 1.1.1.1 uhxjxgxgr.top
+1.1.1.1 uiaps.aslabd.top
 1.1.1.1 uiopso.top
 1.1.1.1 uisois.remon.top
 1.1.1.1 ujhg6yhgdc.click
@@ -17570,6 +17586,7 @@
 1.1.1.1 www.cobidor-invest.pro
 1.1.1.1 www.code-del-successo.click
 1.1.1.1 www.coin-ad.com
+1.1.1.1 www.coinbase1.pro
 1.1.1.1 www.coindark-invest.pro
 1.1.1.1 www.coinlife.click
 1.1.1.1 www.coinpkonew.click
@@ -18575,6 +18592,7 @@
 1.1.1.1 www.tunele-top.com
 1.1.1.1 www.tutajmaszinformacje.click
 1.1.1.1 www.twitter-info-22759960930.azureedge.net
+1.1.1.1 www.twitter-suport.com
 1.1.1.1 www.twoj-fart.click
 1.1.1.1 www.twoj-kupon.click
 1.1.1.1 www.twoj-pupil.click
