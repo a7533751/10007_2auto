@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-20 16:08:44 
+#更新时间: 2023-01-20 17:06:44 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20191
+#规则数量:20192
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -4777,6 +4777,7 @@
 94.140.14.33 analytics.spotta.nl
 94.140.14.33 analytics.springboardvideo.com
 94.140.14.33 analytics.sprint.com
+94.140.14.33 analytics.spun.com.br
 94.140.14.33 analytics.ss88.us
 94.140.14.33 analytics.stanby.com
 94.140.14.33 analytics.starmakerstudios.com
