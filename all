@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-25 12:42:06 
+#更新时间: 2023-01-25 13:05:12 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20689
+#规则数量:20697
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -6098,6 +6098,7 @@
 1.1.1.1 appmetrica.yandex.com
 1.1.1.1 appmetrica.yandex.net
 1.1.1.1 appmetrica.yandex.ru
+1.1.1.1 appmylogin.dynamic-dns.net
 1.1.1.1 apprefaculty.pro
 1.1.1.1 approp.pro
 1.1.1.1 apps.ad-x.co.uk
@@ -6232,7 +6233,6 @@
 1.1.1.1 audience.xml.adx1.com
 1.1.1.1 audioset.top
 1.1.1.1 audriasite.pro
-1.1.1.1 aurora-google.work
 1.1.1.1 australia-southeast1.ads.playground.xyz
 1.1.1.1 auth-google.site
 1.1.1.1 auth-partner.net.daraz.com
@@ -6331,6 +6331,7 @@
 1.1.1.1 b2-data.ads.heytapmobi.com
 1.1.1.1 b2invest-pl.top
 1.1.1.1 b4jy.top
+1.1.1.1 b4sdes5munute.okaneker51612.dns.army
 1.1.1.1 b6c4.top
 1.1.1.1 b88392.top
 1.1.1.1 babes34.pro
@@ -9896,6 +9897,7 @@
 1.1.1.1 i.bestcontentfood.top
 1.1.1.1 i.cat-happy.cn
 1.1.1.1 i.clkservice.youdao.com
+1.1.1.1 i.cluob.pro
 1.1.1.1 i.esprit-click.com
 1.1.1.1 i.exit-ad.com
 1.1.1.1 i.hao61.net
@@ -11605,6 +11607,7 @@
 1.1.1.1 meiyouguang.top
 1.1.1.1 mekiep.pro
 1.1.1.1 melissahome.top
+1.1.1.1 mellow-game.pro
 1.1.1.1 melredirnxt.top
 1.1.1.1 melt.ravism.top
 1.1.1.1 member.ad.org.vn
@@ -12692,6 +12695,7 @@
 1.1.1.1 openapi.guanjia.qq.com
 1.1.1.1 openbox.mobilem.360.cn
 1.1.1.1 openenterprises.click
+1.1.1.1 openinvest.click
 1.1.1.1 openinvestingstrat.click
 1.1.1.1 openinvst.top
 1.1.1.1 openjmacs.m.taobao.com
@@ -14218,7 +14222,6 @@
 1.1.1.1 res.mmstat.com
 1.1.1.1 resad.mediaid.click
 1.1.1.1 rescn.u3.ucweb.com
-1.1.1.1 research.google.com.mcas-df-gov.us
 1.1.1.1 reselling-corp.com
 1.1.1.1 reshaphiste.pro
 1.1.1.1 resignsubtlety.top
@@ -15691,7 +15694,6 @@
 1.1.1.1 stats.speedclicks.ero-advertising.com
 1.1.1.1 statstest.upti.pro
 1.1.1.1 status.twitter.com
-1.1.1.1 steam-api.kenrich.io
 1.1.1.1 steamcommunityio.top
 1.1.1.1 steeltour.pro
 1.1.1.1 steenbergen.web.ero-advertising.com
@@ -16590,6 +16592,7 @@
 1.1.1.1 twitter.agichi.com
 1.1.1.1 twitter.cm
 1.1.1.1 twitterhelp-ad.com
+1.1.1.1 twitterhelp-ads.com
 1.1.1.1 twkjlaasdx.top
 1.1.1.1 twogldi.top
 1.1.1.1 twoj-fart.click
@@ -16850,7 +16853,9 @@
 1.1.1.1 us-east-ads.aralego.com
 1.1.1.1 us-east4.ads.playground.xyz
 1.1.1.1 us-events.api.iheart.com
+1.1.1.1 us-ps516s.top
 1.1.1.1 us-ps8.top
+1.1.1.1 us-ps959.top
 1.1.1.1 us-uspo.top
 1.1.1.1 us-west-2.prod.pr.analytics.console.aws.a2z.com
 1.1.1.1 us-west-2.stinger-ad.bidr.io
@@ -18162,6 +18167,7 @@
 1.1.1.1 webtracking.fe.union-investment.de
 1.1.1.1 webxemsex.pro
 1.1.1.1 wechat.epickeys.com
+1.1.1.1 weeklyimplement.pro
 1.1.1.1 weevah2.top
 1.1.1.1 weijiakeji.top
 1.1.1.1 weipapa.top
@@ -19816,6 +19822,7 @@
 1.1.1.1 www.tunele-top.com
 1.1.1.1 www.tutajmaszinformacje.click
 1.1.1.1 www.twitter-info-22759960930.azureedge.net
+1.1.1.1 www.twitter-suport.com
 1.1.1.1 www.twoj-fart.click
 1.1.1.1 www.twoj-kupon.click
 1.1.1.1 www.twoj-pupil.click
@@ -19944,6 +19951,7 @@
 1.1.1.1 www.wwbanners2.ero-advertising.com
 1.1.1.1 www.wws.ero-advertising.com
 1.1.1.1 www.www-google.nl
+1.1.1.1 www.www-xiaomi.com
 1.1.1.1 www.wydarzenia-google.waw.pl
 1.1.1.1 www.x2tesla-event.pro
 1.1.1.1 www.x4hub-pro.com
