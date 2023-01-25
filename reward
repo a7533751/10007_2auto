@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-25 11:06:52 
+#更新时间: 2023-01-25 12:07:57 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20650
+#规则数量:20658
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1817,6 +1817,7 @@
 94.140.14.33 ads-c-1854119718.us-west-1.elb.amazonaws.com
 94.140.14.33 ads-cdn.fptplay.net
 94.140.14.33 ads-cdn.tenmax.io
+94.140.14.33 ads-check.com
 94.140.14.33 ads-chunks.prod.ihrhls.com
 94.140.14.33 ads-click.com
 94.140.14.33 ads-cloud.rovio.com
@@ -3829,6 +3830,7 @@
 94.140.14.33 advertising-api-eu.amazon.com
 94.140.14.33 advertising-cdn.com
 94.140.14.33 advertising-cdn.dpgmedia.cloud
+94.140.14.33 advertising-check.ru
 94.140.14.33 advertising-module.api.dpgmedia.cloud
 94.140.14.33 advertising.amazon.dev
 94.140.14.33 advertising.aol.com
@@ -4021,6 +4023,7 @@
 94.140.14.33 allegro-shipment.bmnbjk.click
 94.140.14.33 allegro-shipment.jbhgjkj.click
 94.140.14.33 allegro-shipment.nmkkj.click
+94.140.14.33 allegro-shipment.num70857.click
 94.140.14.33 allegro-shipment.ukjki.click
 94.140.14.33 allegrolokalnie-pl-3dsecure.id-safety.click
 94.140.14.33 allegrolokalnie-pl-safe.id-safety.click
@@ -6693,6 +6696,7 @@
 94.140.14.33 bk.da520.top
 94.140.14.33 bk.r-ad.ne.jp
 94.140.14.33 bkmcgi.play.cp81.ott.cibntv.net
+94.140.14.33 bkmctrl.webd.pro
 94.140.14.33 bksdkconfig.play.cp81.ott.cibntv.net
 94.140.14.33 bksoup.v.qq.com
 94.140.14.33 bla.gtimg.com
@@ -8677,6 +8681,7 @@
 94.140.14.33 elsbvoneib.top
 94.140.14.33 em.baidu.com
 94.140.14.33 em1g.top
+94.140.14.33 ema.pro.promocjacodziennie.pl
 94.140.14.33 email-click-test-for-branch.vts.com
 94.140.14.33 email.molly-9982.pro
 94.140.14.33 emailenlist.top
@@ -18584,6 +18589,7 @@
 94.140.14.33 www.allegro-shipment.bmnbjk.click
 94.140.14.33 www.allegro-shipment.jbhgjkj.click
 94.140.14.33 www.allegro-shipment.nmkkj.click
+94.140.14.33 www.allegro-shipment.num70857.click
 94.140.14.33 www.allegro-shipment.ukjki.click
 94.140.14.33 www.allfinagroup.pro
 94.140.14.33 www.allorbusiness.pro
@@ -18668,6 +18674,7 @@
 94.140.14.33 www.bitcoin-pro.live
 94.140.14.33 www.bitcoinup-pro.com
 94.140.14.33 www.bitcoinup-pro.financialmarketsworld.com
+94.140.14.33 www.bkmctrl.webd.pro
 94.140.14.33 www.blablacar.pro
 94.140.14.33 www.blackpig-corp.site
 94.140.14.33 www.blatfee.ero-advertising.com
@@ -18843,6 +18850,7 @@
 94.140.14.33 www.elon2011.pro
 94.140.14.33 www.eloninvesting.pro
 94.140.14.33 www.elonmsk.pro
+94.140.14.33 www.ema.pro.promocjacodziennie.pl
 94.140.14.33 www.email.molly-9982.pro
 94.140.14.33 www.eos-sis.click
 94.140.14.33 www.ergoklinvesting.pro
