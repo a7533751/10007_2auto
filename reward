@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-26 16:08:12 
+#更新时间: 2023-01-26 17:05:49 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20701
+#规则数量:20731
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -195,7 +195,6 @@
 94.140.14.33 360.2-vr.com
 94.140.14.33 360.anatic.net
 94.140.14.33 360.cn
-94.140.14.33 360.lcy2zzx.pw
 94.140.14.33 360.munion.mediav.com
 94.140.14.33 360.my
 94.140.14.33 360dianjing.agrantsem.com
@@ -544,6 +543,9 @@
 94.140.14.33 ad-dev.everymundo.net
 94.140.14.33 ad-dev.globalnoticias.pt
 94.140.14.33 ad-display.wikawika.xyz
+94.140.14.33 ad-dra.dt.dbankcloud.com
+94.140.14.33 ad-dre.dt.dbankcloud.com
+94.140.14.33 ad-drru.dt.dbankcloud.com
 94.140.14.33 ad-ebis.bookpass.auone.jp
 94.140.14.33 ad-ebis.mynavi-job20s.jp
 94.140.14.33 ad-emea.doubleclick.net
@@ -3880,6 +3882,7 @@
 94.140.14.33 adwoplok-investing.pro
 94.140.14.33 adwpaces.ero-advertising.com
 94.140.14.33 adx-api.otm-r.com
+94.140.14.33 adx-dra.op.hicloud.com
 94.140.14.33 adx-dre.op.hicloud.com
 94.140.14.33 adx-f.ads.heytapmobi.com
 94.140.14.33 adx-f.ads.heytapmobile.com
@@ -6215,6 +6218,7 @@
 94.140.14.33 athena-ads.wikia.com
 94.140.14.33 athena.api.kwalee.com
 94.140.14.33 ationconsulat.top
+94.140.14.33 atlas-emui-drcn.hicloud.com
 94.140.14.33 atmnjcinews.pro
 94.140.14.33 atom.adjust.com
 94.140.14.33 atomicwallet.pro
@@ -7752,6 +7756,7 @@
 94.140.14.33 config.adview.cn
 94.140.14.33 config.emb-api.com
 94.140.14.33 config.sdk.scopely.io
+94.140.14.33 configserver-dra.platform.hicloud.com
 94.140.14.33 confirmations.top
 94.140.14.33 confused-classic.pro
 94.140.14.33 congnb.analytics.saas-vn.network
@@ -8066,6 +8071,9 @@
 94.140.14.33 data2.ad-score.com
 94.140.14.33 data2.ero-advertising.com
 94.140.14.33 datacollector-dra.dt.hicloud.com
+94.140.14.33 datacollector-drcn.dt.hicloud.com
+94.140.14.33 datacollector-dre.dt.hicloud.com
+94.140.14.33 datacollector-drru.dt.hicloud.com
 94.140.14.33 datadoghq-browser-agent.com
 94.140.14.33 dataf.ads.oppomobile.com
 94.140.14.33 dataose.top
@@ -8315,6 +8323,7 @@
 94.140.14.33 dmp.doubleclick.net
 94.140.14.33 dmp.vlion.cn
 94.140.14.33 dmyusjtmiiia.top
+94.140.14.33 dnkeeper.hicloud.com
 94.140.14.33 dns-2-0698dcc4-2070-434b-b6f1-c0c2da48881d.net.daraz.com
 94.140.14.33 dns-analytics.com
 94.140.14.33 dns-clientinfo.cbsivideo.com
@@ -8611,6 +8620,7 @@
 94.140.14.33 e.tf.360.cn
 94.140.14.33 e.zg-api.com
 94.140.14.33 e0.extreme-dm.com
+94.140.14.33 e0pxjz8hh09v.top
 94.140.14.33 e1.extreme-dm.com
 94.140.14.33 e2.extreme-dm.com
 94.140.14.33 e346ab6c68.click
@@ -8836,11 +8846,14 @@
 94.140.14.33 events-collector-api.viacom.tech
 94.140.14.33 events-dra.op.hicloud.com
 94.140.14.33 events-jp.splash-screen.net
+94.140.14.33 events-sandbox.data.msn.com
 94.140.14.33 events.adjust.com
 94.140.14.33 events.api.boomtrain.com
 94.140.14.33 events.api.godaddy.com
 94.140.14.33 events.api.red.wemesh.ca
 94.140.14.33 events.api.vungle.com
+94.140.14.33 events.data.msn.cn
+94.140.14.33 events.data.msn.com
 94.140.14.33 events.ocdn.eu
 94.140.14.33 events.splash-screen.net
 94.140.14.33 events.twitter.com
@@ -8946,6 +8959,7 @@
 94.140.14.33 feed-image.baidu.com
 94.140.14.33 feed.baidu.com
 94.140.14.33 feedads.g.doubleclick.net
+94.140.14.33 feedback-dre.platform.hicloud.com
 94.140.14.33 feedback.uc.cn
 94.140.14.33 feeds.wise-click.com
 94.140.14.33 feelfereetoc.top
@@ -9286,6 +9300,7 @@
 94.140.14.33 geo.adobe.com
 94.140.14.33 geo.ads.audio.thisisdax.com
 94.140.14.33 geo.flurry.com
+94.140.14.33 geo.hicloud.com
 94.140.14.33 geo2.adobe.com
 94.140.14.33 geoced.smartadserver.com
 94.140.14.33 geofence.sys.miui.com
@@ -9507,6 +9522,7 @@
 94.140.14.33 grounded-card.pro
 94.140.14.33 growingfailure.pro
 94.140.14.33 groxton-invest.pro
+94.140.14.33 grs.hicloud.com
 94.140.14.33 gruchipevi.pro
 94.140.14.33 grumpy-fear.pro
 94.140.14.33 grushashuka.pro
@@ -9660,6 +9676,7 @@
 94.140.14.33 hdwbdlre.top
 94.140.14.33 hdxxx.top
 94.140.14.33 health-partner.net
+94.140.14.33 healthdata.hicloud.com
 94.140.14.33 hearbreakingfizz.top
 94.140.14.33 heavenly-test.pro
 94.140.14.33 hebgb.top
@@ -11278,9 +11295,12 @@
 94.140.14.33 loglabitrufly.top
 94.140.14.33 logserver.insight.ucweb.com
 94.140.14.33 logservice-dra.platform.hicloud.com
+94.140.14.33 logservice-dre.platform.hicloud.com
+94.140.14.33 logservice-drru.dt.hicloud.com
 94.140.14.33 logservice.hicloud.com
 94.140.14.33 logservice1.hicloud.com
 94.140.14.33 logssug.ucweb.com
+94.140.14.33 logtransform.hicloud.com
 94.140.14.33 logupdate.avlyun.sec.miui.com
 94.140.14.33 logview.uc.alimama.com
 94.140.14.33 lolishe.top
@@ -11656,9 +11676,11 @@
 94.140.14.33 metrica-yandex.com
 94.140.14.33 metrics-api.librato.com
 94.140.14.33 metrics-dra.dt.hicloud.com
+94.140.14.33 metrics-drcn.dt.hicloud.com
 94.140.14.33 metrics.api.drift.com
 94.140.14.33 metrics.api.yle.fi
 94.140.14.33 metrics.data.hicloud.com
+94.140.14.33 metrics.dt.hicloud.com
 94.140.14.33 metrics.pandora.com
 94.140.14.33 metrics.tbs.com
 94.140.14.33 metrics1.data.hicloud.com
@@ -11666,6 +11688,7 @@
 94.140.14.33 metrics3.data.hicloud.com
 94.140.14.33 metrics4.data.hicloud.com
 94.140.14.33 metrics5.data.hicloud.com
+94.140.14.33 metrics6.dt.hicloud.com
 94.140.14.33 metrika.yandex.ru
 94.140.14.33 metroverce.top
 94.140.14.33 meyd.7mmtv.top
@@ -12289,6 +12312,7 @@
 94.140.14.33 nota.click
 94.140.14.33 notablenephew.top
 94.140.14.33 notes-analytics-events.apple.com
+94.140.14.33 notes-analytics-events.news.apple-dns.net
 94.140.14.33 notice.iqiyi.com
 94.140.14.33 notification-browser.com
 94.140.14.33 novel.pangolin-sdk-toutiao.com
@@ -12728,6 +12752,7 @@
 94.140.14.33 opoew.top
 94.140.14.33 oppu778.top
 94.140.14.33 oprspl-pro.programs-pl.xyz
+94.140.14.33 opsdata.hicloud.com
 94.140.14.33 opskins.pro
 94.140.14.33 optimize.google.com
 94.140.14.33 optimus-ads.amap.com
@@ -12760,6 +12785,7 @@
 94.140.14.33 osloginvesting.pro
 94.140.14.33 oslufkyilrgd.top
 94.140.14.33 osniffer.pro
+94.140.14.33 osscach2023.hicloud.tw
 94.140.14.33 ot7.wagbridge.advertisement.tanx.com
 94.140.14.33 otf.msn.com
 94.140.14.33 oth.eve.mdt.qq.com
@@ -14837,6 +14863,7 @@
 94.140.14.33 sdkconfig.play.aiseet.atianqi.com
 94.140.14.33 sdkconfig.play.cp81.ott.cibntv.net
 94.140.14.33 sdkrec.tf.360.cn
+94.140.14.33 sdkserver-dra.op.hicloud.com
 94.140.14.33 sdkupgrade.insight.ucweb.com
 94.140.14.33 sdnc.top
 94.140.14.33 sdsp.ipinyou.com
@@ -14921,6 +14948,7 @@
 94.140.14.33 serviceclient.top
 94.140.14.33 servicer.traffic-media.co.uk
 94.140.14.33 services.runescape.com-wet.top
+94.140.14.33 servicesupport.hicloud.com
 94.140.14.33 serving-ad.tv24.vn
 94.140.14.33 serving.ad.org.vn
 94.140.14.33 serving.dfnb-ads.com
@@ -18154,6 +18182,7 @@
 94.140.14.33 weangcaptiewx.top
 94.140.14.33 weapfuh.originalriver-tone.top
 94.140.14.33 weather-analytics-events.apple.com
+94.140.14.33 weather-analytics-events.news.apple-dns.net
 94.140.14.33 web-ad.xyz
 94.140.14.33 web-analytics.date
 94.140.14.33 web-analytics.engagio.com
@@ -18896,6 +18925,7 @@
 94.140.14.33 www.es.ero-advertising.com
 94.140.14.33 www.essentialpiece.pro
 94.140.14.33 www.eu-click.eworldtrack.com
+94.140.14.33 www.excellent-closet.pro
 94.140.14.33 www.exit-ad.de
 94.140.14.33 www.expensivesurvey.click
 94.140.14.33 www.extreme-dm.com
@@ -19068,6 +19098,7 @@
 94.140.14.33 www.ikasgok-invest.pro
 94.140.14.33 www.imads.ero-advertising.com
 94.140.14.33 www.imeds.ero-advertising.com
+94.140.14.33 www.immediatesignal.pro
 94.140.14.33 www.in-post.id-dostawa32984.click
 94.140.14.33 www.in-pro.xyz
 94.140.14.33 www.inail.simcoin.webd.pro
@@ -19241,6 +19272,7 @@
 94.140.14.33 www.meds-pro.info
 94.140.14.33 www.meetyour-partner.life
 94.140.14.33 www.mega-ad.de
+94.140.14.33 www.mellow-game.pro
 94.140.14.33 www.mememakers.mobi
 94.140.14.33 www.memoryofcrypro.click
 94.140.14.33 www.merry-angels-top.ma.cx
@@ -19430,7 +19462,6 @@
 94.140.14.33 www.pandamovies.pro
 94.140.14.33 www.pandora-konkurs.com.pl
 94.140.14.33 www.pandora-konkurs.pl
-94.140.14.33 www.pangle-b.io
 94.140.14.33 www.pangle.io
 94.140.14.33 www.paridakinvest.pro
 94.140.14.33 www.partner-ads.com
@@ -19623,7 +19654,6 @@
 94.140.14.33 www.publicxxxvideo.pro
 94.140.14.33 www.pureprofit.click
 94.140.14.33 www.push-ad.com
-94.140.14.33 www.push-sdk.net
 94.140.14.33 www.pussyporn.mobi
 94.140.14.33 www.pussyvids.pro
 94.140.14.33 www.pustka-swiat.click
