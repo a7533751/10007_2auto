@@ -752,6 +752,11 @@ cat << "key" > ${file}
 #127.0.0.1 openapi.youdao.com
 #127.0.0.1 oimagea2.ydstatic.com
 
+#23.01.24
+#360安全网址
+127.0.0.1 p.s.360.cn
+127.0.0.1 qurl.f.360.cn
+127.0.0.1 sconf.f.360.cn
 
 key
 test -f "${file}" && echo -e "创建文件${file}成功！"
@@ -762,8 +767,6 @@ test -f "${file}" && echo -e "创建文件${file}成功！"
 function SETUPS_TEXT_reward1_FILE(){
 local file="`pwd`/configure/广告奖励.prop"
 cat << "key" > ${file}
-adsmind.gdtimg.com
-c.gdt.qq.com
 d.gdt.qq.com
 gw.365you.com
 i.gdt.qq.com
@@ -775,8 +778,6 @@ nc.gdt.qq.com
 pv.sohu.com
 q.i.gdt.qq.com
 rm.gdt.qq.com
-rpt.gdt.qq.com
-v.gdt.qq.com
 vr.gdt.qq.com
 x.adnet.qq.com
 pgdt.ugdtimg.com
@@ -810,6 +811,14 @@ log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao-b.com
+#QQ音乐免费时长广告奖励
+adstats.tencentmusic.com
+adsmind.gdtimg.com
+rpt.gdt.qq.com
+v.gdt.qq.com
+c.gdt.qq.com
+tmead.y.qq.com
+
 key
 test -f "${file}" && echo -e "创建文件${file}成功！"
 }
@@ -817,8 +826,6 @@ test -f "${file}" && echo -e "创建文件${file}成功！"
 function SETUPS_TEXT_reward2_FILE(){
 local file="`pwd`/configure/保留奖励.prop"
 cat << "key" > ${file}
-adsmind.gdtimg.com
-c.gdt.qq.com
 d.gdt.qq.com
 gw.365you.com
 i.gdt.qq.com
@@ -830,8 +837,6 @@ nc.gdt.qq.com
 pv.sohu.com
 q.i.gdt.qq.com
 rm.gdt.qq.com
-rpt.gdt.qq.com
-v.gdt.qq.com
 vr.gdt.qq.com
 x.adnet.qq.com
 pgdt.ugdtimg.com
@@ -865,6 +870,14 @@ log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao-b.com
+#QQ音乐免费时长广告奖励
+adstats.tencentmusic.com
+adsmind.gdtimg.com
+rpt.gdt.qq.com
+v.gdt.qq.com
+c.gdt.qq.com
+tmead.y.qq.com
+
 key
 test -f "${file}" && echo -e "创建文件${file}成功！"
 }
