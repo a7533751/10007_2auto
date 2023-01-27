@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-01-27 19:03:45 
+#更新时间: 2023-01-27 19:54:38 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20457
+#规则数量:20460
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -3725,7 +3725,6 @@
 1.1.1.1 adstaces.ero-advertising.com
 1.1.1.1 adstage-analytics.herokuapp.com
 1.1.1.1 adstatic.b-cdn.net
-1.1.1.1 adstats.tencentmusic.com
 1.1.1.1 adstax-cdn.adrtx.net
 1.1.1.1 adstextview.qq.com
 1.1.1.1 adstock.pro
@@ -13900,6 +13899,7 @@
 1.1.1.1 quanjing.cnzz.com
 1.1.1.1 quantum-advertising.com
 1.1.1.1 quebec.0s39geexezp4q9u0web-wwww2node-analytics.net.daraz.com
+1.1.1.1 qurl.f.360.cn
 1.1.1.1 qvaliti-invest.pro
 1.1.1.1 qwe0231141.bj.bcebos.com
 1.1.1.1 qwogldy.top
@@ -14517,6 +14517,7 @@
 1.1.1.1 scene.vip.xunlei.com
 1.1.1.1 scis.tbs.co.jp
 1.1.1.1 sclick.baidu.com
+1.1.1.1 sconf.f.360.cn
 1.1.1.1 scookies-adobe.cbc.be
 1.1.1.1 scookies-adobe.kbc-group.com
 1.1.1.1 scookies-adobe.kbc.be
@@ -20437,8 +20438,6 @@
 216.58.214.14 translate.googleapis.com
 216.58.220.142 translate.googleapis.com
 #广告奖励
-1.1.1.1 adsmind.gdtimg.com
-1.1.1.1 c.gdt.qq.com
 1.1.1.1 d.gdt.qq.com
 1.1.1.1 gw.365you.com
 1.1.1.1 i.gdt.qq.com
@@ -20450,8 +20449,6 @@
 1.1.1.1 pv.sohu.com
 1.1.1.1 q.i.gdt.qq.com
 1.1.1.1 rm.gdt.qq.com
-1.1.1.1 rpt.gdt.qq.com
-1.1.1.1 v.gdt.qq.com
 1.1.1.1 vr.gdt.qq.com
 1.1.1.1 x.adnet.qq.com
 1.1.1.1 pgdt.ugdtimg.com
@@ -20468,4 +20465,10 @@
 1.1.1.1 log-api.pangolin-sdk-toutiao.com
 1.1.1.1 api-access.pangolin-sdk-toutiao.com
 1.1.1.1 api-access.pangolin-sdk-toutiao-b.com
+1.1.1.1 adstats.tencentmusic.com
+1.1.1.1 adsmind.gdtimg.com
+1.1.1.1 rpt.gdt.qq.com
+1.1.1.1 v.gdt.qq.com
+1.1.1.1 c.gdt.qq.com
+1.1.1.1 tmead.y.qq.com
 #END
