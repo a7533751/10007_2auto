@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-02 08:34:19 
+#更新时间: 2023-02-02 10:13:51 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20666
+#规则数量:20678
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -196,7 +196,6 @@
 94.140.14.33 360.cn
 94.140.14.33 360.lcy2zzx.pw
 94.140.14.33 360.munion.mediav.com
-94.140.14.33 360.my
 94.140.14.33 360dianjing.agrantsem.com
 94.140.14.33 360fenxi.mediav.com
 94.140.14.33 365.guesswhatnews.com
@@ -298,6 +297,7 @@
 94.140.14.33 7ad.media
 94.140.14.33 7aga.top
 94.140.14.33 7mmtv.top
+94.140.14.33 7oc5b1i3v4iu.top
 94.140.14.33 7r29uu.vyk.admaster.com.cn
 94.140.14.33 7r3cna.viqiyi.admaster.com.cn
 94.140.14.33 7r76oa.vyk.admaster.com.cn
@@ -1140,6 +1140,7 @@
 94.140.14.33 ad.mrtnsvr.com
 94.140.14.33 ad.mtburn.com
 94.140.14.33 ad.munion.in
+94.140.14.33 ad.musica.com
 94.140.14.33 ad.musicmatch.com
 94.140.14.33 ad.muyang888.top
 94.140.14.33 ad.my.doubleclick.net
@@ -1203,6 +1204,7 @@
 94.140.14.33 ad.policeone.com
 94.140.14.33 ad.polskiprzemysl.com.pl
 94.140.14.33 ad.polymorphicads.jp
+94.140.14.33 ad.pop.com.br
 94.140.14.33 ad.pornfuzepremium.videobox.com
 94.140.14.33 ad.pornimg.xyz
 94.140.14.33 ad.pr.ameba.jp
@@ -2164,6 +2166,7 @@
 94.140.14.33 ads.bumq.com
 94.140.14.33 ads.burgasinfo.com
 94.140.14.33 ads.buscape.com.br
+94.140.14.33 ads.buscouniversidad.com
 94.140.14.33 ads.businessclick.com
 94.140.14.33 ads.businessstyle.vn
 94.140.14.33 ads.businessweek.com
@@ -2264,6 +2267,7 @@
 94.140.14.33 ads.da1.vip.prod.criteo.com
 94.140.14.33 ads.dada.it
 94.140.14.33 ads.dailycamera.com
+94.140.14.33 ads.daleclick.com.ar
 94.140.14.33 ads.data.pplive.com
 94.140.14.33 ads.databrainz.com
 94.140.14.33 ads.datinggold.com
@@ -2579,6 +2583,7 @@
 94.140.14.33 ads.inviziads.com
 94.140.14.33 ads.ioam.de
 94.140.14.33 ads.iosappsworld.com
+94.140.14.33 ads.iplan.com.ar
 94.140.14.33 ads.ipowerweb.com
 94.140.14.33 ads.ireel.com
 94.140.14.33 ads.ireport.com
@@ -2641,6 +2646,7 @@
 94.140.14.33 ads.laodongnghean.vn
 94.140.14.33 ads.lapalingo.com
 94.140.14.33 ads.larryaffiliates.com
+94.140.14.33 ads.latinmedios.com
 94.140.14.33 ads.layer-ad.org
 94.140.14.33 ads.leadboltads.net
 94.140.14.33 ads.lektion.se
@@ -2768,6 +2774,7 @@
 94.140.14.33 ads.nccwebs.com
 94.140.14.33 ads.ncm.com
 94.140.14.33 ads.ndtv1.com
+94.140.14.33 ads.needish.com
 94.140.14.33 ads.nerve.com
 94.140.14.33 ads.netavis.dk
 94.140.14.33 ads.netbul.com
@@ -3274,6 +3281,7 @@
 94.140.14.33 ads.vporn.com
 94.140.14.33 ads.vrvm.com
 94.140.14.33 ads.vserv.mobi
+94.140.14.33 ads.vtc.vn
 94.140.14.33 ads.w55c.net
 94.140.14.33 ads.wafour.com
 94.140.14.33 ads.waframedia1.com
@@ -3397,6 +3405,7 @@
 94.140.14.33 ads1.omdadget.com
 94.140.14.33 ads1.opensubtitles.org
 94.140.14.33 ads1.performancingads.com
+94.140.14.33 ads1.planisys.net
 94.140.14.33 ads1.realcities.com
 94.140.14.33 ads1.revenue.net
 94.140.14.33 ads1.rne.com
@@ -3477,6 +3486,7 @@
 94.140.14.33 ads2.osdn.com
 94.140.14.33 ads2.pbxware.ru
 94.140.14.33 ads2.pittsburghlive.com
+94.140.14.33 ads2.psiquiatria.com
 94.140.14.33 ads2.realcities.com
 94.140.14.33 ads2.revenue.net
 94.140.14.33 ads2.rne.com
@@ -5124,6 +5134,7 @@
 94.140.14.33 api-exponea.o2.cz
 94.140.14.33 api-exponea.o2.sk
 94.140.14.33 api-ext.mediav.com
+94.140.14.33 api-fangarma.utyug.media
 94.140.14.33 api-flow.flyme.cn
 94.140.14.33 api-flow.meizu.com
 94.140.14.33 api-game.meizu.com
@@ -7923,7 +7934,6 @@
 94.140.14.33 cyberprotection.pro
 94.140.14.33 cyhners.ero-advertising.com
 94.140.14.33 cylindrical-pollution.pro
-94.140.14.33 cym-files-download.s3.eu-west-1.amazonaws.com
 94.140.14.33 cyxynjlfarcb.top
 94.140.14.33 cz5f.top
 94.140.14.33 cz9k8b.top
@@ -10129,6 +10139,7 @@
 94.140.14.33 in.api.glance.inmobi.com
 94.140.14.33 inail.simcoin.webd.pro
 94.140.14.33 inbound-analytics.pixlee.co
+94.140.14.33 inc-prepare.click
 94.140.14.33 inc.ceramo.top
 94.140.14.33 inc2.igexin.com
 94.140.14.33 incmvagwicujui.top
@@ -10570,6 +10581,7 @@
 94.140.14.33 iu.snssdk.com.edgekey.net
 94.140.14.33 iu9g.top
 94.140.14.33 iv.doubleclick.net
+94.140.14.33 ive-banner.com
 94.140.14.33 ivemwjkbkjtb.top
 94.140.14.33 ivint-pl.io767224221.top
 94.140.14.33 ivint-pl.io788433321.top
