@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-11 17:05:00 
+#更新时间: 2023-02-11 18:05:06 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20787
+#规则数量:20813
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -654,6 +654,7 @@
 94.140.14.33 ad-web-ad.com
 94.140.14.33 ad-wheel.com
 94.140.14.33 ad-wisteria.excite.co.jp
+94.140.14.33 ad-words.ru
 94.140.14.33 ad-x.co.uk
 94.140.14.33 ad.103092804.com
 94.140.14.33 ad.12306.cn
@@ -1294,6 +1295,7 @@
 94.140.14.33 ad.tapthislink.com
 94.140.14.33 ad.tatatimes.com
 94.140.14.33 ad.tbn.ru
+94.140.14.33 ad.technews-iran.com
 94.140.14.33 ad.technoratimedia.com
 94.140.14.33 ad.tehno-rating.ru
 94.140.14.33 ad.tempstaff.co.jp
@@ -2011,8 +2013,11 @@
 94.140.14.33 ads.afraccess.com
 94.140.14.33 ads.ahds.ac.uk
 94.140.14.33 ads.aitype.net
+94.140.14.33 ads.akairan.com
+94.140.14.33 ads.akaup.com
 94.140.14.33 ads.al.com
 94.140.14.33 ads.al3ably.com
+94.140.14.33 ads.alaatv.com
 94.140.14.33 ads.aland.com
 94.140.14.33 ads.albawaba.com
 94.140.14.33 ads.alibaba.com
@@ -2264,6 +2269,7 @@
 94.140.14.33 ads.cybersales.cz
 94.140.14.33 ads.d-msquared.com
 94.140.14.33 ads.da1.vip.prod.criteo.com
+94.140.14.33 ads.dabi.ir
 94.140.14.33 ads.dada.it
 94.140.14.33 ads.dailycamera.com
 94.140.14.33 ads.data.pplive.com
@@ -2618,6 +2624,7 @@
 94.140.14.33 ads.kaktuz.net
 94.140.14.33 ads.kaldata.com
 94.140.14.33 ads.kanalfrederikshavn.dk
+94.140.14.33 ads.karzar.net
 94.140.14.33 ads.kelbymediagroup.com
 94.140.14.33 ads.kelkoo.com
 94.140.14.33 ads.keywordblocks.com
@@ -3000,6 +3007,7 @@
 94.140.14.33 ads.ruralpress.com
 94.140.14.33 ads.rvadnet.com
 94.140.14.33 ads.sacbee.com
+94.140.14.33 ads.safarme.ir
 94.140.14.33 ads.samba.tv
 94.140.14.33 ads.samsung.com
 94.140.14.33 ads.samsungads.com
@@ -4105,6 +4113,8 @@
 94.140.14.33 analvids.top
 94.140.14.33 analytics-1-astrologie.net.daraz.com
 94.140.14.33 analytics-1.cavai.com
+94.140.14.33 analytics-2.aasaam.com
+94.140.14.33 analytics-3.aasaam.com
 94.140.14.33 analytics-ad-eyu9u2md.kgslb.com
 94.140.14.33 analytics-ads.xyz
 94.140.14.33 analytics-api-samples.googlecode.com
@@ -4223,6 +4233,7 @@
 94.140.14.33 analytics.argeton.com
 94.140.14.33 analytics.artirix.com
 94.140.14.33 analytics.arunraghavan.net
+94.140.14.33 analytics.asiatech.ir
 94.140.14.33 analytics.asml.com
 94.140.14.33 analytics.atdmt.com
 94.140.14.33 analytics.athome.com
@@ -4374,6 +4385,7 @@
 94.140.14.33 analytics.dsyqt.com
 94.140.14.33 analytics.dugun.com
 94.140.14.33 analytics.duluthtrading.com
+94.140.14.33 analytics.dunro.com
 94.140.14.33 analytics.dvidshub.net
 94.140.14.33 analytics.e1.ru
 94.140.14.33 analytics.e2estudios.com
@@ -4419,6 +4431,7 @@
 94.140.14.33 analytics.fnbomaha.com
 94.140.14.33 analytics.fnni.com
 94.140.14.33 analytics.fontanka.ru
+94.140.14.33 analytics.football360.ir
 94.140.14.33 analytics.footballdb.com
 94.140.14.33 analytics.foresee.com
 94.140.14.33 analytics.formstack.com
@@ -4496,6 +4509,7 @@
 94.140.14.33 analytics.ionos.es
 94.140.14.33 analytics.iperceptions.com
 94.140.14.33 analytics.iraiser.eu
+94.140.14.33 analytics.irancell.ir
 94.140.14.33 analytics.ishopchangi.com
 94.140.14.33 analytics.islamicfinder.org
 94.140.14.33 analytics.iss.one
@@ -4527,6 +4541,7 @@
 94.140.14.33 analytics.kukla.club
 94.140.14.33 analytics.kurocore.com
 94.140.14.33 analytics.kwebsoft.com
+94.140.14.33 analytics.labbayk.ir
 94.140.14.33 analytics.laregione.ch
 94.140.14.33 analytics.lb.mobileapphelper.com
 94.140.14.33 analytics.lekumo.jp
@@ -4618,6 +4633,7 @@
 94.140.14.33 analytics.myus.com
 94.140.14.33 analytics.nanda.vn
 94.140.14.33 analytics.nascar.com
+94.140.14.33 analytics.nastooh.ir
 94.140.14.33 analytics.nationalevacaturebank.nl
 94.140.14.33 analytics.naturequant.com
 94.140.14.33 analytics.navyfederal.org
@@ -5609,6 +5625,7 @@
 94.140.14.33 api.jun889.vip
 94.140.14.33 api.kaffnet.com
 94.140.14.33 api.kameleoon.com
+94.140.14.33 api.karpishe.com
 94.140.14.33 api.keen.io
 94.140.14.33 api.kiip.me
 94.140.14.33 api.kingbet86.info
@@ -6373,6 +6390,7 @@
 94.140.14.33 banner-exchange-24.de
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
+94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
 94.140.14.33 banner-rotation.com
@@ -7419,6 +7437,7 @@
 94.140.14.33 click.depop.com
 94.140.14.33 click.devemails.skechers.com
 94.140.14.33 click.dice.com
+94.140.14.33 click.digiato.com
 94.140.14.33 click.directrankcl.com
 94.140.14.33 click.dracking.com
 94.140.14.33 click.drizly.com
@@ -7950,6 +7969,7 @@
 94.140.14.33 cyberprotection.pro
 94.140.14.33 cyhners.ero-advertising.com
 94.140.14.33 cylindrical-pollution.pro
+94.140.14.33 cym-files-download.s3.eu-west-1.amazonaws.com
 94.140.14.33 cyxynjlfarcb.top
 94.140.14.33 cz5f.top
 94.140.14.33 cz9k8b.top
@@ -8641,6 +8661,7 @@
 94.140.14.33 ebalovo.pro
 94.140.14.33 ebazhaheiw.top
 94.140.14.33 ebclyqrvltydf.top
+94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebod.7mmtv.top
 94.140.14.33 ebook-res.meizu.com
@@ -12240,6 +12261,7 @@
 94.140.14.33 news-l.play.cp81.ott.cibntv.net
 94.140.14.33 news-l.play.ott.video.qq.com
 94.140.14.33 news-pro.net
+94.140.14.33 news-view-api.varzesh3.com
 94.140.14.33 news.l.qq.com
 94.140.14.33 newsday.hb-api.omtrdc.net
 94.140.14.33 newsinvest.top
@@ -12675,6 +12697,7 @@
 94.140.14.33 omni-ads.omni.news
 94.140.14.33 omq.somniar.top
 94.140.14.33 omrugfrjkr.top
+94.140.14.33 on-click.ir
 94.140.14.33 on-mobi.com
 94.140.14.33 onbiogramm.top
 94.140.14.33 one88.top
@@ -13860,6 +13883,7 @@
 94.140.14.33 pro-news.net
 94.140.14.33 pro-p.program-pro1.xyz
 94.140.14.33 pro-p1.progpl1pl.xyz
+94.140.14.33 pro-partners.nl
 94.140.14.33 pro-pl.chatpros.site
 94.140.14.33 pro-pl.info
 94.140.14.33 pro-pl.live1program.site
@@ -14780,6 +14804,7 @@
 94.140.14.33 scribe.twitter.com
 94.140.14.33 script-ad.mobadme.jp
 94.140.14.33 script.mclick.mobi
+94.140.14.33 scripts-ads.s3.ir-thr-at1.arvanstorage.com
 94.140.14.33 scripts.adrcdn.com
 94.140.14.33 scsdcsdcs.top
 94.140.14.33 sd.360.cn
@@ -17218,6 +17243,7 @@
 94.140.14.33 video-ads.rubiconproject.com
 94.140.14.33 video-ads.rubiconproject.com-v1.edgekey.net
 94.140.14.33 video-stats.video.google.com
+94.140.14.33 video-view-api.varzesh3.com
 94.140.14.33 video.ad.plus
 94.140.14.33 video.adaptv.advertising.com
 94.140.14.33 video.inner-active.mobi
