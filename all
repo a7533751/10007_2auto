@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-11 16:08:32 
+#更新时间: 2023-02-11 17:05:00 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20788
+#规则数量:20787
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -18592,7 +18592,6 @@
 94.140.14.33 www.ad.gt
 94.140.14.33 www.ad.imptrid.site
 94.140.14.33 www.ad.leadboltads.net
-94.140.14.33 www.ad.net
 94.140.14.33 www.ad.org.vn
 94.140.14.33 www.ad.plus
 94.140.14.33 www.ad.sexcount.de
