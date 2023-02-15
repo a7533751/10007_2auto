@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-15 16:09:14 
+#更新时间: 2023-02-15 17:07:12 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:20910
+#规则数量:20905
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -28,6 +28,7 @@
 94.140.14.33 0-ns91.partner.net.daraz.com
 94.140.14.33 0-partner.net.daraz.com
 94.140.14.33 0-partner.net.daraz.com.00d70000000motieas.net.daraz.com
+94.140.14.33 0.0.0.0.0.0ads.morningstar.com
 94.140.14.33 0.r.msn.com
 94.140.14.33 0.twitter.com
 94.140.14.33 00-01-partner-alpha-f5.net.daraz.com
@@ -167,6 +168,7 @@
 94.140.14.33 2fspeedclicks.ero-advertising.com
 94.140.14.33 2fzv5g3onbx6.top
 94.140.14.33 2giga.download
+94.140.14.33 2hfby.top
 94.140.14.33 2k47467bsnsspgrcvry.dns.navy
 94.140.14.33 2k474bsnsspgrcvry67.dns.army
 94.140.14.33 2k474pgrcvrybsnss81.dns.army
@@ -486,7 +488,6 @@
 94.140.14.33 acoossn.top
 94.140.14.33 acoossu.top
 94.140.14.33 acoossz.top
-94.140.14.33 acoozzh.top
 94.140.14.33 acount-management-and-update-of-security.com
 94.140.14.33 acquisition.top
 94.140.14.33 acredii.coopbr.top
@@ -3887,7 +3888,6 @@
 94.140.14.33 afpmm.alicdn.com
 94.140.14.33 afpssp.alimama.com
 94.140.14.33 afptrack.alimama.com
-94.140.14.33 afqnhjsjmgcmhy.top
 94.140.14.33 africanporn.mobi
 94.140.14.33 afs.ero-advertising.com
 94.140.14.33 afs.googlesyndication.com
@@ -3912,13 +3912,11 @@
 94.140.14.33 ahial.top
 94.140.14.33 ahn.jiankang123.net
 94.140.14.33 ahov1.top
-94.140.14.33 ahyafxehqb.top
 94.140.14.33 ahyrgkfmdoxivec.top
 94.140.14.33 ai.m.taobao.com
 94.140.14.33 ai.taobao.com
 94.140.14.33 ai.voiceads.cn
 94.140.14.33 aiaigame.top
-94.140.14.33 aiaxagoconb.top
 94.140.14.33 aibanka.cnibk.com
 94.140.14.33 aibuy-api.aibuy.io
 94.140.14.33 aicleaner.shouji.360.cn
@@ -3931,14 +3929,12 @@
 94.140.14.33 aistmaterna.top
 94.140.14.33 aiwssaaw.top
 94.140.14.33 ajdadhdsdsasud6.top
-94.140.14.33 ajeebgbt.top
 94.140.14.33 ak-ads-ns.prisasd.com
 94.140.14.33 ak.ad.turn.com
 94.140.14.33 aka.ms-ads.co
 94.140.14.33 akamai.smartadserver.com
 94.140.14.33 akme-club.pro
 94.140.14.33 akn.analytics.autodesk.com
-94.140.14.33 akrenmnqgkfai.top
 94.140.14.33 aktualnosci-polskie-pl.click
 94.140.14.33 aktuell-update.thelivesportsnews.com
 94.140.14.33 akydbank-invest.pro
@@ -4036,7 +4032,6 @@
 94.140.14.33 amazon-ivtsdab.dns-report.com
 94.140.14.33 amazon-xvcbf.dynamic-dns.net
 94.140.14.33 ambitious-upstairs.pro
-94.140.14.33 amcqufwanofuv.top
 94.140.14.33 amdc.m.taobao.com
 94.140.14.33 amdcopen.m.taobao.com
 94.140.14.33 amendedcar.top
@@ -16325,7 +16320,6 @@
 94.140.14.33 thechleads.pro
 94.140.14.33 theddengrange.top
 94.140.14.33 thegroup.click
-94.140.14.33 then-game.click
 94.140.14.33 thichawheja.pro
 94.140.14.33 thind-gke-euw.prd.data.corp.unity3d.com
 94.140.14.33 thirgoad.top
@@ -16908,6 +16902,7 @@
 94.140.14.33 umengjmacs.m.taobao.com
 94.140.14.33 umid.orion.meizu.com
 94.140.14.33 umsplgkye.top
+94.140.14.33 un0.0.0cdn2.ad-center.com
 94.140.14.33 unconf.mobad.ijinshan.com
 94.140.14.33 under-click.ru
 94.140.14.33 undertakingdebris.top
