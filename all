@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-16 22:05:41 
+#更新时间: 2023-02-16 23:08:04 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21131
+#规则数量:21142
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -6134,6 +6134,7 @@
 1.1.1.1 artblog.top
 1.1.1.1 artemis-cdn.ocdn.eu
 1.1.1.1 artpress.top
+1.1.1.1 as-close.click
 1.1.1.1 as.ad-brix.com
 1.1.1.1 as.ad.impact-ad.jp
 1.1.1.1 as.ao.impact-ad.jp
@@ -6652,6 +6653,7 @@
 1.1.1.1 beta-api.cams.com
 1.1.1.1 beta-api.omappapi.com
 1.1.1.1 beta.ad-maven.com
+1.1.1.1 beta.ads.zalo.me
 1.1.1.1 betahit.click
 1.1.1.1 betskin.pro
 1.1.1.1 bettercontentservice.top
@@ -10783,6 +10785,7 @@
 1.1.1.1 j.exit-ad.com
 1.1.1.1 j.image-ad.jp
 1.1.1.1 j.mmtu.top
+1.1.1.1 j.xnyidc.top
 1.1.1.1 j04r.top
 1.1.1.1 j721s.top
 1.1.1.1 j9j6l.top
@@ -10925,6 +10928,9 @@
 1.1.1.1 jqmt.qq.com
 1.1.1.1 jqtqqnen.top
 1.1.1.1 jquery-uim.download
+1.1.1.1 jr.ads.zalo.me
+1.1.1.1 jr.ads.zaloapp.com
+1.1.1.1 jr.stg.ads.zalo.me
 1.1.1.1 jrakscuwbxrfiym.top
 1.1.1.1 jrj.adsame.com
 1.1.1.1 jrl.cosmish.top
@@ -11201,6 +11207,7 @@
 1.1.1.1 lajidewanyi.top
 1.1.1.1 lajimeiguo.top
 1.1.1.1 laktargatan.top
+1.1.1.1 lameding-invest.pro
 1.1.1.1 lanchaeanly.pro
 1.1.1.1 land-dpd.noirshop.top
 1.1.1.1 langkefaye.top
@@ -11524,6 +11531,7 @@
 1.1.1.1 m.ad.zhangyue.com
 1.1.1.1 m.adnxs.com
 1.1.1.1 m.ads.sohu.com
+1.1.1.1 m.ads.zalo.me
 1.1.1.1 m.alphabeticalsubordinate.top
 1.1.1.1 m.analytics.126.net
 1.1.1.1 m.anycast.adnxs.com
@@ -11784,6 +11792,7 @@
 1.1.1.1 mebed.dm-event.net
 1.1.1.1 med-api.admost.com
 1.1.1.1 medal.blog.csdn.net
+1.1.1.1 media-ads.zaloapp.com
 1.1.1.1 media-api.maio.jp
 1.1.1.1 media-elektro.top
 1.1.1.1 media.8kun.top
@@ -13989,6 +13998,7 @@
 1.1.1.1 prettyteenmovies.pro
 1.1.1.1 preview-api.installer.xiaomi.com
 1.1.1.1 preview.ad.daum.net
+1.1.1.1 preview.ads.zalo.me
 1.1.1.1 preview.adsame.com
 1.1.1.1 preview.msn.com
 1.1.1.1 preview.smartadserver.com
@@ -19558,6 +19568,7 @@
 1.1.1.1 www.kupujzglowa.click
 1.1.1.1 www.l.x4hub-pro.com
 1.1.1.1 www.lae.meetyearprofit.click
+1.1.1.1 www.lameding-invest.pro
 1.1.1.1 www.lanzoud.com
 1.1.1.1 www.lanzous.com
 1.1.1.1 www.lanzouz.com
