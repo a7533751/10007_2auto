@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-19 07:04:33 
+#更新时间: 2023-02-19 08:33:51 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21182
+#规则数量:21179
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1000,6 +1000,7 @@
 1.1.1.1 ad.ichiban-boshi.com
 1.1.1.1 ad.iconadserver.com
 1.1.1.1 ad.ie.doubleclick.net
+1.1.1.1 ad.ieurop.net
 1.1.1.1 ad.iinfo.cz
 1.1.1.1 ad.ikonke.com
 1.1.1.1 ad.il.doubleclick.net
@@ -6857,7 +6858,6 @@
 1.1.1.1 buttons.googlesyndication.com
 1.1.1.1 buxff-163.com
 1.1.1.1 buy-banner.com
-1.1.1.1 buy-time.click
 1.1.1.1 buy-traffic.org
 1.1.1.1 buy.inwestuj-w-polski-gaz.click
 1.1.1.1 buy.polskigazociag.top
@@ -8989,7 +8989,6 @@
 1.1.1.1 f4.uaevivi.top
 1.1.1.1 f5w.as12df.top
 1.1.1.1 fabyd.threadgay.top
-1.1.1.1 face-go.click
 1.1.1.1 facebook-ads.pl
 1.1.1.1 facebook.nametests.click
 1.1.1.1 facebook.webd.pro
@@ -11794,7 +11793,6 @@
 1.1.1.1 mdklc.top
 1.1.1.1 mdp-appconf-sg.heytapdl.com
 1.1.1.1 me.xdrig.com
-1.1.1.1 measure-ok.click
 1.1.1.1 mebed.dm-event.net
 1.1.1.1 med-api.admost.com
 1.1.1.1 medal.blog.csdn.net
@@ -16669,7 +16667,6 @@
 1.1.1.1 top-groupprogram.biz
 1.1.1.1 top-groupprogram.us
 1.1.1.1 top-hacks.net
-1.1.1.1 top-info.ir
 1.1.1.1 top-instagram.info
 1.1.1.1 top-invest-pl.site
 1.1.1.1 top-investments.info
