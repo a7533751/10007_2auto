@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-19 23:04:39 
+#更新时间: 2023-02-20 00:07:19 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21177
+#规则数量:21197
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -665,6 +665,7 @@
 94.140.14.33 ad-web-ad.com
 94.140.14.33 ad-wheel.com
 94.140.14.33 ad-wisteria.excite.co.jp
+94.140.14.33 ad-words.ru
 94.140.14.33 ad-x.co.uk
 94.140.14.33 ad.103092804.com
 94.140.14.33 ad.12306.cn
@@ -792,6 +793,7 @@
 94.140.14.33 ad.at.doubleclick.net
 94.140.14.33 ad.atdmt.com
 94.140.14.33 ad.atkamackerel.com
+94.140.14.33 ad.atlas.cz
 94.140.14.33 ad.atown.jp
 94.140.14.33 ad.au.doubleclick.net
 94.140.14.33 ad.aucfan.com
@@ -1003,6 +1005,7 @@
 94.140.14.33 ad.iconadserver.com
 94.140.14.33 ad.ie.doubleclick.net
 94.140.14.33 ad.ieurop.net
+94.140.14.33 ad.ifrance.com
 94.140.14.33 ad.iinfo.cz
 94.140.14.33 ad.ikonke.com
 94.140.14.33 ad.il.doubleclick.net
@@ -1371,6 +1374,7 @@
 94.140.14.33 ad.weixin.qq.com
 94.140.14.33 ad.weplayer.cc
 94.140.14.33 ad.where.com
+94.140.14.33 ad.widgetserver.com
 94.140.14.33 ad.wingads.com
 94.140.14.33 ad.winrar.com.cn
 94.140.14.33 ad.wmt.dk
@@ -1903,6 +1907,7 @@
 94.140.14.33 ads.128b.com
 94.140.14.33 ads.152media.com
 94.140.14.33 ads.1thegioi.vn
+94.140.14.33 ads.20minutos.es
 94.140.14.33 ads.211.ru
 94.140.14.33 ads.2conv.com
 94.140.14.33 ads.2mdnsys.com
@@ -2159,6 +2164,7 @@
 94.140.14.33 ads.boardtracker.com
 94.140.14.33 ads.boerding.com
 94.140.14.33 ads.boerse-express.com
+94.140.14.33 ads.bomis.com
 94.140.14.33 ads.bondage.com
 94.140.14.33 ads.bonnint.net
 94.140.14.33 ads.botbanhang.vn
@@ -2400,6 +2406,7 @@
 94.140.14.33 ads.fasttrack-ignite.com
 94.140.14.33 ads.faxo.com
 94.140.14.33 ads.fayettevillenc.com
+94.140.14.33 ads.fcnet.de
 94.140.14.33 ads.feedly.com
 94.140.14.33 ads.feelingtouch.com
 94.140.14.33 ads.femmefab.nl
@@ -2407,6 +2414,7 @@
 94.140.14.33 ads.fetnet.net
 94.140.14.33 ads.fiat-bg.org
 94.140.14.33 ads.fileindexer.com
+94.140.14.33 ads.filez.com
 94.140.14.33 ads.filmup.com
 94.140.14.33 ads.finance.yahoo.com
 94.140.14.33 ads.financialcontent.com
@@ -2479,6 +2487,7 @@
 94.140.14.33 ads.godt.no
 94.140.14.33 ads.gofuckyourself.com
 94.140.14.33 ads.gold
+94.140.14.33 ads.golem.de
 94.140.14.33 ads.golfweek.com
 94.140.14.33 ads.goodreads.com
 94.140.14.33 ads.google.com
@@ -2560,6 +2569,7 @@
 94.140.14.33 ads.ign.com
 94.140.14.33 ads.iknowthatgirl.com
 94.140.14.33 ads.illuminatednation.com
+94.140.14.33 ads.imagine-inc.com
 94.140.14.33 ads.imagistica.com
 94.140.14.33 ads.imarketservices.com
 94.140.14.33 ads.imbc.com
@@ -2603,6 +2613,7 @@
 94.140.14.33 ads.iwangmedia.com
 94.140.14.33 ads.iwannawatch.to
 94.140.14.33 ads.iwon.com
+94.140.14.33 ads.ixo.com
 94.140.14.33 ads.jeded.com
 94.140.14.33 ads.jerk2it.com
 94.140.14.33 ads.jetpackdigital.com
@@ -2780,6 +2791,7 @@
 94.140.14.33 ads.mysimon.com
 94.140.14.33 ads.mytelus.com
 94.140.14.33 ads.n-ws.org
+94.140.14.33 ads.narrowline.com
 94.140.14.33 ads.nationalreview.com
 94.140.14.33 ads.nationchannel.com
 94.140.14.33 ads.nccwebs.com
@@ -2790,6 +2802,7 @@
 94.140.14.33 ads.netavis.dk
 94.140.14.33 ads.netbul.com
 94.140.14.33 ads.netcommunities.com
+94.140.14.33 ads.netlog.com
 94.140.14.33 ads.netrition.com
 94.140.14.33 ads.netsol.com
 94.140.14.33 ads.networkhm.com
@@ -3152,6 +3165,7 @@
 94.140.14.33 ads.technoratimedia.com
 94.140.14.33 ads.techvibes.com
 94.140.14.33 ads.techweb.com
+94.140.14.33 ads.teenport.com
 94.140.14.33 ads.tele.net
 94.140.14.33 ads.telecinco.es
 94.140.14.33 ads.telkomsel.com
@@ -3274,6 +3288,7 @@
 94.140.14.33 ads.vidoomy.com
 94.140.14.33 ads.vidsense.com
 94.140.14.33 ads.vietbao.vn
+94.140.14.33 ads.viksaffiliates.com
 94.140.14.33 ads.vimg.net
 94.140.14.33 ads.vipbaihe.com
 94.140.14.33 ads.vipcams.com
@@ -3301,6 +3316,7 @@
 94.140.14.33 ads.walkiberia.com
 94.140.14.33 ads.waps.cn
 94.140.14.33 ads.wapx.cn
+94.140.14.33 ads.warnerbros.com
 94.140.14.33 ads.wasu.tv
 94.140.14.33 ads.watchmygf.net
 94.140.14.33 ads.waterbondage.com
@@ -6422,6 +6438,7 @@
 94.140.14.33 banner-exchange-24.de
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
+94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
 94.140.14.33 banner-rotation.com
@@ -6854,6 +6871,7 @@
 94.140.14.33 bugsee-api-prod.elasticbeanstalk.com
 94.140.14.33 bulisite.top
 94.140.14.33 bulletproof-analytics.com
+94.140.14.33 bullz-eye-ads.com
 94.140.14.33 buomdep.pro
 94.140.14.33 buoyant-force.pro
 94.140.14.33 buoyantmanufacturer.pro
@@ -8731,6 +8749,7 @@
 94.140.14.33 ebay-kleinanzeigen.check-pays-online.org
 94.140.14.33 ebazhaheiw.top
 94.140.14.33 ebclyqrvltydf.top
+94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebod.7mmtv.top
 94.140.14.33 ebook-res.meizu.com
@@ -14110,6 +14129,7 @@
 94.140.14.33 pro-news.net
 94.140.14.33 pro-p.program-pro1.xyz
 94.140.14.33 pro-p1.progpl1pl.xyz
+94.140.14.33 pro-partners.nl
 94.140.14.33 pro-pl.chatpros.site
 94.140.14.33 pro-pl.info
 94.140.14.33 pro-pl.live1program.site
