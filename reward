@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-19 23:04:40 
+#更新时间: 2023-02-20 00:07:39 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21177
+#规则数量:21197
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -665,6 +665,7 @@
 1.1.1.1 ad-web-ad.com
 1.1.1.1 ad-wheel.com
 1.1.1.1 ad-wisteria.excite.co.jp
+1.1.1.1 ad-words.ru
 1.1.1.1 ad-x.co.uk
 1.1.1.1 ad.103092804.com
 1.1.1.1 ad.12306.cn
@@ -792,6 +793,7 @@
 1.1.1.1 ad.at.doubleclick.net
 1.1.1.1 ad.atdmt.com
 1.1.1.1 ad.atkamackerel.com
+1.1.1.1 ad.atlas.cz
 1.1.1.1 ad.atown.jp
 1.1.1.1 ad.au.doubleclick.net
 1.1.1.1 ad.aucfan.com
@@ -1003,6 +1005,7 @@
 1.1.1.1 ad.iconadserver.com
 1.1.1.1 ad.ie.doubleclick.net
 1.1.1.1 ad.ieurop.net
+1.1.1.1 ad.ifrance.com
 1.1.1.1 ad.iinfo.cz
 1.1.1.1 ad.ikonke.com
 1.1.1.1 ad.il.doubleclick.net
@@ -1371,6 +1374,7 @@
 1.1.1.1 ad.weixin.qq.com
 1.1.1.1 ad.weplayer.cc
 1.1.1.1 ad.where.com
+1.1.1.1 ad.widgetserver.com
 1.1.1.1 ad.wingads.com
 1.1.1.1 ad.winrar.com.cn
 1.1.1.1 ad.wmt.dk
@@ -1903,6 +1907,7 @@
 1.1.1.1 ads.128b.com
 1.1.1.1 ads.152media.com
 1.1.1.1 ads.1thegioi.vn
+1.1.1.1 ads.20minutos.es
 1.1.1.1 ads.211.ru
 1.1.1.1 ads.2conv.com
 1.1.1.1 ads.2mdnsys.com
@@ -2159,6 +2164,7 @@
 1.1.1.1 ads.boardtracker.com
 1.1.1.1 ads.boerding.com
 1.1.1.1 ads.boerse-express.com
+1.1.1.1 ads.bomis.com
 1.1.1.1 ads.bondage.com
 1.1.1.1 ads.bonnint.net
 1.1.1.1 ads.botbanhang.vn
@@ -2400,6 +2406,7 @@
 1.1.1.1 ads.fasttrack-ignite.com
 1.1.1.1 ads.faxo.com
 1.1.1.1 ads.fayettevillenc.com
+1.1.1.1 ads.fcnet.de
 1.1.1.1 ads.feedly.com
 1.1.1.1 ads.feelingtouch.com
 1.1.1.1 ads.femmefab.nl
@@ -2407,6 +2414,7 @@
 1.1.1.1 ads.fetnet.net
 1.1.1.1 ads.fiat-bg.org
 1.1.1.1 ads.fileindexer.com
+1.1.1.1 ads.filez.com
 1.1.1.1 ads.filmup.com
 1.1.1.1 ads.finance.yahoo.com
 1.1.1.1 ads.financialcontent.com
@@ -2479,6 +2487,7 @@
 1.1.1.1 ads.godt.no
 1.1.1.1 ads.gofuckyourself.com
 1.1.1.1 ads.gold
+1.1.1.1 ads.golem.de
 1.1.1.1 ads.golfweek.com
 1.1.1.1 ads.goodreads.com
 1.1.1.1 ads.google.com
@@ -2560,6 +2569,7 @@
 1.1.1.1 ads.ign.com
 1.1.1.1 ads.iknowthatgirl.com
 1.1.1.1 ads.illuminatednation.com
+1.1.1.1 ads.imagine-inc.com
 1.1.1.1 ads.imagistica.com
 1.1.1.1 ads.imarketservices.com
 1.1.1.1 ads.imbc.com
@@ -2603,6 +2613,7 @@
 1.1.1.1 ads.iwangmedia.com
 1.1.1.1 ads.iwannawatch.to
 1.1.1.1 ads.iwon.com
+1.1.1.1 ads.ixo.com
 1.1.1.1 ads.jeded.com
 1.1.1.1 ads.jerk2it.com
 1.1.1.1 ads.jetpackdigital.com
@@ -2780,6 +2791,7 @@
 1.1.1.1 ads.mysimon.com
 1.1.1.1 ads.mytelus.com
 1.1.1.1 ads.n-ws.org
+1.1.1.1 ads.narrowline.com
 1.1.1.1 ads.nationalreview.com
 1.1.1.1 ads.nationchannel.com
 1.1.1.1 ads.nccwebs.com
@@ -2790,6 +2802,7 @@
 1.1.1.1 ads.netavis.dk
 1.1.1.1 ads.netbul.com
 1.1.1.1 ads.netcommunities.com
+1.1.1.1 ads.netlog.com
 1.1.1.1 ads.netrition.com
 1.1.1.1 ads.netsol.com
 1.1.1.1 ads.networkhm.com
@@ -3152,6 +3165,7 @@
 1.1.1.1 ads.technoratimedia.com
 1.1.1.1 ads.techvibes.com
 1.1.1.1 ads.techweb.com
+1.1.1.1 ads.teenport.com
 1.1.1.1 ads.tele.net
 1.1.1.1 ads.telecinco.es
 1.1.1.1 ads.telkomsel.com
@@ -3274,6 +3288,7 @@
 1.1.1.1 ads.vidoomy.com
 1.1.1.1 ads.vidsense.com
 1.1.1.1 ads.vietbao.vn
+1.1.1.1 ads.viksaffiliates.com
 1.1.1.1 ads.vimg.net
 1.1.1.1 ads.vipbaihe.com
 1.1.1.1 ads.vipcams.com
@@ -3301,6 +3316,7 @@
 1.1.1.1 ads.walkiberia.com
 1.1.1.1 ads.waps.cn
 1.1.1.1 ads.wapx.cn
+1.1.1.1 ads.warnerbros.com
 1.1.1.1 ads.wasu.tv
 1.1.1.1 ads.watchmygf.net
 1.1.1.1 ads.waterbondage.com
@@ -6422,6 +6438,7 @@
 1.1.1.1 banner-exchange-24.de
 1.1.1.1 banner-gateway.supersonicads.com
 1.1.1.1 banner-img.haber7.com
+1.1.1.1 banner-in.net
 1.1.1.1 banner-madai-com.s3.amazonaws.com
 1.1.1.1 banner-media.ru
 1.1.1.1 banner-rotation.com
@@ -6854,6 +6871,7 @@
 1.1.1.1 bugsee-api-prod.elasticbeanstalk.com
 1.1.1.1 bulisite.top
 1.1.1.1 bulletproof-analytics.com
+1.1.1.1 bullz-eye-ads.com
 1.1.1.1 buomdep.pro
 1.1.1.1 buoyant-force.pro
 1.1.1.1 buoyantmanufacturer.pro
@@ -8731,6 +8749,7 @@
 1.1.1.1 ebay-kleinanzeigen.check-pays-online.org
 1.1.1.1 ebazhaheiw.top
 1.1.1.1 ebclyqrvltydf.top
+1.1.1.1 eberalofe.pro
 1.1.1.1 ebmzp.top
 1.1.1.1 ebod.7mmtv.top
 1.1.1.1 ebook-res.meizu.com
@@ -14110,6 +14129,7 @@
 1.1.1.1 pro-news.net
 1.1.1.1 pro-p.program-pro1.xyz
 1.1.1.1 pro-p1.progpl1pl.xyz
+1.1.1.1 pro-partners.nl
 1.1.1.1 pro-pl.chatpros.site
 1.1.1.1 pro-pl.info
 1.1.1.1 pro-pl.live1program.site
