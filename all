@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-02-28 20:12:10 
+#更新时间: 2023-02-28 21:17:36 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21531
+#规则数量:21550
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -665,6 +665,7 @@
 94.140.14.33 ad-web-ad.com
 94.140.14.33 ad-wheel.com
 94.140.14.33 ad-wisteria.excite.co.jp
+94.140.14.33 ad-words.ru
 94.140.14.33 ad-x.co.uk
 94.140.14.33 ad.103092804.com
 94.140.14.33 ad.12306.cn
@@ -751,6 +752,7 @@
 94.140.14.33 ad.agilemedia.jp
 94.140.14.33 ad.agrantsem.com
 94.140.14.33 ad.aim-universe.co.jp
+94.140.14.33 ad.aliceadsl.fr
 94.140.14.33 ad.alimama.com
 94.140.14.33 ad.allboxing.ru
 94.140.14.33 ad.allstar.cz
@@ -1036,6 +1038,7 @@
 94.140.14.33 ad.jaumo.com
 94.140.14.33 ad.jetsoftware.com
 94.140.14.33 ad.jeune-independant.net
+94.140.14.33 ad.jia.360.cn
 94.140.14.33 ad.jibunde-esute.com
 94.140.14.33 ad.jiemian.com
 94.140.14.33 ad.jiguang.cn
@@ -1204,6 +1207,7 @@
 94.140.14.33 ad.phunuxuavanay.vn
 94.140.14.33 ad.pickple.net
 94.140.14.33 ad.pitta.ne.jp
+94.140.14.33 ad.pixfs.net
 94.140.14.33 ad.piximedia.com
 94.140.14.33 ad.pixnet.net
 94.140.14.33 ad.pl.doubleclick.net
@@ -1357,6 +1361,7 @@
 94.140.14.33 ad.vkoolzzz.net
 94.140.14.33 ad.vnnayngaytin.vn
 94.140.14.33 ad.vo-media.ru
+94.140.14.33 ad.vol.at
 94.140.14.33 ad.vrvm.com
 94.140.14.33 ad.walkgame.com
 94.140.14.33 ad.wamxb.info
@@ -1411,6 +1416,7 @@
 94.140.14.33 ad.ztylez.com
 94.140.14.33 ad.zuimeitianqi.com
 94.140.14.33 ad0.api.ero-advertising.com
+94.140.14.33 ad0.atlas.cz
 94.140.14.33 ad0.banners.ero-advertising.com
 94.140.14.33 ad0.bigmir.net
 94.140.14.33 ad0.data2.ero-advertising.com
@@ -1419,6 +1425,7 @@
 94.140.14.33 ad1.adfarm1.adition.com
 94.140.14.33 ad1.adtitan.net
 94.140.14.33 ad1.api.ero-advertising.com
+94.140.14.33 ad1.atlas.cz
 94.140.14.33 ad1.bannerbank.ru
 94.140.14.33 ad1.banners.ero-advertising.com
 94.140.14.33 ad1.bigmir.net
@@ -1576,6 +1583,7 @@
 94.140.14.33 ad7.thumbs.ero-advertising.com
 94.140.14.33 ad8.adfarm1.adition.com
 94.140.14.33 ad8.api.ero-advertising.com
+94.140.14.33 ad8.atlas.cz
 94.140.14.33 ad8.bannerbank.ru
 94.140.14.33 ad8.banners.ero-advertising.com
 94.140.14.33 ad8.cc
@@ -1675,6 +1683,7 @@
 94.140.14.33 adimg.163.com
 94.140.14.33 adimg.activeadv.net
 94.140.14.33 adimg.cbsi.com
+94.140.14.33 adimg.com
 94.140.14.33 adimg.com.com
 94.140.14.33 adimg.cqnews.net
 94.140.14.33 adimg.daumcdn.net
@@ -2433,6 +2442,7 @@
 94.140.14.33 ads.fox.com
 94.140.14.33 ads.foxnetworks.com
 94.140.14.33 ads.foxnews.com
+94.140.14.33 ads.fp.sandpiper.net
 94.140.14.33 ads.fpt.vn
 94.140.14.33 ads.fptplay.net.vn
 94.140.14.33 ads.fredericksburg.com
@@ -2601,6 +2611,7 @@
 94.140.14.33 ads.ioam.de
 94.140.14.33 ads.iosappsworld.com
 94.140.14.33 ads.ipowerweb.com
+94.140.14.33 ads.iqweb.de
 94.140.14.33 ads.ireel.com
 94.140.14.33 ads.ireport.com
 94.140.14.33 ads.isoftmarketing.com
@@ -2689,6 +2700,7 @@
 94.140.14.33 ads.livetvcdn.net
 94.140.14.33 ads.lmmob.com
 94.140.14.33 ads.localyokelmedia.com
+94.140.14.33 ads.localytics.com
 94.140.14.33 ads.lomadee.com
 94.140.14.33 ads.lordlucky.com
 94.140.14.33 ads.lovercash.com
@@ -2853,6 +2865,7 @@
 94.140.14.33 ads.online.ie
 94.140.14.33 ads.onlyfanspornvideo.com
 94.140.14.33 ads.ontarget.mobi
+94.140.14.33 ads.ontecnia.com
 94.140.14.33 ads.onvertise.com
 94.140.14.33 ads.ookla.com
 94.140.14.33 ads.open.pl
@@ -3028,6 +3041,7 @@
 94.140.14.33 ads.samba.tv
 94.140.14.33 ads.samsung.com
 94.140.14.33 ads.samsungads.com
+94.140.14.33 ads.sandino.net
 94.140.14.33 ads.saplacikardepo.xyz
 94.140.14.33 ads.sapo.pt
 94.140.14.33 ads.satyamonline.com
@@ -3391,6 +3405,7 @@
 94.140.14.33 ads.zalo.me
 94.140.14.33 ads.zaloapp.com
 94.140.14.33 ads.zamunda.se
+94.140.14.33 ads.zascdn.me
 94.140.14.33 ads.zdn.vn
 94.140.14.33 ads.zedo.com
 94.140.14.33 ads.zeusclicks.com
@@ -3967,7 +3982,6 @@
 94.140.14.33 afpssp.alimama.com
 94.140.14.33 afptrack.alimama.com
 94.140.14.33 africanporn.mobi
-94.140.14.33 africaswahili.top
 94.140.14.33 afs.ero-advertising.com
 94.140.14.33 afs.googlesyndication.com
 94.140.14.33 afshanthough.pro
@@ -5707,6 +5721,7 @@
 94.140.14.33 api.locuslabs.com
 94.140.14.33 api.logentries.com
 94.140.14.33 api.logpartition.com
+94.140.14.33 api.logrocket.com
 94.140.14.33 api.lookupmanager.com
 94.140.14.33 api.luckyorange.com
 94.140.14.33 api.luscious.net
@@ -6459,6 +6474,7 @@
 94.140.14.33 banner-exchange-24.de
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
+94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
 94.140.14.33 banner-rotation.com
@@ -8802,6 +8818,7 @@
 94.140.14.33 ebay-kleinanzeigen.check-pays-online.org
 94.140.14.33 ebazhaheiw.top
 94.140.14.33 ebclyqrvltydf.top
+94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebod.7mmtv.top
 94.140.14.33 ebook-res.meizu.com
@@ -11284,6 +11301,7 @@
 94.140.14.33 kvkggg.top
 94.140.14.33 kvkvjjtpovfqmx.top
 94.140.14.33 kvmvsyqklqwo.top
+94.140.14.33 kvtaaa.top
 94.140.14.33 kvtfff.top
 94.140.14.33 kvtggg.top
 94.140.14.33 kvtlll.top
@@ -14294,6 +14312,7 @@
 94.140.14.33 pro-news.net
 94.140.14.33 pro-p.program-pro1.xyz
 94.140.14.33 pro-p1.progpl1pl.xyz
+94.140.14.33 pro-partners.nl
 94.140.14.33 pro-pl.chatpros.site
 94.140.14.33 pro-pl.info
 94.140.14.33 pro-pl.live1program.site
@@ -17465,6 +17484,7 @@
 94.140.14.33 union.m.jd.com
 94.140.14.33 union.maccms.com
 94.140.14.33 union.sogou.com
+94.140.14.33 union.ucweb.com
 94.140.14.33 union.yihaodian.com
 94.140.14.33 unionimage.baidu.com
 94.140.14.33 unionsug.baidu.com
@@ -17799,7 +17819,6 @@
 94.140.14.33 vented.otrzymujac03298.top
 94.140.14.33 vepqb.premism.top
 94.140.14.33 vercel-analytics.com
-94.140.14.33 verdegis.top
 94.140.14.33 verification.jiguang.cn
 94.140.14.33 verified-download.com
 94.140.14.33 verifispagers-59864.click
