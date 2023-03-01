@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-01 16:09:44 
+#更新时间: 2023-03-01 17:07:38 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21600
+#规则数量:21603
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1416,6 +1416,7 @@
 1.1.1.1 ad.zodera.hu
 1.1.1.1 ad.ztylez.com
 1.1.1.1 ad.zuimeitianqi.com
+1.1.1.1 ad0.0pixel.staticworld.net
 1.1.1.1 ad0.api.ero-advertising.com
 1.1.1.1 ad0.banners.ero-advertising.com
 1.1.1.1 ad0.bigmir.net
@@ -2773,7 +2774,9 @@
 1.1.1.1 ads.motor-forum.nl
 1.1.1.1 ads.motorvarlden.se
 1.1.1.1 ads.motosiklet.net
+1.1.1.1 ads.mous.br
 1.1.1.1 ads.mouseplanet.com
+1.1.1.1 ads.mousord.com
 1.1.1.1 ads.movieweb.com
 1.1.1.1 ads.mp.mydas.mobi
 1.1.1.1 ads.mp3searchy.com
@@ -7254,7 +7257,9 @@
 1.1.1.1 cdn2.18yo.pro
 1.1.1.1 cdn2.ad-center.com
 1.1.1.1 cdn2.ads.datinggold.com
+1.1.1.1 cdn2.adsdk..0politicalopinionsurvey.com
 1.1.1.1 cdn2.adsdk.com
+1.1.1.1 cdn2.adsdk.uni-littoral.fr
 1.1.1.1 cdn2.freeteensex.pro
 1.1.1.1 cdn2.hdsexvideos.pro
 1.1.1.1 cdn2.inner-active.mobi
@@ -7766,7 +7771,6 @@
 1.1.1.1 clkservice2.dict.youdao.com
 1.1.1.1 clokden-invest.pro
 1.1.1.1 cloud-emea.analytics-egain.com
-1.1.1.1 cloud-government.click
 1.1.1.1 cloud-play.click
 1.1.1.1 cloud-run.click
 1.1.1.1 cloud-us.analytics-egain.com
@@ -8760,7 +8764,6 @@
 1.1.1.1 dx-cards-css.iqiyi.com
 1.1.1.1 dxp.baidu.com
 1.1.1.1 dyalkttqn.top
-1.1.1.1 dygybc08.top
 1.1.1.1 dyn.wps.cn
 1.1.1.1 dyna.agrantsem.com
 1.1.1.1 dynamic-ads.appier.net
@@ -9026,6 +9029,7 @@
 1.1.1.1 event-api.rdstation.com.br
 1.1.1.1 event-api.reverb.com
 1.1.1.1 event-collector.analytics.onedio.com
+1.1.1.1 event-eth.top
 1.1.1.1 event-staging.inner-active.mobi
 1.1.1.1 event.api.drift.com
 1.1.1.1 event.csdn.net
@@ -11820,7 +11824,6 @@
 1.1.1.1 makerspace.top
 1.1.1.1 malastasho.pro
 1.1.1.1 mallusex.pro
-1.1.1.1 malmur08.top
 1.1.1.1 mammut.vlion.cn
 1.1.1.1 mamy-czas.click
 1.1.1.1 mamynadzieje.click
@@ -12832,6 +12835,7 @@
 1.1.1.1 ojcovvxkcy.top
 1.1.1.1 okew.top
 1.1.1.1 okna-systems.pro
+1.1.1.1 okoc.top
 1.1.1.1 okod.top
 1.1.1.1 okoy.top
 1.1.1.1 okrkinqgivuvwv.top
@@ -13286,6 +13290,7 @@
 1.1.1.1 p2-ad-sign.byteimg.com
 1.1.1.1 p2-orange.byteorge.com
 1.1.1.1 p2.ad.gt
+1.1.1.1 p2.adkwai.com
 1.1.1.1 p2.l.qq.com
 1.1.1.1 p2.tribution.mobi
 1.1.1.1 p20-ad-sign.byteimg.com
@@ -21238,9 +21243,7 @@
 1.1.1.1 yejsarcdvwelflv.top
 1.1.1.1 yellow-record.pro
 1.1.1.1 yellowskin.top
-1.1.1.1 yepjbs01.top
 1.1.1.1 yepmvhdns.top
-1.1.1.1 yepugi08.top
 1.1.1.1 yerwa.agriry.top
 1.1.1.1 yeti-api.automatad.com
 1.1.1.1 yeusex.pro
