@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-02 16:09:13 
+#更新时间: 2023-03-02 17:07:27 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21613
+#规则数量:21568
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -141,6 +141,7 @@
 1.1.1.1 21.tx.gongxifacai21.top
 1.1.1.1 21naturals.top
 1.1.1.1 22ark.pro
+1.1.1.1 2345.cn
 1.1.1.1 2345.lookinews.com
 1.1.1.1 2345.shockynews.com
 1.1.1.1 238ym2umhodj.top
@@ -226,7 +227,6 @@
 1.1.1.1 3gpjizz.pro
 1.1.1.1 3gpking.pro
 1.1.1.1 3gpporn.mobi
-1.1.1.1 3gsoftfile.tcdn.qq.com
 1.1.1.1 3keu83ab6d00.top
 1.1.1.1 3kfepd031gjg.top
 1.1.1.1 3lt4z6sqsawg.top
@@ -1415,7 +1415,6 @@
 1.1.1.1 ad.zodera.hu
 1.1.1.1 ad.ztylez.com
 1.1.1.1 ad.zuimeitianqi.com
-1.1.1.1 ad0.0pixel.staticworld.net
 1.1.1.1 ad0.api.ero-advertising.com
 1.1.1.1 ad0.banners.ero-advertising.com
 1.1.1.1 ad0.bigmir.net
@@ -2697,6 +2696,7 @@
 1.1.1.1 ads.livetv623.me
 1.1.1.1 ads.livetv625.me
 1.1.1.1 ads.livetv626.me
+1.1.1.1 ads.livetv630.me
 1.1.1.1 ads.livetvcdn.net
 1.1.1.1 ads.lmmob.com
 1.1.1.1 ads.localhost.net.ar
@@ -2778,9 +2778,7 @@
 1.1.1.1 ads.motor-forum.nl
 1.1.1.1 ads.motorvarlden.se
 1.1.1.1 ads.motosiklet.net
-1.1.1.1 ads.mous.br
 1.1.1.1 ads.mouseplanet.com
-1.1.1.1 ads.mousord.com
 1.1.1.1 ads.movieweb.com
 1.1.1.1 ads.mp.mydas.mobi
 1.1.1.1 ads.mp3searchy.com
@@ -3038,7 +3036,6 @@
 1.1.1.1 ads.rubiconproject.com
 1.1.1.1 ads.rude.com
 1.1.1.1 ads.ruralpress.com
-1.1.1.1 ads.rvadnet.com
 1.1.1.1 ads.sacbee.com
 1.1.1.1 ads.safarme.ir
 1.1.1.1 ads.samba.tv
@@ -3751,7 +3748,6 @@
 1.1.1.1 adslvseed.qq.com
 1.1.1.1 adsmetadata.startappservice.com
 1.1.1.1 adsmind.apdcdn.tc.qq.com
-1.1.1.1 adsmind.tc.qq.com
 1.1.1.1 adsmind.ugdtimg.com
 1.1.1.1 adsmogo.mobi
 1.1.1.1 adsoftware.top
@@ -4006,7 +4002,6 @@
 1.1.1.1 agptq.totiful.top
 1.1.1.1 agrantsem.com
 1.1.1.1 ahentai.top
-1.1.1.1 ahf.bugly.qq.com
 1.1.1.1 ahial.top
 1.1.1.1 ahn.jiankang123.net
 1.1.1.1 ahov1.top
@@ -5249,7 +5244,6 @@
 1.1.1.1 api-hw.adxplay.com
 1.1.1.1 api-iam.intercom.io
 1.1.1.1 api-internal-dev.oncustomer.asia
-1.1.1.1 api-internal-us-east-1.mathtag.com
 1.1.1.1 api-internal.oncustomer.asia
 1.1.1.1 api-iot.focas.jp
 1.1.1.1 api-iqzone.advangelists.com
@@ -5316,7 +5310,6 @@
 1.1.1.1 api.11h5.com
 1.1.1.1 api.11zalo.com
 1.1.1.1 api.140proof.com
-1.1.1.1 api.22lianmeng.com
 1.1.1.1 api.22zalo.com
 1.1.1.1 api.247-inc.net
 1.1.1.1 api.338kbet.com
@@ -5427,7 +5420,6 @@
 1.1.1.1 api.ae88855.com
 1.1.1.1 api.ae88857.com
 1.1.1.1 api.ae88859.com
-1.1.1.1 api.afdback.ppsimg.com
 1.1.1.1 api.affinesystems.com
 1.1.1.1 api.affmates.com
 1.1.1.1 api.agoda.com.edgekey.net
@@ -5512,7 +5504,6 @@
 1.1.1.1 api.btloader.com
 1.1.1.1 api.bttrack.com
 1.1.1.1 api.bugfender.com
-1.1.1.1 api.bugly.qq.com
 1.1.1.1 api.bugsee.com
 1.1.1.1 api.bugsnag.com
 1.1.1.1 api.bunzlaucastle.com
@@ -5569,7 +5560,6 @@
 1.1.1.1 api.df.mob.com
 1.1.1.1 api.dianru.com
 1.1.1.1 api.digicert.com
-1.1.1.1 api.distribution.hulu.com
 1.1.1.1 api.districtm.ca
 1.1.1.1 api.domob.cn
 1.1.1.1 api.donglogs.com
@@ -5587,7 +5577,6 @@
 1.1.1.1 api.ea.eulerian.fr
 1.1.1.1 api.ea.eulerian.net
 1.1.1.1 api.eagllwin.com
-1.1.1.1 api.edgeoffer.microsoft.com
 1.1.1.1 api.elliehuxtable.com
 1.1.1.1 api.ematicsolutions.com
 1.1.1.1 api.engager.ecbsn.com
@@ -5711,7 +5700,6 @@
 1.1.1.1 api.kingbet86.info
 1.1.1.1 api.kochava.com
 1.1.1.1 api.ktplay.com
-1.1.1.1 api.kwaizt.com
 1.1.1.1 api.lab.amplitude.com
 1.1.1.1 api.lanistaads.com
 1.1.1.1 api.leadpages.io
@@ -5908,7 +5896,6 @@
 1.1.1.1 api.saypromo.net
 1.1.1.1 api.sbz.vn
 1.1.1.1 api.scorecardresearch.com
-1.1.1.1 api.screenshot.triplelift.com
 1.1.1.1 api.scrolller.com
 1.1.1.1 api.scwsf.com
 1.1.1.1 api.sdar.com
@@ -6482,7 +6469,6 @@
 1.1.1.1 banne2s.ero-advertising.com
 1.1.1.1 banne3s.ero-advertising.com
 1.1.1.1 banne4s.ero-advertising.com
-1.1.1.1 banner-cfnetwork.cdn.hinet.net
 1.1.1.1 banner-exchange-24.de
 1.1.1.1 banner-gateway.supersonicads.com
 1.1.1.1 banner-img.haber7.com
@@ -7088,7 +7074,6 @@
 1.1.1.1 care.help.360.cn
 1.1.1.1 careful-oven.pro
 1.1.1.1 cartoonnetworknewmedia.hb-api.omtrdc.net
-1.1.1.1 cas.bugly.qq.com
 1.1.1.1 case-help-4192141.top
 1.1.1.1 case-help-51983.top
 1.1.1.1 casespolygon.pro
@@ -7217,7 +7202,6 @@
 1.1.1.1 cdn.puata.info
 1.1.1.1 cdn.purpleads.io
 1.1.1.1 cdn.rdrads.com
-1.1.1.1 cdn.read.html5.qq.com
 1.1.1.1 cdn.refpa.top
 1.1.1.1 cdn.retailads.net
 1.1.1.1 cdn.richmediaads.com
@@ -7267,9 +7251,7 @@
 1.1.1.1 cdn2.18yo.pro
 1.1.1.1 cdn2.ad-center.com
 1.1.1.1 cdn2.ads.datinggold.com
-1.1.1.1 cdn2.adsdk..0politicalopinionsurvey.com
 1.1.1.1 cdn2.adsdk.com
-1.1.1.1 cdn2.adsdk.uni-littoral.fr
 1.1.1.1 cdn2.freeteensex.pro
 1.1.1.1 cdn2.hdsexvideos.pro
 1.1.1.1 cdn2.inner-active.mobi
@@ -8003,7 +7985,6 @@
 1.1.1.1 cqzakup.top
 1.1.1.1 crab.baidu.com
 1.1.1.1 crash.163.com
-1.1.1.1 crash.browser.qq.com
 1.1.1.1 crash2.zhihu.com
 1.1.1.1 crashes.mo.wps.cn
 1.1.1.1 crashlytics.163.com
@@ -8231,7 +8212,6 @@
 1.1.1.1 data2.ad-score.com
 1.1.1.1 data2.ero-advertising.com
 1.1.1.1 datacollector-dra.dt.hicloud.com
-1.1.1.1 datadoghq-browser-agent.com
 1.1.1.1 dataf.ads.oppomobile.com
 1.1.1.1 dataose.top
 1.1.1.1 datax.baidu.com
@@ -8537,7 +8517,6 @@
 1.1.1.1 doomtrench.top
 1.1.1.1 dooyoouwoorkherre-354128.click
 1.1.1.1 doppfjlg.top
-1.1.1.1 dorangesource.alicdn.com
 1.1.1.1 dostawa-olx-pl.click
 1.1.1.1 dostawa-olx.pro
 1.1.1.1 dostawajaros.top
@@ -9874,7 +9853,6 @@
 1.1.1.1 h.msn.com
 1.1.1.1 h.trace.qq.com
 1.1.1.1 h1.msn.com
-1.1.1.1 h2.msn.com
 1.1.1.1 h2n3c.top
 1.1.1.1 h5.analytics.126.net
 1.1.1.1 h5.fxzqpgl.top
@@ -9908,7 +9886,6 @@
 1.1.1.1 handuwangluo.top
 1.1.1.1 handuwl.top
 1.1.1.1 handy-ads.de
-1.1.1.1 handycam.alicdn.com
 1.1.1.1 hangngon.pro
 1.1.1.1 hansaisai.top
 1.1.1.1 hao.360.cn
@@ -10191,8 +10168,6 @@
 1.1.1.1 hunttvf.click
 1.1.1.1 huntvsqr.click
 1.1.1.1 huodong.mobilem.360.cn
-1.1.1.1 hupu-nba.com
-1.1.1.1 huskieaccess.bugly.qq.com
 1.1.1.1 huskydesigner.pro
 1.1.1.1 hvddf44.top
 1.1.1.1 hvmxvowx.top
@@ -10375,7 +10350,6 @@
 1.1.1.1 img.ads.mobilefuse.net
 1.1.1.1 img.ads.taptapnetworks.com
 1.1.1.1 img.ads.tvb.com
-1.1.1.1 img.adview.com
 1.1.1.1 img.ak.impact-ad.jp
 1.1.1.1 img.alimama.cn
 1.1.1.1 img.amp.ad.sina.com.cn
@@ -10497,7 +10471,6 @@
 1.1.1.1 info.ad.daum.net
 1.1.1.1 info.ads.roku.com
 1.1.1.1 info.commercial.keurig.com
-1.1.1.1 info.gdt.qq.com
 1.1.1.1 info.insideout-corp.jp
 1.1.1.1 info.nex-pro.com
 1.1.1.1 info.twitter.com
@@ -10513,7 +10486,6 @@
 1.1.1.1 information-update.dynamic-dns.net
 1.1.1.1 informer.yandex.ru
 1.1.1.1 infotesla.pro
-1.1.1.1 infotrack.gdt.qq.com
 1.1.1.1 ini.sm-nat.com
 1.1.1.1 ini.update.360safe.com
 1.1.1.1 ininmacerad.pro
@@ -11111,7 +11083,6 @@
 1.1.1.1 js.ad-stir.com
 1.1.1.1 js.ad7.com
 1.1.1.1 js.adnxs.com
-1.1.1.1 js.brstke.top
 1.1.1.1 js.download-apk-i.com
 1.1.1.1 js.ero-advertising.com
 1.1.1.1 js.hs-analytics.net
@@ -11203,7 +11174,6 @@
 1.1.1.1 katerigordas.pro
 1.1.1.1 kazigua.top
 1.1.1.1 kazmun.top
-1.1.1.1 kb-render.alicdn.com
 1.1.1.1 kb.display.ad.daum.net
 1.1.1.1 kbjmhlmfriwv.top
 1.1.1.1 kcdn.cf
@@ -11495,7 +11465,6 @@
 1.1.1.1 lhj.sitify.top
 1.1.1.1 lhnqxgvjqtrftx.top
 1.1.1.1 lianliankanms.top
-1.1.1.1 lianmeng.com
 1.1.1.1 lianmeng.xgxhy.com
 1.1.1.1 lianmengapi.snssdk.com
 1.1.1.1 lib.adnxs.com
@@ -11728,7 +11697,6 @@
 1.1.1.1 m.beacon.sina.com.cn
 1.1.1.1 m.blindopaque.top
 1.1.1.1 m.bndbddt.top
-1.1.1.1 m.bugly.qq.com
 1.1.1.1 m.bushthrifty.top
 1.1.1.1 m.clkservice.youdao.com
 1.1.1.1 m.curlastray.top
@@ -11814,7 +11782,6 @@
 1.1.1.1 ma80-r.analytics.edgekey.net
 1.1.1.1 maaijun.top
 1.1.1.1 mabelorinvest.pro
-1.1.1.1 mads-eu.amazon.com
 1.1.1.1 mads.advertising.com
 1.1.1.1 mads.amazon-adsystem.com
 1.1.1.1 mads.bz
@@ -12092,7 +12059,6 @@
 1.1.1.1 mi.miliboo.it
 1.1.1.1 mi.miliboo.lu
 1.1.1.1 mi.speee.jp
-1.1.1.1 mi.tvzhe.com
 1.1.1.1 miami.ero-advertising.com
 1.1.1.1 miao.baidu.com
 1.1.1.1 miaozhen.atm.youku.com
@@ -12692,6 +12658,7 @@
 1.1.1.1 nine.tendion.top
 1.1.1.1 ningbozixun.top
 1.1.1.1 nissymoltuujaj.top
+1.1.1.1 nj.t.bcsp2p.baidu.com
 1.1.1.1 njamlya.top
 1.1.1.1 njqhfvmtsveqcl.top
 1.1.1.1 nkeo.top
@@ -12859,6 +12826,7 @@
 1.1.1.1 oix-pln.plgektors.top
 1.1.1.1 oix-polsca.asoromeilqop555.click
 1.1.1.1 ojcovvxkcy.top
+1.1.1.1 okag.top
 1.1.1.1 okew.top
 1.1.1.1 okna-systems.pro
 1.1.1.1 okoc.top
@@ -13179,7 +13147,6 @@
 1.1.1.1 open.wynk.in
 1.1.1.1 openapi-news.meizu.com
 1.1.1.1 openapi.cymera.com
-1.1.1.1 openapi.guanjia.qq.com
 1.1.1.1 openbox.mobilem.360.cn
 1.1.1.1 openenterprises.click
 1.1.1.1 openinvest.click
@@ -14490,7 +14457,6 @@
 1.1.1.1 przelewy24.click
 1.1.1.1 przesylki.top
 1.1.1.1 przykreinformacje.click
-1.1.1.1 ps.browser.qq.com
 1.1.1.1 psazamajy.pro
 1.1.1.1 psekesheva.pro
 1.1.1.1 psiwaphado.pro
@@ -14503,7 +14469,6 @@
 1.1.1.1 ptbus.com
 1.1.1.1 ptecedagly.pro
 1.1.1.1 ptitiwiti.pro
-1.1.1.1 ptlogin2.bugly.qq.com
 1.1.1.1 ptokp.pro
 1.1.1.1 ptstnews.pro
 1.1.1.1 ptufubimu.pro
@@ -14639,7 +14604,6 @@
 1.1.1.1 qpiodasttj.top
 1.1.1.1 qpuqpwwdaefcsnd.top
 1.1.1.1 qpvptpywvlxipeu.top
-1.1.1.1 qq.85180405062.top
 1.1.1.1 qq.vvx.highter.top
 1.1.1.1 qq2ux.top
 1.1.1.1 qr.cp31.ott.cibntv.net
@@ -14873,7 +14837,6 @@
 1.1.1.1 resnikscdn.pro
 1.1.1.1 resolver.gslb.mi-idc.com
 1.1.1.1 responsiveindulgence.top
-1.1.1.1 rest.content.ad
 1.1.1.1 restights.pro
 1.1.1.1 retargeting.inner-active.mobi
 1.1.1.1 retcode.taobao.com
@@ -15027,7 +14990,6 @@
 1.1.1.1 s.cpro.baidu.com
 1.1.1.1 s.ero-advertising.com
 1.1.1.1 s.f1.impact-ad.jp
-1.1.1.1 s.gdt.qq.com
 1.1.1.1 s.hongshi33.top
 1.1.1.1 s.ipinyou.com
 1.1.1.1 s.jtdxz.top
@@ -16782,7 +16744,6 @@
 1.1.1.1 tarocardsfornoobs.top
 1.1.1.1 tastepilgrimage.top
 1.1.1.1 tattle.api.osano.com
-1.1.1.1 tb.pagetest.top
 1.1.1.1 tbazhaheii.top
 1.1.1.1 tbm.snssdk.com
 1.1.1.1 tbmflnbayhnh.top
@@ -17412,7 +17373,6 @@
 1.1.1.1 twctsg.hb-api.omtrdc.net
 1.1.1.1 twitter-badges.s3.amazonaws.com
 1.1.1.1 twitter-info-22759960930.azureedge.net
-1.1.1.1 twitter-invest.com
 1.1.1.1 twitter-invest.org
 1.1.1.1 twitter-us.com
 1.1.1.1 twitter.cm
@@ -17526,7 +17486,6 @@
 1.1.1.1 ultimatetube.pro
 1.1.1.1 umamistreet.analytics.qlook.net
 1.1.1.1 umbs.ero-advertising.com
-1.1.1.1 umc.danuoyi.alicdn.com
 1.1.1.1 umeng.co
 1.1.1.1 umeng.com
 1.1.1.1 umeng.com.gds.alibabadns.com
@@ -19439,11 +19398,9 @@
 1.1.1.1 www.adultrevenueservice.com
 1.1.1.1 www.advertise.com
 1.1.1.1 www.advertisement-nhatanh.com
-1.1.1.1 www.advertising.com
 1.1.1.1 www.advertising.entensity.net
 1.1.1.1 www.advertising.justusboys.net
 1.1.1.1 www.adview.cn
-1.1.1.1 www.adview.com
 1.1.1.1 www.advocateseducationalservices.com
 1.1.1.1 www.adw.ero-advertising.com
 1.1.1.1 www.adwo.com
@@ -19488,7 +19445,6 @@
 1.1.1.1 www.analytics.icons8.com
 1.1.1.1 www.analytics.picsart.com
 1.1.1.1 www.analytics.unity3d.com
-1.1.1.1 www.analytics.yahoo.com
 1.1.1.1 www.angrovinvest.pro
 1.1.1.1 www.animeporn.pro
 1.1.1.1 www.animesex.pro
@@ -21064,7 +21020,6 @@
 1.1.1.1 xinhuan.mobi
 1.1.1.1 xinhuanet.adsame.com
 1.1.1.1 xinzhouzixun.top
-1.1.1.1 xj.gdt.qq.com
 1.1.1.1 xjiasbdnjaiupdt.top
 1.1.1.1 xjlmlpengqxknvi.top
 1.1.1.1 xk3b.top
