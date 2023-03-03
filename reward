@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-03 16:08:52 
+#更新时间: 2023-03-03 17:07:25 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21596
+#规则数量:21599
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -2773,6 +2773,7 @@
 94.140.14.33 ads.motor-forum.nl
 94.140.14.33 ads.motorvarlden.se
 94.140.14.33 ads.motosiklet.net
+94.140.14.33 ads.mouscom
 94.140.14.33 ads.mouseplanet.com
 94.140.14.33 ads.movieweb.com
 94.140.14.33 ads.mp.mydas.mobi
@@ -17467,6 +17468,8 @@
 94.140.14.33 ucdn.website
 94.140.14.33 ucstat.baidu.com
 94.140.14.33 ucus.ucweb.com
+94.140.14.33 uczzd.com
+94.140.14.33 uczzd.net
 94.140.14.33 udash.umengcloud.com
 94.140.14.33 udc.msn.com
 94.140.14.33 udohyn.top
