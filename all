@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-04 07:05:47 
+#更新时间: 2023-03-04 08:33:06 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21627
+#规则数量:21630
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -2164,6 +2164,7 @@
 1.1.1.1 ads.bluelithium.com
 1.1.1.1 ads.bluemongoose.com
 1.1.1.1 ads.bluemountain.com
+1.1.1.1 ads.bluesq.com
 1.1.1.1 ads.bninews.com
 1.1.1.1 ads.bnmedia.com
 1.1.1.1 ads.boardtracker.com
@@ -6931,6 +6932,7 @@
 1.1.1.1 bv-analytics-js-qa.s3.amazonaws.com
 1.1.1.1 bvc.sufify.top
 1.1.1.1 bvdffg.top
+1.1.1.1 bw-api.xyz
 1.1.1.1 bwogldv.top
 1.1.1.1 bwp.download.com
 1.1.1.1 bx9000.top
@@ -17018,6 +17020,7 @@
 1.1.1.1 top-daily-profit.com
 1.1.1.1 top-eleven-hack.com
 1.1.1.1 top-frag.com
+1.1.1.1 top-free-casino-games.com
 1.1.1.1 top-fwz1.mail.ru
 1.1.1.1 top-gan.ru
 1.1.1.1 top-groupprogram.biz
