@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-06 03:03:02 
+#更新时间: 2023-03-06 04:06:32 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21626
+#规则数量:21633
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -766,6 +766,7 @@
 94.140.14.33 ad.aim-universe.co.jp
 94.140.14.33 ad.alimama.com
 94.140.14.33 ad.allboxing.ru
+94.140.14.33 ad.alldatasheet.com
 94.140.14.33 ad.allstar.cz
 94.140.14.33 ad.allyes.cn
 94.140.14.33 ad.aloodo.com
@@ -1743,6 +1744,7 @@
 94.140.14.33 adn1.adclerks.com
 94.140.14.33 adn2.adclerks.com
 94.140.14.33 adnetwork.ad.kakaocorp.com
+94.140.14.33 adnetwork.fullservices.com.ar
 94.140.14.33 adnewnc.app.autohome.com.cn
 94.140.14.33 adnitro.pro
 94.140.14.33 adnxs-simple.com
@@ -1886,6 +1888,7 @@
 94.140.14.33 ads-pebblemedia.adhese.com
 94.140.14.33 ads-pixiv.net
 94.140.14.33 ads-privacy-api.prd.mz.internal.unity3d.com
+94.140.14.33 ads-rdb.sol.no
 94.140.14.33 ads-resources-legacy.waze.com
 94.140.14.33 ads-resources.waze.com
 94.140.14.33 ads-rm.looksmart.com
@@ -2197,6 +2200,7 @@
 94.140.14.33 ads.bullionyield.com
 94.140.14.33 ads.bumq.com
 94.140.14.33 ads.burgasinfo.com
+94.140.14.33 ads.buscape.com.ar
 94.140.14.33 ads.buscape.com.br
 94.140.14.33 ads.businessclick.com
 94.140.14.33 ads.businessstyle.vn
@@ -2443,6 +2447,7 @@
 94.140.14.33 ads.fooyoh.com
 94.140.14.33 ads.forbes.net
 94.140.14.33 ads.formit.cz
+94.140.14.33 ads.forodecostarica.com
 94.140.14.33 ads.fortunecity.com
 94.140.14.33 ads.fotoable.com
 94.140.14.33 ads.fotosidan.se
@@ -2486,6 +2491,7 @@
 94.140.14.33 ads.germanfriendfinder.com
 94.140.14.33 ads.getlucky.com
 94.140.14.33 ads.ghettotube.com
+94.140.14.33 ads.gigabyte.ru
 94.140.14.33 ads.gionee.com
 94.140.14.33 ads.givemegay.com
 94.140.14.33 ads.glasove.com
@@ -2616,6 +2622,7 @@
 94.140.14.33 ads.inviziads.com
 94.140.14.33 ads.ioam.de
 94.140.14.33 ads.iosappsworld.com
+94.140.14.33 ads.iplan.com.ar
 94.140.14.33 ads.ipowerweb.com
 94.140.14.33 ads.ireel.com
 94.140.14.33 ads.ireport.com
@@ -2679,6 +2686,7 @@
 94.140.14.33 ads.laodongnghean.vn
 94.140.14.33 ads.lapalingo.com
 94.140.14.33 ads.larryaffiliates.com
+94.140.14.33 ads.latinmedios.com
 94.140.14.33 ads.layer-ad.org
 94.140.14.33 ads.leadboltads.net
 94.140.14.33 ads.lektion.se
@@ -2816,6 +2824,7 @@
 94.140.14.33 ads.netcommunities.com
 94.140.14.33 ads.netrition.com
 94.140.14.33 ads.netsol.com
+94.140.14.33 ads.nettavisen.no
 94.140.14.33 ads.networkhm.com
 94.140.14.33 ads.networksolutions.com
 94.140.14.33 ads.networkwcs.net
@@ -2955,6 +2964,7 @@
 94.140.14.33 ads.pornharlot.com
 94.140.14.33 ads.pornharlot.net
 94.140.14.33 ads.pornutopia.org
+94.140.14.33 ads.portalmundos.com
 94.140.14.33 ads.powweb.com
 94.140.14.33 ads.ppvmedien.de
 94.140.14.33 ads.praguetv.cz
@@ -3045,6 +3055,7 @@
 94.140.14.33 ads.samba.tv
 94.140.14.33 ads.samsung.com
 94.140.14.33 ads.samsungads.com
+94.140.14.33 ads.sandino.net
 94.140.14.33 ads.saplacikardepo.xyz
 94.140.14.33 ads.sapo.pt
 94.140.14.33 ads.satyamonline.com
@@ -5880,7 +5891,6 @@
 94.140.14.33 api.revcontent.com
 94.140.14.33 api.rlcdn.com
 94.140.14.33 api.rollbar.com
-94.140.14.33 api.rotatornet.com
 94.140.14.33 api.rqmob.com
 94.140.14.33 api.rtnews.pro
 94.140.14.33 api.rubic.com.tr
@@ -5938,7 +5948,6 @@
 94.140.14.33 api.st66606.com
 94.140.14.33 api.stack-sonar.com
 94.140.14.33 api.staging.wootric.com
-94.140.14.33 api.standarteng.com
 94.140.14.33 api.stathat.com
 94.140.14.33 api.stats.appa.pe
 94.140.14.33 api.statsig.com
@@ -6474,7 +6483,6 @@
 94.140.14.33 banner-exchange-24.de
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
-94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
 94.140.14.33 banner-rotation.com
@@ -8820,7 +8828,6 @@
 94.140.14.33 ebay-kleinanzeigen.check-pays-online.org
 94.140.14.33 ebazhaheiw.top
 94.140.14.33 ebclyqrvltydf.top
-94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebod.7mmtv.top
 94.140.14.33 ebook-res.meizu.com
