@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-08 03:03:51 
+#更新时间: 2023-03-08 04:07:29 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21684
+#规则数量:21689
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -671,6 +671,7 @@
 1.1.1.1 ad-web-ad.com
 1.1.1.1 ad-wheel.com
 1.1.1.1 ad-wisteria.excite.co.jp
+1.1.1.1 ad-words.ru
 1.1.1.1 ad-x.co.uk
 1.1.1.1 ad.103092804.com
 1.1.1.1 ad.12306.cn
@@ -3992,7 +3993,6 @@
 1.1.1.1 agency.quant-online.click
 1.1.1.1 agent.deutschemkgw.top
 1.1.1.1 agentchannel.api.duapp.com
-1.1.1.1 agenziaonline.top
 1.1.1.1 agility.tbs.com
 1.1.1.1 agitated-potential.pro
 1.1.1.1 agjfjdtsbuf.top
@@ -6477,6 +6477,7 @@
 1.1.1.1 banner-exchange-24.de
 1.1.1.1 banner-gateway.supersonicads.com
 1.1.1.1 banner-img.haber7.com
+1.1.1.1 banner-in.net
 1.1.1.1 banner-madai-com.s3.amazonaws.com
 1.1.1.1 banner-media.ru
 1.1.1.1 banner-rotation.com
@@ -8591,7 +8592,6 @@
 1.1.1.1 download.bayvip247.win
 1.1.1.1 download.browseraccelerator.com
 1.1.1.1 download.buzzfiles.net
-1.1.1.1 download.caihong.com
 1.1.1.1 download.cdn.sharelive.net
 1.1.1.1 download.cdn.torchbrowser.com
 1.1.1.1 download.cm
@@ -8828,6 +8828,7 @@
 1.1.1.1 ebay-kleinanzeigen.check-pays-online.org
 1.1.1.1 ebazhaheiw.top
 1.1.1.1 ebclyqrvltydf.top
+1.1.1.1 eberalofe.pro
 1.1.1.1 ebmzp.top
 1.1.1.1 ebod.7mmtv.top
 1.1.1.1 ebook-res.meizu.com
@@ -9063,6 +9064,7 @@
 1.1.1.1 eventsteam.pro
 1.1.1.1 eviclick.pro
 1.1.1.1 evjtloaxy.top
+1.1.1.1 evs.proxy.analytics.shutterstock.com
 1.1.1.1 evtubescms.phncdn.com
 1.1.1.1 ewogldw.top
 1.1.1.1 ex-traffic.com
@@ -11038,6 +11040,7 @@
 1.1.1.1 jilcp.inputgiant.top
 1.1.1.1 jiluoapp.top
 1.1.1.1 jimmychoostore.top
+1.1.1.1 jimny.pro
 1.1.1.1 jinchanjs.top
 1.1.1.1 jintengli.mobi
 1.1.1.1 jintengrubber.mobi
@@ -12869,6 +12872,7 @@
 1.1.1.1 okag.top
 1.1.1.1 okcf.top
 1.1.1.1 okcy.top
+1.1.1.1 okdi.top
 1.1.1.1 okew.top
 1.1.1.1 okna-systems.pro
 1.1.1.1 okoc.top
@@ -13129,7 +13133,6 @@
 1.1.1.1 online.billing.update.myee.secure.login.limited.eivlmn.com
 1.1.1.1 online.cnzz.com
 1.1.1.1 online.dropbox.com.reload.access.check.now.latrobevillage.com.au
-1.1.1.1 onlineagenzia.top
 1.1.1.1 onlinelivesexchat.top
 1.1.1.1 onlineshoppin.click
 1.1.1.1 onlyfan.click
@@ -14389,6 +14392,7 @@
 1.1.1.1 pro-news.net
 1.1.1.1 pro-p.program-pro1.xyz
 1.1.1.1 pro-p1.progpl1pl.xyz
+1.1.1.1 pro-partners.nl
 1.1.1.1 pro-pl.chatpros.site
 1.1.1.1 pro-pl.info
 1.1.1.1 pro-pl.live1program.site
@@ -14913,6 +14917,7 @@
 1.1.1.1 rjpybqvmlgbta.top
 1.1.1.1 rkcjo.threadgay.top
 1.1.1.1 rktoon5.top
+1.1.1.1 rkv9.top
 1.1.1.1 rlog-api.under9.co
 1.1.1.1 rlogs.youdao.com
 1.1.1.1 rm.sina.com.cn
@@ -17067,6 +17072,7 @@
 1.1.1.1 top-daily-profit.com
 1.1.1.1 top-eleven-hack.com
 1.1.1.1 top-frag.com
+1.1.1.1 top-free-casino-games.com
 1.1.1.1 top-fwz1.mail.ru
 1.1.1.1 top-gan.ru
 1.1.1.1 top-groupprogram.biz
@@ -19042,7 +19048,6 @@
 1.1.1.1 web-analytics.ica.se
 1.1.1.1 web-analytics.smile.io
 1.1.1.1 web-api.tjme.io
-1.1.1.1 web-atls.pro
 1.1.1.1 web-check.co
 1.1.1.1 web-git-update-lp-aprs-for-farms.pancake.run
 1.1.1.1 web-sdk.control.kochava.com
