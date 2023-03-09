@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-09 07:06:12 
+#更新时间: 2023-03-09 08:35:04 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21728
+#规则数量:21731
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -4427,6 +4427,7 @@
 1.1.1.1 analytics.dap-networks.de
 1.1.1.1 analytics.dashboard.fingerprint.com
 1.1.1.1 analytics.data.lloydsbankinggroup.com
+1.1.1.1 analytics.data.visenze.com
 1.1.1.1 analytics.datahc.com
 1.1.1.1 analytics.datasavannah.com
 1.1.1.1 analytics.dealer.com
@@ -8516,6 +8517,7 @@
 1.1.1.1 dns.ximalaya.com
 1.1.1.1 dnsbl.test.dishpurchasingcorporation.hb-api.omtrdc.net
 1.1.1.1 dnsbl.test.hulu-ios.hb-api.omtrdc.net
+1.1.1.1 do-free.click
 1.1.1.1 doatgiveaway.top
 1.1.1.1 dobgkurixwq.top
 1.1.1.1 dobreprogramy.pro
@@ -8605,6 +8607,7 @@
 1.1.1.1 download.bayvip247.win
 1.1.1.1 download.browseraccelerator.com
 1.1.1.1 download.buzzfiles.net
+1.1.1.1 download.caihong.com
 1.1.1.1 download.cdn.sharelive.net
 1.1.1.1 download.cdn.torchbrowser.com
 1.1.1.1 download.cm
