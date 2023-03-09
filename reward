@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-09 07:06:11 
+#更新时间: 2023-03-09 08:35:07 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21695
+#规则数量:21698
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -4427,6 +4427,7 @@
 94.140.14.33 analytics.dap-networks.de
 94.140.14.33 analytics.dashboard.fingerprint.com
 94.140.14.33 analytics.data.lloydsbankinggroup.com
+94.140.14.33 analytics.data.visenze.com
 94.140.14.33 analytics.datahc.com
 94.140.14.33 analytics.datasavannah.com
 94.140.14.33 analytics.dealer.com
@@ -8516,6 +8517,7 @@
 94.140.14.33 dns.ximalaya.com
 94.140.14.33 dnsbl.test.dishpurchasingcorporation.hb-api.omtrdc.net
 94.140.14.33 dnsbl.test.hulu-ios.hb-api.omtrdc.net
+94.140.14.33 do-free.click
 94.140.14.33 doatgiveaway.top
 94.140.14.33 dobgkurixwq.top
 94.140.14.33 dobreprogramy.pro
@@ -8605,6 +8607,7 @@
 94.140.14.33 download.bayvip247.win
 94.140.14.33 download.browseraccelerator.com
 94.140.14.33 download.buzzfiles.net
+94.140.14.33 download.caihong.com
 94.140.14.33 download.cdn.sharelive.net
 94.140.14.33 download.cdn.torchbrowser.com
 94.140.14.33 download.cm
