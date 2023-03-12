@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-12 22:03:34 
+#更新时间: 2023-03-12 23:04:47 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21852
+#规则数量:21851
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -3183,7 +3183,6 @@
 1.1.1.1 ads.technoratimedia.com
 1.1.1.1 ads.techvibes.com
 1.1.1.1 ads.techweb.com
-1.1.1.1 ads.teenport.com
 1.1.1.1 ads.tele.net
 1.1.1.1 ads.telecinco.es
 1.1.1.1 ads.telkomsel.com
