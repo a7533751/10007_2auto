@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-14 07:05:41 
+#更新时间: 2023-03-14 08:29:59 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21908
+#规则数量:21914
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1061,6 +1061,7 @@
 1.1.1.1 ad.jokeroo.com
 1.1.1.1 ad.jorte.com
 1.1.1.1 ad.jorudan.co.jp
+1.1.1.1 ad.jp.ap.g.valuecommerce.com
 1.1.1.1 ad.jp.ap.valuecommerce.com
 1.1.1.1 ad.jp.doubleclick.net
 1.1.1.1 ad.juksy.com
@@ -2648,6 +2649,7 @@
 1.1.1.1 ads.jokaroo.com
 1.1.1.1 ads.jordmorsiri.no
 1.1.1.1 ads.jossip.com
+1.1.1.1 ads.jp.ap.g.valuecommerce.com
 1.1.1.1 ads.jp.ap.valuecommerce.com
 1.1.1.1 ads.jp2.vip.prod.criteo.com
 1.1.1.1 ads.jpost.com
@@ -2750,6 +2752,7 @@
 1.1.1.1 ads.mediaodyssey.com
 1.1.1.1 ads.mediarithmics.com
 1.1.1.1 ads.mediasmart.es
+1.1.1.1 ads.mediastinct.com
 1.1.1.1 ads.mediaturf.net
 1.1.1.1 ads.mediatwo.com
 1.1.1.1 ads.medienhaus.de
@@ -4034,6 +4037,7 @@
 1.1.1.1 aiseet.aa.atianqi.com
 1.1.1.1 aistmaterna.top
 1.1.1.1 aiwssaaw.top
+1.1.1.1 aixq-ps-sdk.appier.xyz
 1.1.1.1 ajdadhdsdsasud6.top
 1.1.1.1 ak-ads-ns.prisasd.com
 1.1.1.1 ak.ad.turn.com
@@ -7636,6 +7640,7 @@
 1.1.1.1 click.get-answers-fast.com
 1.1.1.1 click.ghostcontrols.com
 1.1.1.1 click.glamsquad.com
+1.1.1.1 click.globlemath.com
 1.1.1.1 click.go.idcf.jp
 1.1.1.1 click.go2net.com
 1.1.1.1 click.google-analytics.com
@@ -16963,6 +16968,7 @@
 1.1.1.1 talazywho.pro
 1.1.1.1 talk.igexin.com
 1.1.1.1 talk.nz.igexin.com
+1.1.1.1 tamtam.pro
 1.1.1.1 tan-check.de
 1.1.1.1 tangk.top
 1.1.1.1 tangram.e.qq.com
