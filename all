@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-15 07:04:58 
+#更新时间: 2023-03-15 08:33:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:21988
+#规则数量:21991
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -683,6 +683,7 @@
 94.140.14.33 ad-web-ad.com
 94.140.14.33 ad-wheel.com
 94.140.14.33 ad-wisteria.excite.co.jp
+94.140.14.33 ad-words.ru
 94.140.14.33 ad-x.co.uk
 94.140.14.33 ad.103092804.com
 94.140.14.33 ad.12306.cn
@@ -2717,6 +2718,7 @@
 94.140.14.33 ads.livetv630.me
 94.140.14.33 ads.livetv632.me
 94.140.14.33 ads.livetv633.me
+94.140.14.33 ads.livetv636.me
 94.140.14.33 ads.livetvcdn.net
 94.140.14.33 ads.lmmob.com
 94.140.14.33 ads.localyokelmedia.com
@@ -4052,7 +4054,6 @@
 94.140.14.33 akydbank-invest.pro
 94.140.14.33 alaskbucs.dynamic-dns.net
 94.140.14.33 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
-94.140.14.33 alfaaz.pro
 94.140.14.33 alfachange.pro
 94.140.14.33 alfonsino.top
 94.140.14.33 alfta.top
@@ -5363,6 +5364,7 @@
 94.140.14.33 api.53.localytics.com
 94.140.14.33 api.557400.com
 94.140.14.33 api.558kbet.com
+94.140.14.33 api.660011.cc
 94.140.14.33 api.7017k.com
 94.140.14.33 api.7897890.vip
 94.140.14.33 api.78win01.com
@@ -5487,6 +5489,7 @@
 94.140.14.33 api.appcloudbox.net
 94.140.14.33 api.appfacebook.pl
 94.140.14.33 api.appfireworks.com
+94.140.14.33 api.appier.xyz
 94.140.14.33 api.applifier.com
 94.140.14.33 api.applink.mob.com
 94.140.14.33 api.applogy.com
@@ -6329,7 +6332,6 @@
 94.140.14.33 audid-api-sg.taobao.com
 94.140.14.33 audid-api.taobao.com
 94.140.14.33 audience.xml.adx1.com
-94.140.14.33 audioset.top
 94.140.14.33 aus-post-urgentnotice.top
 94.140.14.33 ausihd.top
 94.140.14.33 ausposte.top
@@ -6527,6 +6529,7 @@
 94.140.14.33 banner-exchange-24.de
 94.140.14.33 banner-gateway.supersonicads.com
 94.140.14.33 banner-img.haber7.com
+94.140.14.33 banner-in.net
 94.140.14.33 banner-madai-com.s3.amazonaws.com
 94.140.14.33 banner-media.ru
 94.140.14.33 banner-rotation.com
@@ -6998,7 +7001,6 @@
 94.140.14.33 bv-analytics-js-qa.s3.amazonaws.com
 94.140.14.33 bvc.sufify.top
 94.140.14.33 bvdffg.top
-94.140.14.33 bw-api.xyz
 94.140.14.33 bwogldv.top
 94.140.14.33 bwp.download.com
 94.140.14.33 bx9000.top
@@ -8910,6 +8912,7 @@
 94.140.14.33 ebay-kleinanzeigen.check-pays-online.org
 94.140.14.33 ebazhaheiw.top
 94.140.14.33 ebclyqrvltydf.top
+94.140.14.33 eberalofe.pro
 94.140.14.33 ebmzp.top
 94.140.14.33 ebod.7mmtv.top
 94.140.14.33 ebook-res.meizu.com
@@ -9185,6 +9188,7 @@
 94.140.14.33 expocaptcha.top
 94.140.14.33 expost.top
 94.140.14.33 ext1-api.engageya.com
+94.140.14.33 external-api.impression-neo.naver.com
 94.140.14.33 external-promo-metrics.yandex.net
 94.140.14.33 extmaps-api.yandex.net
 94.140.14.33 extreme-dm.com
@@ -14596,6 +14600,7 @@
 94.140.14.33 pro-news.net
 94.140.14.33 pro-p.program-pro1.xyz
 94.140.14.33 pro-p1.progpl1pl.xyz
+94.140.14.33 pro-partners.nl
 94.140.14.33 pro-pl.chatpros.site
 94.140.14.33 pro-pl.info
 94.140.14.33 pro-pl.live1program.site
@@ -15542,7 +15547,6 @@
 94.140.14.33 sbb8w.top
 94.140.14.33 sbeacon.sina.com.cn
 94.140.14.33 sbs-ad.com
-94.140.14.33 sbservicos.top
 94.140.14.33 sc-analytics.appspot.com
 94.140.14.33 sc.gouyb.mobi
 94.140.14.33 scallop.esolia.pro
@@ -15814,7 +15818,6 @@
 94.140.14.33 service.ad.duomi.com
 94.140.14.33 service.idsync.analytics.yahoo.com
 94.140.14.33 service.jiagu.360.cn
-94.140.14.33 serviceclient.top
 94.140.14.33 servicer.traffic-media.co.uk
 94.140.14.33 services.runescape.com-wet.top
 94.140.14.33 serving-ad.tv24.vn
@@ -17030,7 +17033,6 @@
 94.140.14.33 talazywho.pro
 94.140.14.33 talk.igexin.com
 94.140.14.33 talk.nz.igexin.com
-94.140.14.33 tamtam.pro
 94.140.14.33 tan-check.de
 94.140.14.33 tangk.top
 94.140.14.33 tangram.e.qq.com
@@ -17311,6 +17313,7 @@
 94.140.14.33 top-daily-profit.com
 94.140.14.33 top-eleven-hack.com
 94.140.14.33 top-frag.com
+94.140.14.33 top-free-casino-games.com
 94.140.14.33 top-fwz1.mail.ru
 94.140.14.33 top-gan.ru
 94.140.14.33 top-groupprogram.biz
