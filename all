@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-18 00:08:16 
+#更新时间: 2023-03-18 01:04:36 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22222
+#规则数量:22225
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -2750,6 +2750,7 @@
 1.1.1.1 ads.livetv633.me
 1.1.1.1 ads.livetv636.me
 1.1.1.1 ads.livetv637.me
+1.1.1.1 ads.livetv638.me
 1.1.1.1 ads.livetvcdn.net
 1.1.1.1 ads.lmmob.com
 1.1.1.1 ads.localyokelmedia.com
@@ -7155,6 +7156,7 @@
 1.1.1.1 caclick.baidu.com
 1.1.1.1 cado.pro
 1.1.1.1 cads.scalemonk.com
+1.1.1.1 cage-clock.click
 1.1.1.1 caing.adsame.com
 1.1.1.1 cainv.click
 1.1.1.1 caixin.adsame.com
@@ -15383,6 +15385,7 @@
 1.1.1.1 rxxwwkdakqgl.top
 1.1.1.1 ryq.coracry.top
 1.1.1.1 ryq.nucence.top
+1.1.1.1 s-ad.rmp.rakuten.co.jp
 1.1.1.1 s-adobe.wacoal.jp
 1.1.1.1 s.1ts18.top
 1.1.1.1 s.360.cn
