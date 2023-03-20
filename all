@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-20 12:08:20 
+#更新时间: 2023-03-20 13:06:42 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22300
+#规则数量:22347
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -655,6 +655,7 @@
 1.1.1.1 ad-move.jp
 1.1.1.1 ad-ndtv.3s.com.vn
 1.1.1.1 ad-nex.com
+1.1.1.1 ad-obsproject.com
 1.1.1.1 ad-optima.com
 1.1.1.1 ad-paradise.com
 1.1.1.1 ad-pay.de
@@ -4085,6 +4086,7 @@
 1.1.1.1 aktualnosci-polskie-pl.click
 1.1.1.1 aktuell-update.thelivesportsnews.com
 1.1.1.1 akydbank-invest.pro
+1.1.1.1 alanilly.click
 1.1.1.1 alaskbucs.dynamic-dns.net
 1.1.1.1 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 1.1.1.1 alfachange.pro
@@ -6219,7 +6221,6 @@
 1.1.1.1 appleid.apple.com.sign-inxwrxmyhxryx7qxjw.top
 1.1.1.1 appleid.apple.com.sign-inxyqd9q4tqp2vczdp.top
 1.1.1.1 appleid.apple.com.supportaccount.dns-cloud.net
-1.1.1.1 appleseparateinstant.top
 1.1.1.1 applev.top
 1.1.1.1 appleworldwidedeveloper-stage.hb-api.omtrdc.net
 1.1.1.1 appleworldwidedeveloper.hb-api.omtrdc.net
@@ -6963,6 +6964,7 @@
 1.1.1.1 boshustaty.pro
 1.1.1.1 bot-traffic.icu
 1.1.1.1 bot-traffic.xyz
+1.1.1.1 botdetect.click
 1.1.1.1 botuu.adsame.com
 1.1.1.1 bouden-invest.pro
 1.1.1.1 bounce-ads.de
@@ -7021,6 +7023,7 @@
 1.1.1.1 bsnnes.click
 1.1.1.1 bsnnes.pro
 1.1.1.1 bss.pandora.xiaomi.com
+1.1.1.1 bt-login.alanilly.click
 1.1.1.1 btc440.top
 1.1.1.1 btcark.pro
 1.1.1.1 btob.ouestfrance-immo.pro
@@ -8206,6 +8209,7 @@
 1.1.1.1 csgoxcup.pro
 1.1.1.1 csgoxtrade.pro
 1.1.1.1 csma95349.analytics.edgesuite.net
+1.1.1.1 csmoney2.pro
 1.1.1.1 csmoonrise.pro
 1.1.1.1 csoonline.share.ntv.io
 1.1.1.1 csr41car21-web-wwww11node-webappmgmt.partner.net.daraz.com
@@ -8478,6 +8482,7 @@
 1.1.1.1 destinia-ad.eulerian.net
 1.1.1.1 deta.ero-advertising.com
 1.1.1.1 detail.taobao.com
+1.1.1.1 detectbots.click
 1.1.1.1 detour.click
 1.1.1.1 deuteua02.click
 1.1.1.1 deuteua03.click
@@ -9043,8 +9048,21 @@
 1.1.1.1 ejasbiqsn.top
 1.1.1.1 ejjek.top
 1.1.1.1 eki-net-jp1.top
+1.1.1.1 eki-net-jp11.top
+1.1.1.1 eki-net-jp12.top
+1.1.1.1 eki-net-jp13.top
+1.1.1.1 eki-net-jp14.top
+1.1.1.1 eki-net-jp15.top
+1.1.1.1 eki-net-jp16.top
+1.1.1.1 eki-net-jp17.top
+1.1.1.1 eki-net-jp18.top
 1.1.1.1 eki-net-jp2.top
 1.1.1.1 eki-net-jp3.top
+1.1.1.1 eki-net-jp4.top
+1.1.1.1 eki-net-jp5.top
+1.1.1.1 eki-net-jp6.top
+1.1.1.1 eki-net-jp7.top
+1.1.1.1 eki-net-jp8.top
 1.1.1.1 eki-net.com.fpvebo.top
 1.1.1.1 ektmdbkfsv.top
 1.1.1.1 elaboratehall.pro
@@ -9148,6 +9166,7 @@
 1.1.1.1 ers.baidu.com
 1.1.1.1 ers.ero-advertising.com
 1.1.1.1 ert.pengwenli.top
+1.1.1.1 es-correos.top
 1.1.1.1 es-res.flyme.cn
 1.1.1.1 es.ads.justpremium.com
 1.1.1.1 es.ero-advertising.com
@@ -9163,6 +9182,11 @@
 1.1.1.1 est-mta.b2b-mail.net
 1.1.1.1 etahub.com
 1.1.1.1 etc-sads.dumb1.com
+1.1.1.1 etcsda1.top
+1.1.1.1 etcsda2.top
+1.1.1.1 etcsda3.top
+1.1.1.1 etcsda4.top
+1.1.1.1 etcsda5.top
 1.1.1.1 eth-2x.pro
 1.1.1.1 eth-minningpool.top
 1.1.1.1 eth2x.pro
@@ -9445,6 +9469,7 @@
 1.1.1.1 fineporn.pro
 1.1.1.1 fingahvf.top
 1.1.1.1 fingerless-click.000webhostapp.com
+1.1.1.1 finmyphone-alert.top
 1.1.1.1 finstake.top
 1.1.1.1 fintpad.top
 1.1.1.1 fire43.top
@@ -10031,6 +10056,8 @@
 1.1.1.1 grounded-card.pro
 1.1.1.1 growingfailure.pro
 1.1.1.1 groxton-invest.pro
+1.1.1.1 grp01.id.rakvten.co.jp.raenmean.top
+1.1.1.1 grp01.id.rakvten.co.jp.ranaonra.top
 1.1.1.1 grs.hicloud.com
 1.1.1.1 grswm.wholedirty.top
 1.1.1.1 gruchipevi.pro
@@ -12134,7 +12161,6 @@
 1.1.1.1 mail-zimbra-update.xllx.live
 1.1.1.1 mail.acount-management-and-update-of-security.com
 1.1.1.1 mail.adsame.com
-1.1.1.1 mail.i-mi.cloud
 1.1.1.1 mail.pro.power-mytic.click
 1.1.1.1 mail.supportteam3245.click
 1.1.1.1 mail.twitter.com
@@ -12994,6 +13020,7 @@
 1.1.1.1 network.advertise.com
 1.1.1.1 network.hot-mob.com
 1.1.1.1 networkme.click
+1.1.1.1 networksupport.click
 1.1.1.1 netzwerk-ad.de
 1.1.1.1 neu-pro.rockstas.xyz
 1.1.1.1 new.activpl-pro.site
@@ -14374,6 +14401,7 @@
 1.1.1.1 phimxxx.top
 1.1.1.1 phobygipi.pro
 1.1.1.1 phone-analytics.com
+1.1.1.1 phone-info-id.top
 1.1.1.1 phone.sendito.click
 1.1.1.1 phoneapplicationlabs.top
 1.1.1.1 phonesecure.mobi
@@ -15131,6 +15159,7 @@
 1.1.1.1 rakutensadfa1.top
 1.1.1.1 rakutensadfa2.top
 1.1.1.1 rakutensadfa3.top
+1.1.1.1 rakutensadfa5.top
 1.1.1.1 ralkmugd.top
 1.1.1.1 randy-dill-sax.webnode.co.uk
 1.1.1.1 rankings-analytics.com
@@ -15672,6 +15701,7 @@
 1.1.1.1 sa1.tuisong.baidu.com
 1.1.1.1 sa3.tuisong.baidu.com
 1.1.1.1 sa8.tuisong.baidu.com
+1.1.1.1 sabrinai-omenang.top
 1.1.1.1 sads.net.daraz.com
 1.1.1.1 safe-click.net
 1.1.1.1 safe.res.meizu.com
@@ -15930,6 +15960,7 @@
 1.1.1.1 sea.napi.ucweb.com
 1.1.1.1 seaclaim.top
 1.1.1.1 seal.godaddy.com
+1.1.1.1 search.anonymous.ads.brave.com
 1.1.1.1 search.cdn1.pro
 1.1.1.1 search.twitter.com
 1.1.1.1 search2.twitter.com
@@ -16024,6 +16055,8 @@
 1.1.1.1 servicecu.pro
 1.1.1.1 servicer.traffic-media.co.uk
 1.1.1.1 services.runescape.com-wet.top
+1.1.1.1 serviceuvx.pro
+1.1.1.1 serviceuxl.pro
 1.1.1.1 serving-ad.tv24.vn
 1.1.1.1 serving.ad.org.vn
 1.1.1.1 serving.dfnb-ads.com
@@ -16196,6 +16229,7 @@
 1.1.1.1 share-buttons-for-free.com
 1.1.1.1 share-buttons.xyz
 1.1.1.1 share-clouds.com
+1.1.1.1 share-productshop.com
 1.1.1.1 share-server.com
 1.1.1.1 share-staging.perchwell.com
 1.1.1.1 share-stores.com
@@ -16665,6 +16699,7 @@
 1.1.1.1 spaces.ero-advertising.com
 1.1.1.1 spambotdetection.click
 1.1.1.1 spambotprevention.click
+1.1.1.1 spamdetector.click
 1.1.1.1 spamremove.click
 1.1.1.1 sparc.pro
 1.1.1.1 sparkasse-abfrage.click
@@ -16801,11 +16836,16 @@
 1.1.1.1 stancehd.top
 1.1.1.1 standardmeta.click
 1.1.1.1 standardmeta2353453411.click
+1.1.1.1 standardmeta2422152134.click
+1.1.1.1 standardmeta332747.click
 1.1.1.1 standardmeta33456657.click
 1.1.1.1 standardmeta35235246.click
+1.1.1.1 standardmeta4346768.click
 1.1.1.1 standardmeta43545123.click
 1.1.1.1 standardmeta4785343.click
+1.1.1.1 standardmeta5104168.click
 1.1.1.1 standardmeta56825041.click
+1.1.1.1 standardmeta5686786722.click
 1.1.1.1 standardmeta67653223.click
 1.1.1.1 standardmeta98789900.click
 1.1.1.1 standpointsh.top
@@ -17394,6 +17434,7 @@
 1.1.1.1 test2018.adview.cn
 1.1.1.1 test2019.adview.cn
 1.1.1.1 testad.hot-mob.com
+1.1.1.1 tester.northlane.mobi
 1.1.1.1 testserverlp.pro
 1.1.1.1 tex.ero-advertising.com
 1.1.1.1 text-link-ads.com
@@ -17966,6 +18007,7 @@
 1.1.1.1 uc-ap.yodo1api.com
 1.1.1.1 uc-baidu.cc
 1.1.1.1 uc-i.com
+1.1.1.1 uc-onlinestore.my.id
 1.1.1.1 uc.agrantsem.com
 1.1.1.1 uc.atwola.com
 1.1.1.1 uc.qq.uuaoz.com
@@ -18408,6 +18450,8 @@
 1.1.1.1 veim.lrswl.com
 1.1.1.1 velenas-verllen-pro.cloud
 1.1.1.1 vellobank.top
+1.1.1.1 velobankk.top
+1.1.1.1 velobannk.top
 1.1.1.1 veloqubq.top
 1.1.1.1 vena.native-ad.net
 1.1.1.1 vented.newdostawa174295.click
@@ -20436,6 +20480,7 @@
 1.1.1.1 www.google-analytics.com
 1.1.1.1 www.google-deckoffice.ml
 1.1.1.1 www.google-docs.org
+1.1.1.1 www.google.anonshacker.com
 1.1.1.1 www.google.bv-hilden-west.de
 1.1.1.1 www.google.com.acceleratetw-www.boards.alisec-payacceleratetw.train-swiftcapitalprodopst9.0nodea-connected.ns.emailvision.ci.net.daraz.com
 1.1.1.1 www.google.com.acceleratetw-www.r76540.globalswiftcapitalcomgsam.payacceleratetw.opst9-accounting-0v-grubhubafpengscomapp-img-com.comgsam.conetes-ns2.cl.00d24000000isrqea4.net.daraz.com
@@ -21206,6 +21251,7 @@
 1.1.1.1 www.ssl.partner.net.daraz.com
 1.1.1.1 www.standardmeta25104123.click
 1.1.1.1 www.standardmeta6453519.click
+1.1.1.1 www.standardmeta808907444.click
 1.1.1.1 www.star-advertising.com
 1.1.1.1 www.staranysie.click
 1.1.1.1 www.stat-pro.site
@@ -21809,6 +21855,7 @@
 1.1.1.1 xrp-gift.pro
 1.1.1.1 xrpbonus.pro
 1.1.1.1 xsapp.cdn.bcebos.com
+1.1.1.1 xservicecu.pro
 1.1.1.1 xsexvideos.pro
 1.1.1.1 xsolid.baidu.com
 1.1.1.1 xswape.top
