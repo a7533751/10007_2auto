@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-21 07:04:41 
+#更新时间: 2023-03-21 08:31:14 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22312
+#规则数量:22317
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1060,6 +1060,7 @@
 1.1.1.1 ad.ichiban-boshi.com
 1.1.1.1 ad.iconadserver.com
 1.1.1.1 ad.ie.doubleclick.net
+1.1.1.1 ad.ieurop.net
 1.1.1.1 ad.iinfo.cz
 1.1.1.1 ad.ikonke.com
 1.1.1.1 ad.il.doubleclick.net
@@ -6623,6 +6624,7 @@
 1.1.1.1 banner.click-tt.de
 1.1.1.1 banner.clubdicecasino.com
 1.1.1.1 banner.congstar.de
+1.1.1.1 banner.consultant.ru
 1.1.1.1 banner.content-ad.net
 1.1.1.1 banner.cotedazurpalace.com
 1.1.1.1 banner.coza.com
@@ -9678,7 +9680,6 @@
 1.1.1.1 fyyqq.top
 1.1.1.1 fz2c.top
 1.1.1.1 fz8g.top
-1.1.1.1 fzf1.top
 1.1.1.1 fztmn.top
 1.1.1.1 g.163.com
 1.1.1.1 g.adimg.net
@@ -13034,6 +13035,7 @@
 1.1.1.1 news-l.play.aiseet.atianqi.com
 1.1.1.1 news-l.play.cp81.ott.cibntv.net
 1.1.1.1 news-l.play.ott.video.qq.com
+1.1.1.1 news-pro.net
 1.1.1.1 news-view-api.varzesh3.com
 1.1.1.1 news.l.qq.com
 1.1.1.1 newsday.hb-api.omtrdc.net
@@ -13858,6 +13860,7 @@
 1.1.1.1 partner-ts.groupon.nl
 1.1.1.1 partner-ts.groupon.pl
 1.1.1.1 partner-user.com
+1.1.1.1 partner-widget.vse-sdal.com
 1.1.1.1 partner.009-specialpythagoreantriplet.net.daraz.com
 1.1.1.1 partner.2din.cz
 1.1.1.1 partner.80xmedia.com
@@ -14755,6 +14758,7 @@
 1.1.1.1 printpvc.top
 1.1.1.1 prism.pandora.tv
 1.1.1.1 privacy-api.9gag.com
+1.1.1.1 privacy-sdk.talent-soft.com
 1.1.1.1 privacy-update-secu-recovry-page-protection-association.web.id
 1.1.1.1 privacy.yieldlove-ad-serving.net
 1.1.1.1 privatespace.click
@@ -14808,6 +14812,7 @@
 1.1.1.1 pro-max-vik.site
 1.1.1.1 pro-networks.us.intellitxt.com
 1.1.1.1 pro-neur.programm-onepl.xyz
+1.1.1.1 pro-news.net
 1.1.1.1 pro-p.program-pro1.xyz
 1.1.1.1 pro-p1.progpl1pl.xyz
 1.1.1.1 pro-pl.chatpros.site
