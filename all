@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-21 07:04:47 
+#更新时间: 2023-03-21 08:31:03 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22345
+#规则数量:22350
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1060,6 +1060,7 @@
 94.140.14.33 ad.ichiban-boshi.com
 94.140.14.33 ad.iconadserver.com
 94.140.14.33 ad.ie.doubleclick.net
+94.140.14.33 ad.ieurop.net
 94.140.14.33 ad.iinfo.cz
 94.140.14.33 ad.ikonke.com
 94.140.14.33 ad.il.doubleclick.net
@@ -6623,6 +6624,7 @@
 94.140.14.33 banner.click-tt.de
 94.140.14.33 banner.clubdicecasino.com
 94.140.14.33 banner.congstar.de
+94.140.14.33 banner.consultant.ru
 94.140.14.33 banner.content-ad.net
 94.140.14.33 banner.cotedazurpalace.com
 94.140.14.33 banner.coza.com
@@ -9678,7 +9680,6 @@
 94.140.14.33 fyyqq.top
 94.140.14.33 fz2c.top
 94.140.14.33 fz8g.top
-94.140.14.33 fzf1.top
 94.140.14.33 fztmn.top
 94.140.14.33 g.163.com
 94.140.14.33 g.adimg.net
@@ -13034,6 +13035,7 @@
 94.140.14.33 news-l.play.aiseet.atianqi.com
 94.140.14.33 news-l.play.cp81.ott.cibntv.net
 94.140.14.33 news-l.play.ott.video.qq.com
+94.140.14.33 news-pro.net
 94.140.14.33 news-view-api.varzesh3.com
 94.140.14.33 news.l.qq.com
 94.140.14.33 newsday.hb-api.omtrdc.net
@@ -13858,6 +13860,7 @@
 94.140.14.33 partner-ts.groupon.nl
 94.140.14.33 partner-ts.groupon.pl
 94.140.14.33 partner-user.com
+94.140.14.33 partner-widget.vse-sdal.com
 94.140.14.33 partner.009-specialpythagoreantriplet.net.daraz.com
 94.140.14.33 partner.2din.cz
 94.140.14.33 partner.80xmedia.com
@@ -14755,6 +14758,7 @@
 94.140.14.33 printpvc.top
 94.140.14.33 prism.pandora.tv
 94.140.14.33 privacy-api.9gag.com
+94.140.14.33 privacy-sdk.talent-soft.com
 94.140.14.33 privacy-update-secu-recovry-page-protection-association.web.id
 94.140.14.33 privacy.yieldlove-ad-serving.net
 94.140.14.33 privatespace.click
@@ -14808,6 +14812,7 @@
 94.140.14.33 pro-max-vik.site
 94.140.14.33 pro-networks.us.intellitxt.com
 94.140.14.33 pro-neur.programm-onepl.xyz
+94.140.14.33 pro-news.net
 94.140.14.33 pro-p.program-pro1.xyz
 94.140.14.33 pro-p1.progpl1pl.xyz
 94.140.14.33 pro-pl.chatpros.site
