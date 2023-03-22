@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-22 08:30:00 
+#更新时间: 2023-03-22 10:00:32 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:23040
+#规则数量:23047
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -881,6 +881,7 @@
 94.140.14.33 ad.agilemedia.jp
 94.140.14.33 ad.agrantsem.com
 94.140.14.33 ad.aim-universe.co.jp
+94.140.14.33 ad.aliceadsl.fr
 94.140.14.33 ad.alimama.com
 94.140.14.33 ad.allboxing.ru
 94.140.14.33 ad.allstar.cz
@@ -922,6 +923,7 @@
 94.140.14.33 ad.at.doubleclick.net
 94.140.14.33 ad.atdmt.com
 94.140.14.33 ad.atkamackerel.com
+94.140.14.33 ad.atlas.cz
 94.140.14.33 ad.atown.jp
 94.140.14.33 ad.au.doubleclick.net
 94.140.14.33 ad.aucfan.com
@@ -1492,6 +1494,7 @@
 94.140.14.33 ad.vkoolzzz.net
 94.140.14.33 ad.vnnayngaytin.vn
 94.140.14.33 ad.vo-media.ru
+94.140.14.33 ad.vol.at
 94.140.14.33 ad.vrvm.com
 94.140.14.33 ad.walkgame.com
 94.140.14.33 ad.wamxb.info
@@ -1870,6 +1873,7 @@
 94.140.14.33 adn1.adclerks.com
 94.140.14.33 adn2.adclerks.com
 94.140.14.33 adnetwork.ad.kakaocorp.com
+94.140.14.33 adnetwork.fullservices.com.ar
 94.140.14.33 adnewnc.app.autohome.com.cn
 94.140.14.33 adnitro.pro
 94.140.14.33 adnxs-simple.com
@@ -2023,6 +2027,7 @@
 94.140.14.33 ads-sdk-configuration.unityads.unity3d.com
 94.140.14.33 ads-sdk.upltv.com
 94.140.14.33 ads-secure.videohub.tv
+94.140.14.33 ads-server.mxplay.com
 94.140.14.33 ads-sg.tiktok.com
 94.140.14.33 ads-stats.com
 94.140.14.33 ads-stream.com
@@ -2416,6 +2421,7 @@
 94.140.14.33 ads.crontab.no
 94.140.14.33 ads.crosscut.com
 94.140.14.33 ads.csdn.net
+94.140.14.33 ads.csi.emcweb.com
 94.140.14.33 ads.ctvdigital.net
 94.140.14.33 ads.cungcau.vn
 94.140.14.33 ads.currantbun.com
@@ -2611,6 +2617,7 @@
 94.140.14.33 ads.gercekgundem.com
 94.140.14.33 ads.germanfriendfinder.com
 94.140.14.33 ads.getlucky.com
+94.140.14.33 ads.gfsrv.net
 94.140.14.33 ads.ghettotube.com
 94.140.14.33 ads.gionee.com
 94.140.14.33 ads.givemegay.com
@@ -2714,6 +2721,7 @@
 94.140.14.33 ads.imguol.com
 94.140.14.33 ads.imgur.com
 94.140.14.33 ads.imovideo.ru
+94.140.14.33 ads.incubu.com
 94.140.14.33 ads.indeed.com
 94.140.14.33 ads.independent.com.mt
 94.140.14.33 ads.indexinfo.org
@@ -2729,6 +2737,7 @@
 94.140.14.33 ads.injersey.com
 94.140.14.33 ads.inmobi.com
 94.140.14.33 ads.insikt24.se
+94.140.14.33 ads.instyledm.com
 94.140.14.33 ads.intellicast.com
 94.140.14.33 ads.intentiq.com
 94.140.14.33 ads.interfax.ru
@@ -7216,6 +7225,7 @@
 94.140.14.33 bugsee-api-prod.elasticbeanstalk.com
 94.140.14.33 bulisite.top
 94.140.14.33 bulletproof-analytics.com
+94.140.14.33 bumpberam.pro
 94.140.14.33 buomdep.pro
 94.140.14.33 buoyant-force.pro
 94.140.14.33 buoyantmanufacturer.pro
@@ -8645,6 +8655,7 @@
 94.140.14.33 ddkakjxy.top
 94.140.14.33 ddlkbvvcawh.top
 94.140.14.33 ddtdown.pro
+94.140.14.33 ddtools.top
 94.140.14.33 de-ads.de
 94.140.14.33 de-help3.top
 94.140.14.33 de-mi-nis-ner.info
@@ -12779,7 +12790,6 @@
 94.140.14.33 mi-clave-dinamica.com
 94.140.14.33 mi-de-ner-nis3.info
 94.140.14.33 mi-manga-hentai.blogspot.com
-94.140.14.33 mi-mercadito.mx
 94.140.14.33 mi-olx.pl
 94.140.14.33 mi-shop.fi
 94.140.14.33 mi.5.p2l.info
@@ -14229,7 +14239,6 @@
 94.140.14.33 pakistansex.pro
 94.140.14.33 palm-ad.cn
 94.140.14.33 palnpay.top
-94.140.14.33 palpitesdodiajogodobicho.top
 94.140.14.33 pamxvito.top
 94.140.14.33 pancakesmap.pro
 94.140.14.33 pancakesvvap.pro
@@ -18472,7 +18481,6 @@
 94.140.14.33 transparency.twitter.com
 94.140.14.33 trax-ad.jp
 94.140.14.33 trc.adsage.com
-94.140.14.33 trending-analytics.com
 94.140.14.33 trends.mobile.sina.cn
 94.140.14.33 treseemon.click
 94.140.14.33 trk-pcweb.api.zaloapp.com
@@ -22377,7 +22385,6 @@
 94.140.14.33 x2tesla-event.pro
 94.140.14.33 x3.extreme-dm.com
 94.140.14.33 x4hub-pro.com
-94.140.14.33 x5.com.au
 94.140.14.33 x5.geekshub.bond
 94.140.14.33 x5.jougennotuki.com
 94.140.14.33 x5.swippl.xyz
