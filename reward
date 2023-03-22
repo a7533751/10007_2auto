@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-22 08:30:07 
+#更新时间: 2023-03-22 10:00:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:23040
+#规则数量:23047
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -881,6 +881,7 @@
 1.1.1.1 ad.agilemedia.jp
 1.1.1.1 ad.agrantsem.com
 1.1.1.1 ad.aim-universe.co.jp
+1.1.1.1 ad.aliceadsl.fr
 1.1.1.1 ad.alimama.com
 1.1.1.1 ad.allboxing.ru
 1.1.1.1 ad.allstar.cz
@@ -922,6 +923,7 @@
 1.1.1.1 ad.at.doubleclick.net
 1.1.1.1 ad.atdmt.com
 1.1.1.1 ad.atkamackerel.com
+1.1.1.1 ad.atlas.cz
 1.1.1.1 ad.atown.jp
 1.1.1.1 ad.au.doubleclick.net
 1.1.1.1 ad.aucfan.com
@@ -1492,6 +1494,7 @@
 1.1.1.1 ad.vkoolzzz.net
 1.1.1.1 ad.vnnayngaytin.vn
 1.1.1.1 ad.vo-media.ru
+1.1.1.1 ad.vol.at
 1.1.1.1 ad.vrvm.com
 1.1.1.1 ad.walkgame.com
 1.1.1.1 ad.wamxb.info
@@ -1870,6 +1873,7 @@
 1.1.1.1 adn1.adclerks.com
 1.1.1.1 adn2.adclerks.com
 1.1.1.1 adnetwork.ad.kakaocorp.com
+1.1.1.1 adnetwork.fullservices.com.ar
 1.1.1.1 adnewnc.app.autohome.com.cn
 1.1.1.1 adnitro.pro
 1.1.1.1 adnxs-simple.com
@@ -2023,6 +2027,7 @@
 1.1.1.1 ads-sdk-configuration.unityads.unity3d.com
 1.1.1.1 ads-sdk.upltv.com
 1.1.1.1 ads-secure.videohub.tv
+1.1.1.1 ads-server.mxplay.com
 1.1.1.1 ads-sg.tiktok.com
 1.1.1.1 ads-stats.com
 1.1.1.1 ads-stream.com
@@ -2416,6 +2421,7 @@
 1.1.1.1 ads.crontab.no
 1.1.1.1 ads.crosscut.com
 1.1.1.1 ads.csdn.net
+1.1.1.1 ads.csi.emcweb.com
 1.1.1.1 ads.ctvdigital.net
 1.1.1.1 ads.cungcau.vn
 1.1.1.1 ads.currantbun.com
@@ -2611,6 +2617,7 @@
 1.1.1.1 ads.gercekgundem.com
 1.1.1.1 ads.germanfriendfinder.com
 1.1.1.1 ads.getlucky.com
+1.1.1.1 ads.gfsrv.net
 1.1.1.1 ads.ghettotube.com
 1.1.1.1 ads.gionee.com
 1.1.1.1 ads.givemegay.com
@@ -2714,6 +2721,7 @@
 1.1.1.1 ads.imguol.com
 1.1.1.1 ads.imgur.com
 1.1.1.1 ads.imovideo.ru
+1.1.1.1 ads.incubu.com
 1.1.1.1 ads.indeed.com
 1.1.1.1 ads.independent.com.mt
 1.1.1.1 ads.indexinfo.org
@@ -2729,6 +2737,7 @@
 1.1.1.1 ads.injersey.com
 1.1.1.1 ads.inmobi.com
 1.1.1.1 ads.insikt24.se
+1.1.1.1 ads.instyledm.com
 1.1.1.1 ads.intellicast.com
 1.1.1.1 ads.intentiq.com
 1.1.1.1 ads.interfax.ru
@@ -7216,6 +7225,7 @@
 1.1.1.1 bugsee-api-prod.elasticbeanstalk.com
 1.1.1.1 bulisite.top
 1.1.1.1 bulletproof-analytics.com
+1.1.1.1 bumpberam.pro
 1.1.1.1 buomdep.pro
 1.1.1.1 buoyant-force.pro
 1.1.1.1 buoyantmanufacturer.pro
@@ -8645,6 +8655,7 @@
 1.1.1.1 ddkakjxy.top
 1.1.1.1 ddlkbvvcawh.top
 1.1.1.1 ddtdown.pro
+1.1.1.1 ddtools.top
 1.1.1.1 de-ads.de
 1.1.1.1 de-help3.top
 1.1.1.1 de-mi-nis-ner.info
@@ -12779,7 +12790,6 @@
 1.1.1.1 mi-clave-dinamica.com
 1.1.1.1 mi-de-ner-nis3.info
 1.1.1.1 mi-manga-hentai.blogspot.com
-1.1.1.1 mi-mercadito.mx
 1.1.1.1 mi-olx.pl
 1.1.1.1 mi-shop.fi
 1.1.1.1 mi.5.p2l.info
@@ -14229,7 +14239,6 @@
 1.1.1.1 pakistansex.pro
 1.1.1.1 palm-ad.cn
 1.1.1.1 palnpay.top
-1.1.1.1 palpitesdodiajogodobicho.top
 1.1.1.1 pamxvito.top
 1.1.1.1 pancakesmap.pro
 1.1.1.1 pancakesvvap.pro
@@ -18472,7 +18481,6 @@
 1.1.1.1 transparency.twitter.com
 1.1.1.1 trax-ad.jp
 1.1.1.1 trc.adsage.com
-1.1.1.1 trending-analytics.com
 1.1.1.1 trends.mobile.sina.cn
 1.1.1.1 treseemon.click
 1.1.1.1 trk-pcweb.api.zaloapp.com
@@ -22377,7 +22385,6 @@
 1.1.1.1 x2tesla-event.pro
 1.1.1.1 x3.extreme-dm.com
 1.1.1.1 x4hub-pro.com
-1.1.1.1 x5.com.au
 1.1.1.1 x5.geekshub.bond
 1.1.1.1 x5.jougennotuki.com
 1.1.1.1 x5.swippl.xyz
