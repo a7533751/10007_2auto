@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-24 16:06:21 
+#更新时间: 2023-03-24 17:06:10 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:23178
+#规则数量:23181
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -4017,6 +4017,7 @@
 94.140.14.33 advertising.aol.com
 94.140.14.33 advertising.apple.com
 94.140.14.33 advertising.bayoubuzz.com
+94.140.14.33 advertising.bb
 94.140.14.33 advertising.bbcworldwide.com
 94.140.14.33 advertising.com
 94.140.14.33 advertising.dclux.com
@@ -12476,6 +12477,7 @@
 94.140.14.33 m.beacon.sina.com.cn
 94.140.14.33 m.blindopaque.top
 94.140.14.33 m.bndbddt.top
+94.140.14.33 m.bpfutures.top
 94.140.14.33 m.bushthrifty.top
 94.140.14.33 m.clkservice.youdao.com
 94.140.14.33 m.curlastray.top
@@ -17373,6 +17375,7 @@
 94.140.14.33 spaceframe.mobi.space-frame.co.za
 94.140.14.33 spacelaunch.pro
 94.140.14.33 spaces.ero-advertising.com
+94.140.14.33 spaceup.pro
 94.140.14.33 spam-www.partner.net.daraz.com
 94.140.14.33 spamaltprotection.click
 94.140.14.33 spambotdetection.click
