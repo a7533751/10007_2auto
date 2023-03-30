@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-31 02:07:52 
+#更新时间: 2023-03-31 03:02:51 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22930
+#规则数量:22931
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -18783,6 +18783,7 @@
 94.140.14.33 usaps.njnqy.top
 94.140.14.33 uscdn.top
 94.140.14.33 usdcoin.top
+94.140.14.33 use-application-dns.net
 94.140.14.33 useenterpris.click
 94.140.14.33 usefulhall.pro
 94.140.14.33 usenet-nl.top
