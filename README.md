@@ -1,7 +1,7 @@
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
-## 统计 (2023-03-31 19:03:29)
+## 统计 (2023-03-31 19:09:07)
 ```
 累积拦截域名: 51829
 ```
@@ -17,7 +17,7 @@
 
 | **名称** | **链接** | **镜像链接** |
 | :-- | :-- | :-- |
-| **PC规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/PC_For_Test/all) | [Gitlink镜像](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/all?ref=PC_For_Test) |
+| **PC规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/PC_For_Test/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/PC_For_Test/all) |
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
 
