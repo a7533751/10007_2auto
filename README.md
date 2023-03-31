@@ -1,20 +1,17 @@
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
-## 统计 (2023-03-31 18:06:52)
+## 统计
 ```
 完整版累积拦截域名: 22994
 保留广告奖励累积拦截域名: 22961
 ```
 
-## 订阅
-### 国内请用 **镜像链接**  
-
 | **名称** | **链接** | **镜像链接** |
 | :-- | :-- | :-- |
-| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/all) | [Gitlink镜像](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/all?ref=developer) |
-| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/reward) | [Gitlink镜像](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/reward?ref=developer) |
-| **Adblock规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/adb.txt) | [Gitlink镜像](https://code.gitlink.org.cn/api/v1/repos/keytoolazy/10007_auto/raw/adb.txt?ref=developer) |
+| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/developer/all) |
+| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/developer/all) |
+| **Adblock规则** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/developer/adb.txt) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/developer/adb.txt) |
 
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
