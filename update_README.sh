@@ -17,7 +17,7 @@ cat << key > `pwd`/README.md
 \`\`\`
 
 ## Feature 分支
-### 将`127.0.0.1`替换成adguard的`94.140.14.33`，企图规避一些问题，例如反复请求引起的耗电。
+### 将`127.0.0.1`替换成cloufire的`1.1.1.1`，企图规避一些问题，例如反复请求引起的耗电。
 
 ## Adaway
 ### 请在Adaway中选择**重定向(Apply redirected hosts)**
