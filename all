@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-03-31 12:07:33 
+#更新时间: 2023-03-31 13:04:39 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22968
+#规则数量:22987
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -1332,6 +1332,7 @@
 1.1.1.1 ad.ourgame.com
 1.1.1.1 ad.outsidehub.com
 1.1.1.1 ad.outstream.today
+1.1.1.1 ad.owlair.net
 1.1.1.1 ad.oyy.ru
 1.1.1.1 ad.pandora.tv
 1.1.1.1 ad.parom.hu
@@ -4287,9 +4288,9 @@
 1.1.1.1 amazon-in-iu.top
 1.1.1.1 amazon-it-if.top
 1.1.1.1 amazon-ivtsdab.dns-report.com
-1.1.1.1 amazon-price-off-promotions.canada-post-nng.top
 1.1.1.1 amazon-vsduayv.dns-report.com
 1.1.1.1 amazon-xvcbf.dynamic-dns.net
+1.1.1.1 amazon.canada-post-nng.top
 1.1.1.1 amazonusavip.top
 1.1.1.1 ambersite.pro
 1.1.1.1 ambitious-upstairs.pro
@@ -6561,6 +6562,7 @@
 1.1.1.1 audid-api.taobao.com
 1.1.1.1 audience.xml.adx1.com
 1.1.1.1 aupostnew.top
+1.1.1.1 aurora-google.work
 1.1.1.1 aus-post-urgentnotice.top
 1.1.1.1 ausihd.top
 1.1.1.1 ausposte.top
@@ -6611,6 +6613,7 @@
 1.1.1.1 autoline-top.com
 1.1.1.1 automizely-analytics.com
 1.1.1.1 autoseo-traffic.com
+1.1.1.1 autriavia2.click
 1.1.1.1 av1.xdrig.com
 1.1.1.1 avair.top
 1.1.1.1 avdmm.top
@@ -6715,6 +6718,7 @@
 1.1.1.1 baiducdncmn.inter.iqiyi.com
 1.1.1.1 baiducdncmn3.inter.iqiyi.com
 1.1.1.1 baiducom.bj.bcebos.com
+1.1.1.1 baidunnd.top
 1.1.1.1 baifen.music.baidu.com
 1.1.1.1 ball.lepsage.top
 1.1.1.1 ball.tendion.top
@@ -7397,6 +7401,7 @@
 1.1.1.1 cache.addthiscdn.com
 1.1.1.1 cache.adm.cnzz.net
 1.1.1.1 cache.cnzz.com
+1.1.1.1 cacjatrujillonline.click
 1.1.1.1 caclick.baidu.com
 1.1.1.1 cado.pro
 1.1.1.1 cads.scalemonk.com
@@ -7417,6 +7422,7 @@
 1.1.1.1 campaign.adobe.com
 1.1.1.1 campaign.ateam-ad.jp
 1.1.1.1 canadapro.pro
+1.1.1.1 canny2618-ollox-pl.descent.top
 1.1.1.1 canonch.pro
 1.1.1.1 canvas.gdt.qq.com
 1.1.1.1 caopanshou.top
@@ -8752,6 +8758,7 @@
 1.1.1.1 dellforum.top
 1.1.1.1 delllwerypay1nfrms.infmdel1prcs.top
 1.1.1.1 dellver36820-ollx.eleganthome.click
+1.1.1.1 dellver7119-ollx.squeeze.top
 1.1.1.1 dellver856-ollx.lifepaystore.click
 1.1.1.1 dellvery.dellvery-2345.xyz
 1.1.1.1 dellveryollx3700.cewnts103.click
@@ -9639,6 +9646,7 @@
 1.1.1.1 external-api.impression-neo.naver.com
 1.1.1.1 external-promo-metrics.yandex.net
 1.1.1.1 extmaps-api.yandex.net
+1.1.1.1 extra2783-dpd-pl.pushpin.top
 1.1.1.1 extreme-dm.com
 1.1.1.1 extremiu.top
 1.1.1.1 eyf.allmeter.top
@@ -9764,6 +9772,7 @@
 1.1.1.1 ff.newstry.top
 1.1.1.1 ff.propl.top
 1.1.1.1 ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
+1.1.1.1 ffgllautdirect.top
 1.1.1.1 ffzxdcsa.top
 1.1.1.1 fg.daochengwowo.top
 1.1.1.1 fgcpk.wholedirty.top
@@ -10229,6 +10238,7 @@
 1.1.1.1 gjtrack.uc.cn
 1.1.1.1 gjtrack.ucweb.com
 1.1.1.1 gjukb.agriry.top
+1.1.1.1 gk.eutrty.top
 1.1.1.1 gk.sina.cn
 1.1.1.1 gklqrdk.top
 1.1.1.1 gkpge.click
@@ -10500,6 +10510,8 @@
 1.1.1.1 handuwangluo.top
 1.1.1.1 handuwl.top
 1.1.1.1 handy-ads.de
+1.1.1.1 handy1915-impoct-pl.pushpin.top
+1.1.1.1 handy9034-impoct-pl.toychest.top
 1.1.1.1 hangngon.pro
 1.1.1.1 hansaisai.top
 1.1.1.1 hao.360.cn
@@ -11829,7 +11841,6 @@
 1.1.1.1 kd.api.agrantsem.com
 1.1.1.1 kd1c.top
 1.1.1.1 kde.qq.com
-1.1.1.1 kdhdbdn.top
 1.1.1.1 kdj.untilly.top
 1.1.1.1 kdlls.inventnamb.click
 1.1.1.1 kds.ero-advertising.com
@@ -15375,6 +15386,7 @@
 1.1.1.1 pro.heiguang.com
 1.1.1.1 pro.hit.gemius.pl
 1.1.1.1 pro.hit.stat24.com
+1.1.1.1 pro.hokirisnoyo.my.id
 1.1.1.1 pro.intexyt.xyz
 1.1.1.1 pro.invstprogram.site
 1.1.1.1 pro.iweihai.cn
@@ -16986,6 +16998,7 @@
 1.1.1.1 shockeddump.pro
 1.1.1.1 shockingteens.pro
 1.1.1.1 shop-ebay.top
+1.1.1.1 shop.lopipi.top
 1.1.1.1 shopeelink.top
 1.1.1.1 shopping.ad.kakaocorp.com
 1.1.1.1 shoppro.top
@@ -17738,7 +17751,6 @@
 1.1.1.1 systemsdirect.click
 1.1.1.1 systemsinternational.click
 1.1.1.1 systemsuk.click
-1.1.1.1 systemsusa.click
 1.1.1.1 systemtrain.click
 1.1.1.1 syzbh66.xyz
 1.1.1.1 sz7g.top
@@ -17939,6 +17951,7 @@
 1.1.1.1 tesghts.click
 1.1.1.1 teshorto.click
 1.1.1.1 teshose.click
+1.1.1.1 tesinformx.click
 1.1.1.1 tesla-eth.pro
 1.1.1.1 tesla-foundation.top
 1.1.1.1 tesla-global-top.biz
@@ -17956,6 +17969,7 @@
 1.1.1.1 teslxpl.top
 1.1.1.1 tesommas.click
 1.1.1.1 tesppen.click
+1.1.1.1 tesprojectx.click
 1.1.1.1 tesralis.click
 1.1.1.1 tessera.ad.daum.net
 1.1.1.1 test-ad.lucia-c.com
@@ -17974,6 +17988,7 @@
 1.1.1.1 testad.hot-mob.com
 1.1.1.1 tester.northlane.mobi
 1.1.1.1 testserverlp.pro
+1.1.1.1 tesx.inprog.top
 1.1.1.1 tex.ero-advertising.com
 1.1.1.1 text-link-ads.com
 1.1.1.1 text98w.click
@@ -18212,6 +18227,7 @@
 1.1.1.1 top.wiwym.xyz
 1.1.1.1 top.wn.com
 1.1.1.1 top.x--x--x.com
+1.1.1.1 top57.top
 1.1.1.1 topad.mobi
 1.1.1.1 topads.ero-advertising.com
 1.1.1.1 topapi.cp12.ott.cibntv.net
@@ -19105,6 +19121,7 @@
 1.1.1.1 vintagepornpics.pro
 1.1.1.1 vintagepussy.mobi
 1.1.1.1 vintagetube.pro
+1.1.1.1 vinted-cz.centerpayments.pro
 1.1.1.1 vinted-cz.payments-info.pro
 1.1.1.1 vinted-pi.idpl718493264.top
 1.1.1.1 vinted-pi.plid179483265.click
@@ -20802,7 +20819,6 @@
 1.1.1.1 www.coinpkonew.click
 1.1.1.1 www.companynet.pro
 1.1.1.1 www.connect.api.almirall.com
-1.1.1.1 www.connectwallet.aerolink.click
 1.1.1.1 www.constel-analytics.com
 1.1.1.1 www.consumer-o1-lx.coinmarket.cfd
 1.1.1.1 www.content.ad
@@ -21936,12 +21952,14 @@
 1.1.1.1 www.tesghts.click
 1.1.1.1 www.teshorto.click
 1.1.1.1 www.teshose.click
+1.1.1.1 www.tesinformx.click
 1.1.1.1 www.tesla-global-top.biz
 1.1.1.1 www.tesla-platform.pro
 1.1.1.1 www.teslax-pro.com
 1.1.1.1 www.tesler-project.pro
 1.1.1.1 www.tesommas.click
 1.1.1.1 www.tesppen.click
+1.1.1.1 www.tesprojectx.click
 1.1.1.1 www.tesralis.click
 1.1.1.1 www.tex.ero-advertising.com
 1.1.1.1 www.text-link-ads.com
@@ -22106,6 +22124,7 @@
 1.1.1.1 www.vint-ed.polpw5971836w.click
 1.1.1.1 www.vintagehub.pro
 1.1.1.1 www.vintagetube.pro
+1.1.1.1 www.vinted-cz.centerpayments.pro
 1.1.1.1 www.vinted-cz.payments-info.pro
 1.1.1.1 www.vinted-pi.plid179483265.click
 1.1.1.1 www.vinted-pl-api.oferta-nfu.me
