@@ -8,7 +8,7 @@
 ```
 
 ## Feature 分支
-### 将替换成adguard的，企图规避一些问题，例如反复请求引起的耗电。
+### 将替换成cloufire的，企图规避一些问题，例如反复请求引起的耗电。
 
 ## Adaway
 ### 请在Adaway中选择**重定向(Apply redirected hosts)**
