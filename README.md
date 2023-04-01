@@ -6,6 +6,8 @@
 完整版累积拦截域名: 23031
 保留广告奖励累积拦截域名: 22998
 ```
+## 访问人数 : ![visitors](https://visitor-badge.glitch.me/badge?page_id=lingeringsound.10007_auto&left_color=green&right_color=red)
+
 
 ## Feature 分支
 ### 将替换成cloufire的，企图规避一些问题，例如反复请求引起的耗电。
