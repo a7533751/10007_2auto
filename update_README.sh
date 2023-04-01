@@ -24,10 +24,10 @@ cat << key > `pwd`/README.md
 
 ## 订阅
 
-| **名称** | **链接** | **镜像链接** |
-| :-- | :-- | :-- |
-| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature1/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature1/all) |
-| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature1/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature1/reward) |
+| **名称** | **链接** | **镜像链接** | **Github订阅加速链接** |
+| :-- | :-- | :-- | :-- |
+| **完整版** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature1/all) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature1/all) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/Feature1/all) |
+| **保留广告奖励** | [订阅链接](https://raw.githubusercontent.com/lingeringsound/10007_auto/Feature1/reward) | [Gitcode镜像](https://gitcode.net/weixin_45617236/10007_auto/-/raw/Feature1/reward) | [加速链接](https://raw.gitmirror.com/lingeringsound/10007_auto/Feature1/reward) |
 
 ## **[捐赠地址](https://github.com/lingeringsound/10007)**
 key
