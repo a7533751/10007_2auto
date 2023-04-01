@@ -13,6 +13,8 @@ cat << key > `pwd`/README.md
 \`\`\`
 累积拦截域名: ${count_all}
 \`\`\`
+## 访问人数 : ![visitors](https://visitor-badge.glitch.me/badge?page_id=lingeringsound.10007_auto&left_color=green&right_color=red)
+
 
 ## PC 分支 仅做测试
 ### 将\`127.0.0.1\`替换成adguard的\`94.140.14.33\`，企图规避一些问题，例如反复请求引起的耗电。
