@@ -13,7 +13,7 @@ cat << key > `pwd`/README.md
 \`\`\`
 累积拦截域名: ${count_all}
 \`\`\`
-## 访问人数 : ![visitors](https://visitor-badge.glitch.me/badge?page_id=lingeringsound.10007_auto&left_color=green&right_color=red)
+## 访问量 : ![visitors](https://visitor-badge.glitch.me/badge?page_id=lingeringsound.10007_auto&left_color=green&right_color=red)
 
 
 ## PC 分支 仅做测试
