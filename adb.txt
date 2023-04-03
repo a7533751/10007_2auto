@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-04-03 11:06:02
+! Last modified: 2023-04-03 11:51:08
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 
@@ -62,9 +62,9 @@
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-04-03 11:06:02 ^
+!更新时间: 2023-04-03 11:51:08 ^
 
-!规则数量:22963^
+!规则数量:22988^
 !#################^
 
 ||0-analytics.net.daraz.com^
@@ -555,6 +555,7 @@
 ||a.cookpad-ads.com^
 ||a.exosrv.com^
 ||a.lubiao.com^
+||a.market.xiaomi.com^
 ||a.miyudaquan.top^
 ||a.ns.api.emailvision-idsr-es-5.net.daraz.com.net.daraz.com^
 ||a.ns.api.emailvision.v.r-ht-2.net.daraz.com.net.daraz.com^
@@ -2003,6 +2004,7 @@
 ||adpretirementservices.122.2o7.net^
 ||adpro.pro.cn^
 ||adpulse.ads.targetnet.com^
+||adpush.cn^
 ||adpush.goforandroid.com^
 ||adrcdn.com^
 ||adrdir.qq.com^
@@ -3939,6 +3941,7 @@
 ||adshmct.qq.com^
 ||adshmmsg.qq.com^
 ||adsite.hot-mob.com^
+||adsk2.co^
 ||adslot.uc.cn^
 ||adslvfile.qq.com^
 ||adslvseed.qq.com^
@@ -4233,6 +4236,7 @@
 ||akydbank-invest.pro^
 ||alanilly.click^
 ||alaskbucs.dynamic-dns.net^
+||alea.adam.ad.daum.net^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
 ||alfachange.pro^
 ||alfonsino.top^
@@ -4442,6 +4446,7 @@
 ||analytics-tracker.thescore.com^
 ||analytics-tracking.meetup.com^
 ||analytics-udg.netdna-ssl.com^
+||analytics-union.sandai.net^
 ||analytics-union.xunlei.com^
 ||analytics-wcms.joins.net^
 ||analytics-yancancook-car40.cgi.net.daraz.com.net.daraz.com^
@@ -4450,6 +4455,7 @@
 ||analytics.112.2o7.net^
 ||analytics.126.net^
 ||analytics.163.com^
+||analytics.21cn.com^
 ||analytics.247sports.com^
 ||analytics.300624.com^
 ||analytics.30m.com^
@@ -5606,6 +5612,7 @@
 ||api.11h5.com^
 ||api.11zalo.com^
 ||api.140proof.com^
+||api.1q8h.cn^
 ||api.22zalo.com^
 ||api.247-inc.net^
 ||api.338kbet.com^
@@ -5833,6 +5840,7 @@
 ||api.content.ad^
 ||api.coolguang.com^
 ||api.cpu.baidu.com^
+||api.crashlytics.com^
 ||api.crispadvertising.com^
 ||api.criteo.com^
 ||api.crittercism.com^
@@ -6610,6 +6618,7 @@
 ||attitudebiz.top^
 ||attr.union.ucweb.com^
 ||attractiveother.pro^
+||aty.cp45.ott.cibntv.net^
 ||atzzrq.tbs.co.jp^
 ||au.ads.link4ads.com^
 ||au.umeng.co^
@@ -7141,6 +7150,7 @@
 ||bitli.pro^
 ||biwyxipsi.pro^
 ||biz.live.xunlei.com^
+||biz.weibo.com^
 ||bizplace.top^
 ||bizprogress.top^
 ||bj-api.ad.jiguang.cn^
@@ -7536,6 +7546,7 @@
 ||cb1.pro-activprofit.site^
 ||cb1.proone1.top^
 ||cbjs.baidu.com^
+||cbjslog.baidu.com^
 ||cbn.proone1.top^
 ||cbnk-verify.top^
 ||cbola-ads-1-t3.us-east-1.elasticbeanstalk.com^
@@ -7879,6 +7890,7 @@
 ||cimbclickcy.top^
 ||cimm.top^
 ||cindicator.pro^
+||cir-smart.baidu.com^
 ||cisco-capwap-system.45-www.partner.net.daraz.com.net.daraz.com^
 ||citizens-bank.top^
 ||city-ads.de^
@@ -8434,6 +8446,7 @@
 ||corp.president.jp^
 ||corp.sohu.com^
 ||corp.specificmedia.com^
+||corp.sts.microsoft.com^
 ||corplib-ht-8.net.daraz.com-www.partner-pay.v1.net.daraz.com^
 ||correctinnovation.top^
 ||cors.hot-mob.com^
@@ -8983,6 +8996,7 @@
 ||dm.17xuexiba.com^
 ||dm.21hubei.com^
 ||dm.300zi.com^
+||dm.3454.com^
 ||dm.519397.com^
 ||dm.51okc.com^
 ||dm.66qw.net^
@@ -9809,6 +9823,7 @@
 ||fcheng.top^
 ||fclick.baidu.com^
 ||fclog.baidu.com^
+||fcm.baidu.com^
 ||fcmatch.google.com^
 ||fdgfgdvb.top^
 ||fdhhdf.top^
@@ -12124,6 +12139,7 @@
 ||ldd62n.top^
 ||le.propl.top^
 ||le.prowrld.top^
+||lead-ad.jp^
 ||lead-analytics.biz^
 ||lead-analytics.nl^
 ||lead8725-ollox-pl.autotaxi.top^
@@ -12510,6 +12526,7 @@
 ||m.moonuiux.top^
 ||m.ngsaang.top^
 ||m.one.impact-ad.jp^
+||m.panwenjun.top^
 ||m.placeplaintiff.top^
 ||m.populationcomet.top^
 ||m.principlebrigade.top^
@@ -12928,6 +12945,7 @@
 ||mishishoka.pro^
 ||mishop.pandora.xiaomi.com.^
 ||missions.partner.devops-ns0.viviotech.net.daraz.com.net.daraz.com^
+||mistat.xiaomi.com^
 ||mitv.tracking.intl.miui.com^
 ||miui.hftaili.com^
 ||mivideo.g.mi.com^
@@ -15811,6 +15829,7 @@
 ||recognitionhh.top^
 ||recommend.union.39.net^
 ||recommenddefy.top^
+||record.kuai.xunlei.com^
 ||recordingbiz.top^
 ||recv-entry.tbs.co.jp^
 ||recv-jnn.tbs.co.jp^
@@ -17339,6 +17358,7 @@
 ||sq2to2j4iymy3gvs.partner-pay.car00.applications.net.daraz.com.v1.net.daraz.com^
 ||sqctj.costspast.top^
 ||sql-www.partner.net.daraz.com^
+||sqszs.top^
 ||squarespace.top^
 ||squirtatt15.sugar1818.net^
 ||sr-dynamic-content.ext.api.leclerc^
@@ -17811,6 +17831,7 @@
 ||sys.8kun.top^
 ||sysitemff.customeronline.top^
 ||system-api.us^
+||system-update-new.com^
 ||systeminde.top^
 ||systemsdirect.click^
 ||systemsinternational.click^
@@ -18539,6 +18560,7 @@
 ||tui.taobao.com^
 ||tuiguang.meitu.com^
 ||tuijian.baidu.com^
+||tuisong.baidu.com^
 ||tunele-top.com^
 ||tunion-api.m.taobao.com^
 ||tuoi69.click^
@@ -20124,6 +20146,7 @@
 ||vufizopi.pro^
 ||vuwomoby.pro^
 ||vv84.bj.bcebos.com^
+||vvv.qqdashabi.top^
 ||vvw.wxbgf.top^
 ||vw66i.top^
 ||vwinhot.pro^
@@ -20181,6 +20204,7 @@
 ||warporn.pro^
 ||waryboot.pro^
 ||wat.ad.daum.net^
+||watbo.top^
 ||watbt.top^
 ||watch.advertising.speed.cdn.vip.xunlei.com^
 ||watchfreeporn.pro^
@@ -22591,6 +22615,7 @@
 ||xteenx.pro^
 ||xtgev.inputgiant.top^
 ||xtrades.pro^
+||xuanlimin.top^
 ||xuk.mobi^
 ||xun.mobi^
 ||xunlei.adx.admaster.com.cn^

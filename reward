@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-03 11:06:02 
+#更新时间: 2023-04-03 11:51:08 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22963
+#规则数量:22988
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -499,6 +499,7 @@
 127.0.0.1 a.cookpad-ads.com
 127.0.0.1 a.exosrv.com
 127.0.0.1 a.lubiao.com
+127.0.0.1 a.market.xiaomi.com
 127.0.0.1 a.miyudaquan.top
 127.0.0.1 a.ns.api.emailvision-idsr-es-5.net.daraz.com.net.daraz.com
 127.0.0.1 a.ns.api.emailvision.v.r-ht-2.net.daraz.com.net.daraz.com
@@ -1947,6 +1948,7 @@
 127.0.0.1 adpretirementservices.122.2o7.net
 127.0.0.1 adpro.pro.cn
 127.0.0.1 adpulse.ads.targetnet.com
+127.0.0.1 adpush.cn
 127.0.0.1 adpush.goforandroid.com
 127.0.0.1 adrcdn.com
 127.0.0.1 adrdir.qq.com
@@ -3883,6 +3885,7 @@
 127.0.0.1 adshmct.qq.com
 127.0.0.1 adshmmsg.qq.com
 127.0.0.1 adsite.hot-mob.com
+127.0.0.1 adsk2.co
 127.0.0.1 adslot.uc.cn
 127.0.0.1 adslvfile.qq.com
 127.0.0.1 adslvseed.qq.com
@@ -4177,6 +4180,7 @@
 127.0.0.1 akydbank-invest.pro
 127.0.0.1 alanilly.click
 127.0.0.1 alaskbucs.dynamic-dns.net
+127.0.0.1 alea.adam.ad.daum.net
 127.0.0.1 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 127.0.0.1 alfachange.pro
 127.0.0.1 alfonsino.top
@@ -4386,6 +4390,7 @@
 127.0.0.1 analytics-tracker.thescore.com
 127.0.0.1 analytics-tracking.meetup.com
 127.0.0.1 analytics-udg.netdna-ssl.com
+127.0.0.1 analytics-union.sandai.net
 127.0.0.1 analytics-union.xunlei.com
 127.0.0.1 analytics-wcms.joins.net
 127.0.0.1 analytics-yancancook-car40.cgi.net.daraz.com.net.daraz.com
@@ -4394,6 +4399,7 @@
 127.0.0.1 analytics.112.2o7.net
 127.0.0.1 analytics.126.net
 127.0.0.1 analytics.163.com
+127.0.0.1 analytics.21cn.com
 127.0.0.1 analytics.247sports.com
 127.0.0.1 analytics.300624.com
 127.0.0.1 analytics.30m.com
@@ -5550,6 +5556,7 @@
 127.0.0.1 api.11h5.com
 127.0.0.1 api.11zalo.com
 127.0.0.1 api.140proof.com
+127.0.0.1 api.1q8h.cn
 127.0.0.1 api.22zalo.com
 127.0.0.1 api.247-inc.net
 127.0.0.1 api.338kbet.com
@@ -5777,6 +5784,7 @@
 127.0.0.1 api.content.ad
 127.0.0.1 api.coolguang.com
 127.0.0.1 api.cpu.baidu.com
+127.0.0.1 api.crashlytics.com
 127.0.0.1 api.crispadvertising.com
 127.0.0.1 api.criteo.com
 127.0.0.1 api.crittercism.com
@@ -6554,6 +6562,7 @@
 127.0.0.1 attitudebiz.top
 127.0.0.1 attr.union.ucweb.com
 127.0.0.1 attractiveother.pro
+127.0.0.1 aty.cp45.ott.cibntv.net
 127.0.0.1 atzzrq.tbs.co.jp
 127.0.0.1 au.ads.link4ads.com
 127.0.0.1 au.umeng.co
@@ -7085,6 +7094,7 @@
 127.0.0.1 bitli.pro
 127.0.0.1 biwyxipsi.pro
 127.0.0.1 biz.live.xunlei.com
+127.0.0.1 biz.weibo.com
 127.0.0.1 bizplace.top
 127.0.0.1 bizprogress.top
 127.0.0.1 bj-api.ad.jiguang.cn
@@ -7480,6 +7490,7 @@
 127.0.0.1 cb1.pro-activprofit.site
 127.0.0.1 cb1.proone1.top
 127.0.0.1 cbjs.baidu.com
+127.0.0.1 cbjslog.baidu.com
 127.0.0.1 cbn.proone1.top
 127.0.0.1 cbnk-verify.top
 127.0.0.1 cbola-ads-1-t3.us-east-1.elasticbeanstalk.com
@@ -7823,6 +7834,7 @@
 127.0.0.1 cimbclickcy.top
 127.0.0.1 cimm.top
 127.0.0.1 cindicator.pro
+127.0.0.1 cir-smart.baidu.com
 127.0.0.1 cisco-capwap-system.45-www.partner.net.daraz.com.net.daraz.com
 127.0.0.1 citizens-bank.top
 127.0.0.1 city-ads.de
@@ -8378,6 +8390,7 @@
 127.0.0.1 corp.president.jp
 127.0.0.1 corp.sohu.com
 127.0.0.1 corp.specificmedia.com
+127.0.0.1 corp.sts.microsoft.com
 127.0.0.1 corplib-ht-8.net.daraz.com-www.partner-pay.v1.net.daraz.com
 127.0.0.1 correctinnovation.top
 127.0.0.1 cors.hot-mob.com
@@ -8927,6 +8940,7 @@
 127.0.0.1 dm.17xuexiba.com
 127.0.0.1 dm.21hubei.com
 127.0.0.1 dm.300zi.com
+127.0.0.1 dm.3454.com
 127.0.0.1 dm.519397.com
 127.0.0.1 dm.51okc.com
 127.0.0.1 dm.66qw.net
@@ -9753,6 +9767,7 @@
 127.0.0.1 fcheng.top
 127.0.0.1 fclick.baidu.com
 127.0.0.1 fclog.baidu.com
+127.0.0.1 fcm.baidu.com
 127.0.0.1 fcmatch.google.com
 127.0.0.1 fdgfgdvb.top
 127.0.0.1 fdhhdf.top
@@ -12068,6 +12083,7 @@
 127.0.0.1 ldd62n.top
 127.0.0.1 le.propl.top
 127.0.0.1 le.prowrld.top
+127.0.0.1 lead-ad.jp
 127.0.0.1 lead-analytics.biz
 127.0.0.1 lead-analytics.nl
 127.0.0.1 lead8725-ollox-pl.autotaxi.top
@@ -12454,6 +12470,7 @@
 127.0.0.1 m.moonuiux.top
 127.0.0.1 m.ngsaang.top
 127.0.0.1 m.one.impact-ad.jp
+127.0.0.1 m.panwenjun.top
 127.0.0.1 m.placeplaintiff.top
 127.0.0.1 m.populationcomet.top
 127.0.0.1 m.principlebrigade.top
@@ -12872,6 +12889,7 @@
 127.0.0.1 mishishoka.pro
 127.0.0.1 mishop.pandora.xiaomi.com.
 127.0.0.1 missions.partner.devops-ns0.viviotech.net.daraz.com.net.daraz.com
+127.0.0.1 mistat.xiaomi.com
 127.0.0.1 mitv.tracking.intl.miui.com
 127.0.0.1 miui.hftaili.com
 127.0.0.1 mivideo.g.mi.com
@@ -15755,6 +15773,7 @@
 127.0.0.1 recognitionhh.top
 127.0.0.1 recommend.union.39.net
 127.0.0.1 recommenddefy.top
+127.0.0.1 record.kuai.xunlei.com
 127.0.0.1 recordingbiz.top
 127.0.0.1 recv-entry.tbs.co.jp
 127.0.0.1 recv-jnn.tbs.co.jp
@@ -17283,6 +17302,7 @@
 127.0.0.1 sq2to2j4iymy3gvs.partner-pay.car00.applications.net.daraz.com.v1.net.daraz.com
 127.0.0.1 sqctj.costspast.top
 127.0.0.1 sql-www.partner.net.daraz.com
+127.0.0.1 sqszs.top
 127.0.0.1 squarespace.top
 127.0.0.1 squirtatt15.sugar1818.net
 127.0.0.1 sr-dynamic-content.ext.api.leclerc
@@ -17755,6 +17775,7 @@
 127.0.0.1 sys.8kun.top
 127.0.0.1 sysitemff.customeronline.top
 127.0.0.1 system-api.us
+127.0.0.1 system-update-new.com
 127.0.0.1 systeminde.top
 127.0.0.1 systemsdirect.click
 127.0.0.1 systemsinternational.click
@@ -18483,6 +18504,7 @@
 127.0.0.1 tui.taobao.com
 127.0.0.1 tuiguang.meitu.com
 127.0.0.1 tuijian.baidu.com
+127.0.0.1 tuisong.baidu.com
 127.0.0.1 tunele-top.com
 127.0.0.1 tunion-api.m.taobao.com
 127.0.0.1 tuoi69.click
@@ -20068,6 +20090,7 @@
 127.0.0.1 vufizopi.pro
 127.0.0.1 vuwomoby.pro
 127.0.0.1 vv84.bj.bcebos.com
+127.0.0.1 vvv.qqdashabi.top
 127.0.0.1 vvw.wxbgf.top
 127.0.0.1 vw66i.top
 127.0.0.1 vwinhot.pro
@@ -20125,6 +20148,7 @@
 127.0.0.1 warporn.pro
 127.0.0.1 waryboot.pro
 127.0.0.1 wat.ad.daum.net
+127.0.0.1 watbo.top
 127.0.0.1 watbt.top
 127.0.0.1 watch.advertising.speed.cdn.vip.xunlei.com
 127.0.0.1 watchfreeporn.pro
@@ -22535,6 +22559,7 @@
 127.0.0.1 xteenx.pro
 127.0.0.1 xtgev.inputgiant.top
 127.0.0.1 xtrades.pro
+127.0.0.1 xuanlimin.top
 127.0.0.1 xuk.mobi
 127.0.0.1 xun.mobi
 127.0.0.1 xunlei.adx.admaster.com.cn
