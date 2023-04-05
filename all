@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-06 03:56:20 
+#更新时间: 2023-04-06 04:56:08 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22600
+#规则数量:22611
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -2778,6 +2778,8 @@
 94.140.14.33 ads.livetv638.me
 94.140.14.33 ads.livetv639.me
 94.140.14.33 ads.livetv640.me
+94.140.14.33 ads.livetv643.me
+94.140.14.33 ads.livetv644.me
 94.140.14.33 ads.livetvcdn.net
 94.140.14.33 ads.lmmob.com
 94.140.14.33 ads.localyokelmedia.com
@@ -4308,6 +4310,7 @@
 94.140.14.33 analytics-nssl.bradyid.com
 94.140.14.33 analytics-phi-nfl.yinzcam.com
 94.140.14.33 analytics-pit-nfl.yinzcam.com
+94.140.14.33 analytics-prod-gcp.ff.avast.com
 94.140.14.33 analytics-prod2.glance-internal.inmobi.com
 94.140.14.33 analytics-production.hapyak.com
 94.140.14.33 analytics-proxy.springboard.com
@@ -7746,6 +7749,7 @@
 94.140.14.33 click-rtb2-apac.newchallenges-dsp.com
 94.140.14.33 click-rtb2-apac.onenativeads.com
 94.140.14.33 click-rtb2-apac.t3dsp.com
+94.140.14.33 click-rtb2-apac.xaprio.net
 94.140.14.33 click-rtb2-eu.convergeselect.net
 94.140.14.33 click-rtb2-eu.e-volution.ai
 94.140.14.33 click-rtb2-eu.waardex.com
@@ -7753,6 +7757,7 @@
 94.140.14.33 click-rtb2-useast.afkwa.com
 94.140.14.33 click-rtb2-useast.africonverse.com
 94.140.14.33 click-rtb2-useast.e-volution.ai
+94.140.14.33 click-rtb2-useast.xaprio.net
 94.140.14.33 click-rtb2-uswest.afkwa.com
 94.140.14.33 click-staging.food.mercato.com
 94.140.14.33 click-staging.getdreams.co
@@ -7766,6 +7771,7 @@
 94.140.14.33 click-v4.expmdiadi.com
 94.140.14.33 click-v4.globlemath.com
 94.140.14.33 click-v4.jadspro.live
+94.140.14.33 click-v4.junexclkmid.com
 94.140.14.33 click-v4.junmediadirect1.com
 94.140.14.33 click-v4.xepoclk.com
 94.140.14.33 click-west.acuityplatform.com
@@ -7858,6 +7864,7 @@
 94.140.14.33 click.expmediadirect.com
 94.140.14.33 click.expmediadirect1.com
 94.140.14.33 click.fanyi.baidu.com
+94.140.14.33 click.fastupload.io
 94.140.14.33 click.favordelivery.com
 94.140.14.33 click.food.mercato.com
 94.140.14.33 click.fool.com
@@ -10411,6 +10418,7 @@
 94.140.14.33 hearbreakingfizz.top
 94.140.14.33 heatherglovejoysecurity.top
 94.140.14.33 heavenly-test.pro
+94.140.14.33 hebgb.top
 94.140.14.33 hecan123.top
 94.140.14.33 heclnyu.top
 94.140.14.33 hegarberetrof.pro
@@ -11771,6 +11779,7 @@
 94.140.14.33 kroner.pro
 94.140.14.33 krp3g.top
 94.140.14.33 krr894.top
+94.140.14.33 krrtxbfbeey.top
 94.140.14.33 krumbleent-ads.info
 94.140.14.33 ks2g.top
 94.140.14.33 ks9f.top
@@ -17352,6 +17361,7 @@
 94.140.14.33 syndication-adblock.exoclick.com
 94.140.14.33 syndication-evo.exoclick.com
 94.140.14.33 syndication-gceuw1.exoclick.com
+94.140.14.33 syndication-json.exoclick.com
 94.140.14.33 syndication-o.twimg.com
 94.140.14.33 syndication-p.exoclick.com
 94.140.14.33 syndication-whk1.exoclick.com
@@ -18039,6 +18049,7 @@
 94.140.14.33 traffic.taktikal.is
 94.140.14.33 traffic.tc-clicks.com
 94.140.14.33 traffic.tcmagnet.com
+94.140.14.33 traffic.vietnhan.co
 94.140.14.33 traffic.wdc.center
 94.140.14.33 trafficjunky.com
 94.140.14.33 trafficjunky.net
