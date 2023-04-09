@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-09 15:56:22 
+#更新时间: 2023-04-09 16:56:12 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22590
+#规则数量:22570
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -753,7 +753,6 @@
 1.1.1.1 ad.8live.net
 1.1.1.1 ad.980x.com
 1.1.1.1 ad.a-ads.com
-1.1.1.1 ad.a.yximgs.com
 1.1.1.1 ad.a8.net
 1.1.1.1 ad.abcnews.com
 1.1.1.1 ad.abctv.com
@@ -845,7 +844,6 @@
 1.1.1.1 ad.arabxl.com
 1.1.1.1 ad.arklm.com
 1.1.1.1 ad.as.amanad.adtdp.com
-1.1.1.1 ad.askingpoint.com
 1.1.1.1 ad.asntown.net
 1.1.1.1 ad.aspm.jp
 1.1.1.1 ad.at.doubleclick.net
@@ -1099,7 +1097,6 @@
 1.1.1.1 ad.jaumo.com
 1.1.1.1 ad.jetsoftware.com
 1.1.1.1 ad.jeune-independant.net
-1.1.1.1 ad.jia.360.cn
 1.1.1.1 ad.jibunde-esute.com
 1.1.1.1 ad.jiemian.com
 1.1.1.1 ad.jiguang.cn
@@ -1713,8 +1710,6 @@
 1.1.1.1 adclick.tencentmusic.com
 1.1.1.1 adcore.lenovomm.com
 1.1.1.1 adcos.adxmly.com
-1.1.1.1 add1.aniview.com
-1.1.1.1 add2.aniview.com
 1.1.1.1 addelivery-engine-api.voodoo-ads.io
 1.1.1.1 addthiscdn.com
 1.1.1.1 ade.googlesyndication.com
@@ -1722,7 +1717,6 @@
 1.1.1.1 adelachrist.top
 1.1.1.1 adelogs.adobe.com
 1.1.1.1 aden.baidu.com
-1.1.1.1 adevents.msn.com
 1.1.1.1 adeventtracker.spotify.com
 1.1.1.1 adexpo.tencentmusic.com
 1.1.1.1 adf.ero-advertising.com
@@ -1966,7 +1960,6 @@
 1.1.1.1 ads-us.pictela.net
 1.1.1.1 ads-v-darwin.hulu.com
 1.1.1.1 ads-verify.flurry.com
-1.1.1.1 ads-verify.yap.yahoo.com
 1.1.1.1 ads-wc.adaptv.advertising.com
 1.1.1.1 ads-wc.v.ssp.yahoo.com
 1.1.1.1 ads-wordego.azureedge.net
@@ -4283,7 +4276,6 @@
 1.1.1.1 analytics-nssl.bradyid.com
 1.1.1.1 analytics-phi-nfl.yinzcam.com
 1.1.1.1 analytics-pit-nfl.yinzcam.com
-1.1.1.1 analytics-prod-gcp.ff.avast.com
 1.1.1.1 analytics-prod2.glance-internal.inmobi.com
 1.1.1.1 analytics-production.hapyak.com
 1.1.1.1 analytics-proxy.springboard.com
@@ -5700,7 +5692,6 @@
 1.1.1.1 api.eskimi.com
 1.1.1.1 api.essentialchannel.com
 1.1.1.1 api.eu.amplitude.com
-1.1.1.1 api.europe.bidtellect.com
 1.1.1.1 api.exc.mob.com
 1.1.1.1 api.exoclick.com
 1.1.1.1 api.exp.sofology.co.uk
@@ -5833,7 +5824,6 @@
 1.1.1.1 api.locuslabs.com
 1.1.1.1 api.logentries.com
 1.1.1.1 api.logpartition.com
-1.1.1.1 api.logrocket.com
 1.1.1.1 api.lookupmanager.com
 1.1.1.1 api.luckyorange.com
 1.1.1.1 api.luscious.net
@@ -6374,6 +6364,7 @@
 1.1.1.1 asianvideos.pro
 1.1.1.1 asianwow.pro
 1.1.1.1 asianxxx.pro
+1.1.1.1 asiapushstan17.click
 1.1.1.1 asiatube.pro
 1.1.1.1 askjolene.ero-advertising.com
 1.1.1.1 askon-invest.pro
@@ -6402,7 +6393,6 @@
 1.1.1.1 ationconsulat.top
 1.1.1.1 atlas-api.com
 1.1.1.1 atmnjcinews.pro
-1.1.1.1 atom.adjust.com
 1.1.1.1 atomicwallet.pro
 1.1.1.1 atoverifi06t.top
 1.1.1.1 atsmetrics.adobe.com
@@ -7891,7 +7881,6 @@
 1.1.1.1 click.mediacpc.com
 1.1.1.1 click.mediaforge.com
 1.1.1.1 click.mediav.com
-1.1.1.1 click.meitustat.com
 1.1.1.1 click.mibet.com
 1.1.1.1 click.mibet88.com
 1.1.1.1 click.mistressofasia.com
@@ -8049,7 +8038,6 @@
 1.1.1.1 cmccca.top
 1.1.1.1 cmhaoso.top
 1.1.1.1 cmmk.inventnamb.click
-1.1.1.1 cmp-dev.advertising.com
 1.1.1.1 cmp.advertising.com
 1.1.1.1 cms-image.cdn.bcebos.com
 1.1.1.1 cms.analytics.yahoo.com
@@ -8075,6 +8063,7 @@
 1.1.1.1 cnzz.net
 1.1.1.1 coarsetournament.top
 1.1.1.1 cobidor-invest.pro
+1.1.1.1 cocgt.top
 1.1.1.1 cock.lepsage.top
 1.1.1.1 coco-pay.orgn.top
 1.1.1.1 cod.dm.link
@@ -9401,9 +9390,7 @@
 1.1.1.1 events-analytics.hotstar.com
 1.1.1.1 events-api.otherlevels.com
 1.1.1.1 events-collector-api.viacom.tech
-1.1.1.1 events-dra.op.hicloud.com
 1.1.1.1 events-jp.splash-screen.net
-1.1.1.1 events.adjust.com
 1.1.1.1 events.ads.vungle.com
 1.1.1.1 events.api.boomtrain.com
 1.1.1.1 events.api.godaddy.com
@@ -9940,7 +9927,6 @@
 1.1.1.1 gazetalokalna.click
 1.1.1.1 gazetamiejska.click
 1.1.1.1 gb.for4you.top
-1.1.1.1 gcads.o0.0.0ads.mdchoice.com
 1.1.1.1 gcaresdfa.top
 1.1.1.1 gcd.mmstat.com
 1.1.1.1 gcdn.2mdn.net
@@ -10370,7 +10356,6 @@
 1.1.1.1 hb-api-fra01.omnitagjs.com
 1.1.1.1 hb-api.omnitagjs.com
 1.1.1.1 hb-as.adtech.advertising.com
-1.1.1.1 hb-us.adtech.advertising.com
 1.1.1.1 hb.ads.152media.com
 1.1.1.1 hb.adx1.com
 1.1.1.1 hb.adx2.adform.net
@@ -11375,6 +11360,7 @@
 1.1.1.1 item.mediav.com
 1.1.1.1 itempubgminfo.click
 1.1.1.1 itiswell.tbs.ac.tz
+1.1.1.1 itoken.pro
 1.1.1.1 itsshowtime.top
 1.1.1.1 itx4-secure.smartadserver.com
 1.1.1.1 itx4.smartadserver.com
@@ -11592,7 +11578,6 @@
 1.1.1.1 jssdk.cnzz.com
 1.1.1.1 jtjsmp.top
 1.1.1.1 jtogm.midiain.top
-1.1.1.1 ju.mmstat.com
 1.1.1.1 ju.taobao.com
 1.1.1.1 judicious-feed.pro
 1.1.1.1 jueditt.top
@@ -11889,7 +11874,6 @@
 1.1.1.1 ledsitling.pro
 1.1.1.1 leftnetarenning.pro
 1.1.1.1 legjava.pro
-1.1.1.1 lego.mmstat.com
 1.1.1.1 leiki-doubleclick-proxy.appspot.com
 1.1.1.1 lengejoberdak.pro
 1.1.1.1 leobdvvk.top
@@ -12126,7 +12110,6 @@
 1.1.1.1 logo-diriecot-ismbc-co-jp.top
 1.1.1.1 logo.o2o-mionieiyikit-net-jp.top
 1.1.1.1 logserver.insight.ucweb.com
-1.1.1.1 logservice-dra.platform.hicloud.com
 1.1.1.1 logservice.hicloud.com
 1.1.1.1 logservice1.hicloud.com
 1.1.1.1 logssug.ucweb.com
@@ -13911,7 +13894,6 @@
 1.1.1.1 p15-ad-sign.byteimg.com
 1.1.1.1 p15-orange.byteorge.com
 1.1.1.1 p16-ad-sign.byteimg.com
-1.1.1.1 p16-ad.byteoversea.com
 1.1.1.1 p16-orange.byteorge.com
 1.1.1.1 p17-ad-sign.byteimg.com
 1.1.1.1 p17-orange.byteorge.com
@@ -14027,6 +14009,7 @@
 1.1.1.1 pardot.analytics.mcgill.ca
 1.1.1.1 pardot.corp.capy.me
 1.1.1.1 paridakinvest.pro
+1.1.1.1 parisloginblast.pro
 1.1.1.1 parking.godaddy.com
 1.1.1.1 partner-ads.com
 1.1.1.1 partner-api.jobbio.com
@@ -14247,7 +14230,6 @@
 1.1.1.1 partner.root.cz
 1.1.1.1 partner.royalfashion.cz
 1.1.1.1 partner.runningpro.cz
-1.1.1.1 partner.rvadnet.com
 1.1.1.1 partner.salibandy.shop
 1.1.1.1 partner.santao.cz
 1.1.1.1 partner.sbaffiliates.com
@@ -17019,7 +17001,6 @@
 1.1.1.1 staging-e-vcdn.anthill.vn
 1.1.1.1 staging.api.adtimaserver.vn
 1.1.1.1 staging.campaign.ateam-ad.jp
-1.1.1.1 staging.corp.evidon.com
 1.1.1.1 staging.sdkconfig.ad.xiaomi.srv
 1.1.1.1 stancehd.top
 1.1.1.1 standardmeta.click
@@ -18286,7 +18267,6 @@
 1.1.1.1 union.m.jd.com
 1.1.1.1 union.maccms.com
 1.1.1.1 union.sogou.com
-1.1.1.1 union.ucweb.com
 1.1.1.1 union.yihaodian.com
 1.1.1.1 unionimage.baidu.com
 1.1.1.1 unionsug.baidu.com
@@ -18548,7 +18528,6 @@
 1.1.1.1 v14-ad.ixigua.com
 1.1.1.1 v14.cnzz.com
 1.1.1.1 v15-ad.ixigua.com
-1.1.1.1 v16-ad.byteoversea.com
 1.1.1.1 v16-ad.ixigua.com
 1.1.1.1 v17-ad.ixigua.com
 1.1.1.1 v18-ad.ixigua.com
@@ -19887,6 +19866,7 @@
 1.1.1.1 whfhs.top
 1.1.1.1 whk.acetoid.top
 1.1.1.1 who.mergify.top
+1.1.1.1 whole-win.pro
 1.1.1.1 whopexesho.pro
 1.1.1.1 whoyouac.top
 1.1.1.1 whsgpp.top
