@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-11 07:56:05 
+#更新时间: 2023-04-11 09:54:19 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22623
+#规则数量:22617
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1068,7 +1068,6 @@
 1.1.1.1 ad.ichiru.net
 1.1.1.1 ad.iconadserver.com
 1.1.1.1 ad.ie.doubleclick.net
-1.1.1.1 ad.ieurop.net
 1.1.1.1 ad.iinfo.cz
 1.1.1.1 ad.ikonke.com
 1.1.1.1 ad.il.doubleclick.net
@@ -5952,7 +5951,6 @@
 1.1.1.1 api.proper.io
 1.1.1.1 api.pub.network
 1.1.1.1 api.pubfinity.com
-1.1.1.1 api.publift.com
 1.1.1.1 api.publishers.adlive.io
 1.1.1.1 api.pubmatic.com
 1.1.1.1 api.pubmine.com
@@ -6050,7 +6048,6 @@
 1.1.1.1 api.standarteng.com
 1.1.1.1 api.stathat.com
 1.1.1.1 api.stats.appa.pe
-1.1.1.1 api.statsig.com
 1.1.1.1 api.stickers.duapps.com
 1.1.1.1 api.subiz.com.vn
 1.1.1.1 api.subiz.net
@@ -6106,7 +6103,6 @@
 1.1.1.1 api.umeng.com
 1.1.1.1 api.unblockia.com
 1.1.1.1 api.unibots.in
-1.1.1.1 api.uniconsent.com
 1.1.1.1 api.union.vip.com
 1.1.1.1 api.uniplayad.com
 1.1.1.1 api.unthem.com
@@ -14054,7 +14050,6 @@
 1.1.1.1 partner.bioaromakosmetika.cz
 1.1.1.1 partner.bonyplus.cz
 1.1.1.1 partner.brawolife.cz
-1.1.1.1 partner.breaktime.com.tw
 1.1.1.1 partner.brilianty.cz
 1.1.1.1 partner.brillbird.cz
 1.1.1.1 partner.cakemarket.eu
@@ -17165,7 +17160,6 @@
 1.1.1.1 stg-data-tw.ads.heytapmobile.com
 1.1.1.1 stg-data-vn.ads.heytapmobile.com
 1.1.1.1 stg-data.ads.heytapmobi.com
-1.1.1.1 stg-partner.breaktime.com.tw
 1.1.1.1 stgami-o.top
 1.1.1.1 stgowan.com
 1.1.1.1 sticans.pro
