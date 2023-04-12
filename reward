@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-12 11:56:21 
+#更新时间: 2023-04-12 12:56:06 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22853
+#规则数量:22852
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -208,7 +208,6 @@
 1.1.1.1 2fflatfee.ero-advertising.com
 1.1.1.1 2fspeedclicks.ero-advertising.com
 1.1.1.1 2fzv5g3onbx6.top
-1.1.1.1 2giga.download
 1.1.1.1 2gtest.bj2cu.u3.ucweb.com
 1.1.1.1 2hfby.top
 1.1.1.1 2k47467bsnsspgrcvry.dns.navy
@@ -454,6 +453,7 @@
 1.1.1.1 a.consumer.net
 1.1.1.1 a.cookpad-ads.com
 1.1.1.1 a.exosrv.com
+1.1.1.1 a.linkforcaptcha.top
 1.1.1.1 a.lubiao.com
 1.1.1.1 a.miyudaquan.top
 1.1.1.1 a.one.impact-ad.jp
@@ -4210,6 +4210,7 @@
 1.1.1.1 amazom.snmzou.top
 1.1.1.1 amazom.wunior.top
 1.1.1.1 amazon-bcdsg.dns-report.com
+1.1.1.1 amazon-co-japan.top
 1.1.1.1 amazon-co-jp-up.top
 1.1.1.1 amazon-co-ne.top
 1.1.1.1 amazon-com-jp-z.top
@@ -5368,6 +5369,7 @@
 1.1.1.1 api-gps-em.hismarttv.com
 1.1.1.1 api-gps-na.hismarttv.com
 1.1.1.1 api-h.outgrow.co
+1.1.1.1 api-help.100px.com
 1.1.1.1 api-home.coocaa.ottcn.com
 1.1.1.1 api-home.skysrt.com
 1.1.1.1 api-hw.adxplay.com
@@ -5479,7 +5481,6 @@
 1.1.1.1 api.88new.cc
 1.1.1.1 api.898bet1.com
 1.1.1.1 api.99vn.bet
-1.1.1.1 api.aalbbh84.info
 1.1.1.1 api.abcxs.org
 1.1.1.1 api.accengage.com
 1.1.1.1 api.accengage.net
@@ -5624,7 +5625,6 @@
 1.1.1.1 api.bee7.com
 1.1.1.1 api.behavioralengine.com
 1.1.1.1 api.betlv.com
-1.1.1.1 api.bhzejltg.info
 1.1.1.1 api.bigmobileads.com
 1.1.1.1 api.bingads.microsoft.com
 1.1.1.1 api.birdmedia.com
@@ -5830,7 +5830,6 @@
 1.1.1.1 api.jerkmate.com
 1.1.1.1 api.jialiangad.com
 1.1.1.1 api.jpush.cn
-1.1.1.1 api.jsecoin.com
 1.1.1.1 api.jsfc8.cn
 1.1.1.1 api.juicyads.com
 1.1.1.1 api.jun889.vip
@@ -5915,7 +5914,6 @@
 1.1.1.1 api.native.ai
 1.1.1.1 api.nend.net
 1.1.1.1 api.net.sparhandy.de
-1.1.1.1 api.netflare.info
 1.1.1.1 api.new8808.vip
 1.1.1.1 api.new8884.com
 1.1.1.1 api.new88w.com
@@ -5998,7 +5996,6 @@
 1.1.1.1 api.pvmax.net
 1.1.1.1 api.pxlad.io
 1.1.1.1 api.pymx5.com
-1.1.1.1 api.pzoifaum.info
 1.1.1.1 api.qc.coccoc.com
 1.1.1.1 api.qcmm07.com
 1.1.1.1 api.qids.xyz
@@ -6233,6 +6230,7 @@
 1.1.1.1 app-analytics-v2.snapchat.com
 1.1.1.1 app-analytics.huami.com
 1.1.1.1 app-analytics.snapchat.com
+1.1.1.1 app-nunbank.troca-pontos.top
 1.1.1.1 app.adjust.com
 1.1.1.1 app.adjust.io
 1.1.1.1 app.adjust.net.in
@@ -6359,7 +6357,6 @@
 1.1.1.1 as.ao.impact-ad.jp
 1.1.1.1 as.bi.impact-ad.jp
 1.1.1.1 as.cd.impact-ad.jp
-1.1.1.1 as.cfcnet.top
 1.1.1.1 as.ch.impact-ad.jp
 1.1.1.1 as.cw.impact-ad.jp
 1.1.1.1 as.dc.impact-ad.jp
@@ -6504,6 +6501,7 @@
 1.1.1.1 autoline-top.com
 1.1.1.1 automizely-analytics.com
 1.1.1.1 autoseo-traffic.com
+1.1.1.1 autriviee99.click
 1.1.1.1 av1.xdrig.com
 1.1.1.1 avair.top
 1.1.1.1 avanchange.pro
@@ -6821,7 +6819,6 @@
 1.1.1.1 battlegrounds-mob.my.id
 1.1.1.1 bavners2.ero-advertising.com
 1.1.1.1 bawerdas-invest.pro
-1.1.1.1 baywttgdhe.download
 1.1.1.1 bb.progrr.top
 1.1.1.1 bbazhaheiv.top
 1.1.1.1 bbnnppraillibass.top
@@ -7379,6 +7376,7 @@
 1.1.1.1 ccc.sys.intl.xiaomi.com
 1.1.1.1 ccc.sys.miui.com
 1.1.1.1 ccdace.hupu.com
+1.1.1.1 ccmoney.pro
 1.1.1.1 ccrt-en.ad-stir.com
 1.1.1.1 ccrt-ja.ad-stir.com
 1.1.1.1 cctv.mmstat.com
@@ -7390,7 +7388,6 @@
 1.1.1.1 cdn-ads.adpushup.com
 1.1.1.1 cdn-ads.oss-cn-shanghai.aliyuncs.com
 1.1.1.1 cdn-ads.thesaigontimes.vn
-1.1.1.1 cdn-analytics.pl
 1.1.1.1 cdn-api.admost.com
 1.1.1.1 cdn-api.appadhoc.com
 1.1.1.1 cdn-creatives-highwinds-prd.unityads.unity3d.com
@@ -8395,6 +8392,7 @@
 1.1.1.1 csr21-api.net.daraz.com
 1.1.1.1 csr21.api.net.daraz.com
 1.1.1.1 csrich.pro
+1.1.1.1 csskinsmoneyes.top
 1.1.1.1 cstm.baidu.com
 1.1.1.1 cstrader.top
 1.1.1.1 csync.smartadserver.com
@@ -8444,7 +8442,6 @@
 1.1.1.1 czasyplrozne.click
 1.1.1.1 czdffsa.top
 1.1.1.1 czmedia.top
-1.1.1.1 d.cfcnet.top
 1.1.1.1 d.clkservice.youdao.com
 1.1.1.1 d.exit-ad.com
 1.1.1.1 d.image-ad.jp
@@ -8760,8 +8757,11 @@
 1.1.1.1 direct-collect.dy-api.com
 1.1.1.1 direct-collect.dy-api.eu
 1.1.1.1 direct.blair-roger.top
+1.1.1.1 direct.smtib-jp-aip1-ib-logino-do.top
 1.1.1.1 direct.smtub-jp-ap1-ib.top
+1.1.1.1 directi.smtb-jp-ib-logo.top
 1.1.1.1 directi.smtbi.jp.ap1-ib-pers-onal.top
+1.1.1.1 directiu.smtjb-jp-ap1-ib-login.top
 1.1.1.1 directshopping.pro
 1.1.1.1 diriecot-ismbc-co-jp.top
 1.1.1.1 diriect-sbitb.top
@@ -9411,7 +9411,6 @@
 1.1.1.1 esoansg08.click
 1.1.1.1 espace-pro.olt.world
 1.1.1.1 espn.hb-api.omtrdc.net
-1.1.1.1 espost-hy.top
 1.1.1.1 essentialpiece.pro
 1.1.1.1 est-dev-partner.net.daraz.com
 1.1.1.1 est-dev.partner.net.daraz.com
@@ -9463,7 +9462,6 @@
 1.1.1.1 eu-click.eworldtrack.com
 1.1.1.1 eu-pl.poland-pro-one.site
 1.1.1.1 eu-west-1.dc.ads.linkedin.com
-1.1.1.1 eu.cfcnet.top
 1.1.1.1 eu.event.cmp.advertising.com
 1.1.1.1 eul.s.360.cn
 1.1.1.1 eurolive.pro
@@ -10144,7 +10142,6 @@
 1.1.1.1 girlsfuckvideo.pro
 1.1.1.1 girlsnaked.pro
 1.1.1.1 girlsporn.pro
-1.1.1.1 gitgrub.pro
 1.1.1.1 github.emailvision.api-docsns0.twtelecom.net.daraz.com.net.daraz.com
 1.1.1.1 gitlab.ad-stir.com
 1.1.1.1 giveawayskin.pro
@@ -10253,7 +10250,6 @@
 1.1.1.1 google-shopping-v2.sapoapps.vn
 1.1.1.1 google-shopping.sapoapps.vn
 1.1.1.1 google.akhil.gq
-1.1.1.1 google.baofujia.shop
 1.1.1.1 google.bv-hilden-west.de
 1.1.1.1 google.com-firewall.online
 1.1.1.1 google.devy.top
@@ -11611,6 +11607,7 @@
 1.1.1.1 jinchanjs.top
 1.1.1.1 jipinyouwu.com
 1.1.1.1 jira.vlion.cn
+1.1.1.1 jitterbug.top
 1.1.1.1 jittery-period.pro
 1.1.1.1 jitteryhire.pro
 1.1.1.1 jiwekawe.top
@@ -13335,7 +13332,6 @@
 1.1.1.1 network.advertise.com
 1.1.1.1 network.hot-mob.com
 1.1.1.1 networkconfigure.click
-1.1.1.1 networkeep.click
 1.1.1.1 networkme.click
 1.1.1.1 networksupport.click
 1.1.1.1 netzwerk-ad.de
@@ -13417,7 +13413,6 @@
 1.1.1.1 nnsqqc.top
 1.1.1.1 noahs-vn.pro
 1.1.1.1 noamiscience.pro
-1.1.1.1 noblock.pro
 1.1.1.1 node.sm-dafa.com
 1.1.1.1 noisyassistance.pro
 1.1.1.1 nongchanlianhe.top
@@ -13440,6 +13435,7 @@
 1.1.1.1 nowt.interfoxprog.click
 1.1.1.1 nozokuba.pro
 1.1.1.1 nqedi.agriry.top
+1.1.1.1 nrejkbnxb.top
 1.1.1.1 ns-strategy.cdn.bcebos.com
 1.1.1.1 ns.adobe.com
 1.1.1.1 ns.eadminsvision.traffic.r-ch-0.net.daraz.com.net.daraz.com
@@ -13871,7 +13867,6 @@
 1.1.1.1 open-adx.com
 1.1.1.1 open-api.azure.net.daraz.com
 1.1.1.1 open-apiauthpartner.net.daraz.com
-1.1.1.1 open-hive-server-1.pp.ua
 1.1.1.1 open-iflow.meizu.com
 1.1.1.1 open-marketing.net.daraz.com
 1.1.1.1 open-paxful.pro
@@ -14127,6 +14122,7 @@
 1.1.1.1 pagead2.googlesyndication.com
 1.1.1.1 pagead46.googlesyndication.com
 1.1.1.1 pagead46.l.doubleclick.net
+1.1.1.1 pagemanager2332582.click
 1.1.1.1 pagepeel.ero-advertising.com
 1.1.1.1 pages-juxiao.mediav.com
 1.1.1.1 pages.api.driftqa.com
@@ -14165,6 +14161,7 @@
 1.1.1.1 paridakinvest.pro
 1.1.1.1 parisloginblast.pro
 1.1.1.1 parking.godaddy.com
+1.1.1.1 participa-yapeiphone-pe.top
 1.1.1.1 partner-ads.com
 1.1.1.1 partner-alimebot.net.daraz.com
 1.1.1.1 partner-api.jobbio.com
@@ -14854,7 +14851,6 @@
 1.1.1.1 platnosci-konto-update.aktuakont.live
 1.1.1.1 play-google.pl
 1.1.1.1 play-zkasino.pro
-1.1.1.1 play.s01.vidtodo.pro
 1.1.1.1 play.x8vn.top
 1.1.1.1 player-aws.ads.152media.com
 1.1.1.1 player.ads.152media.com
@@ -15552,6 +15548,7 @@
 1.1.1.1 real.sp.analytics.yahoo.com
 1.1.1.1 realizationbis.top
 1.1.1.1 realize-fatura.top
+1.1.1.1 realmebel.pro
 1.1.1.1 realsrv.com
 1.1.1.1 realtime-metrics.flurry.com
 1.1.1.1 realweb-safety.click
@@ -15677,6 +15674,7 @@
 1.1.1.1 review-fb-mobi-4075225841.11media.com
 1.1.1.1 revolgc.pro
 1.1.1.1 rewarding-design.pro
+1.1.1.1 rgenvbb.top
 1.1.1.1 rggtt.top
 1.1.1.1 rhlxm.top
 1.1.1.1 rich-banner.ru
@@ -16037,7 +16035,7 @@
 1.1.1.1 safelinksweb-login-microsoftonline.cigam-corp.com
 1.1.1.1 safeshops.top
 1.1.1.1 safetycovertouse123654785.click
-1.1.1.1 safetycovertouse6748363.click
+1.1.1.1 safetycovertouse635498741.click
 1.1.1.1 safetytool1112222111.click
 1.1.1.1 safetytool32158648.click
 1.1.1.1 safetytool346357844.click
@@ -17069,6 +17067,7 @@
 1.1.1.1 sparc.pro
 1.1.1.1 sparkasse-abfrage.click
 1.1.1.1 sparkasse-daten.click
+1.1.1.1 sparkasse.sicherheit-upgrade.de
 1.1.1.1 sparkasse.spk-update.de
 1.1.1.1 sparkassen-check.de
 1.1.1.1 sparkassen-partner.de
@@ -18331,6 +18330,7 @@
 1.1.1.1 twitter-badges.s3.amazonaws.com
 1.1.1.1 twitter-info-22759960930.azureedge.net
 1.1.1.1 twitter-invest.org
+1.1.1.1 twitter-suport.com
 1.1.1.1 twitter-us.com
 1.1.1.1 twitter.cm
 1.1.1.1 twogldi.top
@@ -18621,7 +18621,6 @@
 1.1.1.1 us-west1.ads.playground.xyz
 1.1.1.1 us.ads.justpremium.com
 1.1.1.1 us.ads.yap.yahoo.com
-1.1.1.1 us.cfcnet.top
 1.1.1.1 us.event.cmp.advertising.com
 1.1.1.1 us.l.qq.com
 1.1.1.1 us.sheinpro.top
@@ -18833,8 +18832,10 @@
 1.1.1.1 velocity-invest.pro
 1.1.1.1 veloqubq.top
 1.1.1.1 vena.native-ad.net
+1.1.1.1 venjnaag.top
 1.1.1.1 vented.newdostawa174295.click
 1.1.1.1 vented.otrzymujac03298.top
+1.1.1.1 venwjknsb.top
 1.1.1.1 vepqb.premism.top
 1.1.1.1 vercel-analytics.com
 1.1.1.1 verification.jiguang.cn
@@ -19509,7 +19510,6 @@
 1.1.1.1 vintet-pl-kl2112.ydzhang.top
 1.1.1.1 violentanimal.pro
 1.1.1.1 vionertelssat.pro
-1.1.1.1 vip.cfcnet.top
 1.1.1.1 vip.streamwatch.pro
 1.1.1.1 vip9x.pro
 1.1.1.1 viplp.top
@@ -19874,6 +19874,7 @@
 1.1.1.1 vs9.gzct.u3.ucweb.com
 1.1.1.1 vs9.gzcu.u3.ucweb.com
 1.1.1.1 vscore.pro
+1.1.1.1 vsdjbrej.top
 1.1.1.1 vserv.mobi
 1.1.1.1 vskin.pro
 1.1.1.1 vsohu.admaster.com.cn
@@ -19889,6 +19890,7 @@
 1.1.1.1 vuwomoby.pro
 1.1.1.1 vv84.bj.bcebos.com
 1.1.1.1 vvehbjsb.top
+1.1.1.1 vvrnjbbdfb.top
 1.1.1.1 vvw.wxbgf.top
 1.1.1.1 vw66i.top
 1.1.1.1 vwehbvm.top
@@ -19906,6 +19908,7 @@
 1.1.1.1 vxwps.formatdue.top
 1.1.1.1 vyg.mobi
 1.1.1.1 vyk.admaster.com.cn
+1.1.1.1 vystarcuorg01.top
 1.1.1.1 vz-cdn.trafficjunky.net
 1.1.1.1 vz-cdn2.trafficjunky.net
 1.1.1.1 vz81m4.top
@@ -20141,6 +20144,7 @@
 1.1.1.1 wmnmy.womenforum.top
 1.1.1.1 wn.pos.baidu.com
 1.1.1.1 wn.x.jd.com
+1.1.1.1 wnjbsmbsb.top
 1.1.1.1 woerkedwith.top
 1.1.1.1 wohewodejxp.top
 1.1.1.1 wolve.pro
@@ -20164,6 +20168,7 @@
 1.1.1.1 wprog.activpl-pro.site
 1.1.1.1 wps-dev.com
 1.1.1.1 wps.relateddigital.com
+1.1.1.1 wqanfamt.top
 1.1.1.1 wr.da.netease.com
 1.1.1.1 wracam.click
 1.1.1.1 wrathfultower.pro
@@ -20328,6 +20333,7 @@
 1.1.1.1 www.acc-konto-update.netafixx.cam
 1.1.1.1 www.acc-update.netafuxu.club
 1.1.1.1 www.accessmail.click
+1.1.1.1 www.acco-update.adminanozn.scansiv.cn
 1.1.1.1 www.account-xiaomi-ec.com
 1.1.1.1 www.accounts-google.arbalcorporate.com
 1.1.1.1 www.acspaces.ero-advertising.com
@@ -20517,6 +20523,7 @@
 1.1.1.1 www.arena-corp.com
 1.1.1.1 www.arielsystem.pro
 1.1.1.1 www.art-sm.com
+1.1.1.1 www.aruba-pagamento-sys.pro
 1.1.1.1 www.asgon-invest.pro
 1.1.1.1 www.asianladyboys.pro
 1.1.1.1 www.asiatube.pro
@@ -20701,7 +20708,6 @@
 1.1.1.1 www.data-ero-advertising.com
 1.1.1.1 www.data2.ero-advertising.com
 1.1.1.1 www.datadoghq-browser-agent.com
-1.1.1.1 www.datasecu.download
 1.1.1.1 www.date.ero-advertising.com
 1.1.1.1 www.dats.ero-advertising.com
 1.1.1.1 www.datt.ero-advertising.com
@@ -20880,7 +20886,6 @@
 1.1.1.1 www.free-porn-tube.pro
 1.1.1.1 www.free-real-time-analytics.com
 1.1.1.1 www.freeadultporn.pro
-1.1.1.1 www.freecontent.download
 1.1.1.1 www.freefuckmovies.pro
 1.1.1.1 www.freepornsex.pro
 1.1.1.1 www.freepornvideo.mobi
@@ -20990,7 +20995,6 @@
 1.1.1.1 www.hosting2215432.online.pro
 1.1.1.1 www.hosting2234405.online.pro
 1.1.1.1 www.hosting2280850.online.pro
-1.1.1.1 www.hostingcloud.download
 1.1.1.1 www.hot-mob.com
 1.1.1.1 www.hot-teens-movies.mobi
 1.1.1.1 www.hotvideos.mobi
@@ -21094,14 +21098,9 @@
 1.1.1.1 www.jfhd.inventnamb.click
 1.1.1.1 www.joktauninvest.pro
 1.1.1.1 www.jordadokinvest.pro
-1.1.1.1 www.jqassets.download
-1.1.1.1 www.jqcdn.download
-1.1.1.1 www.jqrcdn.download
-1.1.1.1 www.jquerrycdn.download
 1.1.1.1 www.jquery-cdn.download
 1.1.1.1 www.jqwww.download
 1.1.1.1 www.js.ero-advertising.com
-1.1.1.1 www.jshosting.download
 1.1.1.1 www.juklon-invest.pro
 1.1.1.1 www.k9offh-upqs.click
 1.1.1.1 www.kaka.lixprog.click
