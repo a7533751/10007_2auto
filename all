@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-17 11:56:14 
+#更新时间: 2023-04-17 12:56:07 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22934
+#规则数量:22933
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -279,6 +279,7 @@
 94.140.14.33 3m.mediav.com
 94.140.14.33 3mbdd5e07txo.top
 94.140.14.33 3r1kwxcd.top
+94.140.14.33 3r2-mi-cloud.mipaginaweb.us
 94.140.14.33 3u47oh9ikxs6.top
 94.140.14.33 3urnt1b7bv5w.top
 94.140.14.33 3v4w.top
@@ -553,7 +554,6 @@
 94.140.14.33 acikdenizmobil.top
 94.140.14.33 acikdenizv2-bireysel.top
 94.140.14.33 acikdenizv2denizbank.top
-94.140.14.33 acikdenizv3dijital.top
 94.140.14.33 acikdenzdijital.top
 94.140.14.33 ackbure.pro
 94.140.14.33 acookie.alimama.com
@@ -4285,6 +4285,7 @@
 94.140.14.33 analytics-api.smzdm.com
 94.140.14.33 analytics-api.statvoo.com
 94.140.14.33 analytics-au.clickdimensions.com
+94.140.14.33 analytics-beacon.p.uliza.jp
 94.140.14.33 analytics-ca.clickdimensions.com
 94.140.14.33 analytics-cdiscount.com
 94.140.14.33 analytics-cdn.redbubble.com
@@ -6645,7 +6646,6 @@
 94.140.14.33 baneseportaldocliente.top
 94.140.14.33 bangyuandianzi.top
 94.140.14.33 banjers.ero-advertising.com
-94.140.14.33 bank-dbs.top
 94.140.14.33 bank.nabilabbas.top
 94.140.14.33 bank.pl-pol.top
 94.140.14.33 bank.pl-upowa.top
@@ -7684,6 +7684,7 @@
 94.140.14.33 check-pages.ga
 94.140.14.33 check-singpost.homes
 94.140.14.33 check-update-today.com
+94.140.14.33 check-your-eligibiity-to-claim.pics
 94.140.14.33 check.c3scores.com
 94.140.14.33 check.deadlinefunnel.com
 94.140.14.33 check.deldhl.info
@@ -8268,7 +8269,6 @@
 94.140.14.33 corp.specificmedia.com
 94.140.14.33 correctinnovation.top
 94.140.14.33 correos-embalar.top
-94.140.14.33 correoswsi.top
 94.140.14.33 cors.hot-mob.com
 94.140.14.33 corycj.top
 94.140.14.33 cosmossolitude.top
@@ -9107,7 +9107,6 @@
 94.140.14.33 dropbox-download-eu.com
 94.140.14.33 dropbox-download.com
 94.140.14.33 dropbox-share.ga
-94.140.14.33 dropbox.agewasgone.top
 94.140.14.33 dropget.top
 94.140.14.33 drops-dex.top
 94.140.14.33 ds-api-public.addthis.com.edgekey.net
@@ -9756,7 +9755,6 @@
 94.140.14.33 find.hopeize.top
 94.140.14.33 find.my-xiaomi.live
 94.140.14.33 findlak-investing.pro
-94.140.14.33 findmy-iphone.gsmserver-pro.com
 94.140.14.33 findyourhalf.top
 94.140.14.33 fineblog.top
 94.140.14.33 fineporn.pro
@@ -10288,6 +10286,7 @@
 94.140.14.33 google-csr31.net.daraz.com
 94.140.14.33 google-deckoffice.ml
 94.140.14.33 google-docs-view.131423.xyz
+94.140.14.33 google-docs.ltctm.site
 94.140.14.33 google-docs.org
 94.140.14.33 google-liar.ru
 94.140.14.33 google-pagerank.net
@@ -10801,7 +10800,6 @@
 94.140.14.33 hype-ads.com
 94.140.14.33 hyrewusha.pro
 94.140.14.33 hysdkservice.g.mi.com
-94.140.14.33 hytrdfiuyb.top
 94.140.14.33 hz.mmstat.com
 94.140.14.33 hzlyq.deepant.top
 94.140.14.33 hzs10.cnzz.com
@@ -13387,6 +13385,7 @@
 94.140.14.33 network.advertise.com
 94.140.14.33 network.hot-mob.com
 94.140.14.33 networkconfigure.click
+94.140.14.33 networkhon.click
 94.140.14.33 networkme.click
 94.140.14.33 networksupport.click
 94.140.14.33 netzwerk-ad.de
@@ -14541,7 +14540,6 @@
 94.140.14.33 paxful-ns.pro
 94.140.14.33 paxful-trade.top
 94.140.14.33 paxful.mobi
-94.140.14.33 paxfulpor.pro
 94.140.14.33 pay-ads.com
 94.140.14.33 pay-click.ru
 94.140.14.33 pay-dbs.top
@@ -15378,6 +15376,7 @@
 94.140.14.33 publish-pic-cpu.baidu.com
 94.140.14.33 publisher-api.spotxchange.com
 94.140.14.33 publisher-event.ads.prd.ie.internal.unity3d.com
+94.140.14.33 publisherads.click
 94.140.14.33 publisherportal.doubleclick.net
 94.140.14.33 puds.test.uae.uc.cn
 94.140.14.33 pulse.data.flurry.com
@@ -15777,7 +15776,6 @@
 94.140.14.33 rp5o.top
 94.140.14.33 rppg.pro
 94.140.14.33 rpt-gdt.play.t002.ottcn.com
-94.140.14.33 rrauthconnectnow.top
 94.140.14.33 rrdtjj.top
 94.140.14.33 rrkky.top
 94.140.14.33 rrtgwegf.top
@@ -16086,7 +16084,7 @@
 94.140.14.33 safelinksweb-login-microsoftonline.cigam-corp.com
 94.140.14.33 safeshops.top
 94.140.14.33 safetycovertouse123654785.click
-94.140.14.33 safetycovertouse21215415.click
+94.140.14.33 safetycovertouse5463233.click
 94.140.14.33 safetycovertouse635498741.click
 94.140.14.33 safetytool1112222111.click
 94.140.14.33 safetytool32158648.click
@@ -18025,6 +18023,7 @@
 94.140.14.33 top-news.cloud
 94.140.14.33 top-niirutyy.sbs
 94.140.14.33 top-offers1.com
+94.140.14.33 top-online-offers.com
 94.140.14.33 top-performance.best
 94.140.14.33 top-performance.club
 94.140.14.33 top-performance.top
@@ -18375,6 +18374,7 @@
 94.140.14.33 twd.romanbin.top
 94.140.14.33 twitter-info-22759960930.azureedge.net
 94.140.14.33 twitter-invest.org
+94.140.14.33 twitter-suport.com
 94.140.14.33 twitter-us.com
 94.140.14.33 twitter.cm
 94.140.14.33 twogldi.top
@@ -18452,7 +18452,6 @@
 94.140.14.33 udp.push.mob.com
 94.140.14.33 ueberpruefung-passswortsicherheit-itsibe.loginto.click
 94.140.14.33 uel.vidory.top
-94.140.14.33 uensp.top
 94.140.14.33 uev.ad-stir.com
 94.140.14.33 uewl.top
 94.140.14.33 ufgron-invest.pro
@@ -20101,6 +20100,7 @@
 94.140.14.33 west.click
 94.140.14.33 wetpussy.pro
 94.140.14.33 wetteens.top
+94.140.14.33 wgfdyjir.top
 94.140.14.33 wgrup.womenforum.top
 94.140.14.33 whaitaapp.top
 94.140.14.33 whamiwiwu.pro
@@ -20365,6 +20365,7 @@
 94.140.14.33 www.4porn.mobi
 94.140.14.33 www.4ur.click
 94.140.14.33 www.596csadw.top
+94.140.14.33 www.68437w.top
 94.140.14.33 www.7-24reshulde.click
 94.140.14.33 www.7-7-7-partner.org
 94.140.14.33 www.8kun.top
@@ -22305,8 +22306,6 @@
 94.140.14.33 xhot.pro
 94.140.14.33 xiangchaokankan.m.cn.miaozhen.com
 94.140.14.33 xiaomi-dtv.m.cn.miaozhen.com
-94.140.14.33 xiaomi-find.cloud
-94.140.14.33 xiaomi-locate1.mipaginaweb.us
 94.140.14.33 xiaomi-login.in
 94.140.14.33 xiaomi-mipdx.cn.miaozhen.com
 94.140.14.33 xiaomi.m.cn.miaozhen.com
