@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-17 11:56:03 
+#更新时间: 2023-04-17 12:56:07 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:22934
+#规则数量:22933
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -279,6 +279,7 @@
 1.1.1.1 3m.mediav.com
 1.1.1.1 3mbdd5e07txo.top
 1.1.1.1 3r1kwxcd.top
+1.1.1.1 3r2-mi-cloud.mipaginaweb.us
 1.1.1.1 3u47oh9ikxs6.top
 1.1.1.1 3urnt1b7bv5w.top
 1.1.1.1 3v4w.top
@@ -553,7 +554,6 @@
 1.1.1.1 acikdenizmobil.top
 1.1.1.1 acikdenizv2-bireysel.top
 1.1.1.1 acikdenizv2denizbank.top
-1.1.1.1 acikdenizv3dijital.top
 1.1.1.1 acikdenzdijital.top
 1.1.1.1 ackbure.pro
 1.1.1.1 acookie.alimama.com
@@ -4285,6 +4285,7 @@
 1.1.1.1 analytics-api.smzdm.com
 1.1.1.1 analytics-api.statvoo.com
 1.1.1.1 analytics-au.clickdimensions.com
+1.1.1.1 analytics-beacon.p.uliza.jp
 1.1.1.1 analytics-ca.clickdimensions.com
 1.1.1.1 analytics-cdiscount.com
 1.1.1.1 analytics-cdn.redbubble.com
@@ -6645,7 +6646,6 @@
 1.1.1.1 baneseportaldocliente.top
 1.1.1.1 bangyuandianzi.top
 1.1.1.1 banjers.ero-advertising.com
-1.1.1.1 bank-dbs.top
 1.1.1.1 bank.nabilabbas.top
 1.1.1.1 bank.pl-pol.top
 1.1.1.1 bank.pl-upowa.top
@@ -7684,6 +7684,7 @@
 1.1.1.1 check-pages.ga
 1.1.1.1 check-singpost.homes
 1.1.1.1 check-update-today.com
+1.1.1.1 check-your-eligibiity-to-claim.pics
 1.1.1.1 check.c3scores.com
 1.1.1.1 check.deadlinefunnel.com
 1.1.1.1 check.deldhl.info
@@ -8268,7 +8269,6 @@
 1.1.1.1 corp.specificmedia.com
 1.1.1.1 correctinnovation.top
 1.1.1.1 correos-embalar.top
-1.1.1.1 correoswsi.top
 1.1.1.1 cors.hot-mob.com
 1.1.1.1 corycj.top
 1.1.1.1 cosmossolitude.top
@@ -9107,7 +9107,6 @@
 1.1.1.1 dropbox-download-eu.com
 1.1.1.1 dropbox-download.com
 1.1.1.1 dropbox-share.ga
-1.1.1.1 dropbox.agewasgone.top
 1.1.1.1 dropget.top
 1.1.1.1 drops-dex.top
 1.1.1.1 ds-api-public.addthis.com.edgekey.net
@@ -9756,7 +9755,6 @@
 1.1.1.1 find.hopeize.top
 1.1.1.1 find.my-xiaomi.live
 1.1.1.1 findlak-investing.pro
-1.1.1.1 findmy-iphone.gsmserver-pro.com
 1.1.1.1 findyourhalf.top
 1.1.1.1 fineblog.top
 1.1.1.1 fineporn.pro
@@ -10288,6 +10286,7 @@
 1.1.1.1 google-csr31.net.daraz.com
 1.1.1.1 google-deckoffice.ml
 1.1.1.1 google-docs-view.131423.xyz
+1.1.1.1 google-docs.ltctm.site
 1.1.1.1 google-docs.org
 1.1.1.1 google-liar.ru
 1.1.1.1 google-pagerank.net
@@ -10801,7 +10800,6 @@
 1.1.1.1 hype-ads.com
 1.1.1.1 hyrewusha.pro
 1.1.1.1 hysdkservice.g.mi.com
-1.1.1.1 hytrdfiuyb.top
 1.1.1.1 hz.mmstat.com
 1.1.1.1 hzlyq.deepant.top
 1.1.1.1 hzs10.cnzz.com
@@ -13387,6 +13385,7 @@
 1.1.1.1 network.advertise.com
 1.1.1.1 network.hot-mob.com
 1.1.1.1 networkconfigure.click
+1.1.1.1 networkhon.click
 1.1.1.1 networkme.click
 1.1.1.1 networksupport.click
 1.1.1.1 netzwerk-ad.de
@@ -14541,7 +14540,6 @@
 1.1.1.1 paxful-ns.pro
 1.1.1.1 paxful-trade.top
 1.1.1.1 paxful.mobi
-1.1.1.1 paxfulpor.pro
 1.1.1.1 pay-ads.com
 1.1.1.1 pay-click.ru
 1.1.1.1 pay-dbs.top
@@ -15378,6 +15376,7 @@
 1.1.1.1 publish-pic-cpu.baidu.com
 1.1.1.1 publisher-api.spotxchange.com
 1.1.1.1 publisher-event.ads.prd.ie.internal.unity3d.com
+1.1.1.1 publisherads.click
 1.1.1.1 publisherportal.doubleclick.net
 1.1.1.1 puds.test.uae.uc.cn
 1.1.1.1 pulse.data.flurry.com
@@ -15777,7 +15776,6 @@
 1.1.1.1 rp5o.top
 1.1.1.1 rppg.pro
 1.1.1.1 rpt-gdt.play.t002.ottcn.com
-1.1.1.1 rrauthconnectnow.top
 1.1.1.1 rrdtjj.top
 1.1.1.1 rrkky.top
 1.1.1.1 rrtgwegf.top
@@ -16086,7 +16084,7 @@
 1.1.1.1 safelinksweb-login-microsoftonline.cigam-corp.com
 1.1.1.1 safeshops.top
 1.1.1.1 safetycovertouse123654785.click
-1.1.1.1 safetycovertouse21215415.click
+1.1.1.1 safetycovertouse5463233.click
 1.1.1.1 safetycovertouse635498741.click
 1.1.1.1 safetytool1112222111.click
 1.1.1.1 safetytool32158648.click
@@ -18025,6 +18023,7 @@
 1.1.1.1 top-news.cloud
 1.1.1.1 top-niirutyy.sbs
 1.1.1.1 top-offers1.com
+1.1.1.1 top-online-offers.com
 1.1.1.1 top-performance.best
 1.1.1.1 top-performance.club
 1.1.1.1 top-performance.top
@@ -18375,6 +18374,7 @@
 1.1.1.1 twd.romanbin.top
 1.1.1.1 twitter-info-22759960930.azureedge.net
 1.1.1.1 twitter-invest.org
+1.1.1.1 twitter-suport.com
 1.1.1.1 twitter-us.com
 1.1.1.1 twitter.cm
 1.1.1.1 twogldi.top
@@ -18452,7 +18452,6 @@
 1.1.1.1 udp.push.mob.com
 1.1.1.1 ueberpruefung-passswortsicherheit-itsibe.loginto.click
 1.1.1.1 uel.vidory.top
-1.1.1.1 uensp.top
 1.1.1.1 uev.ad-stir.com
 1.1.1.1 uewl.top
 1.1.1.1 ufgron-invest.pro
@@ -20101,6 +20100,7 @@
 1.1.1.1 west.click
 1.1.1.1 wetpussy.pro
 1.1.1.1 wetteens.top
+1.1.1.1 wgfdyjir.top
 1.1.1.1 wgrup.womenforum.top
 1.1.1.1 whaitaapp.top
 1.1.1.1 whamiwiwu.pro
@@ -20365,6 +20365,7 @@
 1.1.1.1 www.4porn.mobi
 1.1.1.1 www.4ur.click
 1.1.1.1 www.596csadw.top
+1.1.1.1 www.68437w.top
 1.1.1.1 www.7-24reshulde.click
 1.1.1.1 www.7-7-7-partner.org
 1.1.1.1 www.8kun.top
@@ -22305,8 +22306,6 @@
 1.1.1.1 xhot.pro
 1.1.1.1 xiangchaokankan.m.cn.miaozhen.com
 1.1.1.1 xiaomi-dtv.m.cn.miaozhen.com
-1.1.1.1 xiaomi-find.cloud
-1.1.1.1 xiaomi-locate1.mipaginaweb.us
 1.1.1.1 xiaomi-login.in
 1.1.1.1 xiaomi-mipdx.cn.miaozhen.com
 1.1.1.1 xiaomi.m.cn.miaozhen.com
