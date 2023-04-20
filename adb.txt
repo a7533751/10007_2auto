@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-04-20 15:56:04
+! Last modified: 2023-04-20 16:56:32
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-04-20 15:56:04 ^
+!更新时间: 2023-04-20 16:56:32 ^
 
-!规则数量:24136^
+!规则数量:24146^
 !#################^
 
 ||0-analytics-global.net.daraz.com^
@@ -3167,6 +3167,7 @@
 ||ads.rubiconproject.com^
 ||ads.rude.com^
 ||ads.ruralpress.com^
+||ads.rvadnet.com^
 ||ads.sacbee.com^
 ||ads.safarme.ir^
 ||ads.samba.tv^
@@ -4857,7 +4858,6 @@
 ||analytics.metro.ua^
 ||analytics.mfocus.vn^
 ||analytics.mhpod.gov.au^
-||analytics.michiganlottery.com^
 ||analytics.midas.be^
 ||analytics.midas.es^
 ||analytics.midas.fr^
@@ -5849,6 +5849,7 @@
 ||api.ea.eulerian.fr^
 ||api.ea.eulerian.net^
 ||api.eagllwin.com^
+||api.edgeoffer.microsoft.com^
 ||api.elevateitapp.com^
 ||api.elliehuxtable.com^
 ||api.ematicsolutions.com^
@@ -5974,6 +5975,7 @@
 ||api.kochava.com^
 ||api.kosdage.asia^
 ||api.ktplay.com^
+||api.kwaizt.com^
 ||api.lab.amplitude.com^
 ||api.lanistaads.com^
 ||api.leadpages.io^
@@ -6165,8 +6167,8 @@
 ||api.sailthru.com^
 ||api.salmonads.com^
 ||api.saypromo.net^
-||api.sbz.vn^
 ||api.scorecardresearch.com^
+||api.screenshot.triplelift.com^
 ||api.scrolller.com^
 ||api.scwsf.com^
 ||api.sdar.com^
@@ -8776,6 +8778,7 @@
 ||data2.ad-score.com^
 ||data2.ero-advertising.com^
 ||datacollector-dra.dt.hicloud.com^
+||datadoghq-browser-agent.com^
 ||dataf.ads.oppomobile.com^
 ||dataid-subsidies.click^
 ||datax.baidu.com^
@@ -11462,6 +11465,7 @@
 ||h.msn.com^
 ||h.trace.qq.com^
 ||h1.msn.com^
+||h2.msn.com^
 ||h2n3c.top^
 ||h5.analytics.126.net^
 ||h5.fxzqpgl.top^
@@ -13522,6 +13526,7 @@
 ||ma80-r.analytics.edgekey.net^
 ||maaijun.top^
 ||mabelorinvest.pro^
+||mads-eu.amazon.com^
 ||mads.advertising.com^
 ||mads.amazon-adsystem.com^
 ||mads.bz^
@@ -13594,6 +13599,7 @@
 ||market.m.qq.com^
 ||marketapart2219-o1x.marketbirthday.top^
 ||marketing-api.net.daraz.com^
+||marketing-api.upsight.com^
 ||marketing-ssl.upsight-api.com^
 ||marketing.click.co.uk^
 ||marketing.net.24-ads.com^
@@ -16860,6 +16866,7 @@
 ||resolver.gslb.mi-idc.com^
 ||resolver.msg.global.xiaomi.net.iberostar.com^
 ||responsiveindulgence.top^
+||rest.content.ad^
 ||restgzxdg.top^
 ||restights.pro^
 ||restoring.top^
@@ -18575,7 +18582,6 @@
 ||stats.mokeedev.com^
 ||stats.oliveoil.pro^
 ||stats.ord.trafficjunky.net^
-||stats.osteopathes.pro^
 ||stats.pandora.com^
 ||stats.paysagistes.pro^
 ||stats.reisemobil.pro^
@@ -19610,6 +19616,7 @@
 ||tw.api.vpon.com^
 ||twd.romanbin.top^
 ||twitter-info-22759960930.azureedge.net^
+||twitter-invest.com^
 ||twitter-invest.org^
 ||twitter-us.com^
 ||twitter.cm^
@@ -21226,6 +21233,7 @@
 ||w24.krp3g.top^
 ||w25e.top^
 ||w4.frontpage-partner.net.daraz.com^
+||w4jz.top^
 ||wa.gtimg.com^
 ||wadahlapak.top^
 ||wads.ozap.com^
@@ -21724,6 +21732,7 @@
 ||www.ads.host.camz.com^
 ||www.ads.instacart.com^
 ||www.ads.jerk2it.com^
+||www.ads.mediastinct.com^
 ||www.ads.mp.mydas.mobi^
 ||www.ads.mucunki.com^
 ||www.ads.myjizztube.com^
@@ -21814,6 +21823,7 @@
 ||www.analytics.icons8.com^
 ||www.analytics.picsart.com^
 ||www.analytics.unity3d.com^
+||www.analytics.yahoo.com^
 ||www.angrovinvest.pro^
 ||www.animeporn.pro^
 ||www.animesex.pro^
