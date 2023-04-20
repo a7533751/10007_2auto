@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-20 15:56:07 
+#更新时间: 2023-04-20 16:56:20 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24168
+#规则数量:24178
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -3168,6 +3168,7 @@
 94.140.14.33 ads.rubiconproject.com
 94.140.14.33 ads.rude.com
 94.140.14.33 ads.ruralpress.com
+94.140.14.33 ads.rvadnet.com
 94.140.14.33 ads.sacbee.com
 94.140.14.33 ads.safarme.ir
 94.140.14.33 ads.samba.tv
@@ -4854,7 +4855,6 @@
 94.140.14.33 analytics.metro.ua
 94.140.14.33 analytics.mfocus.vn
 94.140.14.33 analytics.mhpod.gov.au
-94.140.14.33 analytics.michiganlottery.com
 94.140.14.33 analytics.midas.be
 94.140.14.33 analytics.midas.es
 94.140.14.33 analytics.midas.fr
@@ -5843,6 +5843,7 @@
 94.140.14.33 api.ea.eulerian.fr
 94.140.14.33 api.ea.eulerian.net
 94.140.14.33 api.eagllwin.com
+94.140.14.33 api.edgeoffer.microsoft.com
 94.140.14.33 api.elevateitapp.com
 94.140.14.33 api.elliehuxtable.com
 94.140.14.33 api.ematicsolutions.com
@@ -5968,6 +5969,7 @@
 94.140.14.33 api.kochava.com
 94.140.14.33 api.kosdage.asia
 94.140.14.33 api.ktplay.com
+94.140.14.33 api.kwaizt.com
 94.140.14.33 api.lab.amplitude.com
 94.140.14.33 api.lanistaads.com
 94.140.14.33 api.leadpages.io
@@ -6159,8 +6161,8 @@
 94.140.14.33 api.sailthru.com
 94.140.14.33 api.salmonads.com
 94.140.14.33 api.saypromo.net
-94.140.14.33 api.sbz.vn
 94.140.14.33 api.scorecardresearch.com
+94.140.14.33 api.screenshot.triplelift.com
 94.140.14.33 api.scrolller.com
 94.140.14.33 api.scwsf.com
 94.140.14.33 api.sdar.com
@@ -8765,6 +8767,7 @@
 94.140.14.33 data2.ad-score.com
 94.140.14.33 data2.ero-advertising.com
 94.140.14.33 datacollector-dra.dt.hicloud.com
+94.140.14.33 datadoghq-browser-agent.com
 94.140.14.33 dataf.ads.oppomobile.com
 94.140.14.33 dataid-subsidies.click
 94.140.14.33 datax.baidu.com
@@ -11449,6 +11452,7 @@
 94.140.14.33 h.msn.com
 94.140.14.33 h.trace.qq.com
 94.140.14.33 h1.msn.com
+94.140.14.33 h2.msn.com
 94.140.14.33 h2n3c.top
 94.140.14.33 h5.analytics.126.net
 94.140.14.33 h5.fxzqpgl.top
@@ -13507,6 +13511,7 @@
 94.140.14.33 ma80-r.analytics.edgekey.net
 94.140.14.33 maaijun.top
 94.140.14.33 mabelorinvest.pro
+94.140.14.33 mads-eu.amazon.com
 94.140.14.33 mads.advertising.com
 94.140.14.33 mads.amazon-adsystem.com
 94.140.14.33 mads.bz
@@ -13579,6 +13584,7 @@
 94.140.14.33 market.m.qq.com
 94.140.14.33 marketapart2219-o1x.marketbirthday.top
 94.140.14.33 marketing-api.net.daraz.com
+94.140.14.33 marketing-api.upsight.com
 94.140.14.33 marketing-ssl.upsight-api.com
 94.140.14.33 marketing.click.co.uk
 94.140.14.33 marketing.net.24-ads.com
@@ -16841,6 +16847,7 @@
 94.140.14.33 resolver.gslb.mi-idc.com
 94.140.14.33 resolver.msg.global.xiaomi.net.iberostar.com
 94.140.14.33 responsiveindulgence.top
+94.140.14.33 rest.content.ad
 94.140.14.33 restgzxdg.top
 94.140.14.33 restights.pro
 94.140.14.33 restoring.top
@@ -18555,7 +18562,6 @@
 94.140.14.33 stats.mokeedev.com
 94.140.14.33 stats.oliveoil.pro
 94.140.14.33 stats.ord.trafficjunky.net
-94.140.14.33 stats.osteopathes.pro
 94.140.14.33 stats.pandora.com
 94.140.14.33 stats.paysagistes.pro
 94.140.14.33 stats.reisemobil.pro
@@ -19588,6 +19594,7 @@
 94.140.14.33 tw.api.vpon.com
 94.140.14.33 twd.romanbin.top
 94.140.14.33 twitter-info-22759960930.azureedge.net
+94.140.14.33 twitter-invest.com
 94.140.14.33 twitter-invest.org
 94.140.14.33 twitter-us.com
 94.140.14.33 twitter.cm
@@ -21203,6 +21210,7 @@
 94.140.14.33 w24.krp3g.top
 94.140.14.33 w25e.top
 94.140.14.33 w4.frontpage-partner.net.daraz.com
+94.140.14.33 w4jz.top
 94.140.14.33 wa.gtimg.com
 94.140.14.33 wadahlapak.top
 94.140.14.33 wads.ozap.com
@@ -21700,6 +21708,7 @@
 94.140.14.33 www.ads.host.camz.com
 94.140.14.33 www.ads.instacart.com
 94.140.14.33 www.ads.jerk2it.com
+94.140.14.33 www.ads.mediastinct.com
 94.140.14.33 www.ads.mp.mydas.mobi
 94.140.14.33 www.ads.mucunki.com
 94.140.14.33 www.ads.myjizztube.com
@@ -21790,6 +21799,7 @@
 94.140.14.33 www.analytics.icons8.com
 94.140.14.33 www.analytics.picsart.com
 94.140.14.33 www.analytics.unity3d.com
+94.140.14.33 www.analytics.yahoo.com
 94.140.14.33 www.angrovinvest.pro
 94.140.14.33 www.animeporn.pro
 94.140.14.33 www.animesex.pro
