@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-24 07:56:01 
+#更新时间: 2023-04-24 09:58:44 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24309
+#规则数量:24337
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -4181,6 +4181,7 @@
 94.140.14.33 akamai.smartadserver.com
 94.140.14.33 akme-club.pro
 94.140.14.33 akn.analytics.autodesk.com
+94.140.14.33 aktualneinformacje.click
 94.140.14.33 aktualnosci-polskie-pl.click
 94.140.14.33 aktuell-update.thelivesportsnews.com
 94.140.14.33 akydbank-invest.pro
@@ -12176,6 +12177,7 @@
 94.140.14.33 infomo1xstare.bordshop.top
 94.140.14.33 informacje-parkrozwrywki.click
 94.140.14.33 informacje-polska.click
+94.140.14.33 informacjednia.click
 94.140.14.33 information-update.dynamic-dns.net
 94.140.14.33 informatorlokalny.click
 94.140.14.33 informatormiejski.click
@@ -12745,6 +12747,7 @@
 94.140.14.33 jj.newspp.top
 94.140.14.33 jjbu00.top
 94.140.14.33 jjiv.top
+94.140.14.33 jk.aboutnews.top
 94.140.14.33 jk.coolplattf.top
 94.140.14.33 jk.newplatf.top
 94.140.14.33 jk.propeople.top
@@ -13794,6 +13797,7 @@
 94.140.14.33 mds1.plsttrade.top
 94.140.14.33 mds2.mxttrade.top
 94.140.14.33 me-ebay.top
+94.140.14.33 me-pooztai.top
 94.140.14.33 me.xdrig.com
 94.140.14.33 meagerdrawing.pro
 94.140.14.33 mebed.dm-event.net
@@ -14554,11 +14558,17 @@
 94.140.14.33 news-pro.net
 94.140.14.33 news-view-api.varzesh3.com
 94.140.14.33 news.l.qq.com
+94.140.14.33 newscheck.click
+94.140.14.33 newsgenius.click
 94.140.14.33 newsinvest.top
 94.140.14.33 newsletter9707fb85e61e055593f03a43ab.dns-cloud.net
+94.140.14.33 newsportal.click
 94.140.14.33 newspost.click
 94.140.14.33 newspost.pro
+94.140.14.33 newsroundup.click
+94.140.14.33 newssurf.click
 94.140.14.33 newstorehome6915-o1x.whereshop.top
+94.140.14.33 newstribe.click
 94.140.14.33 newsuccsess.click
 94.140.14.33 newsupdate.mobi
 94.140.14.33 newsydnia.click
@@ -14638,6 +14648,7 @@
 94.140.14.33 now-dns.top
 94.140.14.33 nowe-zycia.click
 94.140.14.33 noweifnopl.click
+94.140.14.33 nowenowinki.click
 94.140.14.33 nowoscitakj.click
 94.140.14.33 nowt.interfoxprog.click
 94.140.14.33 nozokuba.pro
@@ -16117,6 +16128,7 @@
 94.140.14.33 plo18.eutradepeopl.top
 94.140.14.33 plo9.eutradepeopl.top
 94.140.14.33 ploffelon.pro
+94.140.14.33 plotkiploteczki.click
 94.140.14.33 plpost.buool.top
 94.140.14.33 plposzukiwania24pl.click
 94.140.14.33 plprog-pro.programs-pl.xyz
@@ -19107,6 +19119,7 @@
 94.140.14.33 teitsag.click
 94.140.14.33 tejia.taobao.com
 94.140.14.33 tekol.top
+94.140.14.33 telegram-pc.pro
 94.140.14.33 telegrom.pro
 94.140.14.33 telemetry.adobe.io
 94.140.14.33 telemetry.api.playstation.com
@@ -20238,6 +20251,7 @@
 94.140.14.33 vf.eutrty.top
 94.140.14.33 vfl81ea28aztw7y3.pro
 94.140.14.33 vfs.admaster.com.cn
+94.140.14.33 vh.aboutnew.top
 94.140.14.33 vh5g.top
 94.140.14.33 vhajaja.pro
 94.140.14.33 vhpxa.top
@@ -21496,6 +21510,8 @@
 94.140.14.33 wiadomosci-google.pl
 94.140.14.33 wiadomosci-google.waw.pl
 94.140.14.33 wiadomosci.click
+94.140.14.33 wiadomosci24.click
+94.140.14.33 wiadomoscifaktor.click
 94.140.14.33 wideeyedlady.pro
 94.140.14.33 widgets.ad.style
 94.140.14.33 widgets.platform.twitter.com
@@ -21884,6 +21900,7 @@
 94.140.14.33 www.aid-ad.jp
 94.140.14.33 www.akane-ad.com
 94.140.14.33 www.akme-club.pro
+94.140.14.33 www.aktualneinformacje.click
 94.140.14.33 www.aktualnosci-polskie-pl.click
 94.140.14.33 www.akydbank-invest.pro
 94.140.14.33 www.alimebot.partner.net.daraz.com
@@ -22455,6 +22472,7 @@
 94.140.14.33 www.info-miasto.click
 94.140.14.33 www.informacje-parkrozwrywki.click
 94.140.14.33 www.informacje-polska.click
+94.140.14.33 www.informacjednia.click
 94.140.14.33 www.information-update.dynamic-dns.net
 94.140.14.33 www.informatorlokalny.click
 94.140.14.33 www.informatormiejski.click
@@ -22799,8 +22817,14 @@
 94.140.14.33 www.neuroxs.tes1aprodj.click
 94.140.14.33 www.new.activpl-pro.site
 94.140.14.33 www.new1.pro-activprofit.site
+94.140.14.33 www.newscheck.click
+94.140.14.33 www.newsgenius.click
+94.140.14.33 www.newsportal.click
 94.140.14.33 www.newspost.click
 94.140.14.33 www.newspost.pro
+94.140.14.33 www.newsroundup.click
+94.140.14.33 www.newssurf.click
+94.140.14.33 www.newstribe.click
 94.140.14.33 www.newsuccsess.click
 94.140.14.33 www.newsydnia.click
 94.140.14.33 www.newteenporn.pro
@@ -22812,6 +22836,7 @@
 94.140.14.33 www.nota.click
 94.140.14.33 www.nowe-zycia.click
 94.140.14.33 www.noweifnopl.click
+94.140.14.33 www.nowenowinki.click
 94.140.14.33 www.nowoscitakj.click
 94.140.14.33 www.nowt.interfoxprog.click
 94.140.14.33 www.nudesex.pro
@@ -22950,6 +22975,7 @@
 94.140.14.33 www.play-google.pl
 94.140.14.33 www.plf3x2z.pro
 94.140.14.33 www.ploffelon.pro
+94.140.14.33 www.plotkiploteczki.click
 94.140.14.33 www.plposzukiwania24pl.click
 94.140.14.33 www.plusujesz-tankujesz.click
 94.140.14.33 www.pobierzteraz.mobi
@@ -23482,6 +23508,8 @@
 94.140.14.33 www.wiadomosci-google.pl
 94.140.14.33 www.wiadomosci-google.waw.pl
 94.140.14.33 www.wiadomosci.click
+94.140.14.33 www.wiadomosci24.click
+94.140.14.33 www.wiadomoscifaktor.click
 94.140.14.33 www.wiki.ero-advertising.com
 94.140.14.33 www.windet-pl.id-umowa83752.click
 94.140.14.33 www.windet-pl.perw0371946o.click
