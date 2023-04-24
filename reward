@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-24 19:56:15 
+#更新时间: 2023-04-24 21:03:03 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24369
+#规则数量:24376
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1847,6 +1847,7 @@
 94.140.14.33 admaster.net
 94.140.14.33 admatch-syndication.mochila.com
 94.140.14.33 admeld.adnxs.com
+94.140.14.33 admin.ad.guru
 94.140.14.33 admin.dfnb-ads.com
 94.140.14.33 admin.vserv.mobi
 94.140.14.33 admmail.partner.net.daraz.com
@@ -5972,6 +5973,7 @@
 94.140.14.33 api.kameleoon.com
 94.140.14.33 api.karpishe.com
 94.140.14.33 api.keen.io
+94.140.14.33 api.kekw.website
 94.140.14.33 api.kiip.me
 94.140.14.33 api.kingbet86.info
 94.140.14.33 api.kochava.com
@@ -7973,6 +7975,7 @@
 94.140.14.33 click-rtb2-apac.xaprio.net
 94.140.14.33 click-rtb2-eu.convergeselect.net
 94.140.14.33 click-rtb2-eu.e-volution.ai
+94.140.14.33 click-rtb2-eu.torchad.com
 94.140.14.33 click-rtb2-eu.waardex.com
 94.140.14.33 click-rtb2-useast.adsync.global
 94.140.14.33 click-rtb2-useast.afkwa.com
@@ -17117,6 +17120,7 @@
 94.140.14.33 s.360.cn
 94.140.14.33 s.388bet.top
 94.140.14.33 s.ad-locus.com
+94.140.14.33 s.ad.guru
 94.140.14.33 s.ad.smaato.net
 94.140.14.33 s.ads-twitter.com
 94.140.14.33 s.ads.152media.com
@@ -17287,6 +17291,7 @@
 94.140.14.33 s49.cnzz.com
 94.140.14.33 s4ls9.top
 94.140.14.33 s5.cnzz.com
+94.140.14.33 s5.rtnews.pro
 94.140.14.33 s50.cnzz.com
 94.140.14.33 s51.cnzz.com
 94.140.14.33 s52.cnzz.com
@@ -18949,6 +18954,7 @@
 94.140.14.33 syndication.exrtbsrv.com
 94.140.14.33 syndication.intel.com
 94.140.14.33 syndication.jsadapi.com
+94.140.14.33 syndication.link2zz.com
 94.140.14.33 syndication.link5c.com
 94.140.14.33 syndication.link5v.com
 94.140.14.33 syndication.linkfryn.com
@@ -21395,6 +21401,7 @@
 94.140.14.33 wapserepti.pro
 94.140.14.33 wapwbclick.mobile.sina.cn
 94.140.14.33 warlike-purpose.pro
+94.140.14.33 warmheartedtackle.pro
 94.140.14.33 warporn.pro
 94.140.14.33 waryboot.pro
 94.140.14.33 wat.ad.daum.net
