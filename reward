@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-24 19:56:28 
+#更新时间: 2023-04-24 21:03:12 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24369
+#规则数量:24376
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1847,6 +1847,7 @@
 1.1.1.1 admaster.net
 1.1.1.1 admatch-syndication.mochila.com
 1.1.1.1 admeld.adnxs.com
+1.1.1.1 admin.ad.guru
 1.1.1.1 admin.dfnb-ads.com
 1.1.1.1 admin.vserv.mobi
 1.1.1.1 admmail.partner.net.daraz.com
@@ -5972,6 +5973,7 @@
 1.1.1.1 api.kameleoon.com
 1.1.1.1 api.karpishe.com
 1.1.1.1 api.keen.io
+1.1.1.1 api.kekw.website
 1.1.1.1 api.kiip.me
 1.1.1.1 api.kingbet86.info
 1.1.1.1 api.kochava.com
@@ -7973,6 +7975,7 @@
 1.1.1.1 click-rtb2-apac.xaprio.net
 1.1.1.1 click-rtb2-eu.convergeselect.net
 1.1.1.1 click-rtb2-eu.e-volution.ai
+1.1.1.1 click-rtb2-eu.torchad.com
 1.1.1.1 click-rtb2-eu.waardex.com
 1.1.1.1 click-rtb2-useast.adsync.global
 1.1.1.1 click-rtb2-useast.afkwa.com
@@ -17117,6 +17120,7 @@
 1.1.1.1 s.360.cn
 1.1.1.1 s.388bet.top
 1.1.1.1 s.ad-locus.com
+1.1.1.1 s.ad.guru
 1.1.1.1 s.ad.smaato.net
 1.1.1.1 s.ads-twitter.com
 1.1.1.1 s.ads.152media.com
@@ -17287,6 +17291,7 @@
 1.1.1.1 s49.cnzz.com
 1.1.1.1 s4ls9.top
 1.1.1.1 s5.cnzz.com
+1.1.1.1 s5.rtnews.pro
 1.1.1.1 s50.cnzz.com
 1.1.1.1 s51.cnzz.com
 1.1.1.1 s52.cnzz.com
@@ -18949,6 +18954,7 @@
 1.1.1.1 syndication.exrtbsrv.com
 1.1.1.1 syndication.intel.com
 1.1.1.1 syndication.jsadapi.com
+1.1.1.1 syndication.link2zz.com
 1.1.1.1 syndication.link5c.com
 1.1.1.1 syndication.link5v.com
 1.1.1.1 syndication.linkfryn.com
@@ -21395,6 +21401,7 @@
 1.1.1.1 wapserepti.pro
 1.1.1.1 wapwbclick.mobile.sina.cn
 1.1.1.1 warlike-purpose.pro
+1.1.1.1 warmheartedtackle.pro
 1.1.1.1 warporn.pro
 1.1.1.1 waryboot.pro
 1.1.1.1 wat.ad.daum.net
