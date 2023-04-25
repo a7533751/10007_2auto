@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-25 19:56:14 
+#更新时间: 2023-04-25 21:03:14 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24471
+#规则数量:24473
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1124,6 +1124,7 @@
 94.140.14.33 ad.ichiru.net
 94.140.14.33 ad.iconadserver.com
 94.140.14.33 ad.ie.doubleclick.net
+94.140.14.33 ad.ieurop.net
 94.140.14.33 ad.iinfo.cz
 94.140.14.33 ad.ikonke.com
 94.140.14.33 ad.il.doubleclick.net
@@ -4003,7 +4004,6 @@
 94.140.14.33 advertising-api-eu.amazon.com
 94.140.14.33 advertising-cdn.com
 94.140.14.33 advertising-cdn.dpgmedia.cloud
-94.140.14.33 advertising-check.ru
 94.140.14.33 advertising.aol.com
 94.140.14.33 advertising.apple.com
 94.140.14.33 advertising.bayoubuzz.com
@@ -11668,6 +11668,7 @@
 94.140.14.33 hearbreakingfizz.top
 94.140.14.33 heatherglovejoysecurity.top
 94.140.14.33 heavenly-test.pro
+94.140.14.33 hebgb.top
 94.140.14.33 hecan123.top
 94.140.14.33 heclnyu.top
 94.140.14.33 hegarberetrof.pro
@@ -19879,6 +19880,7 @@
 94.140.14.33 uads.cc
 94.140.14.33 uads.shop
 94.140.14.33 uads.store
+94.140.14.33 uaery.top
 94.140.14.33 uagiphttps.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com
 94.140.14.33 uakfv.gameary.top
 94.140.14.33 ualaki-analytics.vacations.united.com
