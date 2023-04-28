@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-28 15:56:02 
+#更新时间: 2023-04-28 16:56:13 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24694
+#规则数量:24659
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1933,12 +1933,10 @@
 127.0.0.1 adobe.falabella.com.co
 127.0.0.1 adobe.falabella.com.pe
 127.0.0.1 adobe.filmstruck.com
-127.0.0.1 adobe.paybooc.co.kr
 127.0.0.1 adobe.pmi.org
 127.0.0.1 adobe.sodimac.cl
 127.0.0.1 adobe.sync.go.sonobi.com
 127.0.0.1 adobe.toridoll.com
-127.0.0.1 adobe.truckscout24.com
 127.0.0.1 adobe.truckscout24.de
 127.0.0.1 adobe.tt.omtrdc.net
 127.0.0.1 adobe.wacoal.jp
@@ -3183,6 +3181,7 @@
 127.0.0.1 ads.realcities.com
 127.0.0.1 ads.realmedia.com.br
 127.0.0.1 ads.realmedia.de
+127.0.0.1 ads.realmemobile.com
 127.0.0.1 ads.realsrv.com
 127.0.0.1 ads.recoletos.es
 127.0.0.1 ads.reddit.com
@@ -4678,7 +4677,6 @@
 127.0.0.1 analytics.disneyplus.com
 127.0.0.1 analytics.dns-shop.ru
 127.0.0.1 analytics.dnsfilter.com
-127.0.0.1 analytics.dogecoin.gg
 127.0.0.1 analytics.dollargeneral.com
 127.0.0.1 analytics.donglogs.com
 127.0.0.1 analytics.dpd.com
@@ -4714,13 +4712,11 @@
 127.0.0.1 analytics.evo.co.uk
 127.0.0.1 analytics.evolution-x.org
 127.0.0.1 analytics.ewz.ch
-127.0.0.1 analytics.explained-from-first-principles.com
 127.0.0.1 analytics.ext.go-tellm.com
 127.0.0.1 analytics.fabricators.ltd
 127.0.0.1 analytics.facebook.com
 127.0.0.1 analytics.faceitanalytics.com
 127.0.0.1 analytics.fairfax.com.au
-127.0.0.1 analytics.fatalparadox.com
 127.0.0.1 analytics.fatmedia.io
 127.0.0.1 analytics.favcy.com
 127.0.0.1 analytics.femalefirst.co.uk
@@ -4851,7 +4847,6 @@
 127.0.0.1 analytics.kongregate.io
 127.0.0.1 analytics.kraken.com
 127.0.0.1 analytics.krieselreihe.com
-127.0.0.1 analytics.kukla.club
 127.0.0.1 analytics.kurocore.com
 127.0.0.1 analytics.kwebsoft.com
 127.0.0.1 analytics.labbayk.ir
@@ -4913,10 +4908,8 @@
 127.0.0.1 analytics.metro.de
 127.0.0.1 analytics.metro.fr
 127.0.0.1 analytics.metro.md
-127.0.0.1 analytics.metro.pk
 127.0.0.1 analytics.metro.rs
 127.0.0.1 analytics.metro.sk
-127.0.0.1 analytics.metro.ua
 127.0.0.1 analytics.mfocus.vn
 127.0.0.1 analytics.mhpod.gov.au
 127.0.0.1 analytics.midas.be
@@ -5073,14 +5066,12 @@
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.r.msn.com
 127.0.0.1 analytics.radiatemedia.com
-127.0.0.1 analytics.rafalkukla.com
 127.0.0.1 analytics.rambla.be
 127.0.0.1 analytics.ramiyer.io
 127.0.0.1 analytics.ramiyer.me
 127.0.0.1 analytics.ratemymeeting.co
 127.0.0.1 analytics.ratioform.ch
 127.0.0.1 analytics.ratioform.de
-127.0.0.1 analytics.ratioform.it
 127.0.0.1 analytics.ratopanda.com
 127.0.0.1 analytics.ravelz.com
 127.0.0.1 analytics.rayjump.com
@@ -5160,7 +5151,6 @@
 127.0.0.1 analytics.snssdk.com
 127.0.0.1 analytics.sohatv.vn
 127.0.0.1 analytics.soluforce.com
-127.0.0.1 analytics.souazi.com
 127.0.0.1 analytics.southjerseyquakers.org
 127.0.0.1 analytics.southwestvacations.com
 127.0.0.1 analytics.spankbang.com
@@ -5189,7 +5179,6 @@
 127.0.0.1 analytics.surov.fi
 127.0.0.1 analytics.sutterhealth.org
 127.0.0.1 analytics.svt.se
-127.0.0.1 analytics.sweep.net
 127.0.0.1 analytics.swiggy.com
 127.0.0.1 analytics.sydney.edu.au
 127.0.0.1 analytics.syf.com
@@ -5250,7 +5239,6 @@
 127.0.0.1 analytics.tntdrma.com
 127.0.0.1 analytics.tntlegends.com
 127.0.0.1 analytics.tntsports.cl
-127.0.0.1 analytics.tntsports.com
 127.0.0.1 analytics.tntsports.com.ar
 127.0.0.1 analytics.tokosia.com
 127.0.0.1 analytics.tondach.pl
@@ -5312,7 +5300,6 @@
 127.0.0.1 analytics.villagehouse.jp
 127.0.0.1 analytics.virginaustralia.com
 127.0.0.1 analytics.virginmobileusa.com
-127.0.0.1 analytics.visible.com
 127.0.0.1 analytics.vnncdn.net
 127.0.0.1 analytics.vnpt.vn
 127.0.0.1 analytics.vnreview.vn
@@ -5370,7 +5357,6 @@
 127.0.0.1 analytics.wondershare.cc
 127.0.0.1 analytics.woozooo.com
 127.0.0.1 analytics.worldtable.co
-127.0.0.1 analytics.wpsermons.com
 127.0.0.1 analytics.wrc.nic.in
 127.0.0.1 analytics.write.as
 127.0.0.1 analytics.xelondigital.com
@@ -5390,7 +5376,6 @@
 127.0.0.1 analytics.yopify.com.herokudns.com
 127.0.0.1 analytics.youmi.net
 127.0.0.1 analytics.youramigo.com
-127.0.0.1 analytics.yourbankcard.com
 127.0.0.1 analytics.youronlinechoices.com
 127.0.0.1 analytics.yts.vn
 127.0.0.1 analytics.yugen.to
@@ -8169,7 +8154,6 @@
 127.0.0.1 click.e.twitter.com
 127.0.0.1 click.em.blizzard.com
 127.0.0.1 click.em.soothe.com
-127.0.0.1 click.email-stubhub.com
 127.0.0.1 click.email.bbc.com
 127.0.0.1 click.email.chope.co
 127.0.0.1 click.email.houndapp.com
@@ -8305,7 +8289,6 @@
 127.0.0.1 click.streetbees.com
 127.0.0.1 click.suning.cn
 127.0.0.1 click.surfrider.org
-127.0.0.1 click.sutra.co
 127.0.0.1 click.swiftpage.marketing
 127.0.0.1 click.taincash.com
 127.0.0.1 click.tanx.com
@@ -8894,9 +8877,7 @@
 127.0.0.1 data.api.kaffnet.com
 127.0.0.1 data.email-discovery.cjm.adobe.com
 127.0.0.1 data.email-disney.cjm.adobe.com
-127.0.0.1 data.email-kpn.cjm.adobe.com
 127.0.0.1 data.email-lightroom.cjm.adobe.com
-127.0.0.1 data.email-merkle.cjm.adobe.com
 127.0.0.1 data.email-mobiledx.cjm.adobe.com
 127.0.0.1 data.email-signify.cjm.adobe.com
 127.0.0.1 data.email-tsb.cjm.adobe.com
@@ -11433,7 +11414,6 @@
 127.0.0.1 glitteringbrush.pro
 127.0.0.1 glob-markets.pro
 127.0.0.1 globalapi.ad.xiaomi.com
-127.0.0.1 glochykeste.pro
 127.0.0.1 glod-invest.pro
 127.0.0.1 gloom.opssome.top
 127.0.0.1 glores2.lanzoui.com
@@ -12906,7 +12886,6 @@
 127.0.0.1 jeffmorales.top
 127.0.0.1 jegon-investing.pro
 127.0.0.1 jellyfish.pandora.xiaomi.com
-127.0.0.1 jelulymy.pro
 127.0.0.1 jerredsite.pro
 127.0.0.1 jetdpdchat.tronshop.top
 127.0.0.1 jf.eutrty.top
@@ -13239,7 +13218,6 @@
 127.0.0.1 kuasa-api.tenmax.io
 127.0.0.1 kube-partner.net.daraz.com
 127.0.0.1 kubet.mobi
-127.0.0.1 kukachesy.pro
 127.0.0.1 kumam-bon.click
 127.0.0.1 kunde-sicherheit-konto.top
 127.0.0.1 kunde-sicherheits-service.top
@@ -14115,7 +14093,6 @@
 127.0.0.1 mgmt.partner.net.daraz.com
 127.0.0.1 mgq.uniontoy.top
 127.0.0.1 mgtcw.top
-127.0.0.1 mgvrst.mi-shop.com
 127.0.0.1 mgzs.cdn.bcebos.com
 127.0.0.1 mhf.ayhhh.top
 127.0.0.1 mi-clave-dinamica.com
@@ -16276,7 +16253,6 @@
 127.0.0.1 phone.sendito.click
 127.0.0.1 phoneapplicationlabs.top
 127.0.0.1 phonesecure.mobi
-127.0.0.1 photevifa.pro
 127.0.0.1 photo-ads.co.uk
 127.0.0.1 photo-ads.zaloapp.com
 127.0.0.1 photobucket.adnxs.com
@@ -17716,7 +17692,6 @@
 127.0.0.1 scookies-adobe.kbc.be
 127.0.0.1 scookies-adobe.kbc.com
 127.0.0.1 scookies-adobe.kbcbrussels.be
-127.0.0.1 scookies-adobe.kbclease.lu
 127.0.0.1 scookies-adobe.kching.be
 127.0.0.1 scratchy-deep.pro
 127.0.0.1 scribe.twitter.com
@@ -18730,7 +18705,6 @@
 127.0.0.1 sparkling-decision.pro
 127.0.0.1 spcode.baidu.com
 127.0.0.1 spdfkvk.pro
-127.0.0.1 speciadnessing.pro
 127.0.0.1 special-offer.pro
 127.0.0.1 speed4cksa.ero-advertising.com
 127.0.0.1 speedclecks.ero-advertising.com
@@ -18778,7 +18752,6 @@
 127.0.0.1 sql-www.partner.net.daraz.com
 127.0.0.1 squarespace.top
 127.0.0.1 squirtatt15.sugar1818.net
-127.0.0.1 sr-dynamic-content.ext.api.leclerc
 127.0.0.1 sra-delivery.yieldlove-ad-serving.net
 127.0.0.1 srd.simba.taobao.com
 127.0.0.1 sredscee.top
@@ -18989,7 +18962,6 @@
 127.0.0.1 stats.reisemobil.pro
 127.0.0.1 stats.sax.net
 127.0.0.1 stats.speedclicks.ero-advertising.com
-127.0.0.1 statstest.upti.pro
 127.0.0.1 status.twitter.com
 127.0.0.1 steadyshop.pro
 127.0.0.1 steal-corp.com
@@ -19561,7 +19533,6 @@
 127.0.0.1 tianyuewangluo.top
 127.0.0.1 tidint.pro
 127.0.0.1 tidyclient.pro
-127.0.0.1 tiglesoshi.pro
 127.0.0.1 tikivn.api.sociaplus.com
 127.0.0.1 time-partner.net.daraz.com
 127.0.0.1 time.partner.net.daraz.com
@@ -21621,7 +21592,6 @@
 127.0.0.1 vtoras.top
 127.0.0.1 vtube.mobi
 127.0.0.1 vtyqy.admaster.com.cn
-127.0.0.1 vufizopi.pro
 127.0.0.1 vuwomoby.pro
 127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 vvehbjsb.top
@@ -21826,7 +21796,6 @@
 127.0.0.1 whk.acetoid.top
 127.0.0.1 who.mergify.top
 127.0.0.1 whole-win.pro
-127.0.0.1 whopexesho.pro
 127.0.0.1 whoyouac.top
 127.0.0.1 whsaapp.top
 127.0.0.1 whsgpp.top
@@ -22427,7 +22396,6 @@
 127.0.0.1 www.chengzijianzhan.com
 127.0.0.1 www.citizensonlinedns.dynamic-dns.net
 127.0.0.1 www.click-here.it
-127.0.0.1 www.click-to-trace.com
 127.0.0.1 www.click.axiatraders.com
 127.0.0.1 www.click.newsportal.me
 127.0.0.1 www.click.top10sites.com
@@ -24010,7 +23978,6 @@
 127.0.0.1 wydarzeniawokolicy.click
 127.0.0.1 wypovuwu.pro
 127.0.0.1 wysyshypti.pro
-127.0.0.1 wytyphoji.pro
 127.0.0.1 wyxcb3.top
 127.0.0.1 wz8g.top
 127.0.0.1 wzjs.cdn.bcebos.com
@@ -24092,7 +24059,6 @@
 127.0.0.1 xg.whsbpw.cn
 127.0.0.1 xgipt.issuegreat.top
 127.0.0.1 xgirls.top
-127.0.0.1 xgrwjbui.top
 127.0.0.1 xgx.mobi
 127.0.0.1 xhot.pro
 127.0.0.1 xiangchaokankan.m.cn.miaozhen.com
@@ -24583,7 +24549,6 @@
 127.0.0.1 zyciewazne.click
 127.0.0.1 zyh.sitify.top
 127.0.0.1 zyje-czas.click
-127.0.0.1 zypanafo.pro
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 zzaakefu.top
 127.0.0.1 zzbb1.top

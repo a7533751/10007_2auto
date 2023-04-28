@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-04-28 15:56:02
+! Last modified: 2023-04-28 16:56:13
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-04-28 15:56:02 ^
+!更新时间: 2023-04-28 16:56:13 ^
 
-!规则数量:24694^
+!规则数量:24659^
 !#################^
 
 ||0-analytics-global.net.daraz.com^
@@ -1930,12 +1930,10 @@
 ||adobe.falabella.com.co^
 ||adobe.falabella.com.pe^
 ||adobe.filmstruck.com^
-||adobe.paybooc.co.kr^
 ||adobe.pmi.org^
 ||adobe.sodimac.cl^
 ||adobe.sync.go.sonobi.com^
 ||adobe.toridoll.com^
-||adobe.truckscout24.com^
 ||adobe.truckscout24.de^
 ||adobe.tt.omtrdc.net^
 ||adobe.wacoal.jp^
@@ -3180,6 +3178,7 @@
 ||ads.realcities.com^
 ||ads.realmedia.com.br^
 ||ads.realmedia.de^
+||ads.realmemobile.com^
 ||ads.realsrv.com^
 ||ads.recoletos.es^
 ||ads.reddit.com^
@@ -4675,7 +4674,6 @@
 ||analytics.disneyplus.com^
 ||analytics.dns-shop.ru^
 ||analytics.dnsfilter.com^
-||analytics.dogecoin.gg^
 ||analytics.dollargeneral.com^
 ||analytics.donglogs.com^
 ||analytics.dpd.com^
@@ -4711,13 +4709,11 @@
 ||analytics.evo.co.uk^
 ||analytics.evolution-x.org^
 ||analytics.ewz.ch^
-||analytics.explained-from-first-principles.com^
 ||analytics.ext.go-tellm.com^
 ||analytics.fabricators.ltd^
 ||analytics.facebook.com^
 ||analytics.faceitanalytics.com^
 ||analytics.fairfax.com.au^
-||analytics.fatalparadox.com^
 ||analytics.fatmedia.io^
 ||analytics.favcy.com^
 ||analytics.femalefirst.co.uk^
@@ -4848,7 +4844,6 @@
 ||analytics.kongregate.io^
 ||analytics.kraken.com^
 ||analytics.krieselreihe.com^
-||analytics.kukla.club^
 ||analytics.kurocore.com^
 ||analytics.kwebsoft.com^
 ||analytics.labbayk.ir^
@@ -4910,10 +4905,8 @@
 ||analytics.metro.de^
 ||analytics.metro.fr^
 ||analytics.metro.md^
-||analytics.metro.pk^
 ||analytics.metro.rs^
 ||analytics.metro.sk^
-||analytics.metro.ua^
 ||analytics.mfocus.vn^
 ||analytics.mhpod.gov.au^
 ||analytics.midas.be^
@@ -5070,14 +5063,12 @@
 ||analytics.query.yahoo.com^
 ||analytics.r.msn.com^
 ||analytics.radiatemedia.com^
-||analytics.rafalkukla.com^
 ||analytics.rambla.be^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
 ||analytics.ratemymeeting.co^
 ||analytics.ratioform.ch^
 ||analytics.ratioform.de^
-||analytics.ratioform.it^
 ||analytics.ratopanda.com^
 ||analytics.ravelz.com^
 ||analytics.rayjump.com^
@@ -5157,7 +5148,6 @@
 ||analytics.snssdk.com^
 ||analytics.sohatv.vn^
 ||analytics.soluforce.com^
-||analytics.souazi.com^
 ||analytics.southjerseyquakers.org^
 ||analytics.southwestvacations.com^
 ||analytics.spankbang.com^
@@ -5186,7 +5176,6 @@
 ||analytics.surov.fi^
 ||analytics.sutterhealth.org^
 ||analytics.svt.se^
-||analytics.sweep.net^
 ||analytics.swiggy.com^
 ||analytics.sydney.edu.au^
 ||analytics.syf.com^
@@ -5247,7 +5236,6 @@
 ||analytics.tntdrma.com^
 ||analytics.tntlegends.com^
 ||analytics.tntsports.cl^
-||analytics.tntsports.com^
 ||analytics.tntsports.com.ar^
 ||analytics.tokosia.com^
 ||analytics.tondach.pl^
@@ -5309,7 +5297,6 @@
 ||analytics.villagehouse.jp^
 ||analytics.virginaustralia.com^
 ||analytics.virginmobileusa.com^
-||analytics.visible.com^
 ||analytics.vnncdn.net^
 ||analytics.vnpt.vn^
 ||analytics.vnreview.vn^
@@ -5367,7 +5354,6 @@
 ||analytics.wondershare.cc^
 ||analytics.woozooo.com^
 ||analytics.worldtable.co^
-||analytics.wpsermons.com^
 ||analytics.wrc.nic.in^
 ||analytics.write.as^
 ||analytics.xelondigital.com^
@@ -5387,7 +5373,6 @@
 ||analytics.yopify.com.herokudns.com^
 ||analytics.youmi.net^
 ||analytics.youramigo.com^
-||analytics.yourbankcard.com^
 ||analytics.youronlinechoices.com^
 ||analytics.yts.vn^
 ||analytics.yugen.to^
@@ -8166,7 +8151,6 @@
 ||click.e.twitter.com^
 ||click.em.blizzard.com^
 ||click.em.soothe.com^
-||click.email-stubhub.com^
 ||click.email.bbc.com^
 ||click.email.chope.co^
 ||click.email.houndapp.com^
@@ -8302,7 +8286,6 @@
 ||click.streetbees.com^
 ||click.suning.cn^
 ||click.surfrider.org^
-||click.sutra.co^
 ||click.swiftpage.marketing^
 ||click.taincash.com^
 ||click.tanx.com^
@@ -8891,9 +8874,7 @@
 ||data.api.kaffnet.com^
 ||data.email-discovery.cjm.adobe.com^
 ||data.email-disney.cjm.adobe.com^
-||data.email-kpn.cjm.adobe.com^
 ||data.email-lightroom.cjm.adobe.com^
-||data.email-merkle.cjm.adobe.com^
 ||data.email-mobiledx.cjm.adobe.com^
 ||data.email-signify.cjm.adobe.com^
 ||data.email-tsb.cjm.adobe.com^
@@ -11430,7 +11411,6 @@
 ||glitteringbrush.pro^
 ||glob-markets.pro^
 ||globalapi.ad.xiaomi.com^
-||glochykeste.pro^
 ||glod-invest.pro^
 ||gloom.opssome.top^
 ||glores2.lanzoui.com^
@@ -12903,7 +12883,6 @@
 ||jeffmorales.top^
 ||jegon-investing.pro^
 ||jellyfish.pandora.xiaomi.com^
-||jelulymy.pro^
 ||jerredsite.pro^
 ||jetdpdchat.tronshop.top^
 ||jf.eutrty.top^
@@ -13236,7 +13215,6 @@
 ||kuasa-api.tenmax.io^
 ||kube-partner.net.daraz.com^
 ||kubet.mobi^
-||kukachesy.pro^
 ||kumam-bon.click^
 ||kunde-sicherheit-konto.top^
 ||kunde-sicherheits-service.top^
@@ -14112,7 +14090,6 @@
 ||mgmt.partner.net.daraz.com^
 ||mgq.uniontoy.top^
 ||mgtcw.top^
-||mgvrst.mi-shop.com^
 ||mgzs.cdn.bcebos.com^
 ||mhf.ayhhh.top^
 ||mi-clave-dinamica.com^
@@ -16273,7 +16250,6 @@
 ||phone.sendito.click^
 ||phoneapplicationlabs.top^
 ||phonesecure.mobi^
-||photevifa.pro^
 ||photo-ads.co.uk^
 ||photo-ads.zaloapp.com^
 ||photobucket.adnxs.com^
@@ -17713,7 +17689,6 @@
 ||scookies-adobe.kbc.be^
 ||scookies-adobe.kbc.com^
 ||scookies-adobe.kbcbrussels.be^
-||scookies-adobe.kbclease.lu^
 ||scookies-adobe.kching.be^
 ||scratchy-deep.pro^
 ||scribe.twitter.com^
@@ -18727,7 +18702,6 @@
 ||sparkling-decision.pro^
 ||spcode.baidu.com^
 ||spdfkvk.pro^
-||speciadnessing.pro^
 ||special-offer.pro^
 ||speed4cksa.ero-advertising.com^
 ||speedclecks.ero-advertising.com^
@@ -18775,7 +18749,6 @@
 ||sql-www.partner.net.daraz.com^
 ||squarespace.top^
 ||squirtatt15.sugar1818.net^
-||sr-dynamic-content.ext.api.leclerc^
 ||sra-delivery.yieldlove-ad-serving.net^
 ||srd.simba.taobao.com^
 ||sredscee.top^
@@ -18986,7 +18959,6 @@
 ||stats.reisemobil.pro^
 ||stats.sax.net^
 ||stats.speedclicks.ero-advertising.com^
-||statstest.upti.pro^
 ||status.twitter.com^
 ||steadyshop.pro^
 ||steal-corp.com^
@@ -19558,7 +19530,6 @@
 ||tianyuewangluo.top^
 ||tidint.pro^
 ||tidyclient.pro^
-||tiglesoshi.pro^
 ||tikivn.api.sociaplus.com^
 ||time-partner.net.daraz.com^
 ||time.partner.net.daraz.com^
@@ -21618,7 +21589,6 @@
 ||vtoras.top^
 ||vtube.mobi^
 ||vtyqy.admaster.com.cn^
-||vufizopi.pro^
 ||vuwomoby.pro^
 ||vv84.bj.bcebos.com^
 ||vvehbjsb.top^
@@ -21823,7 +21793,6 @@
 ||whk.acetoid.top^
 ||who.mergify.top^
 ||whole-win.pro^
-||whopexesho.pro^
 ||whoyouac.top^
 ||whsaapp.top^
 ||whsgpp.top^
@@ -22424,7 +22393,6 @@
 ||www.chengzijianzhan.com^
 ||www.citizensonlinedns.dynamic-dns.net^
 ||www.click-here.it^
-||www.click-to-trace.com^
 ||www.click.axiatraders.com^
 ||www.click.newsportal.me^
 ||www.click.top10sites.com^
@@ -24007,7 +23975,6 @@
 ||wydarzeniawokolicy.click^
 ||wypovuwu.pro^
 ||wysyshypti.pro^
-||wytyphoji.pro^
 ||wyxcb3.top^
 ||wz8g.top^
 ||wzjs.cdn.bcebos.com^
@@ -24089,7 +24056,6 @@
 ||xg.whsbpw.cn^
 ||xgipt.issuegreat.top^
 ||xgirls.top^
-||xgrwjbui.top^
 ||xgx.mobi^
 ||xhot.pro^
 ||xiangchaokankan.m.cn.miaozhen.com^
@@ -24580,7 +24546,6 @@
 ||zyciewazne.click^
 ||zyh.sitify.top^
 ||zyje-czas.click^
-||zypanafo.pro^
 ||zz.bdstatic.com^
 ||zzaakefu.top^
 ||zzbb1.top^
