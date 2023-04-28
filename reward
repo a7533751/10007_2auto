@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-28 15:56:06 
+#更新时间: 2023-04-28 16:56:16 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24691
+#规则数量:24656
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1933,12 +1933,10 @@
 1.1.1.1 adobe.falabella.com.co
 1.1.1.1 adobe.falabella.com.pe
 1.1.1.1 adobe.filmstruck.com
-1.1.1.1 adobe.paybooc.co.kr
 1.1.1.1 adobe.pmi.org
 1.1.1.1 adobe.sodimac.cl
 1.1.1.1 adobe.sync.go.sonobi.com
 1.1.1.1 adobe.toridoll.com
-1.1.1.1 adobe.truckscout24.com
 1.1.1.1 adobe.truckscout24.de
 1.1.1.1 adobe.tt.omtrdc.net
 1.1.1.1 adobe.wacoal.jp
@@ -3183,6 +3181,7 @@
 1.1.1.1 ads.realcities.com
 1.1.1.1 ads.realmedia.com.br
 1.1.1.1 ads.realmedia.de
+1.1.1.1 ads.realmemobile.com
 1.1.1.1 ads.realsrv.com
 1.1.1.1 ads.recoletos.es
 1.1.1.1 ads.reddit.com
@@ -4678,7 +4677,6 @@
 1.1.1.1 analytics.disneyplus.com
 1.1.1.1 analytics.dns-shop.ru
 1.1.1.1 analytics.dnsfilter.com
-1.1.1.1 analytics.dogecoin.gg
 1.1.1.1 analytics.dollargeneral.com
 1.1.1.1 analytics.donglogs.com
 1.1.1.1 analytics.dpd.com
@@ -4714,13 +4712,11 @@
 1.1.1.1 analytics.evo.co.uk
 1.1.1.1 analytics.evolution-x.org
 1.1.1.1 analytics.ewz.ch
-1.1.1.1 analytics.explained-from-first-principles.com
 1.1.1.1 analytics.ext.go-tellm.com
 1.1.1.1 analytics.fabricators.ltd
 1.1.1.1 analytics.facebook.com
 1.1.1.1 analytics.faceitanalytics.com
 1.1.1.1 analytics.fairfax.com.au
-1.1.1.1 analytics.fatalparadox.com
 1.1.1.1 analytics.fatmedia.io
 1.1.1.1 analytics.favcy.com
 1.1.1.1 analytics.femalefirst.co.uk
@@ -4851,7 +4847,6 @@
 1.1.1.1 analytics.kongregate.io
 1.1.1.1 analytics.kraken.com
 1.1.1.1 analytics.krieselreihe.com
-1.1.1.1 analytics.kukla.club
 1.1.1.1 analytics.kurocore.com
 1.1.1.1 analytics.kwebsoft.com
 1.1.1.1 analytics.labbayk.ir
@@ -4913,10 +4908,8 @@
 1.1.1.1 analytics.metro.de
 1.1.1.1 analytics.metro.fr
 1.1.1.1 analytics.metro.md
-1.1.1.1 analytics.metro.pk
 1.1.1.1 analytics.metro.rs
 1.1.1.1 analytics.metro.sk
-1.1.1.1 analytics.metro.ua
 1.1.1.1 analytics.mfocus.vn
 1.1.1.1 analytics.mhpod.gov.au
 1.1.1.1 analytics.midas.be
@@ -5073,14 +5066,12 @@
 1.1.1.1 analytics.query.yahoo.com
 1.1.1.1 analytics.r.msn.com
 1.1.1.1 analytics.radiatemedia.com
-1.1.1.1 analytics.rafalkukla.com
 1.1.1.1 analytics.rambla.be
 1.1.1.1 analytics.ramiyer.io
 1.1.1.1 analytics.ramiyer.me
 1.1.1.1 analytics.ratemymeeting.co
 1.1.1.1 analytics.ratioform.ch
 1.1.1.1 analytics.ratioform.de
-1.1.1.1 analytics.ratioform.it
 1.1.1.1 analytics.ratopanda.com
 1.1.1.1 analytics.ravelz.com
 1.1.1.1 analytics.rayjump.com
@@ -5160,7 +5151,6 @@
 1.1.1.1 analytics.snssdk.com
 1.1.1.1 analytics.sohatv.vn
 1.1.1.1 analytics.soluforce.com
-1.1.1.1 analytics.souazi.com
 1.1.1.1 analytics.southjerseyquakers.org
 1.1.1.1 analytics.southwestvacations.com
 1.1.1.1 analytics.spankbang.com
@@ -5189,7 +5179,6 @@
 1.1.1.1 analytics.surov.fi
 1.1.1.1 analytics.sutterhealth.org
 1.1.1.1 analytics.svt.se
-1.1.1.1 analytics.sweep.net
 1.1.1.1 analytics.swiggy.com
 1.1.1.1 analytics.sydney.edu.au
 1.1.1.1 analytics.syf.com
@@ -5250,7 +5239,6 @@
 1.1.1.1 analytics.tntdrma.com
 1.1.1.1 analytics.tntlegends.com
 1.1.1.1 analytics.tntsports.cl
-1.1.1.1 analytics.tntsports.com
 1.1.1.1 analytics.tntsports.com.ar
 1.1.1.1 analytics.tokosia.com
 1.1.1.1 analytics.tondach.pl
@@ -5312,7 +5300,6 @@
 1.1.1.1 analytics.villagehouse.jp
 1.1.1.1 analytics.virginaustralia.com
 1.1.1.1 analytics.virginmobileusa.com
-1.1.1.1 analytics.visible.com
 1.1.1.1 analytics.vnncdn.net
 1.1.1.1 analytics.vnpt.vn
 1.1.1.1 analytics.vnreview.vn
@@ -5370,7 +5357,6 @@
 1.1.1.1 analytics.wondershare.cc
 1.1.1.1 analytics.woozooo.com
 1.1.1.1 analytics.worldtable.co
-1.1.1.1 analytics.wpsermons.com
 1.1.1.1 analytics.wrc.nic.in
 1.1.1.1 analytics.write.as
 1.1.1.1 analytics.xelondigital.com
@@ -5390,7 +5376,6 @@
 1.1.1.1 analytics.yopify.com.herokudns.com
 1.1.1.1 analytics.youmi.net
 1.1.1.1 analytics.youramigo.com
-1.1.1.1 analytics.yourbankcard.com
 1.1.1.1 analytics.youronlinechoices.com
 1.1.1.1 analytics.yts.vn
 1.1.1.1 analytics.yugen.to
@@ -8168,7 +8153,6 @@
 1.1.1.1 click.e.twitter.com
 1.1.1.1 click.em.blizzard.com
 1.1.1.1 click.em.soothe.com
-1.1.1.1 click.email-stubhub.com
 1.1.1.1 click.email.bbc.com
 1.1.1.1 click.email.chope.co
 1.1.1.1 click.email.houndapp.com
@@ -8304,7 +8288,6 @@
 1.1.1.1 click.streetbees.com
 1.1.1.1 click.suning.cn
 1.1.1.1 click.surfrider.org
-1.1.1.1 click.sutra.co
 1.1.1.1 click.swiftpage.marketing
 1.1.1.1 click.taincash.com
 1.1.1.1 click.tanx.com
@@ -8893,9 +8876,7 @@
 1.1.1.1 data.api.kaffnet.com
 1.1.1.1 data.email-discovery.cjm.adobe.com
 1.1.1.1 data.email-disney.cjm.adobe.com
-1.1.1.1 data.email-kpn.cjm.adobe.com
 1.1.1.1 data.email-lightroom.cjm.adobe.com
-1.1.1.1 data.email-merkle.cjm.adobe.com
 1.1.1.1 data.email-mobiledx.cjm.adobe.com
 1.1.1.1 data.email-signify.cjm.adobe.com
 1.1.1.1 data.email-tsb.cjm.adobe.com
@@ -11432,7 +11413,6 @@
 1.1.1.1 glitteringbrush.pro
 1.1.1.1 glob-markets.pro
 1.1.1.1 globalapi.ad.xiaomi.com
-1.1.1.1 glochykeste.pro
 1.1.1.1 glod-invest.pro
 1.1.1.1 gloom.opssome.top
 1.1.1.1 glores2.lanzoui.com
@@ -12905,7 +12885,6 @@
 1.1.1.1 jeffmorales.top
 1.1.1.1 jegon-investing.pro
 1.1.1.1 jellyfish.pandora.xiaomi.com
-1.1.1.1 jelulymy.pro
 1.1.1.1 jerredsite.pro
 1.1.1.1 jetdpdchat.tronshop.top
 1.1.1.1 jf.eutrty.top
@@ -13238,7 +13217,6 @@
 1.1.1.1 kuasa-api.tenmax.io
 1.1.1.1 kube-partner.net.daraz.com
 1.1.1.1 kubet.mobi
-1.1.1.1 kukachesy.pro
 1.1.1.1 kumam-bon.click
 1.1.1.1 kunde-sicherheit-konto.top
 1.1.1.1 kunde-sicherheits-service.top
@@ -14114,7 +14092,6 @@
 1.1.1.1 mgmt.partner.net.daraz.com
 1.1.1.1 mgq.uniontoy.top
 1.1.1.1 mgtcw.top
-1.1.1.1 mgvrst.mi-shop.com
 1.1.1.1 mgzs.cdn.bcebos.com
 1.1.1.1 mhf.ayhhh.top
 1.1.1.1 mi-clave-dinamica.com
@@ -16273,7 +16250,6 @@
 1.1.1.1 phone.sendito.click
 1.1.1.1 phoneapplicationlabs.top
 1.1.1.1 phonesecure.mobi
-1.1.1.1 photevifa.pro
 1.1.1.1 photo-ads.co.uk
 1.1.1.1 photo-ads.zaloapp.com
 1.1.1.1 photobucket.adnxs.com
@@ -17713,7 +17689,6 @@
 1.1.1.1 scookies-adobe.kbc.be
 1.1.1.1 scookies-adobe.kbc.com
 1.1.1.1 scookies-adobe.kbcbrussels.be
-1.1.1.1 scookies-adobe.kbclease.lu
 1.1.1.1 scookies-adobe.kching.be
 1.1.1.1 scratchy-deep.pro
 1.1.1.1 scribe.twitter.com
@@ -18727,7 +18702,6 @@
 1.1.1.1 sparkling-decision.pro
 1.1.1.1 spcode.baidu.com
 1.1.1.1 spdfkvk.pro
-1.1.1.1 speciadnessing.pro
 1.1.1.1 special-offer.pro
 1.1.1.1 speed4cksa.ero-advertising.com
 1.1.1.1 speedclecks.ero-advertising.com
@@ -18775,7 +18749,6 @@
 1.1.1.1 sql-www.partner.net.daraz.com
 1.1.1.1 squarespace.top
 1.1.1.1 squirtatt15.sugar1818.net
-1.1.1.1 sr-dynamic-content.ext.api.leclerc
 1.1.1.1 sra-delivery.yieldlove-ad-serving.net
 1.1.1.1 srd.simba.taobao.com
 1.1.1.1 sredscee.top
@@ -18986,7 +18959,6 @@
 1.1.1.1 stats.reisemobil.pro
 1.1.1.1 stats.sax.net
 1.1.1.1 stats.speedclicks.ero-advertising.com
-1.1.1.1 statstest.upti.pro
 1.1.1.1 status.twitter.com
 1.1.1.1 steadyshop.pro
 1.1.1.1 steal-corp.com
@@ -19558,7 +19530,6 @@
 1.1.1.1 tianyuewangluo.top
 1.1.1.1 tidint.pro
 1.1.1.1 tidyclient.pro
-1.1.1.1 tiglesoshi.pro
 1.1.1.1 tikivn.api.sociaplus.com
 1.1.1.1 time-partner.net.daraz.com
 1.1.1.1 time.partner.net.daraz.com
@@ -21618,7 +21589,6 @@
 1.1.1.1 vtoras.top
 1.1.1.1 vtube.mobi
 1.1.1.1 vtyqy.admaster.com.cn
-1.1.1.1 vufizopi.pro
 1.1.1.1 vuwomoby.pro
 1.1.1.1 vv84.bj.bcebos.com
 1.1.1.1 vvehbjsb.top
@@ -21823,7 +21793,6 @@
 1.1.1.1 whk.acetoid.top
 1.1.1.1 who.mergify.top
 1.1.1.1 whole-win.pro
-1.1.1.1 whopexesho.pro
 1.1.1.1 whoyouac.top
 1.1.1.1 whsaapp.top
 1.1.1.1 whsgpp.top
@@ -22424,7 +22393,6 @@
 1.1.1.1 www.chengzijianzhan.com
 1.1.1.1 www.citizensonlinedns.dynamic-dns.net
 1.1.1.1 www.click-here.it
-1.1.1.1 www.click-to-trace.com
 1.1.1.1 www.click.axiatraders.com
 1.1.1.1 www.click.newsportal.me
 1.1.1.1 www.click.top10sites.com
@@ -24007,7 +23975,6 @@
 1.1.1.1 wydarzeniawokolicy.click
 1.1.1.1 wypovuwu.pro
 1.1.1.1 wysyshypti.pro
-1.1.1.1 wytyphoji.pro
 1.1.1.1 wyxcb3.top
 1.1.1.1 wz8g.top
 1.1.1.1 wzjs.cdn.bcebos.com
@@ -24089,7 +24056,6 @@
 1.1.1.1 xg.whsbpw.cn
 1.1.1.1 xgipt.issuegreat.top
 1.1.1.1 xgirls.top
-1.1.1.1 xgrwjbui.top
 1.1.1.1 xgx.mobi
 1.1.1.1 xhot.pro
 1.1.1.1 xiangchaokankan.m.cn.miaozhen.com
@@ -24580,7 +24546,6 @@
 1.1.1.1 zyciewazne.click
 1.1.1.1 zyh.sitify.top
 1.1.1.1 zyje-czas.click
-1.1.1.1 zypanafo.pro
 1.1.1.1 zz.bdstatic.com
 1.1.1.1 zzaakefu.top
 1.1.1.1 zzbb1.top
