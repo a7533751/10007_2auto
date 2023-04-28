@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-04-28 07:56:06 
+#更新时间: 2023-04-28 09:57:32 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24697
+#规则数量:24654
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -793,7 +793,6 @@
 127.0.0.1 ad.1kxun.com
 127.0.0.1 ad.1rx.io
 127.0.0.1 ad.1ting.com
-127.0.0.1 ad.20six.fr
 127.0.0.1 ad.22betpartners.com
 127.0.0.1 ad.23blogs.com
 127.0.0.1 ad.24h.com.vn
@@ -1062,7 +1061,6 @@
 127.0.0.1 ad.foxitsoftware.com
 127.0.0.1 ad.foxnetworks.com
 127.0.0.1 ad.fr.doubleclick.net
-127.0.0.1 ad.freenet-rz.de
 127.0.0.1 ad.funp.com
 127.0.0.1 ad.funpic.de
 127.0.0.1 ad.fx168api.com
@@ -1134,11 +1132,9 @@
 127.0.0.1 ad.iconadserver.com
 127.0.0.1 ad.ie.doubleclick.net
 127.0.0.1 ad.ieurop.net
-127.0.0.1 ad.ifrance.com
 127.0.0.1 ad.iinfo.cz
 127.0.0.1 ad.ikonke.com
 127.0.0.1 ad.il.doubleclick.net
-127.0.0.1 ad.ilove.net
 127.0.0.1 ad.iloveinterracial.com
 127.0.0.1 ad.imediaaudiences.com
 127.0.0.1 ad.impactify.io
@@ -1353,7 +1349,6 @@
 127.0.0.1 ad.policeone.com
 127.0.0.1 ad.polskiprzemysl.com.pl
 127.0.0.1 ad.polymorphicads.jp
-127.0.0.1 ad.pop.com.br
 127.0.0.1 ad.pornfuzepremium.videobox.com
 127.0.0.1 ad.pornimg.xyz
 127.0.0.1 ad.pornutopia.org
@@ -1499,7 +1494,6 @@
 127.0.0.1 ad.vkoolzzz.net
 127.0.0.1 ad.vnnayngaytin.vn
 127.0.0.1 ad.vo-media.ru
-127.0.0.1 ad.vol.at
 127.0.0.1 ad.vrvm.com
 127.0.0.1 ad.walkgame.com
 127.0.0.1 ad.wamxb.info
@@ -1556,9 +1550,7 @@
 127.0.0.1 ad.zui.com
 127.0.0.1 ad.zuimeitianqi.com
 127.0.0.1 ad0.api.ero-advertising.com
-127.0.0.1 ad0.atlas.cz
 127.0.0.1 ad0.banners.ero-advertising.com
-127.0.0.1 ad0.bbmedia.cz
 127.0.0.1 ad0.bigmir.net
 127.0.0.1 ad0.data2.ero-advertising.com
 127.0.0.1 ad0.haynet.com
@@ -1651,7 +1643,6 @@
 127.0.0.1 ad3.adfarm1.adition.com
 127.0.0.1 ad3.api.ero-advertising.com
 127.0.0.1 ad3.apx.appier.net
-127.0.0.1 ad3.atlas.cz
 127.0.0.1 ad3.bannerbank.ru
 127.0.0.1 ad3.banners.ero-advertising.com
 127.0.0.1 ad3.checkm8.com
@@ -1693,7 +1684,6 @@
 127.0.0.1 ad4.thumbs.ero-advertising.com
 127.0.0.1 ad4.udn.com
 127.0.0.1 ad5.adfarm1.adition.com
-127.0.0.1 ad5.atlas.cz
 127.0.0.1 ad5.bannerbank.ru
 127.0.0.1 ad5.banners.ero-advertising.com
 127.0.0.1 ad5.bigmir.net
@@ -1704,7 +1694,6 @@
 127.0.0.1 ad5.lbn.ru
 127.0.0.1 ad5.speedbit.com
 127.0.0.1 ad5.udn.com
-127.0.0.1 ad6.atlas.cz
 127.0.0.1 ad6.bannerbank.ru
 127.0.0.1 ad6.banners.ero-advertising.com
 127.0.0.1 ad6.bigmir.net
@@ -2038,7 +2027,6 @@
 127.0.0.1 ads-pebblemedia.adhese.com
 127.0.0.1 ads-pixiv.net
 127.0.0.1 ads-privacy-api.prd.mz.internal.unity3d.com
-127.0.0.1 ads-rdb.sol.no
 127.0.0.1 ads-resources-legacy.waze.com
 127.0.0.1 ads-resources.waze.com
 127.0.0.1 ads-rm.looksmart.com
@@ -2099,7 +2087,6 @@
 127.0.0.1 ads.aavv.com
 127.0.0.1 ads.abbythetraveler.com
 127.0.0.1 ads.abovetopsecret.com
-127.0.0.1 ads.abril.com.br
 127.0.0.1 ads.abs-cbn.com
 127.0.0.1 ads.accelerator-media.com
 127.0.0.1 ads.aceweb.net
@@ -2178,7 +2165,6 @@
 127.0.0.1 ads.adual.net
 127.0.0.1 ads.adultfriendfinder.com
 127.0.0.1 ads.adultpopunders.com
-127.0.0.1 ads.adultshop.de
 127.0.0.1 ads.adultswim.com
 127.0.0.1 ads.advance.net
 127.0.0.1 ads.advanceweb.com
@@ -2194,7 +2180,6 @@
 127.0.0.1 ads.aerserv.com
 127.0.0.1 ads.affiliate.legolas.bet
 127.0.0.1 ads.affiliateclub.com
-127.0.0.1 ads.affiliates-spinit.com
 127.0.0.1 ads.affiliates.match.com
 127.0.0.1 ads.afraccess.com
 127.0.0.1 ads.ahds.ac.uk
@@ -2356,10 +2341,7 @@
 127.0.0.1 ads.bullionyield.com
 127.0.0.1 ads.bumq.com
 127.0.0.1 ads.burgasinfo.com
-127.0.0.1 ads.buscape.cl
-127.0.0.1 ads.buscape.com.ar
 127.0.0.1 ads.buscape.com.br
-127.0.0.1 ads.buscape.com.mx
 127.0.0.1 ads.buscouniversidad.com
 127.0.0.1 ads.businessclick.com
 127.0.0.1 ads.businessstyle.vn
@@ -2405,7 +2387,6 @@
 127.0.0.1 ads.chartboosts.com
 127.0.0.1 ads.chaturbate.com
 127.0.0.1 ads.cheabit.com
-127.0.0.1 ads.chilecomparte.net
 127.0.0.1 ads.china.com
 127.0.0.1 ads.chipcenter.com
 127.0.0.1 ads.chumcity.com
@@ -2440,7 +2421,6 @@
 127.0.0.1 ads.contents.fc2.com
 127.0.0.1 ads.contextweb.com
 127.0.0.1 ads.contrasoft.dk
-127.0.0.1 ads.coolads.de
 127.0.0.1 ads.coopson.com
 127.0.0.1 ads.corusradionetwork.com
 127.0.0.1 ads.courierpostonline.com
@@ -2455,7 +2435,6 @@
 127.0.0.1 ads.crontab.no
 127.0.0.1 ads.crosscut.com
 127.0.0.1 ads.csdn.net
-127.0.0.1 ads.csi.emcweb.com
 127.0.0.1 ads.csr11.net.daraz.com
 127.0.0.1 ads.ctvdigital.net
 127.0.0.1 ads.cungcau.vn
@@ -2468,7 +2447,6 @@
 127.0.0.1 ads.dabi.ir
 127.0.0.1 ads.dada.it
 127.0.0.1 ads.dailycamera.com
-127.0.0.1 ads.daleclick.com.ar
 127.0.0.1 ads.data.pplive.com
 127.0.0.1 ads.databrainz.com
 127.0.0.1 ads.datinggold.com
@@ -2564,7 +2542,6 @@
 127.0.0.1 ads.ero-advertising.com
 127.0.0.1 ads.eropower.de
 127.0.0.1 ads.erotism.com
-127.0.0.1 ads.escortforumit.com
 127.0.0.1 ads.eskimi.com
 127.0.0.1 ads.espaciolatino.com
 127.0.0.1 ads.espn.adsonar.com
@@ -2591,7 +2568,6 @@
 127.0.0.1 ads.fasttrack-ignite.com
 127.0.0.1 ads.faxo.com
 127.0.0.1 ads.fayettevillenc.com
-127.0.0.1 ads.fcnet.de
 127.0.0.1 ads.feedly.com
 127.0.0.1 ads.feelingtouch.com
 127.0.0.1 ads.femmefab.nl
@@ -2617,7 +2593,6 @@
 127.0.0.1 ads.fooyoh.com
 127.0.0.1 ads.forbes.net
 127.0.0.1 ads.formit.cz
-127.0.0.1 ads.forodecostarica.com
 127.0.0.1 ads.fortunecity.com
 127.0.0.1 ads.fotoable.com
 127.0.0.1 ads.fotosidan.se
@@ -2641,7 +2616,6 @@
 127.0.0.1 ads.fulltiltpoker.com
 127.0.0.1 ads.funnelconsultants.com
 127.0.0.1 ads.g.adxadserv.com
-127.0.0.1 ads.g2khosting.com
 127.0.0.1 ads.gamavirtual.com
 127.0.0.1 ads.game.net
 127.0.0.1 ads.gamecity.net
@@ -2663,7 +2637,6 @@
 127.0.0.1 ads.gercekgundem.com
 127.0.0.1 ads.germanfriendfinder.com
 127.0.0.1 ads.getlucky.com
-127.0.0.1 ads.gfsrv.net
 127.0.0.1 ads.ghettotube.com
 127.0.0.1 ads.gionee.com
 127.0.0.1 ads.givemegay.com
@@ -2681,7 +2654,6 @@
 127.0.0.1 ads.golfweek.com
 127.0.0.1 ads.goodreads.com
 127.0.0.1 ads.google.com
-127.0.0.1 ads.googlepreview.com
 127.0.0.1 ads.gorillanation.com
 127.0.0.1 ads.gosu.vn
 127.0.0.1 ads.goyk.com
@@ -2875,7 +2847,6 @@
 127.0.0.1 ads.lifdununa.is
 127.0.0.1 ads.lifethink.net
 127.0.0.1 ads.link4ads.com
-127.0.0.1 ads.linkara.com
 127.0.0.1 ads.linkedin.com
 127.0.0.1 ads.linksrequest.com
 127.0.0.1 ads.linktracking.net
@@ -2965,7 +2936,6 @@
 127.0.0.1 ads.mobadvent.com
 127.0.0.1 ads.mobclix.com
 127.0.0.1 ads.mobgold.com
-127.0.0.1 ads.mobilautomaten.com
 127.0.0.1 ads.mobilebet.com
 127.0.0.1 ads.mobilefuse.net
 127.0.0.1 ads.mobilemarketer.com
@@ -3014,10 +2984,8 @@
 127.0.0.1 ads.netavis.dk
 127.0.0.1 ads.netbul.com
 127.0.0.1 ads.netcommunities.com
-127.0.0.1 ads.netlog.com
 127.0.0.1 ads.netrition.com
 127.0.0.1 ads.netsol.com
-127.0.0.1 ads.nettavisen.no
 127.0.0.1 ads.networkhm.com
 127.0.0.1 ads.networksolutions.com
 127.0.0.1 ads.networkwcs.net
@@ -3253,7 +3221,6 @@
 127.0.0.1 ads.samsung.com
 127.0.0.1 ads.samsungads.com
 127.0.0.1 ads.sandino.net
-127.0.0.1 ads.santanderrio.com.ar
 127.0.0.1 ads.saplacikardepo.xyz
 127.0.0.1 ads.sapo.pt
 127.0.0.1 ads.satyamonline.com
@@ -3527,7 +3494,6 @@
 127.0.0.1 ads.vovlive.vn
 127.0.0.1 ads.voyit.com
 127.0.0.1 ads.vporn.com
-127.0.0.1 ads.vr-zone.com
 127.0.0.1 ads.vrvm.com
 127.0.0.1 ads.vserv.mobi
 127.0.0.1 ads.vtc.vn
@@ -3652,7 +3618,6 @@
 127.0.0.1 ads1.jp.msn.com
 127.0.0.1 ads1.lfengmobile.com
 127.0.0.1 ads1.mediacapital.pt
-127.0.0.1 ads1.mediaops.com.br
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads1.msn.com
 127.0.0.1 ads1.nexdra.com
@@ -3732,7 +3697,6 @@
 127.0.0.1 ads2.helpos.com
 127.0.0.1 ads2.hsoub.com
 127.0.0.1 ads2.mediaarmor.com
-127.0.0.1 ads2.mediaops.com.br
 127.0.0.1 ads2.msads.net
 127.0.0.1 ads2.msn.com
 127.0.0.1 ads2.mynet.com
@@ -3837,7 +3801,6 @@
 127.0.0.1 ads4.krushmedia.com
 127.0.0.1 ads4.realcities.com
 127.0.0.1 ads4.speedbit.com
-127.0.0.1 ads4.veloxia.com
 127.0.0.1 ads4.virtual-nights.com
 127.0.0.1 ads5-adnow.com
 127.0.0.1 ads5-eu.truecaller.com
@@ -6951,7 +6914,6 @@
 127.0.0.1 banner.amateri.com
 127.0.0.1 banner.ambercoastcasino.com
 127.0.0.1 banner.appsflyer.com
-127.0.0.1 banner.arttoday.com
 127.0.0.1 banner.as.admaster.com.cn
 127.0.0.1 banner.ateam-ad.jp
 127.0.0.1 banner.betfred.com
@@ -7453,7 +7415,6 @@
 127.0.0.1 bulisite.top
 127.0.0.1 bulletproof-analytics.com
 127.0.0.1 bum.comfirty.top
-127.0.0.1 bumpberam.pro
 127.0.0.1 buomdep.pro
 127.0.0.1 buoyant-force.pro
 127.0.0.1 buoyantmanufacturer.pro
@@ -12838,7 +12799,6 @@
 127.0.0.1 iu9g.top
 127.0.0.1 iut.endics.top
 127.0.0.1 iv.doubleclick.net
-127.0.0.1 ive-banner.com
 127.0.0.1 ivint-pl.io767224221.top
 127.0.0.1 ivint-pl.io788433321.top
 127.0.0.1 ivint-pl.otrzymujac03298.top
@@ -14937,7 +14897,6 @@
 127.0.0.1 nudeteengirls.pro
 127.0.0.1 nudeteenmovs.pro
 127.0.0.1 nudewife.pro
-127.0.0.1 nugg.ad
 127.0.0.1 nuglizesi.pro
 127.0.0.1 numquamxoz.click
 127.0.0.1 nupics.pro
@@ -15654,7 +15613,6 @@
 127.0.0.1 pardot.analytics.mcgill.ca
 127.0.0.1 paridakinvest.pro
 127.0.0.1 parisloginblast.pro
-127.0.0.1 parketsy.pro
 127.0.0.1 parking.godaddy.com
 127.0.0.1 participa-yapeiphone-pe.top
 127.0.0.1 partner-24.net.daraz.com.00d3t000002re27eag.net.daraz.com
@@ -24083,7 +24041,6 @@
 127.0.0.1 xemshow.click
 127.0.0.1 xexnhat.top
 127.0.0.1 xf2pf.top
-127.0.0.1 xfimwjibh.top
 127.0.0.1 xfinity.allatry.click
 127.0.0.1 xfkkvjabbogciwl.top
 127.0.0.1 xg-hacks.com
