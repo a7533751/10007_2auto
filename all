@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-01 07:56:11 
+#更新时间: 2023-05-01 09:57:53 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24517
+#规则数量:24520
 ##################
 
 108.177.122.90 translate.googleapis.com
@@ -4340,6 +4340,7 @@
 127.0.0.1 analytics-cms.whitebeard.me
 127.0.0.1 analytics-coletor-site.ojc.com.br
 127.0.0.1 analytics-collector-28944298.us-east-1.elb.amazonaws.com
+127.0.0.1 analytics-consent-manager-v2-prod.azureedge.net
 127.0.0.1 analytics-digit-in.cdn.ampproject.org
 127.0.0.1 analytics-egain.com
 127.0.0.1 analytics-engine.net
@@ -14694,6 +14695,7 @@
 127.0.0.1 nht-3.extreme-dm.com
 127.0.0.1 nhz.adwo.com
 127.0.0.1 nice.hopeize.top
+127.0.0.1 niceelitdating.top
 127.0.0.1 nicepornvideos.pro
 127.0.0.1 nicesliders.top
 127.0.0.1 nicola.top
@@ -19392,6 +19394,7 @@
 127.0.0.1 thichawheja.pro
 127.0.0.1 thick-ruin.pro
 127.0.0.1 thind-gke-euw.prd.data.corp.unity3d.com
+127.0.0.1 thornyinitial.pro
 127.0.0.1 thosemethod.pro
 127.0.0.1 threat-analytics.com
 127.0.0.1 thudam.pro
