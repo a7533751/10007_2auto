@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-02 07:56:05 
+#更新时间: 2023-05-02 09:55:39 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24541
+#规则数量:24544
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -4803,6 +4803,7 @@
 127.0.0.1 analytics.m7g.twitch.tv
 127.0.0.1 analytics.ma.tune.com
 127.0.0.1 analytics.macklin.me
+127.0.0.1 analytics.maikel.pro
 127.0.0.1 analytics.mail-corp.com
 127.0.0.1 analytics.maileon.com
 127.0.0.1 analytics.mailmunch.co
@@ -7971,6 +7972,7 @@
 127.0.0.1 click-rtb2-useast.afkwa.com
 127.0.0.1 click-rtb2-useast.africonverse.com
 127.0.0.1 click-rtb2-useast.catapultx.com
+127.0.0.1 click-rtb2-useast.demandzoo.com
 127.0.0.1 click-rtb2-useast.e-volution.ai
 127.0.0.1 click-rtb2-useast.xaprio.net
 127.0.0.1 click-rtb2-uswest.afkwa.com
@@ -13896,6 +13898,7 @@
 127.0.0.1 media-api.maio.jp
 127.0.0.1 media-elektro.top
 127.0.0.1 media.8kun.top
+127.0.0.1 media.ad-lps.net
 127.0.0.1 media.adrcdn.com
 127.0.0.1 media.ads.gfsrv.net
 127.0.0.1 media.content.ad
