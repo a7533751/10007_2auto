@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-07 01:56:15 
+#更新时间: 2023-05-07 02:56:17 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:23931
+#规则数量:23933
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -13240,6 +13240,7 @@
 94.140.14.33 local.api-northamericar-ch-8.net.daraz.com
 94.140.14.33 location.api.kochava.com
 94.140.14.33 location.ximalaya.com
+94.140.14.33 lodar2ben.top
 94.140.14.33 log02036-zigzagstrchd-www.partner.net.daraz.com
 94.140.14.33 log1.mmstat.com
 94.140.14.33 log2.sina.cn
@@ -21013,6 +21014,7 @@
 94.140.14.33 w25e.top
 94.140.14.33 w4.frontpage-partner.net.daraz.com
 94.140.14.33 w4jz.top
+94.140.14.33 w94.1qlgi.top
 94.140.14.33 wa.gtimg.com
 94.140.14.33 wadahlapak.top
 94.140.14.33 wads.ozap.com
