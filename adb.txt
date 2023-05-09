@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-05-09 11:56:15
+! Last modified: 2023-05-09 12:56:05
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-05-09 11:56:15 ^
+!更新时间: 2023-05-09 12:56:05 ^
 
-!规则数量:24032^
+!规则数量:24193^
 !#################^
 
 ||0-analytics-global.net.daraz.com^
@@ -43,11 +43,13 @@
 ||00-bootstrap-corp-spring.net.daraz.com^
 ||00-bootstrap-corp-w-htgb-a.net.daraz.com^
 ||00-bootstrap-frontpage-partner.net.daraz.com^
+||00-bootstrap-traffic-lib-oa-3.net.daraz.com^
 ||00-bootstrapwww.partner.net.daraz.com^
 ||000-partner.net.daraz.com^
 ||0004-disable-google-url-tracker.net.daraz.com^
 ||006-zigzagstr-kube-partner.net.daraz.com^
 ||009.itpolska.click^
+||00d20000000lgfveaaspyder-api.net.daraz.com^
 ||01-car26-web-8s59geexezp7q9u0web-wwww2node-analytics-webapp.net.daraz.com^
 ||01-lib-oa-1-partner-11.net.daraz.com^
 ||01-lib-oa-1w10wwwnet-api-tur.net.daraz.com^
@@ -75,6 +77,7 @@
 ||0gw7e6s3wrao9y3q.pro^
 ||0jcn4veha2oz.top^
 ||0kal38g35ctc.top^
+||0kube-partner-car2kube-partner-web-wwww0node.net.daraz.com^
 ||0l1201s548b2.top^
 ||0latfee.ero-advertising.com^
 ||0lx-pl.id-dostawa342789.top^
@@ -120,10 +123,8 @@
 ||12w.maxuikl.top^
 ||132213.pro-activprofit.site^
 ||133pago.traffic-0psdadj3szljo593-795f1a2070f044fa85c01ff2679502a5.net.daraz.com^
-||13896.baidu.wap.shuaihu99.com^
 ||13gtest.bj2cu.u3.ucweb.com^
 ||14.partner.net.daraz.com^
-||14990.baidu.gov.shuaihu99.com^
 ||14gtest.bj2cu.u3.ucweb.com^
 ||14x5vjrnjelo.top^
 ||15gtest.bj2cu.u3.ucweb.com^
@@ -142,6 +143,7 @@
 ||193pago-click.docsvpntr04germany.net.daraz.com^
 ||193pago-click.net.daraz.com^
 ||193pago-click.security-docs.net.daraz.com^
+||1980s.click^
 ||19gtest.bj2cu.u3.ucweb.com^
 ||1auaph69ausv.top^
 ||1b9cvfi0nwxqelxu.pro^
@@ -206,6 +208,7 @@
 ||230579.top^
 ||234.pro-activprofit.site^
 ||234234.pro-activprofit.site^
+||2345.eyunsou.com^
 ||238ym2umhodj.top^
 ||23986834.com^
 ||23dsf.top^
@@ -364,6 +367,7 @@
 ||6f2tjr26.top^
 ||6gtest.bj2cu.u3.ucweb.com^
 ||6snjvxkawrtolv2x.pro^
+||6t09fag307ep.click^
 ||6wwvu4ate8g6w68q.rj83p.api.daraz.com.net.daraz.com^
 ||7-7-7-partner.com^
 ||7-7-7-partner.org^
@@ -427,10 +431,12 @@
 ||8dcn5u.viqiyi.admaster.com.cn^
 ||8dqc4u.viqiyi.admaster.com.cn^
 ||8dvzfa.vfs.admaster.com.cn^
+||8ebtdbsjsu.click^
 ||8gtest.bj2cu.u3.ucweb.com^
 ||8kun.top^
 ||8live.top^
 ||8muses.download^
+||8narwi309.click^
 ||8s59geexezp7q9u0web-wwww2node-analytics-astrologie92.net.daraz.com^
 ||8s59geexezp7q9u0web-wwww2node-analytics.104-wwwapi27region-testing9.net.daraz.com^
 ||8s59geexezp7q9u0web-wwww2node-analytics.okta.net.daraz.com^
@@ -453,6 +459,7 @@
 ||9ads.mobi^
 ||9ads.net^
 ||9ata.ero-advertising.com^
+||9bghqk3avg2gnh.click^
 ||9bph.top^
 ||9eu7c.top^
 ||9gtest.bj2cu.u3.ucweb.com^
@@ -510,10 +517,12 @@
 ||a0food.top^
 ||a0usa.top^
 ||a1.api.bbc.co.uk^
+||a1.api.bbc.com^
 ||a168888.top^
 ||a3kd0.top^
 ||a4p.adpartner.pro^
 ||a78wt.top^
+||a79746915f26c9933e70.goonlinebnparibas-pl.click^
 ||a8.bousui-pro.com^
 ||a8cv.cpi.ad.jp^
 ||a8cv.downjacket.pro^
@@ -549,6 +558,7 @@
 ||abtest.mistat.xiaomi.com^
 ||ac.mmstat.com^
 ||ac3.msn.com^
+||ac6f67b764e4e277d3ca.goonlinebnparibas-pl.click^
 ||acadiannaturecruises.mobi^
 ||acc-konto-update.netafixx.cam^
 ||acc-update.netafuxu.club^
@@ -688,6 +698,7 @@
 ||ad-loupe.com^
 ||ad-m.asia^
 ||ad-mapps.com^
+||ad-marketing.net.easyjet.com^
 ||ad-maven.com^
 ||ad-maven.xml-eu.ak-is2.net^
 ||ad-maven.xml.ak-is2.net^
@@ -1835,6 +1846,7 @@
 ||admin.ad.guru^
 ||admin.dfnb-ads.com^
 ||admin.vserv.mobi^
+||adminht.top^
 ||admmail.partner.net.daraz.com^
 ||admob-gmats.uc.r.appspot.com^
 ||admobile.top^
@@ -4239,7 +4251,6 @@
 ||amavirgin.pro^
 ||amaz.emailon.top^
 ||amazinelistrun.pro^
-||amazo-n.top^
 ||amazoin-info-jp-apps.top^
 ||amazom.snmzou.top^
 ||amazom.wunior.top^
@@ -4255,7 +4266,6 @@
 ||amazon.abovem.top^
 ||amazon.myaccount-us.click^
 ||amazonco-jp.top^
-||amazonoshp.top^
 ||amazonshopd.top^
 ||amazoshoppp.top^
 ||ambitious-upstairs.pro^
@@ -4263,6 +4273,7 @@
 ||amdcopen.m.taobao.com^
 ||ameeo.inhouse.top^
 ||ameeo.pwir.top^
+||ameixosszpxpass.top^
 ||amendedcar.top^
 ||amer.rel.msn.com^
 ||america-partner.net.daraz.com^
@@ -4308,6 +4319,7 @@
 ||analytics-api.statvoo.com^
 ||analytics-au.clickdimensions.com^
 ||analytics-beacon.p.uliza.jp^
+||analytics-beta-interaction.net.daraz.com^
 ||analytics-ca.clickdimensions.com^
 ||analytics-car21.net.daraz.com^
 ||analytics-cdiscount.com^
@@ -5426,6 +5438,7 @@
 ||api-docsallseason.net.daraz.com^
 ||api-docscsr45.secure.net.daraz.com^
 ||api-docscsr45resetcar13.net.daraz.com^
+||api-docsfreya-api-docsfreya.net.daraz.com^
 ||api-docsfreyapayment.net.daraz.com^
 ||api-docsr-ln-1.net.daraz.com^
 ||api-edge.myfreecams.com^
@@ -5445,6 +5458,7 @@
 ||api-gi.getui.com^
 ||api-gps-em.hismarttv.com^
 ||api-gps-na.hismarttv.com^
+||api-gwy-edgekey.net.easyjet.com^
 ||api-h.outgrow.co^
 ||api-help.100px.com^
 ||api-home.coocaa.ottcn.com^
@@ -5488,6 +5502,7 @@
 ||api-saison.mchangahw.top^
 ||api-saison.wfggbwg.cn^
 ||api-saison.wmbpoc.top^
+||api-sandbox-edgekey.net.easyjet.com^
 ||api-sc2.adsymptotic.com^
 ||api-sdk.datadome.co^
 ||api-secure.mixpanel.com^
@@ -6377,7 +6392,6 @@
 ||appmylogin.dynamic-dns.net^
 ||apprefaculty.pro^
 ||approp.pro^
-||approva-app.top^
 ||apps.ad-x.co.uk^
 ||apps.bytesfield.com^
 ||apps.twitter.com^
@@ -7068,6 +7082,7 @@
 ||bitcllpay.top^
 ||bitcoin-billionaire-pro.financialmarketsworld.com^
 ||bitcoin-era.pro^
+||bitcoin-polska-platform.bitqt.click^
 ||bitcoin-pro.live^
 ||bitcoin-ua.top^
 ||bitcoin24su.orgsi.top^
@@ -7114,6 +7129,7 @@
 ||blo06.eutradepeopl.top^
 ||blo18.eutradepeopl.top^
 ||blo3.euprofx.top^
+||block-ads-now.com^
 ||blockchain-ads.com^
 ||blockchein.top^
 ||blockcheln.top^
@@ -7248,6 +7264,7 @@
 ||browser-tools.systems^
 ||browser-update.org^
 ||browser-updater.yandex.net^
+||browser-updating.com^
 ||browser-wallet.com^
 ||browser.covatic.io^
 ||browser.events.data.msn.cn^
@@ -7537,6 +7554,7 @@
 ||ccxfz.foryts.top^
 ||cd-ads.com^
 ||cdd-pro.web.app^
+||cdihbzotuu.edgekey.api-gwy.net.easyjet.com^
 ||cdm.uncensored-hentai.top^
 ||cdn-adn-https-share.rayjump.com^
 ||cdn-ads.adpushup.com^
@@ -7857,7 +7875,6 @@
 ||cindicator.pro^
 ||ciopa.everadpro.click^
 ||cir-smart.baidu.com^
-||citrixei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||city-ads.de^
 ||ciwhacheho.pro^
 ||cixyzui0.pro^
@@ -8232,6 +8249,7 @@
 ||clk.content-ad.net^
 ||clk.get-bathroom.pro^
 ||clk.homequotes.pro^
+||clk.track-ad.com^
 ||clknrtrg.pro^
 ||clkservice.mail.youdao.com^
 ||clkservice.union.youdao.com^
@@ -8277,6 +8295,7 @@
 ||cmshow.gtimg.cn^
 ||cmytuok.top^
 ||cn.lakdc.top^
+||cn.manbetx80.pro^
 ||cnf.adbana.com^
 ||cnnanxing.mobi^
 ||cnz1.freepl.top^
@@ -8309,6 +8328,7 @@
 ||cobidor-invest.pro^
 ||cocgt.top^
 ||cock.lepsage.top^
+||cock.theyior.top^
 ||coco-pay.orgn.top^
 ||code-del-successo.click^
 ||code.hot-mob.com^
@@ -8337,6 +8357,12 @@
 ||colour5.top^
 ||coltagainst.pro^
 ||columngym.top^
+||com.api-docskey.net.easyjet.com^
+||com.api-gwy-edgekey.net.easyjet.com^
+||com.api-testedgekey.net.easyjet.com^
+||com.api.net.easyjet.com^
+||com.edgekey.api-sandbox.net.easyjet.com^
+||com.edgekey.api-test.net.easyjet.com^
 ||com.yxcorp.gifshow.ad^
 ||com.yxcorp.gifshow.map^
 ||come.lepsage.top^
@@ -8346,6 +8372,7 @@
 ||commbank-info-update.com^
 ||commbank.online-identification.secure-banking.online-identification.top^
 ||commercial-i30.com^
+||commercial-song.net.easyjet.com^
 ||commercial.davey.com^
 ||commercial.daznservices.com^
 ||commercial.equifax.com^
@@ -8431,13 +8458,10 @@
 ||corp.specificmedia.com^
 ||corp.sts.microsoft.com^
 ||correctinnovation.top^
-||correoes.top^
 ||correoresco.es-es-particulares.fuaa.top^
 ||correos-embalar.top^
 ||correos-verify.top^
 ||correoslj.top^
-||correosses.top^
-||corros.top^
 ||cors.hot-mob.com^
 ||corycj.top^
 ||cosmossolitude.top^
@@ -8451,6 +8475,7 @@
 ||counter.top.kg^
 ||counterimg1.adultrevenueservice.com^
 ||counterstrikesource2.pro^
+||coup-ling-dm.net^
 ||coursegriffe.top^
 ||covblog.top^
 ||coxtuh.streamamongcotton.top^
@@ -8475,6 +8500,7 @@
 ||cpro.zol.com.cn^
 ||cpu-admin.baidu.com^
 ||cpu-baidu-com-block.cdn.bcebos.com^
+||cpu-id.top^
 ||cpu.baidu.com^
 ||cpucdn.baidu.com^
 ||cpux.gmud.top^
@@ -8545,6 +8571,7 @@
 ||cryptox-ads.io^
 ||crystal-ad.ge^
 ||crystalapp.miguvideo.com^
+||cs-api.range86-129xroads.b2bmktg.com^
 ||cs-feige.iqiyi.com^
 ||cs-luckyskins.top^
 ||cs-money.pro^
@@ -8553,6 +8580,7 @@
 ||cs-skinsmoneiyes.top^
 ||cs-swap.pro^
 ||cs-trader.pro^
+||cs-utils-rtr.analytics.admin.net.daraz.com^
 ||cs.analytics.lego.com^
 ||cs.r-ad.ne.jp^
 ||csbol.pro^
@@ -8561,7 +8589,6 @@
 ||csgo-luxe.top^
 ||csgo-skins4.pro^
 ||csgo-stars.top^
-||csgo2-source.pro^
 ||csgo2key.pro^
 ||csgobora.pro^
 ||csgocasino.pro^
@@ -8789,6 +8816,8 @@
 ||dbamyociebie.click^
 ||dbs-lah.top^
 ||dbs123.top^
+||dbs65a.top^
+||dbs65o.top^
 ||dbsbank.top^
 ||dbspayment.top^
 ||dbspaymentlah.top^
@@ -8834,6 +8863,7 @@
 ||de.as.cp61.ott.cibntv.net^
 ||de.pandora.xiaomi.com^
 ||de.xxx-porn.top^
+||de2b8pzju0h.click^
 ||deadlyheart.pro^
 ||deadlysafe.pro^
 ||deagpunjab.top^
@@ -9093,9 +9123,11 @@
 ||dmp.vlion.cn^
 ||dn.propl.top^
 ||dndj.dddplat.top^
+||dnrwecqiyl.mobi^
 ||dns-2.consul.net.daraz.com^
 ||dns-analytics.com^
 ||dns-clientinfo.cbsivideo.com^
+||dns-dhl.ch^
 ||dns-eu-east-32.xyz^
 ||dns-info.dyndns.pro^
 ||dns-linkone.com^
@@ -9162,8 +9194,10 @@
 ||down140.mclick.mobi^
 ||down141.mclick.mobi^
 ||download-alert.com^
+||download-app.net^
 ||download-battlefield-4-hack-crack-keygen-new-2014.ipro.pw^
 ||download-bb.com^
+||download-campaign.com^
 ||download-fast.net^
 ||download-film-porno-gratis.blogspot.com^
 ||download-free-ebooks.in^
@@ -9428,6 +9462,7 @@
 ||e.tf.360.cn^
 ||e.zg-api.com^
 ||e0.extreme-dm.com^
+||e0pxjz8hh09v.top^
 ||e1.extreme-dm.com^
 ||e2.extreme-dm.com^
 ||e346ab6c68.click^
@@ -9447,6 +9482,8 @@
 ||easyads29.mobi^
 ||easyads29.pro^
 ||easydestiny.click^
+||easyjet.com.api-docskey.net.easyjet.com^
+||easyjet.com.api-gwy.net.easyjet.com^
 ||easynews.adsame.com^
 ||easyway2.click^
 ||eawp2ra7.top^
@@ -9671,25 +9708,56 @@
 ||ei-api.gwy.easyjet.com-testprod-dub-avl-green.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com-uat-dub-avl-blue.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com-visitor1.edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.12annualreport.net.easyjet.com^
+||ei-api.gwy.easyjet.com.2012annualreportkey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.2018annualreport.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.20anosbemvividosedgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.20jahre.edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.activities.net.easyjet.com^
+||ei-api.gwy.easyjet.com.admincvp-edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.administratorkey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.adminskey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.airflow-preprodkey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.airportparkingedgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.al-docker-allkey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.aparcamiento-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.aparcamiento.net.easyjet.com^
+||ei-api.gwy.easyjet.com.aplaceinthepunkey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.app-uatkey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.appkey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.authkey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.aws-int1.net.easyjet.com^
+||ei-api.gwy.easyjet.com.aws-intkey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.aws-portal-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.aws.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.b2b-dkkey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.b2b2s7edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.blue-preprod-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.borderauthorities-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.branch2.net.easyjet.com^
+||ei-api.gwy.easyjet.com.brand-internal-test.net.easyjet.com^
+||ei-api.gwy.easyjet.com.careerskey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.changebookingapi.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.channelstable-dub-sc1-blue.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.chd.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.ci-cms-edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.ci-dub-greenedgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.ci-edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.citrix-edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.citrixtest.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.communityedgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.conf-uatkey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.connectedportal.net.easyjet.com^
+||ei-api.gwy.easyjet.com.container-edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.containeredgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.cpanel-edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.datadogevents.net.easyjet.com^
+||ei-api.gwy.easyjet.com.decollageimmediat.net.easyjet.com^
+||ei-api.gwy.easyjet.com.dev-edgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.developerkey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.devopsedgekey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.devopskey.net.easyjet.com^
+||ei-api.gwy.easyjet.com.digitallite.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.dk-payments.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.docsdrop-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.dub-auth-blueedgekey.net.easyjet.com^
@@ -9740,9 +9808,15 @@
 ||ei-api.gwy.easyjet.com.edgekey-us.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey-usertesting.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey.19annualreport.net.easyjet.com^
+||ei-api.gwy.easyjet.com.edgekey.20jahre.net.easyjet.com^
+||ei-api.gwy.easyjet.com.edgekey.accountapi.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey.aws-int.net.easyjet.com^
+||ei-api.gwy.easyjet.com.edgekey.aws.net.easyjet.com^
+||ei-api.gwy.easyjet.com.edgekey.b2b1s6api.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey.brand.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey.channelstable-dub-blue.net.easyjet.com^
+||ei-api.gwy.easyjet.com.edgekey.checkinapp.net.easyjet.com^
+||ei-api.gwy.easyjet.com.edgekey.datahub.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey.dk-psa.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey.dub-routepricingapi-v2.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.edgekey.ei-amq1-sit3-core.net.easyjet.com^
@@ -9861,7 +9935,6 @@
 ||ei-api.gwy.easyjet.com.ei-elastic-test-amq-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.ei-ops-amq2-tops-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.ei-ops-api-aws-intl-edgekey.net.easyjet.com^
-||ei-api.gwy.easyjet.com.ei-ops-api-aws-intl.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.ei-ops-api-aws-intlkey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.ej-holidays-docker.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.emeaedgekey.net.easyjet.com^
@@ -9884,10 +9957,8 @@
 ||ei-api.gwy.easyjet.com.insurance-test.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.integration-dub-blue-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.italia.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjet.com.kibana-v2key.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.kirigami-uat.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.lax-edgekey.net.easyjet.com^
-||ei-api.gwy.easyjet.com.lax.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.log4net-edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.login.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.logstashkey.net.easyjet.com^
@@ -9942,7 +10013,6 @@
 ||ei-api.gwy.easyjet.com.testprod-dub-routepricingapi-v2key.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.testprod-dub-routepricingapi-v3.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.testprod-dub-routepricingapi-v3key.net.easyjet.com^
-||ei-api.gwy.easyjet.com.testprod-dub-sc1-blue.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.testprod-dub-sc1-blue.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.tpekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.com.travelleredgekey.net.easyjet.com^
@@ -10055,20 +10125,14 @@
 ||ei-api.gwy.easyjet.webappcom.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet.workday.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjet08annualreport.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjet2013annualreport.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjetconf-test.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetdk-flighttracker.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetei-elastic-test-amq-1a-203.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetei-ops-amq2-tops.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetfra-sc2-blue.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetgit-sandbox.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjetgit-test.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetholidaycontent.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetholidays.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjetinsurance5-test.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetpadevtm1.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjetpantheon.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjetparkplatz.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetpde-142-api-integration.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetperformance-dub-blue.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetpreview.com.edgekey.net.easyjet.com^
@@ -10079,9 +10143,6 @@
 ||ei-api.gwy.easyjetqa3-dub-rbk-green.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetsandbox.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetsonar-uat.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjettestbed.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjettestpctplusej.com.edgekey.net.easyjet.com^
-||ei-api.gwy.easyjettestprod-dub-avl-green.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetuat-dub-hotac-blue.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetuat-dub-rbk-green.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.easyjetvacaciones.com.edgekey.net.easyjet.com^
@@ -10113,11 +10174,9 @@
 ||ei-api.gwy.ei-elastic-test-amq-1a-192.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.ei-elastic-test-amq-1a-195-easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.ei-elastic-test-amq-1a-231easyjet.com.edgekey.net.easyjet.com^
-||ei-api.gwy.ei-elastic-test-amq-1a-233-easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.ei-elastic-test-amq-1a-244.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.ei-elastic-test-amq-1a-253easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.ei-ops-amq1-tops.com.edgekey.net.easyjet.com^
-||ei-api.gwy.ei-ops-api-aws-intl.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.ei-stb-pre-rdg.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.engineering.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.ext-easyjet.com.edgekey.net.easyjet.com^
@@ -10128,10 +10187,8 @@
 ||ei-api.gwy.fra-routepricingapi-v2.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.fra-sc1-green.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.getconnectedeasyjet.com.edgekey.net.easyjet.com^
-||ei-api.gwy.github.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.green-preprod-easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.guides-easyjet.com.edgekey.net.easyjet.com^
-||ei-api.gwy.holiday.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.holidaystrade.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.homebagdropeasyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwy.hotels-secureeasyjet.com.edgekey.net.easyjet.com^
@@ -10177,7 +10234,6 @@
 ||ei-api.gwychannelstable-dub-rbk-blue.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwychannelstable.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwycustomercharter.easyjet.com.edgekey.net.easyjet.com^
-||ei-api.gwyei-elastic-test-amq-1a-009.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwyei-elastic-test-amq-1a-014.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwyei-elastic-test-amq-1a-048.easyjet.com.edgekey.net.easyjet.com^
 ||ei-api.gwyei-elastic-test-amq-1a-089.easyjet.com.edgekey.net.easyjet.com^
@@ -10230,17 +10286,13 @@
 ||ei-elastic-test-amq-1a-116.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei-elastic-test-amq-1a-124.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei-elastic-test-amq-1a-130-ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
-||ei-elastic-test-amq-1a-131.internal-api.net.easyjet.com^
 ||ei-elastic-test-amq-1a-137.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei-elastic-test-amq-1a-150ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
-||ei-elastic-test-amq-1a-155.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei-elastic-test-amq-1a-160.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei-elastic-test-amq-1a-171.internal-api.net.easyjet.com^
 ||ei-elastic-test-amq-1a-188.internal-api.net.easyjet.com^
-||ei-elastic-test-amq-1a-207-ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||ei-elastic-test-amq-1a-208.internal-api.net.easyjet.com^
 ||ei-elastic-test-amq-1a-218.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
-||ei-elastic-test-amq-1a-240.internal-api.net.easyjet.com^
 ||ei.cnzz.com^
 ||eicxz6jfjaw.click^
 ||eitb7.top^
@@ -10276,6 +10328,7 @@
 ||elaboratehall.pro^
 ||elasticbeanstalkchd-www.partner.net.daraz.com^
 ||election.twitter.com^
+||electricireland-update.com^
 ||eleganthome.click^
 ||elektro-max.top^
 ||elepocial.pro^
@@ -10433,7 +10486,6 @@
 ||esq.lifetradefx.top^
 ||essentialpiece.pro^
 ||est-mta.b2b-mail.net^
-||estacionamento.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||et.progrpro.top^
 ||etahub.com^
 ||etc-sads.dumb1.com^
@@ -10441,6 +10493,7 @@
 ||etcetcasf.top^
 ||etcetfacg.top^
 ||etcgashgk.top^
+||etcher.download^
 ||etcrtgjaka.top^
 ||etcsda1.top^
 ||etcsda2.top^
@@ -10490,6 +10543,7 @@
 ||eul.s.360.cn^
 ||eurolive.pro^
 ||europe-ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
+||europe-r-oa-1.analytics.net.daraz.com^
 ||europe-west2.ads.playground.xyz^
 ||europewest-ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||eurowin.top^
@@ -10574,6 +10628,7 @@
 ||exosrv.com^
 ||expensivesurvey.click^
 ||expert-pt.top^
+||expert-top.com^
 ||expleates.pro^
 ||expo.ads.ramsalt.com^
 ||expocaptcha.top^
@@ -10651,6 +10706,7 @@
 ||fasjkgas.top^
 ||fastmoney777.click^
 ||fastpsh.top^
+||fasttrack.mobi^
 ||fata.ero-advertising.com^
 ||fatebbc.pro^
 ||fathed.pro^
@@ -10821,6 +10877,7 @@
 ||flipflap.pro^
 ||floating-share-buttons.com^
 ||flog-invest.pro^
+||floppyredirect.click^
 ||fls.au.doubleclick.net^
 ||fls.doubleclick.net^
 ||fls.uk.doubleclick.net^
@@ -10929,6 +10986,8 @@
 ||free-traffic.xyz^
 ||free-website-traffic.com^
 ||free.tendion.top^
+||free.theyior.top^
+||free2soft.pro^
 ||freeadultporn.pro^
 ||freeanimalpornclips.top^
 ||freebuy.top^
@@ -11077,6 +11136,7 @@
 ||gameapp.pro^
 ||gameb52.pro^
 ||gamecenter.iqiyi.com^
+||gamecenter.pro^
 ||gamehacks.pro^
 ||gamergirl.pro^
 ||gan.doubleclick.net^
@@ -11239,6 +11299,7 @@
 ||glob-markets.pro^
 ||globalapi.ad.xiaomi.com^
 ||glod-invest.pro^
+||gloom.ambable.top^
 ||gloom.opssome.top^
 ||glores2.lanzoui.com^
 ||glores2.lanzoux.com^
@@ -11272,6 +11333,7 @@
 ||go.commercial.ft.com^
 ||go.corp-japanjobschool.com^
 ||go.ero-advertising.com^
+||go.kte-corp.co.jp^
 ||go.line-sm.com^
 ||go.marcukesh.top^
 ||go.mi.edu^
@@ -11280,8 +11342,11 @@
 ||go.mmstat.com^
 ||go.mobpartner.mobi^
 ||go.panda-click.com^
+||go.partner.lifetime.life^
+||go.pro-bank.co.jp^
 ||go.pro-vigil.com^
 ||go.saferedir.click^
+||go.sanoh-corp.jp^
 ||go.smartadserver.com^
 ||go.teva-api.com^
 ||go.tissue-analytics.com^
@@ -11328,6 +11393,7 @@
 ||google-pagerank.net^
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
+||google-yandex.info^
 ||google.00d1n0000017glquam.net.daraz.com^
 ||google.bv-hilden-west.de^
 ||google.com-firewall.online^
@@ -11368,6 +11434,7 @@
 ||goskin.pro^
 ||gotbstgifts.click^
 ||gotibetho.pro^
+||goto2021.top^
 ||gotpaylah.top^
 ||gotporn.pro^
 ||goutee.top^
@@ -11429,9 +11496,12 @@
 ||gsajkfhf.top^
 ||gsbka.neuru.top^
 ||gsbyz.formatdue.top^
+||gsdbsbank.top^
+||gsdbsbannk.top^
 ||gsgy.formhh.top^
 ||gslbali.ximalaya.com^
 ||gsp1.baidu.com^
+||gswwichggroup.top^
 ||gsycl.top^
 ||gta-5-pc-download.com^
 ||gta5-free-download.com^
@@ -11468,6 +11538,7 @@
 ||gwin.pro^
 ||gwnv-msg.click^
 ||gwt.justvote.top^
+||gwy.easyjet.com.api.net.easyjet.com^
 ||gx2f.top^
 ||gx4g.top^
 ||gxb.mmstat.com^
@@ -11538,6 +11609,7 @@
 ||haostat.qihoo.com^
 ||haoweb.top^
 ||happycase.top^
+||happylife-partner.com^
 ||harahero.top^
 ||hard-porn.mobi^
 ||hard-teens-porn.pro^
@@ -11710,6 +11782,7 @@
 ||hordasinvest.pro^
 ||horizon.twitter.com^
 ||hornyteenmovs.pro^
+||horried.pro^
 ||horse.uhaveto.click^
 ||host11.traffic-builders.com^
 ||hosting2019336.online.pro^
@@ -11879,6 +11952,7 @@
 ||iads.staticscdn.net^
 ||iads.xinmin.cn^
 ||ias.clysor.top^
+||ib-aieonobanck-co-jp.top^
 ||ib.adnxs-simple.com^
 ||ib.adnxs.com^
 ||ib.anycast.adnxs.com^
@@ -11918,6 +11992,7 @@
 ||ids.ad.gt^
 ||idspaces.ero-advertising.com^
 ||iece1vi.top^
+||iecqkj.top^
 ||ienewpxb.top^
 ||ier.untilly.top^
 ||ifacelog.iqiyi.com^
@@ -12678,7 +12753,6 @@
 ||jhkrvf.gh-tr5.top^
 ||jianjianjiao.top^
 ||jianly.top^
-||jibenmensek.top^
 ||jic.talkingdata.com^
 ||jice.admaster.com.cn^
 ||jifen.2345.com^
@@ -12714,6 +12788,7 @@
 ||jnfvt.downlittle.top^
 ||jngdg.top^
 ||jnhdmksj.top^
+||jnkms0zfueh.click^
 ||jnpost-pl.id-pl342786.top^
 ||jnpost-pl.order-pl78923.top^
 ||jnpost-pl.umowa58194b.top^
@@ -12853,6 +12928,7 @@
 ||kde.qq.com^
 ||kdj.untilly.top^
 ||kdlls.inventnamb.click^
+||kdoefpjasd.dns-dns.com^
 ||kds.ero-advertising.com^
 ||ke.lifepeoplexf.top^
 ||ke.marcukesh.top^
@@ -12903,6 +12979,7 @@
 ||klayt-x.click^
 ||klik4d.top^
 ||klodben-invest.pro^
+||klwukospapf.click^
 ||klxtd.selftwenty.top^
 ||km2.tradelifeworld.top^
 ||kmasds.top^
@@ -12945,6 +13022,7 @@
 ||kowqd9.top^
 ||kpqnj.top^
 ||kpstaticbj.wx.ckjr001.com^
+||kqbnalbboq.com.edgekey.api-gwy.net.easyjet.com^
 ||kradli-invest.pro^
 ||krebsonsecurity.top^
 ||krombor-invest.pro^
@@ -13022,11 +13100,13 @@
 ||lameding-invest.pro^
 ||lan.nergas.top^
 ||land-dpd.noirshop.top^
+||landkemoty.click^
 ||languageslearning.top^
 ||lanzoud.com^
 ||lanzous.com^
 ||lanzouz.com^
 ||laobei.top^
+||laolao8.top^
 ||lap-click.tr.line.me^
 ||laqsgd.carhourshall.top^
 ||lararforbundet.analytics.ozzi.io^
@@ -13160,6 +13240,8 @@
 ||lightdrop.top^
 ||lightfoot.top^
 ||lightstep-collector.api.ua.com^
+||ligmono.top^
+||like.ambable.top^
 ||liliwoin.top^
 ||liljiuxerh.top^
 ||lim.ofishlprog1.click^
@@ -13220,7 +13302,6 @@
 ||lives.l.ott.video.qq.com^
 ||lives.l.qq.com^
 ||livesexcam.pro^
-||livetherurallife.pro^
 ||lividtrash.pro^
 ||lj.newsteps.top^
 ||ljhhhhrt.top^
@@ -13346,6 +13427,7 @@
 ||loudmemory.pro^
 ||louis-360.com^
 ||love-banner.com^
+||love-letter-dm.com^
 ||low-plus246-ol-ix.potholder.top^
 ||lowrance.top^
 ||lowrihouston.pro^
@@ -13369,6 +13451,7 @@
 ||lqa.sufify.top^
 ||lqriubyebqo.top^
 ||lr6e.top^
+||lrhxz60alkjtik.click^
 ||lrswl.com^
 ||ls.l.qq.com^
 ||ltsafnv1.top^
@@ -13531,6 +13614,7 @@
 ||mail.partner-assets.dclnxirp222cin.net.daraz.com.net.daraz.com^
 ||mail.partner-assets.net.daraz.com^
 ||mail.partner.0.net.daraz.com^
+||mail.partner.authorization.net.daraz.com^
 ||mail.supportteam3245.click^
 ||mail.twitter.com^
 ||mailer.mgmt.partner.net.daraz.com^
@@ -13546,6 +13630,7 @@
 ||makelove.pro^
 ||makemehappy.pro^
 ||makerspace.top^
+||mal.ttssonine.top^
 ||mal1.maxpeoplepl.top^
 ||mal3.maxpeoplepl.top^
 ||mal4.maxpeoplepl.top^
@@ -13662,6 +13747,7 @@
 ||max-l.mediav.com^
 ||max.adsame.com^
 ||max.mediav.com^
+||maxhacks.pro^
 ||maxi-ad.de^
 ||maxi-pro.maxipl-system.xyz^
 ||maxibis.top^
@@ -13754,6 +13840,7 @@
 ||meet.stichty.top^
 ||meetyour-partner.life^
 ||mega-ad.de^
+||mega-share.pro^
 ||megao1xcentr.flisekshop.top^
 ||megao1xcentr.linespshop.top^
 ||megao1xpro.mantoshop.top^
@@ -13895,6 +13982,7 @@
 ||misc.wcd.qq.com^
 ||mishishoka.pro^
 ||mishop.pandora.xiaomi.com.^
+||misstt.top^
 ||mistat.xiaomi.com^
 ||mitchfinance-top.xyz^
 ||mitv.tracking.intl.miui.com^
@@ -14179,7 +14267,9 @@
 ||msgwfl-upqs.click^
 ||msgx-space.partner.net.daraz.com^
 ||msite.baidu.com^
+||mskby.maskproj.click^
 ||mskpro.maskproj.click^
+||mskst.maskproj.click^
 ||msn-cdn.effectivemeasure.net^
 ||msn.directadvert.ru^
 ||msn.oewabox.at^
@@ -14197,6 +14287,7 @@
 ||mta-sts.mail.wt-eu02.net^
 ||mta-sts.mail2.ahcdn.com^
 ||mta.funnelconsultants.com^
+||mta.mctiersettlements.com^
 ||mta.qq.com^
 ||mta.vkrpep12.com^
 ||mta61-163.muc.bh-mail.com^
@@ -14383,12 +14474,14 @@
 ||native-ad.net^
 ||nativeapp.toutiao.com^
 ||nativesubscribe.pro^
+||naturalbio.top^
 ||natyh.takilon.top^
 ||naughty-traffic.com^
 ||nav.browser.miui.com^
 ||navigation.api.hk.goforandroid.com^
 ||nazhelp.top^
-||nb-registo.top^
+||nb-regist.top^
+||nb-registe.top^
 ||nbazhaheic.top^
 ||nbcu.prd.ads.aws.fwmrm.net^
 ||nbcume.hb-api.omtrdc.net^
@@ -14409,6 +14502,7 @@
 ||neaqi.top^
 ||neblio.click^
 ||nebraska-02-partner-cf23region.net.daraz.com^
+||nebueb.click^
 ||necessaryratio.pro^
 ||neeew.pro-activprofit.site^
 ||neew.proone1.top^
@@ -14431,7 +14525,6 @@
 ||netflix-login-update.com^
 ||netflix-update.platnosci.medalcheck.com^
 ||netflix-update.platnosci.tttt-security.com^
-||netflixnow.top^
 ||netinterbanhk.pro^
 ||netlfix-update-online.builderallwppro.com^
 ||netmeeting-036-zigzagstrchd-www.partner.net.daraz.com^
@@ -14959,6 +15052,7 @@
 ||one-click.cc^
 ||one88.top^
 ||onebyyou.maskproj.click^
+||onecr.maskproj.click^
 ||onedrive-download-en.com^
 ||onedrive-download.com^
 ||oneid.mmstat.com^
@@ -14970,6 +15064,7 @@
 ||online-spk-update.de^
 ||online.cnzz.com^
 ||onlinelivesexchat.top^
+||onlineplus.click^
 ||onlineshoppin.click^
 ||onlyfan.click^
 ||onlyporn.pro^
@@ -14986,6 +15081,7 @@
 ||open-adx.com^
 ||open-api.azure.net.daraz.com^
 ||open-iflow.meizu.com^
+||open-office.fr^
 ||open-plproject.cloud^
 ||open-project.live^
 ||open-roll.com^
@@ -15125,6 +15221,7 @@
 ||owogldk.top^
 ||oxbet.top^
 ||oxnard-12445proxy-wwwnet-api-docs-resetlax10.15.net.daraz.com^
+||oyasu-mi.tokyo^
 ||ozjga.top^
 ||ozowpayhubs.top^
 ||p-analytics.life^
@@ -15224,6 +15321,7 @@
 ||p5-ad-sign.byteimg.com^
 ||p5-orange.byteorge.com^
 ||p5.tribution.mobi^
+||p5tvhrlw30h.click^
 ||p6-ad-sign.byteimg.com^
 ||p6-orange.byteorge.com^
 ||p6.tribution.mobi^
@@ -15297,6 +15395,7 @@
 ||partner-bamboo.net.daraz.com^
 ||partner-earning.com^
 ||partner-k8s-prod.net.daraz.com^
+||partner-kor.net.daraz.com^
 ||partner-march.net.daraz.com^
 ||partner-ops.net.daraz.com^
 ||partner-pay-getter.net.daraz.com^
@@ -15483,6 +15582,7 @@
 ||partner.librarius.com.ua^
 ||partner.lidajirickova.cz^
 ||partner.lifetest.eu^
+||partner.lifetime.life^
 ||partner.loveplanet.ru^
 ||partner.ltx.cz^
 ||partner.luckyalvin.cz^
@@ -15671,7 +15771,6 @@
 ||paylahdbs.top^
 ||paylahone.top^
 ||paylahsgo.top^
-||paylahthree.top^
 ||paymentdbs.top^
 ||paymentg.top^
 ||paymentsdbs.top^
@@ -15976,6 +16075,7 @@
 ||piyhgadg.top^
 ||pjewriw.top^
 ||pjk.vadture.top^
+||pjljo54uk.click^
 ||pkg.sinaimg.cn^
 ||pkobpcoin.click^
 ||pkocoin.click^
@@ -16223,6 +16323,7 @@
 ||portanporinternetdesdecasa.aprobad0enminutos.top^
 ||portaporinternetdeinmediacionesweb.accesofacilonline-com.top^
 ||pos.baidu.com^
+||posets-dk.top^
 ||positive-ads.com^
 ||possiblebasket.pro^
 ||post-ausss.top^
@@ -16242,6 +16343,7 @@
 ||postofiice-za.top^
 ||posttex.sever-info.top^
 ||posttex.severs-info.top^
+||posttex.severs-user.top^
 ||poszukiwania24.click^
 ||poszukiwania24plu.click^
 ||poszukuj24pls.click^
@@ -16318,6 +16420,7 @@
 ||privatix.pro^
 ||privatix.top^
 ||privilegebiz.top^
+||prize-deals-today.click^
 ||prizefestival.mobi^
 ||prjslxhtx003.top^
 ||prjslxhtx005.top^
@@ -16493,6 +16596,7 @@
 ||prontv.pro^
 ||properbunch.pro^
 ||prostezycie.click^
+||protect-ad.com^
 ||proton-int.flurry.com^
 ||proton.flurry.com^
 ||prov.profitactiv1.top^
@@ -16563,7 +16667,6 @@
 ||pushrev.content-ad.net^
 ||pushssp.top^
 ||pushtan-upgrade.de^
-||pushtan-upgrade.info^
 ||pushtan2.0-update.com^
 ||puss.pro^
 ||pussygirls.pro^
@@ -16647,6 +16750,7 @@
 ||qskin.pro^
 ||qsptv.net^
 ||qstore.inner.api.sj.360.cn^
+||qswwichqhood.top^
 ||qt.correos-ues.top^
 ||quae0.top^
 ||quancee.top^
@@ -16784,6 +16888,7 @@
 ||redir.jads.co^
 ||redirect-ads.com^
 ||redirect.appmetrica.yandex.ru^
+||redirect.easyjet.com.api.net.easyjet.com^
 ||redirect.easyjet.com.ei-api-sit3.net.easyjet.com^
 ||redirect.ero-advertising.com^
 ||redirect.simba.taobao.com^
@@ -16879,6 +16984,7 @@
 ||resolver.msg.global.xiaomi.net.iberostar.com^
 ||responsiveindulgence.top^
 ||rest.content.ad^
+||restgzxdg.top^
 ||restights.pro^
 ||restoring.top^
 ||restricted-partner.net.daraz.com^
@@ -16940,6 +17046,7 @@
 ||roulette-faker.pro^
 ||rovauy.share-now.com^
 ||rowerowy-szal.click^
+||royalclass-dm.com^
 ||royalmail.check-statuses.com^
 ||royalmail.logistic-update.com^
 ||royalmail.tkneut.top^
@@ -16954,6 +17061,7 @@
 ||rs2.ero-advertising.com^
 ||rsedfhsehdezgd.top^
 ||rss9f.top^
+||rsurwhytjwbn.click^
 ||rsuvp.owneralive.top^
 ||rt.ad-score.com^
 ||rt.analytics.anvato.net^
@@ -17007,6 +17115,7 @@
 ||rwogldz.top^
 ||rwp1.metregplt.top^
 ||rwp3.metregplt.top^
+||rwp5.metregplt.top^
 ||rwpt.top^
 ||rwy.untilly.top^
 ||ryq.coracry.top^
@@ -17150,6 +17259,7 @@
 ||s27.cnzz.com^
 ||s28.cnzz.com^
 ||s29.cnzz.com^
+||s2dd1io1x.click^
 ||s2s.adjust.com^
 ||s2s.yieldlove-ad-serving.net^
 ||s3-analytics-events.easybrain.com^
@@ -17251,6 +17361,7 @@
 ||sa0.tuisong.baidu.com^
 ||sa1.tuisong.baidu.com^
 ||sa3.tuisong.baidu.com^
+||sa489zylbvg.click^
 ||sa8.tuisong.baidu.com^
 ||saclienteseguro-5265.mobi^
 ||sadaqat.top^
@@ -17323,6 +17434,7 @@
 ||sbazhaheib.top^
 ||sbb8w.top^
 ||sbeacon.sina.com.cn^
+||sbjjzdwqg41ps.click^
 ||sbs-ad.com^
 ||sc-analytics.appspot.com^
 ||sc.gouyb.mobi^
@@ -17539,6 +17651,7 @@
 ||secure.intelligent-company-365.com^
 ||secure.leadback.advertising.com^
 ||secure.mediav.com^
+||secure.metamask-io.click^
 ||secure.oldschool.com-uc.cz^
 ||secure.smart-business-365.com^
 ||secure.smart-company-365.com^
@@ -17787,12 +17900,14 @@
 ||share-clouds.com^
 ||share-dev.perchwell.com^
 ||share-hinet.net.daraz.com^
+||share-hunt.onxmaps.com^
 ||share-local.sparemin.com^
 ||share-server.com^
 ||share-staging.perchwell.com^
 ||share-stg1.sparemin.com^
 ||share-stores.com^
 ||share-test.hnow.io^
+||share-test.usehamper.com^
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
 ||share-your-wife-with-us.tumblr.com^
@@ -17823,6 +17938,7 @@
 ||share.baidu.com^
 ||share.beaconlearningapp.com^
 ||share.beaspermdonor.com^
+||share.biblejourney.com^
 ||share.bitzer.app^
 ||share.bncollege.com^
 ||share.boden.co.uk^
@@ -17945,10 +18061,12 @@
 ||share.myfreecams.com^
 ||share.myollie.com^
 ||share.myq.com^
+||share.mzaalo.com^
 ||share.na.sage.com^
 ||share.nearpod.us^
 ||share.newarkadvocate.com^
 ||share.newtonbaby.com^
+||share.ngfcu.us^
 ||share.notizie.it^
 ||share.ntv.io^
 ||share.obagi.com^
@@ -18012,12 +18130,14 @@
 ||share.shoptruespirit.com^
 ||share.shutterstock.com^
 ||share.simonandschuster.com^
+||share.simsim.in^
 ||share.skillshare.com^
 ||share.sparemin.com^
 ||share.sstack.com^
 ||share.staging.acorns.io^
 ||share.stagsleap.com^
 ||share.starbucks.com^
+||share.stargazette.com^
 ||share.statesman.com^
 ||share.stayplus.com^
 ||share.steadyapp.com^
@@ -18033,6 +18153,7 @@
 ||share.teachersfcu.org^
 ||share.tenmarks.com^
 ||share.tessie.com^
+||share.theladbible.com^
 ||share.thenorthwestern.com^
 ||share.theory.com^
 ||share.theoryoutlet.com^
@@ -18095,7 +18216,11 @@
 ||shlad.fallz.click^
 ||shockeddump.pro^
 ||shockingteens.pro^
+||shop.gsawichgcenter.top^
 ||shop.lopipi.top^
+||shopping-yahoo-co-jp.top^
+||shopping-yahoo-jp.top^
+||shopping-yahoo.top^
 ||shopping.ad.kakaocorp.com^
 ||shoppro.top^
 ||shoppro8941-o1x.domshop24.top^
@@ -18141,6 +18266,7 @@
 ||sing.vagic.top^
 ||single.upsight-api.com^
 ||sinimb.top^
+||sink.oriment.top^
 ||siodemka24h7.click^
 ||sirinlabs.pro^
 ||site-api.project1service.com^
@@ -18219,6 +18345,7 @@
 ||smailes.pro^
 ||small-check.oisd.nl^
 ||small-kitty.top^
+||smalldingdong.top^
 ||smart-ad.sakura.ne.jp^
 ||smart-ads.statsperformdev.com^
 ||smart-name.pro^
@@ -18234,6 +18361,7 @@
 ||smash.silency.top^
 ||smash.soious.top^
 ||smbc-card.shopif.top^
+||smbc.cardadminjp.top^
 ||smbcjp.top^
 ||smellcalcium.top^
 ||smetric.ads.microsoft.com^
@@ -18263,6 +18391,7 @@
 ||snlday.top^
 ||snoar.trapetka.click^
 ||snprv.hnhgmh.mobi^
+||sns.smle.mobi^
 ||so.sina.cn^
 ||soa-vip-ssl.xunlei.com^
 ||soagw.pw.xunlei.com^
@@ -18273,6 +18402,7 @@
 ||social-traffic-4.xyz^
 ||social-traffic-5.xyz^
 ||social-traffic-7.xyz^
+||soft-pro.site^
 ||soft-tech.top^
 ||softonic-analytics.net^
 ||softserve.8kun.top^
@@ -18302,7 +18432,6 @@
 ||soulfulinevitable.pro^
 ||soundcloud-pax.pandora.com^
 ||soup.v.qq.com^
-||source2-demo.pro^
 ||source2cs.pro^
 ||sourcebeta.pro^
 ||sourcecode.pro^
@@ -18334,6 +18463,7 @@
 ||spcode.baidu.com^
 ||spdfkvk.pro^
 ||special-offer.pro^
+||special-update.online^
 ||speed4cksa.ero-advertising.com^
 ||speedclecks.ero-advertising.com^
 ||speedclicks.ero-advertising.com^
@@ -18468,6 +18598,7 @@
 ||starewhupsu.pro^
 ||starfish.pandora.xiaomi.com^
 ||starrybitter.pro^
+||starssp.top^
 ||startenterprise.top^
 ||startup-mobile.ap.yandex-net.ru^
 ||startup.mobile.yandex.net^
@@ -18569,8 +18700,6 @@
 ||steamcommunity.huangyinhao.top^
 ||steamcommunityio.top^
 ||steamcommvunity.pro^
-||steancommynily.pro^
-||steancommynity.pro^
 ||steeltour.pro^
 ||steenbergen.web.ero-advertising.com^
 ||steep-secretary.pro^
@@ -18598,6 +18727,7 @@
 ||stg.ei-api.gwy.easyjet.com.edgekey.net.easyjet.com^
 ||stgami-o.top^
 ||stgowan.com^
+||stils-top.space^
 ||stinger-ad.bidr.io^
 ||stithujogle.pro^
 ||stj.v1vo.top^
@@ -18680,6 +18810,7 @@
 ||supportteam3245.click^
 ||suppportteam37462354.click^
 ||suppressiveruthless.top^
+||supreme-ad-blocker.info^
 ||surf-bar-traffic.com^
 ||surfe.pro^
 ||surugabanke-co-jp.top^
@@ -18705,6 +18836,7 @@
 ||svc.analytics.adkernel.com^
 ||svc.www.partner.000.net.daraz.com^
 ||svc.www.partner.net.daraz.com^
+||svcgateway.api-docsfreya.net.daraz.com^
 ||svehbvs.top^
 ||svekolasg.pro^
 ||svetlana-lazareva.pro^
@@ -18784,6 +18916,7 @@
 ||syndication.winadx.com^
 ||sys.8kun.top^
 ||sysitemff.customeronline.top^
+||system-update-new-2021.com^
 ||system-update-new.com^
 ||system-www.partner.net.daraz.com^
 ||systeminde.top^
@@ -19129,6 +19262,7 @@
 ||toadynewnewscoiy.click^
 ||tob-cms.bj.bcebos.com^
 ||todhamilton.pro^
+||toiksmcosir03.click^
 ||toingra.click^
 ||tokay.pro^
 ||token.api.kochava.com^
@@ -19188,6 +19322,7 @@
 ||top-modelz.org^
 ||top-news.cloud^
 ||top-offers1.com^
+||top-official-app.com^
 ||top-performance.best^
 ||top-performance.club^
 ||top-performance.top^
@@ -19201,6 +19336,7 @@
 ||top-rutor.eu^
 ||top-sexys.com^
 ||top-site-list.com^
+||top-smart-board.com^
 ||top-solutions.space^
 ||top-staging.mail.ru^
 ||top-stores.ru^
@@ -19277,14 +19413,17 @@
 ||topbot.pro^
 ||topfinancesurvey.top^
 ||topgamecrack.top^
+||tophacks.pro^
 ||tophippo.vlion.cn^
 ||topi.one-pro.xyz^
 ||topphim.pro^
 ||topsex1.pro^
+||tor-browser-rus.ru^
 ||toreachbiz.top^
 ||torimochi-ad.net^
 ||tornbed.pro^
 ||tosafakty523.click^
+||totalrecaptcha.top^
 ||tothemoon.incest-porno.pro^
 ||toutao.pro^
 ||toutiao-frontier.snssdk.com^
@@ -19398,6 +19537,7 @@
 ||traffic-delivery.com^
 ||traffic-exchange.com^
 ||traffic-exchange.tv^
+||traffic-go.com^
 ||traffic-king.ru^
 ||traffic-lib-oa-1.net.daraz.com^
 ||traffic-media.co^
@@ -19470,6 +19610,7 @@
 ||trotion-investing.pro^
 ||trourted.pro^
 ||trqbm.costspast.top^
+||trrk10.pointpointiklo.pro^
 ||trrk8.pointpointiklo.pro^
 ||trrk9.pointpointiklo.pro^
 ||trujilllo-cacja.click^
@@ -19498,6 +19639,7 @@
 ||tsgang.top^
 ||tsl-pro.gertrader.xyz^
 ||tslx-pro.pl1-pttrn.site^
+||tswwichtband.top^
 ||tt-baidu.xyz^
 ||tt.agrantsem.com^
 ||tt11.adobe.com^
@@ -19627,6 +19769,7 @@
 ||udohyn.top^
 ||udp.push.mob.com^
 ||uel.vidory.top^
+||uerqelim91ut.click^
 ||uev.ad-stir.com^
 ||uewl.top^
 ||ufgron-invest.pro^
@@ -19733,6 +19876,7 @@
 ||update-paymentnow.tvshowapp.cam^
 ||update-paymentnow.tvshowkonto.life^
 ||update-phone-today.com^
+||update-protection.com^
 ||update-security.ddns.info^
 ||update-security.qhigh.com^
 ||update-skype.freehostia.com^
@@ -19912,6 +20056,7 @@
 ||v17-ad.ixigua.com^
 ||v18-ad.ixigua.com^
 ||v19-ad.ixigua.com^
+||v1asy4ncr.click^
 ||v1cdn.snmovie.com^
 ||v2-ad.ixigua.com^
 ||v2.api.adflex.vn^
@@ -19962,7 +20107,6 @@
 ||validus.pro^
 ||valipl.cp31.ott.cibntv.net^
 ||valleyhomogeneous.top^
-||valve-csgo2.pro^
 ||van.ads.link4ads.com^
 ||vanderebony.pro^
 ||vanderlisten.pro^
@@ -20062,6 +20206,7 @@
 ||video.inner-active.mobi^
 ||video.market.xiaomi.com^
 ||video.twitter.com^
+||videoadblocker.pro^
 ||videoapi.smartadserver.com^
 ||videolucah.mobi^
 ||videomature.pro^
@@ -21239,6 +21384,7 @@
 ||weixin.qq.hellocdn.top^
 ||weixin.qq.huigun.top^
 ||weixin.renrenying.com^
+||welcomejohncena.pro^
 ||welcomeneat.pro^
 ||well.vagic.top^
 ||wellworn-term.pro^
@@ -21287,6 +21433,7 @@
 ||wiltedfuture.pro^
 ||wim.vidory.top^
 ||win.ad-stir.com^
+||win.zjwhr.top^
 ||win24-www.partner.net.daraz.com^
 ||win79.download^
 ||win79.pro^
@@ -21308,6 +21455,7 @@
 ||winner-crypto.top^
 ||wirtaspin-investing.pro^
 ||wisepush.video.baidu.com^
+||withaaglad.top^
 ||withdromnit.pro^
 ||withholdventilate.top^
 ||wittylife.top^
@@ -21337,6 +21485,7 @@
 ||womans.womenforum.top^
 ||womonex.womenforum.top^
 ||womprox.womenforum.top^
+||wonsy.top^
 ||woocommerce.magasin.click^
 ||woodpecker.uc.cn^
 ||work.www.partner.net.daraz.com^
@@ -21370,11 +21519,11 @@
 ||wsec07oficiogali.click^
 ||wspanialy-dzien.click^
 ||wss.cnzz.com^
-||wsshyssrv.top^
 ||wsw.ero-advertising.com^
 ||wt.ara.ad^
 ||wta.ero-advertising.com^
 ||wtag.adaptv.advertising.com^
+||wtdgfhds.top^
 ||wtfdrop.top^
 ||wtg-ads.com^
 ||wtiaw.top^
@@ -21517,10 +21666,12 @@
 ||www.a-ads.com^
 ||www.a.ero-advertising.com^
 ||www.a2uu36g43l.download^
+||www.a79746915f26c9933e70.goonlinebnparibas-pl.click^
 ||www.aata.ero-advertising.com^
 ||www.absa-24.click^
 ||www.absystem.pro^
 ||www.abtd-txt.click^
+||www.ac6f67b764e4e277d3ca.goonlinebnparibas-pl.click^
 ||www.acc-konto-update.netafixx.cam^
 ||www.acc-update.netafuxu.club^
 ||www.acco-update.adminanozn.scansiv.cn^
@@ -21733,6 +21884,7 @@
 ||www.ateam-ad.jp^
 ||www.atlas-api.com^
 ||www.aurora-pro.com^
+||www.auspost-trace.com^
 ||www.autofarm-network.click^
 ||www.axdsz.pro^
 ||www.az2.expensivesurvey.click^
@@ -21772,6 +21924,7 @@
 ||www.bavners2.ero-advertising.com^
 ||www.bawerdas-invest.pro^
 ||www.bemydate.mobi^
+||www.bereteinwattr.click^
 ||www.best-investment24.pro^
 ||www.bestphoneapps.mobi^
 ||www.bestwithdrawal.pro^
@@ -21781,6 +21934,7 @@
 ||www.birchist.click^
 ||www.bitcoin-billionaire-pro.financialmarketsworld.com^
 ||www.bitcoin-era.pro^
+||www.bitcoin-polska-platform.bitqt.click^
 ||www.bitcoin-pro.live^
 ||www.bitcoine-ad.foundation^
 ||www.bitcoinup-pro.com^
@@ -21799,6 +21953,7 @@
 ||www.bnp-partner.com^
 ||www.boba.lixprog.click^
 ||www.bochka.inventnamb.click^
+||www.boi-365.verify-auth-au.com^
 ||www.bokola.interfoxprog.click^
 ||www.bolka.everadpro.click^
 ||www.borwap.pro^
@@ -21893,6 +22048,7 @@
 ||www.crypto-stuff.pro^
 ||www.cryptowallet24.pro^
 ||www.csgosource2.pro^
+||www.custom-google-search.ga^
 ||www.cyber-pro.art^
 ||www.cyber-pro.homes^
 ||www.cyhners.ero-advertising.com^
@@ -22132,7 +22288,6 @@
 ||www.glod-invest.pro^
 ||www.glorian-invest.pro^
 ||www.gmaster-pro.com^
-||www.go.sm.taftc.org^
 ||www.goads.pro^
 ||www.goheretttt.click^
 ||www.goofpa.inventnamb.click^
@@ -22556,7 +22711,9 @@
 ||www.msgluc-upqs.click^
 ||www.msgul3t.click^
 ||www.msgwfl-upqs.click^
+||www.mskby.maskproj.click^
 ||www.mskpro.maskproj.click^
+||www.mskst.maskproj.click^
 ||www.msu.expensivesurvey.click^
 ||www.mta.funnelconsultants.com^
 ||www.muikdok-invest.pro^
@@ -22675,6 +22832,7 @@
 ||www.olx.pl.oferta-payment.pro^
 ||www.olx.polska-dastawka.pro^
 ||www.onebyyou.maskproj.click^
+||www.onecr.maskproj.click^
 ||www.onet-update-y7gt7f-7gvr88tfgy.boxmode.io^
 ||www.onet1111.webd.pro^
 ||www.onexb.maskproj.click^
@@ -22716,6 +22874,7 @@
 ||www.partner.000-n38-active.net.daraz.com^
 ||www.partner.000.net.daraz.com^
 ||www.partner.0001-port-to-qdox-2-active.net.daraz.com^
+||www.partner.001-download-data-active.net.daraz.com^
 ||www.partner.005ya4a67a40kalhactive.net.daraz.com^
 ||www.partner.009-specialpythagoreantripletactive.net.daraz.com^
 ||www.partner.a.net.daraz.com^
@@ -23000,6 +23159,7 @@
 ||www.smac-ad.com^
 ||www.smart-business-365.com^
 ||www.smart-company-365.com^
+||www.smart-enterprise-365.com^
 ||www.smartadserver.com^
 ||www.sms-check.info^
 ||www.smtp.ero-advertising.com^
@@ -23541,7 +23701,6 @@
 ||xmovie.pro^
 ||xmultiply.pro^
 ||xn--adspace-kvg.ero-advertising.com^
-||xn--ciqpnm7xxykonct2c92lotsopcf15g.top^
 ||xn--d1aifoe0a9a.top^
 ||xn--pan-ei0e.xn--baidu-jm6h.com^
 ||xn--pan-ei10e.xn--baidu-jm6h.com^
@@ -23763,6 +23922,7 @@
 ||youchallenge.top^
 ||youchallenges.top^
 ||youenforcement.top^
+||youfindadate.top^
 ||youhave.mobi^
 ||youku-acs.m.taobao.com^
 ||youku-dtv.m.cn.miaozhen.com^
@@ -23918,6 +24078,7 @@
 ||zikdrop.top^
 ||zindelik-pro.tk^
 ||zion-telemetry.api.cnn.io^
+||zjzxtmhcldsb.click^
 ||zk6c.top^
 ||zkcasino.pro^
 ||zlgame.top^
