@@ -620,6 +620,17 @@ grep_value_file '1' 'qq' "`pwd`/tmp_hosts/大圣净化"
 
 #虎扑 2022.11.20
 grep_value_file '1' 'hupu' "${hosts_file}"
+#Hub 联盟
+grep_value_file "1" 'hubcloud' "$hosts_file"
+grep_value_file "0" 'adv.' "$hosts_file"
+grep_value_file "1" 'adv-' "$hosts_file"
+#BeiZi 广告
+grep_value_file "1" 'BeiZi' "$hosts_file"
+
+
+
+
+
 
 }
 
