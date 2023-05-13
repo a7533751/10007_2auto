@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-13 14:56:06 
+#更新时间: 2023-05-13 15:56:10 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25765
+#规则数量:25768
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -8558,6 +8558,7 @@
 94.140.14.33 click-rtb2-eu.e-volution.ai
 94.140.14.33 click-rtb2-eu.torchad.com
 94.140.14.33 click-rtb2-eu.waardex.com
+94.140.14.33 click-rtb2-eu.xaprio.net
 94.140.14.33 click-rtb2-useast.adsync.global
 94.140.14.33 click-rtb2-useast.afkwa.com
 94.140.14.33 click-rtb2-useast.africonverse.com
@@ -8762,6 +8763,7 @@
 94.140.14.33 click.pclk.name
 94.140.14.33 click.phanquang.vn
 94.140.14.33 click.plarimocl.com
+94.140.14.33 click.plarimoexocli.com
 94.140.14.33 click.plarimoplus.com
 94.140.14.33 click.plista.com
 94.140.14.33 click.pockee.com
@@ -19418,6 +19420,7 @@
 94.140.14.33 sm-epsilon.com
 94.140.14.33 sm-ini.ru
 94.140.14.33 sm-ini2.com
+94.140.14.33 sm-rtb-useast.zmdvideo.com
 94.140.14.33 sm-sp.followfollow.com
 94.140.14.33 sm-tc.cn
 94.140.14.33 sm.dell.com
