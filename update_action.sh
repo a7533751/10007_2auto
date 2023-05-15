@@ -272,7 +272,7 @@ sed -i '11i ##################\n' "${target_file}"
 function write_ad_block_reward_rules(){
 file="${1}"
 cat << key >> "$file"
-`cat "`pwd`/configure/add.prop"
+$(cat "`pwd`/configure/add.prop")
 key
 }
 
