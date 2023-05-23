@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-23 07:56:09 
+#更新时间: 2023-05-23 09:58:13 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26022
+#规则数量:26024
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -8702,6 +8702,7 @@
 94.140.14.33 click.expmdiadi.com
 94.140.14.33 click.expmediadirect.com
 94.140.14.33 click.expmediadirect1.com
+94.140.14.33 click.expoclknw.com
 94.140.14.33 click.fanyi.baidu.com
 94.140.14.33 click.fastupload.io
 94.140.14.33 click.favordelivery.com
@@ -12572,7 +12573,6 @@
 94.140.14.33 healthbeauty-advice.com
 94.140.14.33 hearbreakingfizz.top
 94.140.14.33 heavenly-test.pro
-94.140.14.33 hebgb.top
 94.140.14.33 hecan123.top
 94.140.14.33 heclnyu.top
 94.140.14.33 hed.programtts.top
@@ -14411,6 +14411,7 @@
 94.140.14.33 logbak.hicloud.com
 94.140.14.33 logging.api.intuit.com
 94.140.14.33 login-nestbenk.top
+94.140.14.33 login.ad-maven.com
 94.140.14.33 login.blocchain.pro
 94.140.14.33 login.ib.jibunidanikco.top
 94.140.14.33 loginpl-nawezamanager.wwadvocaten.be
@@ -25615,6 +25616,7 @@
 94.140.14.33 y.one.impact-ad.jp
 94.140.14.33 y0.extreme-dm.com
 94.140.14.33 y1.extreme-dm.com
+94.140.14.33 y3cdp.top
 94.140.14.33 y88m2.top
 94.140.14.33 ya7easob.top
 94.140.14.33 yads.c.yimg.jp
