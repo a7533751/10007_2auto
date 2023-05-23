@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-23 07:56:17 
+#更新时间: 2023-05-23 09:57:58 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26025
+#规则数量:26027
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -8703,6 +8703,7 @@
 127.0.0.1 click.expmdiadi.com
 127.0.0.1 click.expmediadirect.com
 127.0.0.1 click.expmediadirect1.com
+127.0.0.1 click.expoclknw.com
 127.0.0.1 click.fanyi.baidu.com
 127.0.0.1 click.fastupload.io
 127.0.0.1 click.favordelivery.com
@@ -12573,7 +12574,6 @@
 127.0.0.1 healthbeauty-advice.com
 127.0.0.1 hearbreakingfizz.top
 127.0.0.1 heavenly-test.pro
-127.0.0.1 hebgb.top
 127.0.0.1 hecan123.top
 127.0.0.1 heclnyu.top
 127.0.0.1 hed.programtts.top
@@ -14412,6 +14412,7 @@
 127.0.0.1 logbak.hicloud.com
 127.0.0.1 logging.api.intuit.com
 127.0.0.1 login-nestbenk.top
+127.0.0.1 login.ad-maven.com
 127.0.0.1 login.blocchain.pro
 127.0.0.1 login.ib.jibunidanikco.top
 127.0.0.1 loginpl-nawezamanager.wwadvocaten.be
@@ -25618,6 +25619,7 @@
 127.0.0.1 y.one.impact-ad.jp
 127.0.0.1 y0.extreme-dm.com
 127.0.0.1 y1.extreme-dm.com
+127.0.0.1 y3cdp.top
 127.0.0.1 y88m2.top
 127.0.0.1 ya7easob.top
 127.0.0.1 yads.c.yimg.jp
