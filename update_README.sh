@@ -67,7 +67,7 @@ cat << key > `pwd`/README.md
 完整版累积拦截域名: ${count_all}
 保留广告奖励累积拦截域名: ${count_reward}
 \`\`\`
-### 访问量 : ![visitors](https://visitor-badge.glitch.me/badge?page_id=lingeringsound.10007_auto&left_color=green&right_color=red)
+### 访问量 : ![visitors](http://006.freecounters.co.uk/count-133.pl?count=qe1milbo7p68gg219fmj&type=links&prog=unique)
 
 ## 订阅
 ### 国内请用 **镜像链接**  
