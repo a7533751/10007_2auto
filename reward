@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-25 15:56:15 
+#更新时间: 2023-05-25 16:56:30 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25264
+#规则数量:25265
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -6963,7 +6963,6 @@
 1.1.1.1 ariat-polska.top
 1.1.1.1 arielsystem.pro
 1.1.1.1 ark-event.pro
-1.1.1.1 ark-fund.pro
 1.1.1.1 ark-musk.pro
 1.1.1.1 ark.cp21.ott.cibntv.net
 1.1.1.1 arkbonus.pro
@@ -13057,6 +13056,7 @@
 1.1.1.1 js.mangapro.top
 1.1.1.1 js.miaozhen.com
 1.1.1.1 js.mobileoffers-ac-download.com
+1.1.1.1 js.mobileoffers-al-download.com
 1.1.1.1 js.smac-ad.com
 1.1.1.1 js.tongji.linezing.com
 1.1.1.1 js.union-wifi.com
@@ -14385,6 +14385,7 @@
 1.1.1.1 mobileoffers-ab-download.com
 1.1.1.1 mobileoffers-ac-download.com
 1.1.1.1 mobileoffers-ad-download.com
+1.1.1.1 mobileoffers-al-download.com
 1.1.1.1 mobileoffers-bm-download.com
 1.1.1.1 mobileoffers-bn-download.com
 1.1.1.1 mobpartner.mobi
