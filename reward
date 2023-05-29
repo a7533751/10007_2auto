@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-29 15:56:16 
+#更新时间: 2023-05-29 16:56:37 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26134
+#规则数量:26099
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -235,6 +235,7 @@
 1.1.1.1 2020workaffnew.top
 1.1.1.1 2021pro1.pro
 1.1.1.1 2023-upgrade-email-system.euro-well.com
+1.1.1.1 208622.top
 1.1.1.1 20944ce96535d11e5bb4.goonlinebnparibas-pl.click
 1.1.1.1 20gtest.bj2cu.u3.ucweb.com
 1.1.1.1 21.tx.gongxifacai21.top
@@ -809,7 +810,6 @@
 1.1.1.1 ad-souk.com
 1.1.1.1 ad-sp.biz
 1.1.1.1 ad-space.net
-1.1.1.1 ad-spb.ru
 1.1.1.1 ad-specs.guoshipartners.com
 1.1.1.1 ad-spire.genieesspv.jp
 1.1.1.1 ad-spire.net
@@ -877,7 +877,6 @@
 1.1.1.1 ad.8live.net
 1.1.1.1 ad.980x.com
 1.1.1.1 ad.a-ads.com
-1.1.1.1 ad.a.yximgs.com
 1.1.1.1 ad.a8.net
 1.1.1.1 ad.abcnews.com
 1.1.1.1 ad.abctv.com
@@ -1219,7 +1218,6 @@
 1.1.1.1 ad.jaumo.com
 1.1.1.1 ad.jetsoftware.com
 1.1.1.1 ad.jeune-independant.net
-1.1.1.1 ad.jia.360.cn
 1.1.1.1 ad.jibunde-esute.com
 1.1.1.1 ad.jiemian.com
 1.1.1.1 ad.jiguang.cn
@@ -1270,7 +1268,6 @@
 1.1.1.1 ad.leadbolt.net
 1.1.1.1 ad.leadboltads.net
 1.1.1.1 ad.leadboltapps.net
-1.1.1.1 ad.leadboltmobile.net
 1.1.1.1 ad.leap.app
 1.1.1.1 ad.lectinect.no
 1.1.1.1 ad.leongaming.com
@@ -1468,7 +1465,6 @@
 1.1.1.1 ad.simgames.net
 1.1.1.1 ad.simpledesign.ltd
 1.1.1.1 ad.sinovision.net
-1.1.1.1 ad.site-landing.com
 1.1.1.1 ad.sitemaji.com
 1.1.1.1 ad.slashgear.com
 1.1.1.1 ad.smaad.jp
@@ -1831,7 +1827,6 @@
 1.1.1.1 adc.api.nine.com.au
 1.1.1.1 adc2.adcentriconline.com
 1.1.1.1 adc3-assets.adcolony.com
-1.1.1.1 adc3-launch-staging.adcolony.com
 1.1.1.1 adc3-launch.adcolony.com
 1.1.1.1 adcdn.goo.ne.jp
 1.1.1.1 adcdn.holmesmind.com
@@ -1843,8 +1838,6 @@
 1.1.1.1 adclick.tencentmusic.com
 1.1.1.1 adcore.lenovomm.com
 1.1.1.1 adcos.adxmly.com
-1.1.1.1 add1.aniview.com
-1.1.1.1 add2.aniview.com
 1.1.1.1 addelivery-engine-api.voodoo-ads.io
 1.1.1.1 addthiscdn.com
 1.1.1.1 ade.googlesyndication.com
@@ -2895,10 +2888,10 @@
 1.1.1.1 ads.livetv644.me
 1.1.1.1 ads.livetv655.me
 1.1.1.1 ads.livetv658.me
+1.1.1.1 ads.livetv662.me
 1.1.1.1 ads.livetvcdn.net
 1.1.1.1 ads.lmmob.com
 1.1.1.1 ads.localyokelmedia.com
-1.1.1.1 ads.localytics.com
 1.1.1.1 ads.lomadee.com
 1.1.1.1 ads.lordlucky.com
 1.1.1.1 ads.lovercash.com
@@ -3543,6 +3536,7 @@
 1.1.1.1 ads.webshots.com
 1.1.1.1 ads.websiteservices.com
 1.1.1.1 ads.webtools24.net
+1.1.1.1 ads.wedodemos.com
 1.1.1.1 ads.weilitoutiao.net
 1.1.1.1 ads.wellsmedia.com
 1.1.1.1 ads.weownthetraffic.com
@@ -3938,7 +3932,6 @@
 1.1.1.1 adshmct.qq.com
 1.1.1.1 adshmmsg.qq.com
 1.1.1.1 adsite.hot-mob.com
-1.1.1.1 adsk2.co
 1.1.1.1 adslot.uc.cn
 1.1.1.1 adslvfile.qq.com
 1.1.1.1 adslvseed.qq.com
@@ -4552,7 +4545,6 @@
 1.1.1.1 adx-f.ads.heytapmobile.com
 1.1.1.1 adx-id.ads.heytapmobi.com
 1.1.1.1 adx-id.ads.heytapmobile.com
-1.1.1.1 adx-id.ads.oppomobile.com
 1.1.1.1 adx-in.ads.heytapmobi.com
 1.1.1.1 adx-in.ads.heytapmobile.com
 1.1.1.1 adx-kh.ads.heytapmobile.com
@@ -5903,6 +5895,7 @@
 1.1.1.1 aooop.inventnamb.click
 1.1.1.1 aoul.top
 1.1.1.1 aoyou1.top
+1.1.1.1 aoyou2.top
 1.1.1.1 aoyou3.top
 1.1.1.1 aoyou4.top
 1.1.1.1 aoyou5.top
@@ -6056,7 +6049,6 @@
 1.1.1.1 api-stage.pornhub.com
 1.1.1.1 api-stage2.pornhub.com
 1.1.1.1 api-stage3.pornhub.com
-1.1.1.1 api-staging.company-target.com
 1.1.1.1 api-staging.stack-sonar.com
 1.1.1.1 api-staging.wootric.com
 1.1.1.1 api-static-stage.net.daraz.com
@@ -6513,7 +6505,6 @@
 1.1.1.1 api.locuslabs.com
 1.1.1.1 api.logentries.com
 1.1.1.1 api.logpartition.com
-1.1.1.1 api.logrocket.com
 1.1.1.1 api.lookupmanager.com
 1.1.1.1 api.luckyorange.com
 1.1.1.1 api.luscious.net
@@ -6542,7 +6533,6 @@
 1.1.1.1 api.mobcells.com
 1.1.1.1 api.mobgi.com
 1.1.1.1 api.mobileanjian.com
-1.1.1.1 api.mobileapptracking.com
 1.1.1.1 api.mobio.vn
 1.1.1.1 api.mobitech-content.xyz
 1.1.1.1 api.mobpowertech.com
@@ -6644,7 +6634,6 @@
 1.1.1.1 api.purpleads.io
 1.1.1.1 api.pushdi.com
 1.1.1.1 api.pushnami.com
-1.1.1.1 api.pushspring.com
 1.1.1.1 api.pushwoosh.com
 1.1.1.1 api.pvmax.net
 1.1.1.1 api.pxlad.io
@@ -6732,7 +6721,6 @@
 1.1.1.1 api.staging.wootric.com
 1.1.1.1 api.stathat.com
 1.1.1.1 api.stats.appa.pe
-1.1.1.1 api.statsig.com
 1.1.1.1 api.stickers.duapps.com
 1.1.1.1 api.subiz.com.vn
 1.1.1.1 api.subiz.net
@@ -6785,7 +6773,6 @@
 1.1.1.1 api.ucheba.ru
 1.1.1.1 api.ujian.cc
 1.1.1.1 api.umbel.com
-1.1.1.1 api.umeng.com
 1.1.1.1 api.unblockia.com
 1.1.1.1 api.unibots.in
 1.1.1.1 api.uniconsent.com
@@ -8952,7 +8939,6 @@
 1.1.1.1 cm.passport.iqiyi.com
 1.1.1.1 cm.pos.baidu.com
 1.1.1.1 cmmk.inventnamb.click
-1.1.1.1 cmp-dev.advertising.com
 1.1.1.1 cmp.advertising.com
 1.1.1.1 cms-image.cdn.bcebos.com
 1.1.1.1 cms.analytics.yahoo.com
@@ -10289,7 +10275,6 @@
 1.1.1.1 eda7.worldtrades.top
 1.1.1.1 edaw.worldtrades.top
 1.1.1.1 edchargina.pro
-1.1.1.1 edge.ads.twitch.tv
 1.1.1.1 edge.analytics.brightedge.com
 1.1.1.1 edinetadv.com
 1.1.1.1 edland.pro
@@ -10615,7 +10600,6 @@
 1.1.1.1 events-api.otherlevels.com
 1.1.1.1 events-api.soundcloud.com
 1.1.1.1 events-collector-api.viacom.tech
-1.1.1.1 events-dra.op.hicloud.com
 1.1.1.1 events-jp.splash-screen.net
 1.1.1.1 events.adjust.com
 1.1.1.1 events.ads.vungle.com
@@ -11703,7 +11687,6 @@
 1.1.1.1 gytty.top
 1.1.1.1 gz.eutrty.top
 1.1.1.1 gzexsc.top
-1.1.1.1 gzjkbid.adview.com
 1.1.1.1 gzp.untilly.top
 1.1.1.1 gzs20.cnzz.com
 1.1.1.1 gzsdgr.top
@@ -11787,7 +11770,6 @@
 1.1.1.1 hb-api-fra01.omnitagjs.com
 1.1.1.1 hb-api.omnitagjs.com
 1.1.1.1 hb-as.adtech.advertising.com
-1.1.1.1 hb-us.adtech.advertising.com
 1.1.1.1 hb.ads.152media.com
 1.1.1.1 hb.adx1.com
 1.1.1.1 hb.adx2.adform.net
@@ -11820,7 +11802,6 @@
 1.1.1.1 healthbeauty-advice.com
 1.1.1.1 hearbreakingfizz.top
 1.1.1.1 heavenly-test.pro
-1.1.1.1 hebgb.top
 1.1.1.1 hecan123.top
 1.1.1.1 heclnyu.top
 1.1.1.1 hed.programtts.top
@@ -11905,7 +11886,6 @@
 1.1.1.1 hjr.ceramo.top
 1.1.1.1 hjy.sufify.top
 1.1.1.1 hk.napi.ucweb.com
-1.1.1.1 hkbid.adview.com
 1.1.1.1 hklst.top
 1.1.1.1 hlamw.threadgay.top
 1.1.1.1 hlbgw.top
@@ -12039,8 +12019,6 @@
 1.1.1.1 httpdns.push.oppomobile.com
 1.1.1.1 httpdns.qq.com
 1.1.1.1 httpdns.qqcdn.com
-1.1.1.1 httpkafka-master.ads.prd.ie.internal.unity3d.com
-1.1.1.1 httpkafka.ads.prd.ie.internal.unity3d.com
 1.1.1.1 hu4c.top
 1.1.1.1 huanleshijie.top
 1.1.1.1 huaweinnd.top
@@ -12870,7 +12848,6 @@
 1.1.1.1 it.itpolska.click
 1.1.1.1 it.snssdk.com.edgekey.net
 1.1.1.1 it5s.top
-1.1.1.1 itag.ads.linkedin.com
 1.1.1.1 italy-lottery.com
 1.1.1.1 itchy-storm.pro
 1.1.1.1 item.mediav.com
@@ -13094,7 +13071,6 @@
 1.1.1.1 jssdk.cnzz.com
 1.1.1.1 jtjsmp.top
 1.1.1.1 jtogm.midiain.top
-1.1.1.1 ju.mmstat.com
 1.1.1.1 ju.taobao.com
 1.1.1.1 judicious-feed.pro
 1.1.1.1 jueditt.top
@@ -13422,7 +13398,6 @@
 1.1.1.1 ledsitling.pro
 1.1.1.1 leftnetarenning.pro
 1.1.1.1 legjava.pro
-1.1.1.1 lego.mmstat.com
 1.1.1.1 leiki-doubleclick-proxy.appspot.com
 1.1.1.1 lengejoberdak.pro
 1.1.1.1 lens-pro.uk
@@ -13584,6 +13559,7 @@
 1.1.1.1 ll.prowrld.top
 1.1.1.1 llauthaccess.top
 1.1.1.1 llhhbb.top
+1.1.1.1 lm22.top
 1.1.1.1 lmadvertising.engine.adglare.net
 1.1.1.1 lmlicenses.wip4.adobe.com
 1.1.1.1 lmqpr.premism.top
@@ -13680,7 +13656,6 @@
 1.1.1.1 logo-diriecot-ismbc-co-jp.top
 1.1.1.1 logo.o2o-mionieiyikit-net-jp.top
 1.1.1.1 logserver.insight.ucweb.com
-1.1.1.1 logservice-dra.platform.hicloud.com
 1.1.1.1 logservice.hicloud.com
 1.1.1.1 logservice1.hicloud.com
 1.1.1.1 logssug.ucweb.com
@@ -15540,7 +15515,6 @@
 1.1.1.1 open.theinnercircle.co
 1.1.1.1 open.ticketbro.com
 1.1.1.1 open.uzitapp.com
-1.1.1.1 open.woodpeckerlog.com
 1.1.1.1 open.wynk.in
 1.1.1.1 openapi-internal.net.daraz.com
 1.1.1.1 openapi-news.meizu.com
@@ -15700,7 +15674,6 @@
 1.1.1.1 p15-ad-sign.byteimg.com
 1.1.1.1 p15-orange.byteorge.com
 1.1.1.1 p16-ad-sign.byteimg.com
-1.1.1.1 p16-ad.byteoversea.com
 1.1.1.1 p16-orange.byteorge.com
 1.1.1.1 p17-ad-sign.byteimg.com
 1.1.1.1 p17-orange.byteorge.com
@@ -15899,7 +15872,6 @@
 1.1.1.1 partner.bonyplus.cz
 1.1.1.1 partner.brawolife.cz
 1.1.1.1 partner.breakout.cz
-1.1.1.1 partner.breaktime.com.tw
 1.1.1.1 partner.brilianty.cz
 1.1.1.1 partner.brillbird.cz
 1.1.1.1 partner.cakemarket.eu
@@ -16910,6 +16882,7 @@
 1.1.1.1 prg-apac.smartadserver.com
 1.1.1.1 prg.smartadserver.com
 1.1.1.1 prg3429.smartadserver.com
+1.1.1.1 prg3431.smartadserver.com
 1.1.1.1 prg8.smartadserver.com
 1.1.1.1 prga.smartadserver.com
 1.1.1.1 pricerange.top
@@ -17207,7 +17180,6 @@
 1.1.1.1 px.content-ad.net
 1.1.1.1 px.pandora.com
 1.1.1.1 px.ucweb.com
-1.1.1.1 px4.ads.linkedin.com
 1.1.1.1 pxl.ace.advertising.com
 1.1.1.1 pxsg.pandora.com
 1.1.1.1 pycizury.pro
@@ -17480,7 +17452,6 @@
 1.1.1.1 report-stats.ad.jiguang.cn
 1.1.1.1 report.adviad.com
 1.1.1.1 report.adview.cn
-1.1.1.1 report.adview.com
 1.1.1.1 report.appmetrica.yandex.net
 1.1.1.1 report.pro-market.net
 1.1.1.1 report.uc.heytapmobi.com
@@ -19166,7 +19137,6 @@
 1.1.1.1 ssbsync-sgp.smartadserver.com
 1.1.1.1 ssbsync-us.smartadserver.com
 1.1.1.1 ssbsync.smartadserver.com
-1.1.1.1 ssc.api.bbc.com
 1.1.1.1 ssdk.adkmob.com
 1.1.1.1 ssis.7mmtv.top
 1.1.1.1 sskmnews.pro
@@ -19231,7 +19201,6 @@
 1.1.1.1 staging-e-vcdn.anthill.vn
 1.1.1.1 staging.api.adtimaserver.vn
 1.1.1.1 staging.campaign.ateam-ad.jp
-1.1.1.1 staging.corp.evidon.com
 1.1.1.1 staging.sdkconfig.ad.xiaomi.srv
 1.1.1.1 stamfordadvocate.share.ntv.io
 1.1.1.1 stancehd.top
@@ -19376,7 +19345,6 @@
 1.1.1.1 stg-data-tw.ads.heytapmobile.com
 1.1.1.1 stg-data-vn.ads.heytapmobile.com
 1.1.1.1 stg-data.ads.heytapmobi.com
-1.1.1.1 stg-partner.breaktime.com.tw
 1.1.1.1 stgami-o.top
 1.1.1.1 stgowan.com
 1.1.1.1 stils-top.space
@@ -19439,6 +19407,7 @@
 1.1.1.1 sugs.m.sm.cn
 1.1.1.1 suit.maleet.top
 1.1.1.1 sukienka-tos-nevada-white-cid87-idleszg1.id8341.me
+1.1.1.1 sumarno.top
 1.1.1.1 sun-cdn.advividnetwork.com
 1.1.1.1 sun-groupecommerce.top
 1.1.1.1 sun.advividnetwork.com
@@ -20577,7 +20546,6 @@
 1.1.1.1 union.m.jd.com
 1.1.1.1 union.maccms.com
 1.1.1.1 union.sogou.com
-1.1.1.1 union.ucweb.com
 1.1.1.1 union.yihaodian.com
 1.1.1.1 unionimage.baidu.com
 1.1.1.1 unionsug.baidu.com
@@ -20755,8 +20723,6 @@
 1.1.1.1 uthumbs.cdnvideos.pro
 1.1.1.1 utility.baidu.com
 1.1.1.1 utop.umengcloud.com
-1.1.1.1 utorrent-backup-server5.top
-1.1.1.1 utorrent-server-api.cc
 1.1.1.1 utp-dmp.ucweb.com
 1.1.1.1 utp.ucweb.com
 1.1.1.1 uttlinediv.top
@@ -20804,7 +20770,6 @@
 1.1.1.1 v14-ad.ixigua.com
 1.1.1.1 v14.cnzz.com
 1.1.1.1 v15-ad.ixigua.com
-1.1.1.1 v16-ad.byteoversea.com
 1.1.1.1 v16-ad.ixigua.com
 1.1.1.1 v17-ad.ixigua.com
 1.1.1.1 v18-ad.ixigua.com
