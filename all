@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-05-31 15:56:00 
+#更新时间: 2023-05-31 16:56:03 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26266
+#规则数量:26259
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -116,7 +116,6 @@
 127.0.0.1 1.ad-locus.com
 127.0.0.1 1.aerial.maps.api.net.daraz.com
 127.0.0.1 1.dpoopsrv.click
-127.0.0.1 1.dtxsrvgo.pro
 127.0.0.1 1.hao123.com
 127.0.0.1 1.marcukesh.top
 127.0.0.1 1.profitapp.click
@@ -6988,7 +6987,6 @@
 127.0.0.1 ariat-polska.top
 127.0.0.1 arielsystem.pro
 127.0.0.1 ark-event.pro
-127.0.0.1 ark-fund.pro
 127.0.0.1 ark-musk.pro
 127.0.0.1 ark.cp21.ott.cibntv.net
 127.0.0.1 arkbonus.pro
@@ -9506,8 +9504,6 @@
 127.0.0.1 daspic.top
 127.0.0.1 dat.pltradelife.top
 127.0.0.1 dat2.ero-advertising.com
-127.0.0.1 data-47ee1b0882.uc-kino-ruegen.de
-127.0.0.1 data-47ee1b0882.union-filmtheater.de
 127.0.0.1 data-9d5c2cfc8c.baustoff-partner.de
 127.0.0.1 data-c26a0f6abd.smarthouse-pro.de
 127.0.0.1 data-canary.flurry.com
@@ -9708,7 +9704,6 @@
 127.0.0.1 detroit-mi.tt.omtrdc.net
 127.0.0.1 dev-about.twitter.com
 127.0.0.1 dev-ad-track.aralego.com
-127.0.0.1 dev-admin-api-piemonte.tt.omtrdc.net
 127.0.0.1 dev-api.persona.ly
 127.0.0.1 dev-blog.twitter.com
 127.0.0.1 dev-brand.twitter.com
@@ -9926,7 +9921,6 @@
 127.0.0.1 doatgiveaway.top
 127.0.0.1 dobreprogramy.pro
 127.0.0.1 doc.cnzz.com
-127.0.0.1 docker-registry-browser-prod.tt.omtrdc.net
 127.0.0.1 docker-www.alpha-partner.net.daraz.com
 127.0.0.1 docker-www.partner.admin.net.daraz.com
 127.0.0.1 docomo-analytics.com
@@ -10418,7 +10412,6 @@
 127.0.0.1 elonmaxs.projectprog.click
 127.0.0.1 elonmsk.pro
 127.0.0.1 elonone.projectprog.click
-127.0.0.1 elontesla23.pro
 127.0.0.1 elonxpro.projectprog.click
 127.0.0.1 elonxx.projectprog.click
 127.0.0.1 eloqua.petchem-update.com
@@ -12099,6 +12092,8 @@
 127.0.0.1 httpdns.push.oppomobile.com
 127.0.0.1 httpdns.qq.com
 127.0.0.1 httpdns.qqcdn.com
+127.0.0.1 httpkafka-master.ads.prd.ie.internal.unity3d.com
+127.0.0.1 httpkafka.ads.prd.ie.internal.unity3d.com
 127.0.0.1 hu4c.top
 127.0.0.1 huanleshijie.top
 127.0.0.1 huaweinnd.top
@@ -14011,7 +14006,6 @@
 127.0.0.1 marcets33927-ollox.jurcenter.top
 127.0.0.1 marcets34772-ollox.plakaty.top
 127.0.0.1 marcets7685-ollox.ethnonet.top
-127.0.0.1 march-dishpurchasingcorporation.hb-api.tt.omtrdc.net
 127.0.0.1 marchadvertisingnetwork10.com
 127.0.0.1 marchadvertisingnetwork5.com
 127.0.0.1 marchadvertisingnetwork6.com
@@ -16036,7 +16030,6 @@
 127.0.0.1 partner.fitnessrevolucia.sk
 127.0.0.1 partner.fondsdiscount.de
 127.0.0.1 partner.forexrebel.net
-127.0.0.1 partner.galsari.com
 127.0.0.1 partner.gde.ru
 127.0.0.1 partner.generatorvodiku.cz
 127.0.0.1 partner.get.net.daraz.com
@@ -16202,7 +16195,6 @@
 127.0.0.1 partner.svatba.cz
 127.0.0.1 partner.svatebni-diar.cz
 127.0.0.1 partner.svetruzi.cz
-127.0.0.1 partner.swimmeez.cz
 127.0.0.1 partner.tagscreator.com
 127.0.0.1 partner.tahnabranu.cz
 127.0.0.1 partner.tajemstvi-uspechu.cz
@@ -20547,6 +20539,7 @@
 127.0.0.1 ty.viqiyi.admaster.com.cn
 127.0.0.1 ty.vletv.admaster.com.cn
 127.0.0.1 tyaqy.m.cn.miaozhen.com
+127.0.0.1 tyed6.top
 127.0.0.1 tyh.taobao.com
 127.0.0.1 typo3.ero-advertising.com
 127.0.0.1 tysupuo7.pro
