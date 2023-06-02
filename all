@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-02 15:56:13 
+#更新时间: 2023-06-02 16:56:31 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26236
+#规则数量:26239
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -19989,15 +19989,18 @@
 127.0.0.1 tnakfna.top
 127.0.0.1 tnaskgg.top
 127.0.0.1 tnc3-aliec2.snssdk.com
+127.0.0.1 tnc3-aliec2.zijieapi
 127.0.0.1 tnc3-aliec2.zijieapi.com
 127.0.0.1 tnc3-alisc1.bytedance.com
 127.0.0.1 tnc3-alisc1.snssdk.com
+127.0.0.1 tnc3-alisc1.zijieapi
 127.0.0.1 tnc3-alisc1.zijieapi.com
 127.0.0.1 tnc3-alisc2.bytedance.com
 127.0.0.1 tnc3-alisc2.snssdk.com
 127.0.0.1 tnc3-alisc2.zijieapi.com
 127.0.0.1 tnc3-bjlgy.bytedance.com
 127.0.0.1 tnc3-bjlgy.snssdk.com
+127.0.0.1 tnc3-bjlgy.zijieapi
 127.0.0.1 tnc3-bjlgy.zijieapi.com
 127.0.0.1 tngcorp.top
 127.0.0.1 tns.simba.taobao.com
