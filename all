@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-04 02:56:15 
+#更新时间: 2023-06-04 03:55:59 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26144
+#规则数量:26146
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -181,6 +181,7 @@
 94.140.14.33 1auaph69ausv.top
 94.140.14.33 1b9cvfi0nwxqelxu.pro
 94.140.14.33 1blog.inprog.top
+94.140.14.33 1cdhf.top
 94.140.14.33 1chat.activpl-pro.site
 94.140.14.33 1chat.pro-masters.xyz
 94.140.14.33 1chat1.activpl-pro.site
@@ -1835,6 +1836,7 @@
 94.140.14.33 adcdn.holmesmind.com
 94.140.14.33 adcdn.hpplay.cn
 94.140.14.33 adcdn.tencentmusic.com
+94.140.14.33 adcenter-api.cashwalk.co
 94.140.14.33 adcentre.it-advanced.com
 94.140.14.33 adchina.cc
 94.140.14.33 adclick.g.doubleclick.net
