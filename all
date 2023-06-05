@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-05 15:56:11 
+#更新时间: 2023-06-05 16:56:15 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26181
+#规则数量:26182
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -7971,6 +7971,7 @@
 1.1.1.1 bvz8.mttrade.top
 1.1.1.1 bvz9.mttrade.top
 1.1.1.1 bw.coolplattf.top
+1.1.1.1 bwandlv.top
 1.1.1.1 bwmxdg.kimono-365.jp
 1.1.1.1 bwogldv.top
 1.1.1.1 bwp.download.com
