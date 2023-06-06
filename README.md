@@ -1,10 +1,10 @@
 ## 去广告订阅自动更新
 ## [English](./README_en.md)
 
-## 统计 (2023-06-06 11:56:16)
+## 统计 (2023-06-06 12:56:28)
 ```
-完整版累积拦截域名: 26192
-保留广告奖励累积拦截域名: 26159
+完整版累积拦截域名: 26373
+保留广告奖励累积拦截域名: 26340
 ```
 ### 访问量 : ![visitors](http://006.freecounters.co.uk/count-133.pl?count=qe1milbo7p68gg219fmj&type=links&prog=unique)
 
