@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-12 19:56:04 
+#更新时间: 2023-06-12 21:02:10 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:26175
+#规则数量:26184
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1873,6 +1873,7 @@
 127.0.0.1 adblock-analytics.io
 127.0.0.1 adblock-pro-download.com
 127.0.0.1 adblock-pro.org
+127.0.0.1 adblock-zen-download.com
 127.0.0.1 adblock.sina.cn
 127.0.0.1 adblockers.b-cdn.net
 127.0.0.1 adbma.adk2.co
@@ -8734,6 +8735,7 @@
 127.0.0.1 click-rtb2-apac.onenativeads.com
 127.0.0.1 click-rtb2-apac.t3dsp.com
 127.0.0.1 click-rtb2-apac.xaprio.net
+127.0.0.1 click-rtb2-eu.afkwa.com
 127.0.0.1 click-rtb2-eu.convergeselect.net
 127.0.0.1 click-rtb2-eu.e-volution.ai
 127.0.0.1 click-rtb2-eu.torchad.com
@@ -8745,6 +8747,7 @@
 127.0.0.1 click-rtb2-useast.catapultx.com
 127.0.0.1 click-rtb2-useast.demandzoo.com
 127.0.0.1 click-rtb2-useast.e-volution.ai
+127.0.0.1 click-rtb2-useast.newchallenges-dsp.com
 127.0.0.1 click-rtb2-useast.xaprio.net
 127.0.0.1 click-rtb2-uswest.afkwa.com
 127.0.0.1 click-staging.food.mercato.com
@@ -8841,6 +8844,7 @@
 127.0.0.1 click.e.progressive.com
 127.0.0.1 click.e.tdbank.com
 127.0.0.1 click.e.twitter.com
+127.0.0.1 click.eclk.club
 127.0.0.1 click.em.blizzard.com
 127.0.0.1 click.em.soothe.com
 127.0.0.1 click.email.bbc.com
@@ -13068,6 +13072,7 @@
 127.0.0.1 javsub.mobi
 127.0.0.1 javtop1.pro
 127.0.0.1 jb.eutrty.top
+127.0.0.1 jbalrqvennerw.top
 127.0.0.1 jbazhaheia.top
 127.0.0.1 jcdn.ad-stir.com
 127.0.0.1 jcdn.jsoid.com
@@ -14956,6 +14961,7 @@
 127.0.0.1 neblio.click
 127.0.0.1 nebraska-02-partner-cf23region.net.daraz.com
 127.0.0.1 nebueb.click
+127.0.0.1 necessaryclassroom.pro
 127.0.0.1 necessaryratio.pro
 127.0.0.1 needadvertising.com
 127.0.0.1 neeew.pro-activprofit.site
@@ -15649,6 +15655,7 @@
 127.0.0.1 orderlyregister.pro
 127.0.0.1 ordern23943-impoct.plakaty.top
 127.0.0.1 ordes4470-ollox.burnfrost.top
+127.0.0.1 oretracker.top
 127.0.0.1 org-upgrade.com
 127.0.0.1 organicble.top
 127.0.0.1 orgasmadvisor.com
@@ -15666,6 +15673,7 @@
 127.0.0.1 orlen-pro.web.app
 127.0.0.1 orlen-pro.xprogbrd.site
 127.0.0.1 orlen.pro
+127.0.0.1 ormolustuke.top
 127.0.0.1 ornery-animal.pro
 127.0.0.1 orz.endics.top
 127.0.0.1 osloginvesting.pro
@@ -20427,6 +20435,7 @@
 127.0.0.1 tuisong.baidu.com
 127.0.0.1 tunele-top.com
 127.0.0.1 tunion-api.m.taobao.com
+127.0.0.1 tunnelbuilder.top
 127.0.0.1 tuoi69.click
 127.0.0.1 tuoilon.pro
 127.0.0.1 tuotianxia.top
