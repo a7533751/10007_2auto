@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-18 03:56:41 
+#更新时间: 2023-06-18 04:56:32 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:37136
+#规则数量:37174
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -809,6 +809,7 @@
 127.0.0.1 ab86b.top
 127.0.0.1 abbmmail.partner.net.daraz.com
 127.0.0.1 abc-ads.com
+127.0.0.1 abc.comick.top
 127.0.0.1 abc.rwpt.top
 127.0.0.1 abcnews.hb-api.tt.omtrdc.net
 127.0.0.1 abilling-nsthenticatemail.partner.net.daraz.com
@@ -959,6 +960,7 @@
 127.0.0.1 ad-cache.dopool.com
 127.0.0.1 ad-car10.jenkins.net.daraz.com
 127.0.0.1 ad-cdn.bilgin.pro
+127.0.0.1 ad-cdn.name
 127.0.0.1 ad-cdn.qingting.fm
 127.0.0.1 ad-cdn.technoratimedia.com
 127.0.0.1 ad-center.com
@@ -1642,6 +1644,7 @@
 127.0.0.1 ad.plus
 127.0.0.1 ad.poco.madserving.com
 127.0.0.1 ad.policeone.com
+127.0.0.1 ad.polskiprzemysl.com.pl
 127.0.0.1 ad.polymorphicads.jp
 127.0.0.1 ad.pornfuzepremium.videobox.com
 127.0.0.1 ad.pornimg.xyz
@@ -1862,6 +1865,7 @@
 127.0.0.1 ad1.emediate.dk
 127.0.0.1 ad1.emule-project.org
 127.0.0.1 ad1.ero-advertising.com
+127.0.0.1 ad1.ettoday.net
 127.0.0.1 ad1.eventmanager.co.kr
 127.0.0.1 ad1.gamezone.com
 127.0.0.1 ad1.greedland.net
@@ -1904,6 +1908,7 @@
 127.0.0.1 ad2.doublepimp.com
 127.0.0.1 ad2.emediate.dk
 127.0.0.1 ad2.ero-advertising.com
+127.0.0.1 ad2.ettoday.net
 127.0.0.1 ad2.firehousezone.com
 127.0.0.1 ad2.fivecdm.com
 127.0.0.1 ad2.fm-p.jp
@@ -2068,6 +2073,7 @@
 127.0.0.1 adblock-pro-download.com
 127.0.0.1 adblock-pro.org
 127.0.0.1 adblock-zen-download.com
+127.0.0.1 adblock.sina.cn
 127.0.0.1 adblockers.b-cdn.net
 127.0.0.1 adbma.adk2.co
 127.0.0.1 adbooth.adk2.co
@@ -2084,6 +2090,7 @@
 127.0.0.1 adcdn.hpplay.cn
 127.0.0.1 adcdn.tencentmusic.com
 127.0.0.1 adcdn1ail.partner.net.daraz.com
+127.0.0.1 adcenter-api.cashwalk.co
 127.0.0.1 adcentre.it-advanced.com
 127.0.0.1 adchina.cc
 127.0.0.1 adclick.g.doubleclick.net
@@ -3077,6 +3084,7 @@
 127.0.0.1 ads.healthline.com
 127.0.0.1 ads.hearstmags.com
 127.0.0.1 ads.heartlight.org
+127.0.0.1 ads.hentaiheart.com
 127.0.0.1 ads.heraldnet.com
 127.0.0.1 ads.heroldonline.com
 127.0.0.1 ads.hexun.com
@@ -3259,6 +3267,7 @@
 127.0.0.1 ads.livetvcdn.net
 127.0.0.1 ads.lmmob.com
 127.0.0.1 ads.localyokelmedia.com
+127.0.0.1 ads.lomadee.com
 127.0.0.1 ads.lordlucky.com
 127.0.0.1 ads.lovercash.com
 127.0.0.1 ads.loveshack.org
@@ -3289,6 +3298,7 @@
 127.0.0.1 ads.mediaodyssey.com
 127.0.0.1 ads.mediarithmics.com
 127.0.0.1 ads.mediasmart.es
+127.0.0.1 ads.mediastinct.com
 127.0.0.1 ads.mediaturf.net
 127.0.0.1 ads.mediatwo.com
 127.0.0.1 ads.medienhaus.de
@@ -3296,6 +3306,7 @@
 127.0.0.1 ads.mefeedia.com
 127.0.0.1 ads.megaproxy.com
 127.0.0.1 ads.memob.com
+127.0.0.1 ads.mercadoclics.com
 127.0.0.1 ads.metblogs.com
 127.0.0.1 ads.metropolis.co.jp
 127.0.0.1 ads.mgnetwork.com
@@ -3560,6 +3571,7 @@
 127.0.0.1 ads.redlightcenter.com
 127.0.0.1 ads.reduxmediagroup.com
 127.0.0.1 ads.referlocal.com
+127.0.0.1 ads.regiedepub.com
 127.0.0.1 ads.register.com
 127.0.0.1 ads.rejsestart.dk
 127.0.0.1 ads.reklamatik.com
@@ -3592,6 +3604,7 @@
 127.0.0.1 ads.samsung.com
 127.0.0.1 ads.samsungads.com
 127.0.0.1 ads.saplacikardepo.xyz
+127.0.0.1 ads.sapo.pt
 127.0.0.1 ads.satyamonline.com
 127.0.0.1 ads.saymedia.com
 127.0.0.1 ads.scabee.com
@@ -3726,6 +3739,7 @@
 127.0.0.1 ads.telecinco.es
 127.0.0.1 ads.telkomsel.com
 127.0.0.1 ads.tenmax.io
+127.0.0.1 ads.terra.es
 127.0.0.1 ads.thanhnien.vn
 127.0.0.1 ads.thecoolhunter.net
 127.0.0.1 ads.thecrimson.com
@@ -3892,6 +3906,7 @@
 127.0.0.1 ads.webkinz.com
 127.0.0.1 ads.webmasterpoint.org
 127.0.0.1 ads.webmd.com
+127.0.0.1 ads.webme.com
 127.0.0.1 ads.webnet.advance.net
 127.0.0.1 ads.websearch.com
 127.0.0.1 ads.webshots.com
@@ -4411,6 +4426,7 @@
 127.0.0.1 adv.0tub.com
 127.0.0.1 adv.440network.com
 127.0.0.1 adv.a8.net
+127.0.0.1 adv.abv.bg
 127.0.0.1 adv.ad-splash.jp
 127.0.0.1 adv.addeluxe.jp
 127.0.0.1 adv.adflex.vn
@@ -5709,6 +5725,7 @@
 127.0.0.1 analytics.go.com
 127.0.0.1 analytics.gokwik.co
 127.0.0.1 analytics.google.com
+127.0.0.1 analytics.googleapis.com
 127.0.0.1 analytics.gooogol.com
 127.0.0.1 analytics.gorillanation.com
 127.0.0.1 analytics.govinfo.gov
@@ -7978,6 +7995,7 @@
 127.0.0.1 api.monedata.io
 127.0.0.1 api.monetate.net
 127.0.0.1 api.moogos.com
+127.0.0.1 api.mouseflow.com
 127.0.0.1 api.mp.uc.cn
 127.0.0.1 api.mp4teluguwap.net.daraz.com
 127.0.0.1 api.mppmnetwork.com
@@ -7990,6 +8008,7 @@
 127.0.0.1 api.nalivelo.info
 127.0.0.1 api.nanigans.com
 127.0.0.1 api.nas.nct.vn
+127.0.0.1 api.native-track.com
 127.0.0.1 api.native.ai
 127.0.0.1 api.nend.net
 127.0.0.1 api.net.daraz.com
@@ -9233,6 +9252,7 @@
 127.0.0.1 banner.kanald.com.tr
 127.0.0.1 banner.keele-nnw-leis-mc-leis.net.daraz.com
 127.0.0.1 banner.kiev.ua
+127.0.0.1 banner.klikklik.nl
 127.0.0.1 banner.lavanetwork.net
 127.0.0.1 banner.lbs.km.ru
 127.0.0.1 banner.linksynergy.com
@@ -9249,6 +9269,7 @@
 127.0.0.1 banner.northamerica.net.daraz.com
 127.0.0.1 banner.northsky.com
 127.0.0.1 banner.novanet.vn
+127.0.0.1 banner.ntop.tv
 127.0.0.1 banner.oddcast.com
 127.0.0.1 banner.onecom.no
 127.0.0.1 banner.orb.net
@@ -9283,6 +9304,7 @@
 127.0.0.1 banner.uto.vn
 127.0.0.1 banner.vadian.net
 127.0.0.1 banner.vatanclick.ir
+127.0.0.1 banner.volynnews.com
 127.0.0.1 banner.webmersion.com
 127.0.0.1 banner.webtools24.net
 127.0.0.1 banner.zol.ru
@@ -9361,6 +9383,7 @@
 127.0.0.1 bcdn.grmtas.com
 127.0.0.1 bce.baidu.com
 127.0.0.1 bcfeedback.taobao.com
+127.0.0.1 bcli.flash-xxx.com
 127.0.0.1 bcvc.mobi
 127.0.0.1 bcvd.formew.top
 127.0.0.1 bcxdsgewyhr.top
@@ -9591,6 +9614,7 @@
 127.0.0.1 bitcoin-polska-platform.bitqt.click
 127.0.0.1 bitcoin-pro.live
 127.0.0.1 bitcoin-ua.top
+127.0.0.1 bitcoinads.growadvertising.com
 127.0.0.1 bitcoinadvertisers.com
 127.0.0.1 bitcoine-ad.foundation
 127.0.0.1 bitcoinup-pro.com
@@ -10269,6 +10293,7 @@
 127.0.0.1 cdn.neppa-ad.com
 127.0.0.1 cdn.oas-c17.adnxs.com
 127.0.0.1 cdn.oas-c18.adnxs.com
+127.0.0.1 cdn.optoutadvertising.com
 127.0.0.1 cdn.pornon.mobi
 127.0.0.1 cdn.propellerads.com
 127.0.0.1 cdn.puata.info
@@ -10677,6 +10702,7 @@
 127.0.0.1 cjhq.baidu.com
 127.0.0.1 cjnbm.sooneur.top
 127.0.0.1 ck.ads.heytapmobi.com
+127.0.0.1 ck.ads.oppomobile.com
 127.0.0.1 ck.jads.co
 127.0.0.1 ck33.top
 127.0.0.1 ckmap.mediav.com
@@ -10997,6 +11023,7 @@
 127.0.0.1 click.searchnation.net
 127.0.0.1 click.securetracking.info
 127.0.0.1 click.sellmeyourtraffic.com
+127.0.0.1 click.seodollars.com
 127.0.0.1 click.sexmoney.com
 127.0.0.1 click.showcasethat.com
 127.0.0.1 click.signaturemarket.co
@@ -15174,6 +15201,7 @@
 127.0.0.1 go.ebayadvertising.com
 127.0.0.1 go.educationadvanced.com
 127.0.0.1 go.educationaladvancement.org
+127.0.0.1 go.ero-advertising.com
 127.0.0.1 go.eroadvertising.com
 127.0.0.1 go.est-pro.co.jp
 127.0.0.1 go.eziadvicesolutions.com
@@ -15821,6 +15849,7 @@
 127.0.0.1 hsesa.top
 127.0.0.1 hsts.rtb.tamura.ad.dev.nend.net
 127.0.0.1 ht-2w.partner.net.daraz.com
+127.0.0.1 ht-cdn.trafficjunky.net
 127.0.0.1 htest1channel-www.partner-legacy.net.daraz.com
 127.0.0.1 htest1net-swagger-www.partner-pay.net.daraz.com
 127.0.0.1 htgb-a-ads.staff.net.daraz.com
@@ -21949,6 +21978,7 @@
 127.0.0.1 partner.gde.ru
 127.0.0.1 partner.generatorvodiku.cz
 127.0.0.1 partner.get.net.daraz.com
+127.0.0.1 partner.gewinnspiele.de
 127.0.0.1 partner.giulieta.shop
 127.0.0.1 partner.gokids.cz
 127.0.0.1 partner.googleadservices.com
@@ -25457,6 +25487,7 @@
 127.0.0.1 smac-ad.com
 127.0.0.1 smail-europewestc.www.partner.net.daraz.com
 127.0.0.1 smailes.pro
+127.0.0.1 small-check.oisd.nl
 127.0.0.1 small-kitty.top
 127.0.0.1 smart-ad.sakura.ne.jp
 127.0.0.1 smart-ads.statsperformdev.com
@@ -26233,8 +26264,10 @@
 127.0.0.1 starssp.top
 127.0.0.1 start.mail-portal.partner.net.daraz.com
 127.0.0.1 startenterprise.top
+127.0.0.1 startup-mobile.ap.yandex-net.ru
 127.0.0.1 startup.mobile.yandex.net
 127.0.0.1 startup.oupeng.com
+127.0.0.1 stat-analytics.mediavitrina.ru
 127.0.0.1 stat-in.dc.oppomobile.com
 127.0.0.1 stat-pro.site
 127.0.0.1 stat.adbana.com
@@ -26290,6 +26323,7 @@
 127.0.0.1 static.exosrv.com
 127.0.0.1 static.fd-api.com
 127.0.0.1 static.g.iqiyi.com
+127.0.0.1 static.growadvertising.com
 127.0.0.1 static.i.mediav.com
 127.0.0.1 static.ju.mediav.com
 127.0.0.1 static.jupin.mediav.com
@@ -26807,6 +26841,7 @@
 127.0.0.1 syndication.advertiserurl.com
 127.0.0.1 syndication.adxoo.com
 127.0.0.1 syndication.cntrafficpro.com
+127.0.0.1 syndication.dynsrvtbg.com
 127.0.0.1 syndication.dynsrvwer.com
 127.0.0.1 syndication.elink12.com
 127.0.0.1 syndication.elink66.com
@@ -28411,6 +28446,7 @@
 127.0.0.1 us1-sdk.bluedot.io
 127.0.0.1 usancit.top
 127.0.0.1 uscdn.top
+127.0.0.1 use-application-dns.net
 127.0.0.1 useenterpris.click
 127.0.0.1 usefulhall.pro
 127.0.0.1 usenet-nl.top
@@ -29449,6 +29485,7 @@
 127.0.0.1 vlxx.mobi
 127.0.0.1 vlxx3.pro
 127.0.0.1 vlxxphim.pro
+127.0.0.1 vmap.v.ad-generation.jp
 127.0.0.1 vmc.adv.br
 127.0.0.1 vmindhls.tc.qq.com
 127.0.0.1 vmonitor.ws.netease.com
@@ -29798,6 +29835,7 @@
 127.0.0.1 w3.api-docsprint-mo.net.daraz.com
 127.0.0.1 w4.frontpage-partner.net.daraz.com
 127.0.0.1 w4jz.top
+127.0.0.1 w94.1qlgi.top
 127.0.0.1 w9f1r.top
 127.0.0.1 wa.gtimg.com
 127.0.0.1 wadahlapak.top
