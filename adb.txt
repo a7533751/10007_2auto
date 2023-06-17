@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-06-18 03:56:56
+! Last modified: 2023-06-18 04:56:43
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-06-18 03:56:56 ^
+!更新时间: 2023-06-18 04:56:42 ^
 
-!规则数量:37077^
+!规则数量:37115^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -805,6 +805,7 @@
 ||ab86b.top^
 ||abbmmail.partner.net.daraz.com^
 ||abc-ads.com^
+||abc.comick.top^
 ||abc.rwpt.top^
 ||abcnews.hb-api.tt.omtrdc.net^
 ||abilling-nsthenticatemail.partner.net.daraz.com^
@@ -955,6 +956,7 @@
 ||ad-cache.dopool.com^
 ||ad-car10.jenkins.net.daraz.com^
 ||ad-cdn.bilgin.pro^
+||ad-cdn.name^
 ||ad-cdn.qingting.fm^
 ||ad-cdn.technoratimedia.com^
 ||ad-center.com^
@@ -1637,6 +1639,7 @@
 ||ad.plus^
 ||ad.poco.madserving.com^
 ||ad.policeone.com^
+||ad.polskiprzemysl.com.pl^
 ||ad.polymorphicads.jp^
 ||ad.pornfuzepremium.videobox.com^
 ||ad.pornimg.xyz^
@@ -1857,6 +1860,7 @@
 ||ad1.emediate.dk^
 ||ad1.emule-project.org^
 ||ad1.ero-advertising.com^
+||ad1.ettoday.net^
 ||ad1.eventmanager.co.kr^
 ||ad1.gamezone.com^
 ||ad1.greedland.net^
@@ -1899,6 +1903,7 @@
 ||ad2.doublepimp.com^
 ||ad2.emediate.dk^
 ||ad2.ero-advertising.com^
+||ad2.ettoday.net^
 ||ad2.firehousezone.com^
 ||ad2.fivecdm.com^
 ||ad2.fm-p.jp^
@@ -2063,6 +2068,7 @@
 ||adblock-pro-download.com^
 ||adblock-pro.org^
 ||adblock-zen-download.com^
+||adblock.sina.cn^
 ||adblockers.b-cdn.net^
 ||adbma.adk2.co^
 ||adbooth.adk2.co^
@@ -2079,6 +2085,7 @@
 ||adcdn.hpplay.cn^
 ||adcdn.tencentmusic.com^
 ||adcdn1ail.partner.net.daraz.com^
+||adcenter-api.cashwalk.co^
 ||adcentre.it-advanced.com^
 ||adchina.cc^
 ||adclick.g.doubleclick.net^
@@ -3071,6 +3078,7 @@
 ||ads.healthline.com^
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
+||ads.hentaiheart.com^
 ||ads.heraldnet.com^
 ||ads.heroldonline.com^
 ||ads.hexun.com^
@@ -3253,6 +3261,7 @@
 ||ads.livetvcdn.net^
 ||ads.lmmob.com^
 ||ads.localyokelmedia.com^
+||ads.lomadee.com^
 ||ads.lordlucky.com^
 ||ads.lovercash.com^
 ||ads.loveshack.org^
@@ -3283,6 +3292,7 @@
 ||ads.mediaodyssey.com^
 ||ads.mediarithmics.com^
 ||ads.mediasmart.es^
+||ads.mediastinct.com^
 ||ads.mediaturf.net^
 ||ads.mediatwo.com^
 ||ads.medienhaus.de^
@@ -3290,6 +3300,7 @@
 ||ads.mefeedia.com^
 ||ads.megaproxy.com^
 ||ads.memob.com^
+||ads.mercadoclics.com^
 ||ads.metblogs.com^
 ||ads.metropolis.co.jp^
 ||ads.mgnetwork.com^
@@ -3554,6 +3565,7 @@
 ||ads.redlightcenter.com^
 ||ads.reduxmediagroup.com^
 ||ads.referlocal.com^
+||ads.regiedepub.com^
 ||ads.register.com^
 ||ads.rejsestart.dk^
 ||ads.reklamatik.com^
@@ -3586,6 +3598,7 @@
 ||ads.samsung.com^
 ||ads.samsungads.com^
 ||ads.saplacikardepo.xyz^
+||ads.sapo.pt^
 ||ads.satyamonline.com^
 ||ads.saymedia.com^
 ||ads.scabee.com^
@@ -3720,6 +3733,7 @@
 ||ads.telecinco.es^
 ||ads.telkomsel.com^
 ||ads.tenmax.io^
+||ads.terra.es^
 ||ads.thanhnien.vn^
 ||ads.thecoolhunter.net^
 ||ads.thecrimson.com^
@@ -3886,6 +3900,7 @@
 ||ads.webkinz.com^
 ||ads.webmasterpoint.org^
 ||ads.webmd.com^
+||ads.webme.com^
 ||ads.webnet.advance.net^
 ||ads.websearch.com^
 ||ads.webshots.com^
@@ -4404,6 +4419,7 @@
 ||adv.0tub.com^
 ||adv.440network.com^
 ||adv.a8.net^
+||adv.abv.bg^
 ||adv.ad-splash.jp^
 ||adv.addeluxe.jp^
 ||adv.adflex.vn^
@@ -5699,6 +5715,7 @@
 ||analytics.go.com^
 ||analytics.gokwik.co^
 ||analytics.google.com^
+||analytics.googleapis.com^
 ||analytics.gooogol.com^
 ||analytics.gorillanation.com^
 ||analytics.govinfo.gov^
@@ -7966,6 +7983,7 @@
 ||api.monedata.io^
 ||api.monetate.net^
 ||api.moogos.com^
+||api.mouseflow.com^
 ||api.mp.uc.cn^
 ||api.mp4teluguwap.net.daraz.com^
 ||api.mppmnetwork.com^
@@ -7978,6 +7996,7 @@
 ||api.nalivelo.info^
 ||api.nanigans.com^
 ||api.nas.nct.vn^
+||api.native-track.com^
 ||api.native.ai^
 ||api.nend.net^
 ||api.net.daraz.com^
@@ -9220,6 +9239,7 @@
 ||banner.kanald.com.tr^
 ||banner.keele-nnw-leis-mc-leis.net.daraz.com^
 ||banner.kiev.ua^
+||banner.klikklik.nl^
 ||banner.lavanetwork.net^
 ||banner.lbs.km.ru^
 ||banner.linksynergy.com^
@@ -9236,6 +9256,7 @@
 ||banner.northamerica.net.daraz.com^
 ||banner.northsky.com^
 ||banner.novanet.vn^
+||banner.ntop.tv^
 ||banner.oddcast.com^
 ||banner.onecom.no^
 ||banner.orb.net^
@@ -9270,6 +9291,7 @@
 ||banner.uto.vn^
 ||banner.vadian.net^
 ||banner.vatanclick.ir^
+||banner.volynnews.com^
 ||banner.webmersion.com^
 ||banner.webtools24.net^
 ||banner.zol.ru^
@@ -9348,6 +9370,7 @@
 ||bcdn.grmtas.com^
 ||bce.baidu.com^
 ||bcfeedback.taobao.com^
+||bcli.flash-xxx.com^
 ||bcvc.mobi^
 ||bcvd.formew.top^
 ||bcxdsgewyhr.top^
@@ -9578,6 +9601,7 @@
 ||bitcoin-polska-platform.bitqt.click^
 ||bitcoin-pro.live^
 ||bitcoin-ua.top^
+||bitcoinads.growadvertising.com^
 ||bitcoinadvertisers.com^
 ||bitcoine-ad.foundation^
 ||bitcoinup-pro.com^
@@ -10254,6 +10278,7 @@
 ||cdn.neppa-ad.com^
 ||cdn.oas-c17.adnxs.com^
 ||cdn.oas-c18.adnxs.com^
+||cdn.optoutadvertising.com^
 ||cdn.pornon.mobi^
 ||cdn.propellerads.com^
 ||cdn.puata.info^
@@ -10661,6 +10686,7 @@
 ||cjhq.baidu.com^
 ||cjnbm.sooneur.top^
 ||ck.ads.heytapmobi.com^
+||ck.ads.oppomobile.com^
 ||ck.jads.co^
 ||ck33.top^
 ||ckmap.mediav.com^
@@ -10981,6 +11007,7 @@
 ||click.searchnation.net^
 ||click.securetracking.info^
 ||click.sellmeyourtraffic.com^
+||click.seodollars.com^
 ||click.sexmoney.com^
 ||click.showcasethat.com^
 ||click.signaturemarket.co^
@@ -15155,6 +15182,7 @@
 ||go.ebayadvertising.com^
 ||go.educationadvanced.com^
 ||go.educationaladvancement.org^
+||go.ero-advertising.com^
 ||go.eroadvertising.com^
 ||go.est-pro.co.jp^
 ||go.eziadvicesolutions.com^
@@ -15802,6 +15830,7 @@
 ||hsesa.top^
 ||hsts.rtb.tamura.ad.dev.nend.net^
 ||ht-2w.partner.net.daraz.com^
+||ht-cdn.trafficjunky.net^
 ||htest1channel-www.partner-legacy.net.daraz.com^
 ||htest1net-swagger-www.partner-pay.net.daraz.com^
 ||htgb-a-ads.staff.net.daraz.com^
@@ -21927,6 +21956,7 @@ w.partner-payseller.net.daraz.com^
 ||partner.gde.ru^
 ||partner.generatorvodiku.cz^
 ||partner.get.net.daraz.com^
+||partner.gewinnspiele.de^
 ||partner.giulieta.shop^
 ||partner.gokids.cz^
 ||partner.googleadservices.com^
@@ -25434,6 +25464,7 @@ w.partner-payseller.net.daraz.com^
 ||smac-ad.com^
 ||smail-europewestc.www.partner.net.daraz.com^
 ||smailes.pro^
+||small-check.oisd.nl^
 ||small-kitty.top^
 ||smart-ad.sakura.ne.jp^
 ||smart-ads.statsperformdev.com^
@@ -26209,8 +26240,10 @@ w.partner-payseller.net.daraz.com^
 ||starssp.top^
 ||start.mail-portal.partner.net.daraz.com^
 ||startenterprise.top^
+||startup-mobile.ap.yandex-net.ru^
 ||startup.mobile.yandex.net^
 ||startup.oupeng.com^
+||stat-analytics.mediavitrina.ru^
 ||stat-in.dc.oppomobile.com^
 ||stat-pro.site^
 ||stat.adbana.com^
@@ -26266,6 +26299,7 @@ w.partner-payseller.net.daraz.com^
 ||static.exosrv.com^
 ||static.fd-api.com^
 ||static.g.iqiyi.com^
+||static.growadvertising.com^
 ||static.i.mediav.com^
 ||static.ju.mediav.com^
 ||static.jupin.mediav.com^
@@ -26783,6 +26817,7 @@ w.partner-payseller.net.daraz.com^
 ||syndication.advertiserurl.com^
 ||syndication.adxoo.com^
 ||syndication.cntrafficpro.com^
+||syndication.dynsrvtbg.com^
 ||syndication.dynsrvwer.com^
 ||syndication.elink12.com^
 ||syndication.elink66.com^
@@ -28385,6 +28420,7 @@ w.partner-payseller.net.daraz.com^
 ||us1-sdk.bluedot.io^
 ||usancit.top^
 ||uscdn.top^
+||use-application-dns.net^
 ||useenterpris.click^
 ||usefulhall.pro^
 ||usenet-nl.top^
@@ -29423,6 +29459,7 @@ w.partner-payseller.net.daraz.com^
 ||vlxx.mobi^
 ||vlxx3.pro^
 ||vlxxphim.pro^
+||vmap.v.ad-generation.jp^
 ||vmc.adv.br^
 ||vmindhls.tc.qq.com^
 ||vmonitor.ws.netease.com^
@@ -29771,6 +29808,7 @@ w.partner-payseller.net.daraz.com^
 ||w3.api-docsprint-mo.net.daraz.com^
 ||w4.frontpage-partner.net.daraz.com^
 ||w4jz.top^
+||w94.1qlgi.top^
 ||w9f1r.top^
 ||wa.gtimg.com^
 ||wadahlapak.top^
