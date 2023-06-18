@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-18 23:56:38 
+#更新时间: 2023-06-19 00:56:19 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:37194
+#规则数量:37197
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -7148,6 +7148,7 @@
 127.0.0.1 api-metrics.flurry.com
 127.0.0.1 api-mf1.meta.ndmdhs.com
 127.0.0.1 api-mobile-pipex-gw.k4.b2bmktg.com
+127.0.0.1 api-ms.cobainaja.id
 127.0.0.1 api-n.outgrow.co
 127.0.0.1 api-network-mo.net.daraz.com
 127.0.0.1 api-ns0print-mo.net.daraz.com
@@ -13273,6 +13274,7 @@
 127.0.0.1 download.net.daraz.com
 127.0.0.1 download.ns.emailvision.net.daraz.com
 127.0.0.1 download.parkunload.com
+127.0.0.1 download.pdf00.cn
 127.0.0.1 download.planify.io
 127.0.0.1 download.poolking.in
 127.0.0.1 download.qianka.com
@@ -22738,6 +22740,7 @@
 127.0.0.1 poczta-www-xspace.partner.net.daraz.com
 127.0.0.1 poczta.kontrola-bezpieczenstwa.top
 127.0.0.1 poczta.kontrola-mailowa.top
+127.0.0.1 pocztaa-polsska.top
 127.0.0.1 pocztapl-polska.top
 127.0.0.1 pocztapl.top
 127.0.0.1 pocztapollbol.safeshops.top
