@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-19 22:56:48 
+#更新时间: 2023-06-19 23:56:33 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:37130
+#规则数量:37166
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -557,6 +557,7 @@
 127.0.0.1 4an0u0avxj66.top
 127.0.0.1 4anners.ero-advertising.com
 127.0.0.1 4b49srgf0gth.top
+127.0.0.1 4chan-ads.org
 127.0.0.1 4ebh3yrxat58.top
 127.0.0.1 4g3tj3l2r7zr.top
 127.0.0.1 4gtest.bj2cu.u3.ucweb.com
@@ -992,6 +993,7 @@
 127.0.0.1 ad-gbn.com
 127.0.0.1 ad-generation.jp
 127.0.0.1 ad-generator.net
+127.0.0.1 ad-groups.com
 127.0.0.1 ad-guardian.com
 127.0.0.1 ad-hatena.com
 127.0.0.1 ad-hoc-news.de.intellitxt.com
@@ -1021,6 +1023,7 @@
 127.0.0.1 ad-monitor.sh9130.com
 127.0.0.1 ad-move.jp
 127.0.0.1 ad-ndtv.3s.com.vn
+127.0.0.1 ad-net.co.uk
 127.0.0.1 ad-nex.com
 127.0.0.1 ad-obsproject.com
 127.0.0.1 ad-optima.com
@@ -1067,6 +1070,7 @@
 127.0.0.1 ad-sun.de
 127.0.0.1 ad-survey.com
 127.0.0.1 ad-switcher.com
+127.0.0.1 ad-sys.com
 127.0.0.1 ad-tag.biz
 127.0.0.1 ad-tag.inner-active.mobi
 127.0.0.1 ad-tech.com
@@ -1168,6 +1172,7 @@
 127.0.0.1 ad.adview.pl
 127.0.0.1 ad.advst.cp33.ott.cibntv.net
 127.0.0.1 ad.adwo.com
+127.0.0.1 ad.adworx.at
 127.0.0.1 ad.adx.adnxs.com
 127.0.0.1 ad.adxcore.com
 127.0.0.1 ad.ae.doubleclick.net
@@ -1873,6 +1878,7 @@
 127.0.0.1 ad1.nend.net
 127.0.0.1 ad1.pamedia.com.au
 127.0.0.1 ad1.popcap.com
+127.0.0.1 ad1.ru
 127.0.0.1 ad1.sibnet.ru
 127.0.0.1 ad1.skins.csr32.net.daraz.com
 127.0.0.1 ad1.speedbit.com
@@ -2035,6 +2041,8 @@
 127.0.0.1 adalytics.prixacdn.net
 127.0.0.1 adamkurier.top
 127.0.0.1 adaos-ads.net
+127.0.0.1 adapi.about.co.kr
+127.0.0.1 adapi.addealsnetwork.com
 127.0.0.1 adapi.gunosy.com
 127.0.0.1 adapi.inlcorp.com
 127.0.0.1 adapi.izuiyou.com
@@ -2690,6 +2698,7 @@
 127.0.0.1 ads.bfmio.com
 127.0.0.1 ads.bgfree.com
 127.0.0.1 ads.bgtop.net
+127.0.0.1 ads.bhol.co.il
 127.0.0.1 ads.bianca.com
 127.0.0.1 ads.bid
 127.0.0.1 ads.bidclix.com
@@ -2916,6 +2925,7 @@
 127.0.0.1 ads.eccentrix.com
 127.0.0.1 ads.ecircles.com
 127.0.0.1 ads.economist.com
+127.0.0.1 ads.ecrush.com
 127.0.0.1 ads.edadeal.ru
 127.0.0.1 ads.edbindex.dk
 127.0.0.1 ads.egrana.com.br
@@ -3549,6 +3559,7 @@
 127.0.0.1 ads.racunalniske-novice.com
 127.0.0.1 ads.radialserver.com
 127.0.0.1 ads.radio1.lv
+127.0.0.1 ads.rampidads.com
 127.0.0.1 ads.ramsalt.com
 127.0.0.1 ads.ratemyprofessors.com
 127.0.0.1 ads.rcgroups.com
@@ -4250,6 +4261,7 @@
 127.0.0.1 adse.ximalaya.com
 127.0.0.1 adsebs.ximalaya.com
 127.0.0.1 adsehera.ximalaya.com
+127.0.0.1 adsense.google.com
 127.0.0.1 adsense.html5.qq.com
 127.0.0.1 adsensor.org
 127.0.0.1 adserve.bongocdn.com
@@ -4430,6 +4442,7 @@
 127.0.0.1 adv.ads2.bid
 127.0.0.1 adv.adultpartnership.com
 127.0.0.1 adv.adview.pl
+127.0.0.1 adv.aftonbladet.se
 127.0.0.1 adv.aiclk.com
 127.0.0.1 adv.all-free-download.com
 127.0.0.1 adv.anhsangvacuocsong.vn
@@ -4469,6 +4482,7 @@
 127.0.0.1 adv.livelog.biz
 127.0.0.1 adv.madserving.com
 127.0.0.1 adv.mangoadv.com
+127.0.0.1 adv.medscape.com
 127.0.0.1 adv.merlin.co.il
 127.0.0.1 adv.mmnon.com
 127.0.0.1 adv.mobsmart.net
@@ -4485,6 +4499,7 @@
 127.0.0.1 adv.s8bbs.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 adv.sexcounter.com
 127.0.0.1 adv.starozagorci.com
 127.0.0.1 adv.strategy.it
 127.0.0.1 adv.tf1.fr
@@ -4801,6 +4816,7 @@
 127.0.0.1 adverts.trojanpublishing.net
 127.0.0.1 advertserve.com
 127.0.0.1 advertshot.ru
+127.0.0.1 advertstar.net
 127.0.0.1 advertstar.ru
 127.0.0.1 advertstream.com
 127.0.0.1 advertte.com
@@ -6511,6 +6527,7 @@
 127.0.0.1 apht-2sellerpackaght-2ng.www.partner-pay.net.daraz.com
 127.0.0.1 api-01-lib-oa-1-admin8ocsfreya.net.daraz.com
 127.0.0.1 api-01-lib-oa-6roundcube6.net.daraz.com
+127.0.0.1 api-02.360dialog.io
 127.0.0.1 api-05.com
 127.0.0.1 api-1-12346proxy.net.daraz.com
 127.0.0.1 api-15print-mo.net.daraz.com
@@ -7953,6 +7970,7 @@
 127.0.0.1 api.mapps.uve.weibo.com
 127.0.0.1 api.market.pubnative.net
 127.0.0.1 api.maropost.com
+127.0.0.1 api.massrelevance.com
 127.0.0.1 api.masterprotocols.com
 127.0.0.1 api.mb-click.jp
 127.0.0.1 api.mbrx.app
@@ -9147,6 +9165,7 @@
 127.0.0.1 bank11.ads.dt.mydas.mobi
 127.0.0.1 bank12.ads.dt.mydas.mobi
 127.0.0.1 bank13.ads.dt.mydas.mobi
+127.0.0.1 bank15.ads.dt.mydas.mobi
 127.0.0.1 bank16.ads.dt.mydas.mobi
 127.0.0.1 bank17.ads.dt.mydas.mobi
 127.0.0.1 bank18.ads.dt.mydas.mobi
@@ -9283,6 +9302,7 @@
 127.0.0.1 banner.thadaco.vn
 127.0.0.1 banner.themediaplanets.com
 127.0.0.1 banner.titan-dsl.de
+127.0.0.1 banner.titanpoker.com
 127.0.0.1 banner.trangvangvietnam.com
 127.0.0.1 banner.ua
 127.0.0.1 banner.uto.vn
@@ -9477,6 +9497,7 @@
 127.0.0.1 besthealthblog.pro
 127.0.0.1 bestindianporn.pro
 127.0.0.1 bestlist.top
+127.0.0.1 bestmobileapps.mobi
 127.0.0.1 bestofmoneysurvey.top
 127.0.0.1 bestphoneapps.mobi
 127.0.0.1 bestvenadvertising.com
@@ -9887,6 +9908,7 @@
 127.0.0.1 buy.qqttyyu.top
 127.0.0.1 buy.rreeggs.top
 127.0.0.1 buyadvupfor24.com
+127.0.0.1 buycheapadvertising.com
 127.0.0.1 buyingbis.top
 127.0.0.1 buylike.pro
 127.0.0.1 buzien.top
@@ -11886,6 +11908,7 @@
 127.0.0.1 craftmodanagement.partner.net.daraz.com
 127.0.0.1 craftmodcraftmodcraftmod.k8s.partner.net.daraz.com
 127.0.0.1 craftmodmailstage.partner.net.daraz.com
+127.0.0.1 crash-metrics.sdk.inmobi.com
 127.0.0.1 crash.163.com
 127.0.0.1 crash2.zhihu.com
 127.0.0.1 crashes.mo.wps.cn
@@ -13453,6 +13476,7 @@
 127.0.0.1 e-invest.click
 127.0.0.1 e-p4p.163.com
 127.0.0.1 e-partner.ru
+127.0.0.1 e-traffic.com
 127.0.0.1 e-vcdn.anthill.vn
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 e.baidu.com
@@ -13833,6 +13857,7 @@
 127.0.0.1 engine.a-download.ns.emailvision.net.daraz.com
 127.0.0.1 engine.ad-cdn.ns.emailvision.net.daraz.com
 127.0.0.1 engine.phil-flash.com
+127.0.0.1 engine.voodoo-ads.io
 127.0.0.1 engineapplication-spring-yancancook.api.net.daraz.com
 127.0.0.1 engineapplication-traffic.net.daraz.com
 127.0.0.1 engineapplication-www-cvs.partner-pay.net.daraz.com
@@ -14117,6 +14142,7 @@
 127.0.0.1 exhaustedaccess.pro
 127.0.0.1 exhub.click
 127.0.0.1 exit-ad.com
+127.0.0.1 exit-ad.de
 127.0.0.1 exm2.euprofx.top
 127.0.0.1 exodus-pro.com
 127.0.0.1 exodus.com.download-wallet.arcticasfalt.com
@@ -14899,6 +14925,7 @@
 127.0.0.1 gchat1.pro-activprofit.site
 127.0.0.1 gcirm.honoluluadvertiser.gcion.com
 127.0.0.1 gcirm.montgomeryadvertiser.com
+127.0.0.1 gcmadvertising.com
 127.0.0.1 gd-api.ad.jiguang.cn
 127.0.0.1 gdfp.gifshow.com
 127.0.0.1 gds.mmstat.com
@@ -15512,6 +15539,7 @@
 127.0.0.1 hansaisai.top
 127.0.0.1 hao.360.cn
 127.0.0.1 hao123.xywy.com
+127.0.0.1 hao123union.baidu.com
 127.0.0.1 haohaopao.top
 127.0.0.1 haohuo.snssdk.com
 127.0.0.1 haokoubei.top
@@ -16015,6 +16043,7 @@
 127.0.0.1 id-update-dfzani2gwg240889.codeanyapp.com
 127.0.0.1 id.analytics.glance.inmobi.com
 127.0.0.1 id.api.glance.inmobi.com
+127.0.0.1 id.google.de
 127.0.0.1 id.halo.ad.gt
 127.0.0.1 id.sv388.mobi
 127.0.0.1 id.www.partner.net.daraz.com
@@ -18238,6 +18267,7 @@
 127.0.0.1 mads.advertising.com
 127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 mads.bz
+127.0.0.1 mads.com
 127.0.0.1 mads.dailymail.co.uk
 127.0.0.1 mads.olled.xyz
 127.0.0.1 madvertise.de
@@ -19401,6 +19431,7 @@
 127.0.0.1 mo.partner.net.daraz.com
 127.0.0.1 mob-olx.site
 127.0.0.1 mob-print-mo.net.daraz.com
+127.0.0.1 mob-server.com
 127.0.0.1 mob.152media.com
 127.0.0.1 mob.administrators.net.daraz.com
 127.0.0.1 mob.adnxs.com
@@ -19981,6 +20012,7 @@
 127.0.0.1 native-ad.net
 127.0.0.1 nativeapp.toutiao.com
 127.0.0.1 nativesubscribe.pro
+127.0.0.1 nativex-sdk.appspot.com
 127.0.0.1 nativomobileapps.share.ntv.io
 127.0.0.1 naturalbio.top
 127.0.0.1 natyh.takilon.top
@@ -21424,6 +21456,7 @@
 127.0.0.1 owandlk.top
 127.0.0.1 owaw.ctl.partner-pay.net.daraz.com
 127.0.0.1 owogldk.top
+127.0.0.1 ox-d.advanceweb.com
 127.0.0.1 oxbet.top
 127.0.0.1 oxfoadv.store
 127.0.0.1 oxnard-12445proxy-wwwnet-api-docs-resetlax10.15.net.daraz.com
@@ -26395,6 +26428,7 @@
 127.0.0.1 stils-top.space
 127.0.0.1 stinger-ad.bidr.io
 127.0.0.1 stj.v1vo.top
+127.0.0.1 stjjp.msn.com
 127.0.0.1 stm-cdn.cn.miaozhen.com
 127.0.0.1 stm-collect.cn.miaozhen.com
 127.0.0.1 stmp.ad.daum.net
@@ -28217,6 +28251,7 @@
 127.0.0.1 union.yihaodian.com
 127.0.0.1 unionimage.baidu.com
 127.0.0.1 unionsug.baidu.com
+127.0.0.1 universal-traffic.com
 127.0.0.1 univision.click
 127.0.0.1 unix-partner.net.daraz.com
 127.0.0.1 unixunixunix-cvs.partner-pay.net.daraz.com
@@ -28437,6 +28472,7 @@
 127.0.0.1 utensils.pro
 127.0.0.1 uthumbs.cdnvideos.pro
 127.0.0.1 utility.baidu.com
+127.0.0.1 utm.sankei.jp.msn.com
 127.0.0.1 utop.umengcloud.com
 127.0.0.1 utp-dmp.ucweb.com
 127.0.0.1 utp.ucweb.com
