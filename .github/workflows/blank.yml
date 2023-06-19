@@ -3,7 +3,7 @@ on:
   watch:
     types: [started]
   schedule:
-    - cron: '55 * * * *'
+    - cron: '0 */14 * * *'
 
 jobs:
    master:
