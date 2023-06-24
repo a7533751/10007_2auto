@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-23 22:15:22 
+#更新时间: 2023-06-24 09:40:03 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:45523
+#规则数量:45545
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -6141,7 +6141,6 @@
 127.0.0.1 ads.advertising365.com
 127.0.0.1 ads.adviad.com
 127.0.0.1 ads.adviva.net
-127.0.0.1 ads.adw.valueclick.net
 127.0.0.1 ads.adworldnetwork.com
 127.0.0.1 ads.adxadserv.com
 127.0.0.1 ads.adxpansion.com
@@ -6421,7 +6420,6 @@
 127.0.0.1 ads.contrasoft.dk
 127.0.0.1 ads.conyak.com
 127.0.0.1 ads.coopson.com
-127.0.0.1 ads.corp.inmobi.com
 127.0.0.1 ads.corusradionetwork.com
 127.0.0.1 ads.counciladvertising.net
 127.0.0.1 ads.courierpostonline.com
@@ -7748,7 +7746,6 @@
 127.0.0.1 ads0.videosz.com
 127.0.0.1 ads1-adnow.com
 127.0.0.1 ads1-adselo.com
-127.0.0.1 ads1-fw-us-west.stickyadstv.com
 127.0.0.1 ads1-normal-hl.zijieapi.com
 127.0.0.1 ads1-normal-lf.zijieapi.com
 127.0.0.1 ads1-normal-lq.zijieapi.com
@@ -11373,7 +11370,6 @@
 127.0.0.1 api-market.vntsm.com
 127.0.0.1 api-marketingdeveloperprint-mo.net.daraz.com
 127.0.0.1 api-marketolog.mts.ru
-127.0.0.1 api-mashery.millennialmedia.com
 127.0.0.1 api-masterhost.net.daraz.com
 127.0.0.1 api-mcp.adsp.xunlei.com
 127.0.0.1 api-mdop-jdarpo.tt.omtrdc.net
@@ -13462,6 +13458,7 @@
 127.0.0.1 astra-beta.corp.tt.omtrdc.net
 127.0.0.1 asvc-ammail.partner.net.daraz.com
 127.0.0.1 asvcgatewayhenticatemail.partner.net.daraz.com
+127.0.0.1 aswq.mmtsa.top
 127.0.0.1 asxcoinmaxs.top
 127.0.0.1 asxx-pro.com
 127.0.0.1 at.360.audion.fm
@@ -13769,7 +13766,6 @@
 127.0.0.1 b29dc60d2b027761aa89ba3571e4587f.safeframe.googlesyndication.com
 127.0.0.1 b2invest-pl.top
 127.0.0.1 b3.a2.top.mail.ru
-127.0.0.1 b315e1346aa34015a1ae61de99b261dc.api.appsee.com
 127.0.0.1 b31bf295c2e892f3eecbb55911150fec.safeframe.googlesyndication.com
 127.0.0.1 b347b5257ae655904252d7aa7ab5eef5.safeframe.googlesyndication.com
 127.0.0.1 b350c2d3ed0dcc3256964ba16ed9f702.safeframe.googlesyndication.com
@@ -13917,6 +13913,7 @@
 127.0.0.1 baifen.music.baidu.com
 127.0.0.1 bal.ad.dotandad.com
 127.0.0.1 bal.piieenadzee-tutaaj.top
+127.0.0.1 bal.programmtrad.top
 127.0.0.1 baliadv.com
 127.0.0.1 ball.lepsage.top
 127.0.0.1 ball.tendion.top
@@ -13938,6 +13935,7 @@
 127.0.0.1 baltp.top
 127.0.0.1 baltticpl.top
 127.0.0.1 baltticpll.top
+127.0.0.1 bam.programmtrad.top
 127.0.0.1 ban3ers.ero-advertising.com
 127.0.0.1 ban4ers.ero-advertising.com
 127.0.0.1 banana.emailon.top
@@ -14645,6 +14643,7 @@
 127.0.0.1 bmscsr12.api.net.daraz.com
 127.0.0.1 bmvip.alimama.cn
 127.0.0.1 bmz4.freepl.top
+127.0.0.1 bn.ainewpro.top
 127.0.0.1 bn.coolplattf.top
 127.0.0.1 bnp-partner.com
 127.0.0.1 bnp1.freepl.top
@@ -15423,6 +15422,7 @@
 127.0.0.1 careful-oven.pro
 127.0.0.1 careless-category.pro
 127.0.0.1 carforyou.btspolsky.top
+127.0.0.1 carforyouu.btspolsky.top
 127.0.0.1 cargo.adverticum.net
 127.0.0.1 caringdeath.pro
 127.0.0.1 cartmail.partner.net.daraz.com
@@ -16250,6 +16250,7 @@
 127.0.0.1 ci.gw.flurry.com
 127.0.0.1 cichiji.top
 127.0.0.1 cifyeldf.top
+127.0.0.1 cikoas.everadpro.click
 127.0.0.1 cim-api-qa.app-measurement.com
 127.0.0.1 cim-api.culturecompass.tt.omtrdc.net
 127.0.0.1 cimage.adobe.com
@@ -16311,9 +16312,7 @@
 127.0.0.1 cl.coolplattf.top
 127.0.0.1 cl.pay-click.ru
 127.0.0.1 cl.yourchance.top
-127.0.0.1 cl149.advertstream.com
 127.0.0.1 cl179.advertstream.com
-127.0.0.1 cl192.advertstream.com
 127.0.0.1 cla-app-ad.tt.omtrdc.net
 127.0.0.1 claim-airdrops.top
 127.0.0.1 claim-reward.5i8xkqjmqubv.top
@@ -18433,6 +18432,7 @@
 127.0.0.1 ddi.flurry.com
 127.0.0.1 ddnk.advertur.ru
 127.0.0.1 ddns.advertur.ru
+127.0.0.1 ddon.masteryu.top
 127.0.0.1 ddpnt.advertur.ru
 127.0.0.1 ddpntk.advertur.ru
 127.0.0.1 dds.advertur.ru
@@ -19710,6 +19710,7 @@
 127.0.0.1 easydestiny.click
 127.0.0.1 easynews.adsame.com
 127.0.0.1 easyshare-33644049147.click
+127.0.0.1 easyshare-41495.click
 127.0.0.1 easyshare-77993388603.click
 127.0.0.1 easyway2.click
 127.0.0.1 eatonaero.advancedtech.com
@@ -20514,7 +20515,6 @@
 127.0.0.1 f780f56611796dbfadad2f723c8e0368.safeframe.googlesyndication.com
 127.0.0.1 f791db811f74a42f436ece56db0e78ef.safeframe.googlesyndication.com
 127.0.0.1 f7a2e5079075e11c2561e3ed26433bbb.safeframe.googlesyndication.com
-127.0.0.1 f7b938ef4b54592bf1107fa660430686.api.appsee.com
 127.0.0.1 f7c0e2e2baa5217e890606bbf73084df.safeframe.googlesyndication.com
 127.0.0.1 f7c9fbb960c7f00cb9793148a4be6ff2.safeframe.googlesyndication.com
 127.0.0.1 f7ddaf510c31446f9e31c203af3363d9.integration.download.conduit-services.com
@@ -21173,7 +21173,6 @@
 127.0.0.1 fruklon-invest.pro
 127.0.0.1 fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 fs4.advertstream.com
-127.0.0.1 fs5.advertstream.com
 127.0.0.1 fsads.adk2.com
 127.0.0.1 fsapi-dev.corp.appnexus.com
 127.0.0.1 fsc-exp-api.sscp-exp.tt.omtrdc.net
@@ -21778,6 +21777,7 @@
 127.0.0.1 gogofun.top
 127.0.0.1 goheretttt.click
 127.0.0.1 goindianporn.pro
+127.0.0.1 gokal.everadpro.click
 127.0.0.1 golanadv.pas-rahav.com
 127.0.0.1 gold5-cdn-jca.ad.dotandad.com
 127.0.0.1 gold5-jca-mzn.ad.dotandad.com
@@ -22108,6 +22108,7 @@
 127.0.0.1 hack-top-eleven.com
 127.0.0.1 hack-twitter.com
 127.0.0.1 hacks-download.com
+127.0.0.1 had.newprogram.top
 127.0.0.1 hadlacrighterthen.pro
 127.0.0.1 hadron.ad.gt
 127.0.0.1 hadron.dallas.ad.gt
@@ -23743,7 +23744,6 @@
 127.0.0.1 isub.snssdk.com
 127.0.0.1 isub.snssdk.com.bytedns.net
 127.0.0.1 isudjksj.top
-127.0.0.1 it.ad.altervista.org
 127.0.0.1 it.ads.justpremium.com
 127.0.0.1 it.advertising.yahoo.com
 127.0.0.1 it.erosadv.com
@@ -24131,6 +24131,7 @@
 127.0.0.1 jz.union-wifi.com
 127.0.0.1 jz8b.top
 127.0.0.1 k-partner.patner.net.daraz.com
+127.0.0.1 k-vipur.teprox.top
 127.0.0.1 k.adsame.com
 127.0.0.1 k.marcukesh.top
 127.0.0.1 k.mosthotappever.top
@@ -24150,6 +24151,7 @@
 127.0.0.1 kabuto.pro
 127.0.0.1 kace-spare.corp.appnexus.com
 127.0.0.1 kace.corp.appnexus.com
+127.0.0.1 kad.newprogram.top
 127.0.0.1 kaechu0ohtop6j.ads.nrc.adhese.com
 127.0.0.1 kaka.lixprog.click
 127.0.0.1 kakaostory.ad.kakao.com
@@ -24341,6 +24343,8 @@
 127.0.0.1 ktokto.mobi
 127.0.0.1 ktr1.mttrade.top
 127.0.0.1 ktr16.mttrade.top
+127.0.0.1 ktr17.mttrade.top
+127.0.0.1 ktr18.mttrade.top
 127.0.0.1 ktr2.mttrade.top
 127.0.0.1 ktr4.mttrade.top
 127.0.0.1 ktr5.mttrade.top
@@ -24390,6 +24394,7 @@
 127.0.0.1 kuronekoyamato.top
 127.0.0.1 kv-analytics.kiotviet.vn
 127.0.0.1 kvcy.flash.poyang.com
+127.0.0.1 kvd15.freepl.top
 127.0.0.1 kvhaaa.top
 127.0.0.1 kvhbbb.top
 127.0.0.1 kvhccc.top
@@ -24894,6 +24899,7 @@
 127.0.0.1 looker-bi.flurry.com
 127.0.0.1 looker.flurry.com
 127.0.0.1 loong2am4lishu.ads.nrc.adhese.com
+127.0.0.1 loopholepl.click
 127.0.0.1 lootplatform.pro
 127.0.0.1 losspreventionmedia.advertserve.com
 127.0.0.1 lottery.flygame.io
@@ -26117,6 +26123,7 @@
 127.0.0.1 mil08.eutradepeopl.top
 127.0.0.1 mil1.eutradepeopl.top
 127.0.0.1 mil1.origprog.top
+127.0.0.1 mil11.eutradepeopl.top
 127.0.0.1 mil12.eutradepeopl.top
 127.0.0.1 mil15.eutradepeopl.top
 127.0.0.1 mil2.eutradepeopl.top
@@ -26574,6 +26581,8 @@
 127.0.0.1 mquyl.threadgay.top
 127.0.0.1 mr.da.netease.com
 127.0.0.1 mr.tidint.pro
+127.0.0.1 mra1.metregplt.top
+127.0.0.1 mrk2.metregplt.top
 127.0.0.1 mrpx.ad-maven.com
 127.0.0.1 mrtb.adxpremium.services
 127.0.0.1 mrul-europewest.partner.net.daraz.com
@@ -26621,6 +26630,7 @@
 127.0.0.1 msgx-www.partner-prod.net.daraz.com
 127.0.0.1 msgx.analytics-yancancook.net.daraz.com
 127.0.0.1 msite.baidu.com
+127.0.0.1 msk.activpl-pro.site
 127.0.0.1 mskb.maskproj.click
 127.0.0.1 mskby.maskproj.click
 127.0.0.1 mskin.maskproj.click
@@ -27241,6 +27251,7 @@
 127.0.0.1 newmail-www.email-partner-pay.net.daraz.com
 127.0.0.1 newmail.ero-advertising.com
 127.0.0.1 newnaka.sbs-ad.com
+127.0.0.1 newp.activeprog1.top
 127.0.0.1 newplayable-share.dspunion.com
 127.0.0.1 news-flash.net
 127.0.0.1 news-l.play.aiseet.atianqi.com
@@ -28188,6 +28199,7 @@
 127.0.0.1 open-iflow.meizu.com
 127.0.0.1 open-intns.emailvision.net.daraz.com
 127.0.0.1 open-loadbalancer.r-ln-1.net.daraz.com
+127.0.0.1 open-new.newplx.site
 127.0.0.1 open-ns.uploadsemailvision.net.daraz.com
 127.0.0.1 open-office.fr
 127.0.0.1 open-plproject.cloud
@@ -35224,6 +35236,7 @@
 127.0.0.1 top.x--x--x.com
 127.0.0.1 top.xporn.in
 127.0.0.1 top1.inprog.top
+127.0.0.1 top9nhacai.top
 127.0.0.1 topad.mobi
 127.0.0.1 topads.ero-advertising.com
 127.0.0.1 topadvdomdesign.com
@@ -36754,6 +36767,7 @@
 127.0.0.1 vidspot-adn.ad-stir.com
 127.0.0.1 vidspot-direct-adn.ad-stir.com
 127.0.0.1 vidyo-gw.corp.appnexus.com
+127.0.0.1 vieirasadv.com.br
 127.0.0.1 viet69.pro
 127.0.0.1 view-prod.ad.singular.net
 127.0.0.1 view.ad-guardian.com
@@ -40205,6 +40219,7 @@
 127.0.0.1 www.cht.pro-activprofit.site
 127.0.0.1 www.chyjobopse.pro
 127.0.0.1 www.ci.partner-pay.net.daraz.com
+127.0.0.1 www.cikoas.everadpro.click
 127.0.0.1 www.ciopa.everadpro.click
 127.0.0.1 www.cisco-analytics.com
 127.0.0.1 www.cisco-capwap-apiserverler.k8s.partner.net.daraz.com
@@ -40816,6 +40831,7 @@
 127.0.0.1 www.godsadvice.com
 127.0.0.1 www.goeco.mobi
 127.0.0.1 www.goheretttt.click
+127.0.0.1 www.gokal.everadpro.click
 127.0.0.1 www.gomain.pro
 127.0.0.1 www.gomain2.pro
 127.0.0.1 www.goo-access-analytics.appspot.com
@@ -41202,6 +41218,7 @@
 127.0.0.1 www.lokalnyscoop.click
 127.0.0.1 www.lolakadiz.click
 127.0.0.1 www.londep.pro
+127.0.0.1 www.loopholepl.click
 127.0.0.1 www.lottery.ie
 127.0.0.1 www.lottery.olg.ca
 127.0.0.1 www.loversarrivaladventurer.com
@@ -41397,6 +41414,7 @@
 127.0.0.1 www.msgul3t.click
 127.0.0.1 www.msgwfl-upqs.click
 127.0.0.1 www.msgx-space.partner.nautilus.net.daraz.com
+127.0.0.1 www.msk.activpl-pro.site
 127.0.0.1 www.mskb.maskproj.click
 127.0.0.1 www.mskby.maskproj.click
 127.0.0.1 www.mskin.maskproj.click
@@ -41461,6 +41479,7 @@
 127.0.0.1 www.neurro.tes1aprodj.click
 127.0.0.1 www.new.activpl-pro.site
 127.0.0.1 www.new1.pro-activprofit.site
+127.0.0.1 www.newllp.everadpro.click
 127.0.0.1 www.newradacademy.wechat.tt.omtrdc.net
 127.0.0.1 www.newscheck.click
 127.0.0.1 www.newsgenius.click
@@ -41565,6 +41584,7 @@
 127.0.0.1 www.opads.ero-advertising.com
 127.0.0.1 www.open-ghpartner.net.daraz.com
 127.0.0.1 www.open-gifts.com
+127.0.0.1 www.open-new.newplx.site
 127.0.0.1 www.open-plproject.cloud
 127.0.0.1 www.open-project.live
 127.0.0.1 www.open.can-info.site
@@ -44088,6 +44108,7 @@
 127.0.0.1 xvideocom.top
 127.0.0.1 xvideos-teens.pro
 127.0.0.1 xvideos.click
+127.0.0.1 xvideos98.pro
 127.0.0.1 xvideostube.pro
 127.0.0.1 xvideosviet.pro
 127.0.0.1 xvideosvn.pro
@@ -44151,6 +44172,7 @@
 127.0.0.1 xynter-invest.pro
 127.0.0.1 xyqh5.163.com
 127.0.0.1 xz.tongji.shouji56.com
+127.0.0.1 xzcda.innplats.top
 127.0.0.1 xzj.kebi1.top
 127.0.0.1 xzwdo.top
 127.0.0.1 xzx.mobi
