@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-26 17:17:25 
+#更新时间: 2023-06-26 22:16:41 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:45631
+#规则数量:45637
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -22716,6 +22716,7 @@
 94.140.14.33 i027m.top
 94.140.14.33 i0xz2.top
 94.140.14.33 i1.dl-ad.com
+94.140.14.33 i18n-pglstatp.com
 94.140.14.33 i18q.admaster.com.cn
 94.140.14.33 i2-srxhvdfrlpgryztbvoiuqnnhodkfsc-t4tv-goengapi3-promo-corp.init.cedexis-radar.net
 94.140.14.33 i2-srxhvdfrlpgryztbvoiuqnnhodkfsc-t4tv-goengapi3-promo-dns.init.cedexis-radar.net
@@ -28541,6 +28542,7 @@
 94.140.14.33 p15-ad-sign.byteimg.com
 94.140.14.33 p15-orange.byteorge.com
 94.140.14.33 p16-ad-sign.byteimg.com
+94.140.14.33 p16-be-pack-va.i18n-pglstatp.com
 94.140.14.33 p16-orange.byteorge.com
 94.140.14.33 p17-ad-sign.byteimg.com
 94.140.14.33 p17-orange.byteorge.com
@@ -32563,6 +32565,9 @@
 94.140.14.33 sf1-be-pack.pglstatp-toutiao.com
 94.140.14.33 sf1-fe-pack.pglstatp-toutiao.com
 94.140.14.33 sf1-fe-tos.pglstatp-toutiao.com
+94.140.14.33 sf16-fe-tos-sg.i18n-pglstatp.com
+94.140.14.33 sf16-static.i18n-pglstatp.com
+94.140.14.33 sf19-fe-tos-sg.i18n-pglstatp.com
 94.140.14.33 sf3-be-pack.pglstatp-toutiao.com
 94.140.14.33 sf3-fe-tos.pglstatp-toutiao.com
 94.140.14.33 sf3-ttcdn-tos.pstatp.com
@@ -40993,6 +40998,7 @@
 94.140.14.33 www.hyrewusha.pro
 94.140.14.33 www.i-mobi.pl
 94.140.14.33 www.i.itpolska.click
+94.140.14.33 www.i18n-pglstatp.com
 94.140.14.33 www.i76u85yh.dns-dns.com
 94.140.14.33 www.iaadmin8.partner-pay.net.daraz.com
 94.140.14.33 www.iad-intns1.partner-pay.net.daraz.com
