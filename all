@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-26 17:17:26 
+#更新时间: 2023-06-26 22:16:39 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:45631
+#规则数量:45637
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -22716,6 +22716,7 @@
 1.1.1.1 i027m.top
 1.1.1.1 i0xz2.top
 1.1.1.1 i1.dl-ad.com
+1.1.1.1 i18n-pglstatp.com
 1.1.1.1 i18q.admaster.com.cn
 1.1.1.1 i2-srxhvdfrlpgryztbvoiuqnnhodkfsc-t4tv-goengapi3-promo-corp.init.cedexis-radar.net
 1.1.1.1 i2-srxhvdfrlpgryztbvoiuqnnhodkfsc-t4tv-goengapi3-promo-dns.init.cedexis-radar.net
@@ -28541,6 +28542,7 @@
 1.1.1.1 p15-ad-sign.byteimg.com
 1.1.1.1 p15-orange.byteorge.com
 1.1.1.1 p16-ad-sign.byteimg.com
+1.1.1.1 p16-be-pack-va.i18n-pglstatp.com
 1.1.1.1 p16-orange.byteorge.com
 1.1.1.1 p17-ad-sign.byteimg.com
 1.1.1.1 p17-orange.byteorge.com
@@ -32563,6 +32565,9 @@
 1.1.1.1 sf1-be-pack.pglstatp-toutiao.com
 1.1.1.1 sf1-fe-pack.pglstatp-toutiao.com
 1.1.1.1 sf1-fe-tos.pglstatp-toutiao.com
+1.1.1.1 sf16-fe-tos-sg.i18n-pglstatp.com
+1.1.1.1 sf16-static.i18n-pglstatp.com
+1.1.1.1 sf19-fe-tos-sg.i18n-pglstatp.com
 1.1.1.1 sf3-be-pack.pglstatp-toutiao.com
 1.1.1.1 sf3-fe-tos.pglstatp-toutiao.com
 1.1.1.1 sf3-ttcdn-tos.pstatp.com
@@ -40993,6 +40998,7 @@
 1.1.1.1 www.hyrewusha.pro
 1.1.1.1 www.i-mobi.pl
 1.1.1.1 www.i.itpolska.click
+1.1.1.1 www.i18n-pglstatp.com
 1.1.1.1 www.i76u85yh.dns-dns.com
 1.1.1.1 www.iaadmin8.partner-pay.net.daraz.com
 1.1.1.1 www.iad-intns1.partner-pay.net.daraz.com
