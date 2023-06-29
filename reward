@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-29 00:27:33 
+#更新时间: 2023-06-29 09:39:07 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:39589
+#规则数量:39612
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -3403,6 +3403,7 @@
 94.140.14.33 ads-roularta.adhese.com
 94.140.14.33 ads-router-noneu.truecaller.com
 94.140.14.33 ads-sandbox.pointroll.com
+94.140.14.33 ads-script.green-red.com
 94.140.14.33 ads-sdk-configuration-gcp.unityads.unity3d.com
 94.140.14.33 ads-sdk-configuration.staging.unityads.unity3d.com
 94.140.14.33 ads-sdk-configuration.unityads.unity3d.com
@@ -4070,6 +4071,7 @@
 94.140.14.33 ads.gamigo.de
 94.140.14.33 ads.gaming-universe.de
 94.140.14.33 ads.gaming1.com
+94.140.14.33 ads.gammae.com
 94.140.14.33 ads.gamned.com
 94.140.14.33 ads.gandrad.org
 94.140.14.33 ads.garga.biz
@@ -4687,6 +4689,7 @@
 94.140.14.33 ads.rpgdot.com
 94.140.14.33 ads.rttnews.com
 94.140.14.33 ads.rubiconproject.com
+94.140.14.33 ads.rubyblu.com
 94.140.14.33 ads.rude.com
 94.140.14.33 ads.ruralpress.com
 94.140.14.33 ads.rvadnet.com
@@ -5295,6 +5298,7 @@
 94.140.14.33 ads3.freebannertrade.com
 94.140.14.33 ads3.gamecity.net
 94.140.14.33 ads3.haber3.com
+94.140.14.33 ads3.hotwords.com
 94.140.14.33 ads3.optad360.com
 94.140.14.33 ads3.realcities.com
 94.140.14.33 ads3.speedbit.com
@@ -5996,6 +6000,7 @@
 94.140.14.33 advertising.dclux.com
 94.140.14.33 advertising.embarcaderopublishing.com
 94.140.14.33 advertising.entensity.net
+94.140.14.33 advertising.gammae.com
 94.140.14.33 advertising.gammassp.com
 94.140.14.33 advertising.goldseek.com
 94.140.14.33 advertising.hiasys.com
@@ -9400,10 +9405,12 @@
 94.140.14.33 api.gameads.io
 94.140.14.33 api.gameanalytics.com
 94.140.14.33 api.gameofwhales.com
+94.140.14.33 api.gammae.com
 94.140.14.33 api.gammaplatform.com
 94.140.14.33 api.gateway.nonprod.tt.omtrdc.net
 94.140.14.33 api.gemini.yahoo.com
 94.140.14.33 api.geniee.jp
+94.140.14.33 api.getadjacent.com
 94.140.14.33 api.getadx.com
 94.140.14.33 api.getblueshift.com
 94.140.14.33 api.getclicky.com
@@ -9829,6 +9836,7 @@
 94.140.14.33 api.rtbinternet.com
 94.140.14.33 api.rtnews.pro
 94.140.14.33 api.rubic.com.tr
+94.140.14.33 api.rubyblu.com
 94.140.14.33 api.rudderlabs.com
 94.140.14.33 api.runative.com
 94.140.14.33 api.ryanyao.design
@@ -10940,6 +10948,7 @@
 94.140.14.33 banner.gl-cash.com
 94.140.14.33 banner.goldenpalace.com
 94.140.14.33 banner.holder.com.ua
+94.140.14.33 banner.hotwords.com
 94.140.14.33 banner.hpmdnetwork.ru
 94.140.14.33 banner.icmedia.eu
 94.140.14.33 banner.img.co.za
@@ -12450,6 +12459,7 @@
 94.140.14.33 cdn.rocketme.top
 94.140.14.33 cdn.rossoad.com
 94.140.14.33 cdn.sand-08.adnxs.net
+94.140.14.33 cdn.seaofads.com
 94.140.14.33 cdn.serving.ad.org.vn
 94.140.14.33 cdn.shemaletube.pro
 94.140.14.33 cdn.sinam.top
@@ -13131,6 +13141,7 @@
 94.140.14.33 click.goraps.com
 94.140.14.33 click.gospect.com
 94.140.14.33 click.gowadogo.com
+94.140.14.33 click.green-red.com
 94.140.14.33 click.greenbaydecking.com
 94.140.14.33 click.gridsumdissector.com
 94.140.14.33 click.gwallet.com
@@ -14520,6 +14531,7 @@
 94.140.14.33 decentraland.pro
 94.140.14.33 declaredvalue.top
 94.140.14.33 dedyamazon.top
+94.140.14.33 deepdelver.top
 94.140.14.33 deeplink.api-sandbox.notarycam.com
 94.140.14.33 defacto-analytics.net
 94.140.14.33 default-apac.ssp.adnxs.net
@@ -15969,6 +15981,7 @@
 94.140.14.33 eul.s.360.cn
 94.140.14.33 eur.ads.simpli.fi
 94.140.14.33 eur.formpr.top
+94.140.14.33 euro-referer.click
 94.140.14.33 eurolive.pro
 94.140.14.33 europe-west2.ads.playground.xyz
 94.140.14.33 eurowin.top
@@ -17247,6 +17260,7 @@
 94.140.14.33 google-shopping-v2.sapoapps.vn
 94.140.14.33 google-shopping.sapoapps.vn
 94.140.14.33 google-test.managed.tt.omtrdc.net
+94.140.14.33 google-test.rubyblu.com
 94.140.14.33 google-vast-p2e.sitescout.com
 94.140.14.33 google-vast-p2w.sitescout.com
 94.140.14.33 google-vast-z1n.sitescout.com
@@ -27844,6 +27858,7 @@
 94.140.14.33 sophisticated-rain.pro
 94.140.14.33 sopulit.top
 94.140.14.33 sor-sdk.follow-apps.com
+94.140.14.33 sorrowfulmaybe.pro
 94.140.14.33 sotetahe.pro
 94.140.14.33 soul-ad.soulapp.cn
 94.140.14.33 soul-advice.us.intellitxt.com
@@ -28728,6 +28743,7 @@
 94.140.14.33 swapstation.top
 94.140.14.33 sweatybar.pro
 94.140.14.33 sweden-dev.hostadvance-reg.tt.omtrdc.net
+94.140.14.33 sweepadstoday.click
 94.140.14.33 sweetasian.pro
 94.140.14.33 sweetflatteens.pro
 94.140.14.33 swirl-ads.gotrackier.com
@@ -30064,6 +30080,7 @@
 94.140.14.33 treatwellationsdevdiscovid19support.support.sa-api.brasil.athena.tt.omtrdc.net
 94.140.14.33 tredirects.ero-advertising.com
 94.140.14.33 tremendous-tour.pro
+94.140.14.33 tremendouspresentation.pro
 94.140.14.33 trends.mobile.sina.cn
 94.140.14.33 treseemon.click
 94.140.14.33 trial-ns1.email-partner-paytwtelecom.net.daraz.com
@@ -32215,6 +32232,7 @@
 94.140.14.33 wary-pressure.pro
 94.140.14.33 waryboot.pro
 94.140.14.33 wastefulenthusiasm.pro
+94.140.14.33 wastefulpack.pro
 94.140.14.33 wat.ad.daum.net
 94.140.14.33 watbt.top
 94.140.14.33 watch-online.7oc5b1i3v4iu.top
@@ -32244,6 +32262,7 @@
 94.140.14.33 wdata.ero-advertising.com
 94.140.14.33 wdesk1.mi.tt.omtrdc.net
 94.140.14.33 wdpro-mkt-prod2-lb.campaign.adobe.com
+94.140.14.33 weabalance.top
 94.140.14.33 weapfuh.originalriver-tone.top
 94.140.14.33 wearygrocery.pro
 94.140.14.33 weather-analytics-events.apple.com
@@ -36955,6 +36974,7 @@
 94.140.14.33 www.softwareadvice.com
 94.140.14.33 www.sokmil-ad.com
 94.140.14.33 www.sonnyadvertise.com
+94.140.14.33 www.sorrowfulmaybe.pro
 94.140.14.33 www.sotetahe.pro
 94.140.14.33 www.source2cs.pro
 94.140.14.33 www.sourcecode.pro
@@ -37233,6 +37253,7 @@
 94.140.14.33 www.trainr.partner-alpha.net.daraz.com
 94.140.14.33 www.traveladvertising.com
 94.140.14.33 www.tremendous-tour.pro
+94.140.14.33 www.tremendouspresentation.pro
 94.140.14.33 www.treseemon.click
 94.140.14.33 www.trial-lib-ht-1.partner-pay.dcloud.net.daraz.com
 94.140.14.33 www.trial-partner-payseller.net.daraz.com
@@ -37431,6 +37452,7 @@
 94.140.14.33 www.warporn.pro
 94.140.14.33 www.wary-pressure.pro
 94.140.14.33 www.wastefulenthusiasm.pro
+94.140.14.33 www.wastefulpack.pro
 94.140.14.33 www.watchfreeporn.pro
 94.140.14.33 www.watchmygf.mobi
 94.140.14.33 www.waterypower.pro
@@ -37887,6 +37909,7 @@
 94.140.14.33 x4hub-pro.com
 94.140.14.33 x5.geekshub.bond
 94.140.14.33 x5.hatagashira.com
+94.140.14.33 x5.hebiichigo.com
 94.140.14.33 x5.jougennotuki.com
 94.140.14.33 x5.pulsemgr.com
 94.140.14.33 x5.swippl.xyz
