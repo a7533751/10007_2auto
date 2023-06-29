@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-06-29 00:27:44
+! Last modified: 2023-06-29 09:39:05
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-06-29 00:27:43 ^
+!更新时间: 2023-06-29 09:39:05 ^
 
-!规则数量:39618^
+!规则数量:39641^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -3403,6 +3403,7 @@
 ||ads-roularta.adhese.com^
 ||ads-router-noneu.truecaller.com^
 ||ads-sandbox.pointroll.com^
+||ads-script.green-red.com^
 ||ads-sdk-configuration-gcp.unityads.unity3d.com^
 ||ads-sdk-configuration.staging.unityads.unity3d.com^
 ||ads-sdk-configuration.unityads.unity3d.com^
@@ -4070,6 +4071,7 @@
 ||ads.gamigo.de^
 ||ads.gaming-universe.de^
 ||ads.gaming1.com^
+||ads.gammae.com^
 ||ads.gamned.com^
 ||ads.gandrad.org^
 ||ads.garga.biz^
@@ -4687,6 +4689,7 @@
 ||ads.rpgdot.com^
 ||ads.rttnews.com^
 ||ads.rubiconproject.com^
+||ads.rubyblu.com^
 ||ads.rude.com^
 ||ads.ruralpress.com^
 ||ads.rvadnet.com^
@@ -5295,6 +5298,7 @@
 ||ads3.freebannertrade.com^
 ||ads3.gamecity.net^
 ||ads3.haber3.com^
+||ads3.hotwords.com^
 ||ads3.optad360.com^
 ||ads3.realcities.com^
 ||ads3.speedbit.com^
@@ -5997,6 +6001,7 @@
 ||advertising.dclux.com^
 ||advertising.embarcaderopublishing.com^
 ||advertising.entensity.net^
+||advertising.gammae.com^
 ||advertising.gammassp.com^
 ||advertising.goldseek.com^
 ||advertising.hiasys.com^
@@ -9407,10 +9412,12 @@
 ||api.gameads.io^
 ||api.gameanalytics.com^
 ||api.gameofwhales.com^
+||api.gammae.com^
 ||api.gammaplatform.com^
 ||api.gateway.nonprod.tt.omtrdc.net^
 ||api.gemini.yahoo.com^
 ||api.geniee.jp^
+||api.getadjacent.com^
 ||api.getadx.com^
 ||api.getblueshift.com^
 ||api.getclicky.com^
@@ -9836,6 +9843,7 @@
 ||api.rtbinternet.com^
 ||api.rtnews.pro^
 ||api.rubic.com.tr^
+||api.rubyblu.com^
 ||api.rudderlabs.com^
 ||api.runative.com^
 ||api.ryanyao.design^
@@ -10948,6 +10956,7 @@
 ||banner.gl-cash.com^
 ||banner.goldenpalace.com^
 ||banner.holder.com.ua^
+||banner.hotwords.com^
 ||banner.hpmdnetwork.ru^
 ||banner.icmedia.eu^
 ||banner.img.co.za^
@@ -12460,6 +12469,7 @@
 ||cdn.rocketme.top^
 ||cdn.rossoad.com^
 ||cdn.sand-08.adnxs.net^
+||cdn.seaofads.com^
 ||cdn.serving.ad.org.vn^
 ||cdn.shemaletube.pro^
 ||cdn.sinam.top^
@@ -13142,6 +13152,7 @@
 ||click.goraps.com^
 ||click.gospect.com^
 ||click.gowadogo.com^
+||click.green-red.com^
 ||click.greenbaydecking.com^
 ||click.gridsumdissector.com^
 ||click.gwallet.com^
@@ -14532,6 +14543,7 @@
 ||decentraland.pro^
 ||declaredvalue.top^
 ||dedyamazon.top^
+||deepdelver.top^
 ||deeplink.api-sandbox.notarycam.com^
 ||defacto-analytics.net^
 ||default-apac.ssp.adnxs.net^
@@ -15982,6 +15994,7 @@
 ||eul.s.360.cn^
 ||eur.ads.simpli.fi^
 ||eur.formpr.top^
+||euro-referer.click^
 ||eurolive.pro^
 ||europe-west2.ads.playground.xyz^
 ||eurowin.top^
@@ -17261,6 +17274,7 @@
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
 ||google-test.managed.tt.omtrdc.net^
+||google-test.rubyblu.com^
 ||google-vast-p2e.sitescout.com^
 ||google-vast-p2w.sitescout.com^
 ||google-vast-z1n.sitescout.com^
@@ -27864,6 +27878,7 @@
 ||sophisticated-rain.pro^
 ||sopulit.top^
 ||sor-sdk.follow-apps.com^
+||sorrowfulmaybe.pro^
 ||sotetahe.pro^
 ||soul-ad.soulapp.cn^
 ||soul-advice.us.intellitxt.com^
@@ -28749,6 +28764,7 @@
 ||swapstation.top^
 ||sweatybar.pro^
 ||sweden-dev.hostadvance-reg.tt.omtrdc.net^
+||sweepadstoday.click^
 ||sweetasian.pro^
 ||sweetflatteens.pro^
 ||swirl-ads.gotrackier.com^
@@ -30086,6 +30102,7 @@
 ||treatwellationsdevdiscovid19support.support.sa-api.brasil.athena.tt.omtrdc.net^
 ||tredirects.ero-advertising.com^
 ||tremendous-tour.pro^
+||tremendouspresentation.pro^
 ||trends.mobile.sina.cn^
 ||treseemon.click^
 ||trial-ns1.email-partner-paytwtelecom.net.daraz.com^
@@ -32239,6 +32256,7 @@
 ||wary-pressure.pro^
 ||waryboot.pro^
 ||wastefulenthusiasm.pro^
+||wastefulpack.pro^
 ||wat.ad.daum.net^
 ||watbo.top^
 ||watbt.top^
@@ -32269,6 +32287,7 @@
 ||wdata.ero-advertising.com^
 ||wdesk1.mi.tt.omtrdc.net^
 ||wdpro-mkt-prod2-lb.campaign.adobe.com^
+||weabalance.top^
 ||weapfuh.originalriver-tone.top^
 ||wearygrocery.pro^
 ||weather-analytics-events.apple.com^
@@ -36980,6 +36999,7 @@
 ||www.softwareadvice.com^
 ||www.sokmil-ad.com^
 ||www.sonnyadvertise.com^
+||www.sorrowfulmaybe.pro^
 ||www.sotetahe.pro^
 ||www.source2cs.pro^
 ||www.sourcecode.pro^
@@ -37258,6 +37278,7 @@
 ||www.trainr.partner-alpha.net.daraz.com^
 ||www.traveladvertising.com^
 ||www.tremendous-tour.pro^
+||www.tremendouspresentation.pro^
 ||www.treseemon.click^
 ||www.trial-lib-ht-1.partner-pay.dcloud.net.daraz.com^
 ||www.trial-partner-payseller.net.daraz.com^
@@ -37456,6 +37477,7 @@
 ||www.warporn.pro^
 ||www.wary-pressure.pro^
 ||www.wastefulenthusiasm.pro^
+||www.wastefulpack.pro^
 ||www.watchfreeporn.pro^
 ||www.watchmygf.mobi^
 ||www.waterypower.pro^
@@ -37912,6 +37934,7 @@
 ||x4hub-pro.com^
 ||x5.geekshub.bond^
 ||x5.hatagashira.com^
+||x5.hebiichigo.com^
 ||x5.jougennotuki.com^
 ||x5.pulsemgr.com^
 ||x5.swippl.xyz^

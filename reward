@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-06-29 00:27:43 
+#更新时间: 2023-06-29 09:39:05 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:39618
+#规则数量:39641
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -3406,6 +3406,7 @@
 127.0.0.1 ads-roularta.adhese.com
 127.0.0.1 ads-router-noneu.truecaller.com
 127.0.0.1 ads-sandbox.pointroll.com
+127.0.0.1 ads-script.green-red.com
 127.0.0.1 ads-sdk-configuration-gcp.unityads.unity3d.com
 127.0.0.1 ads-sdk-configuration.staging.unityads.unity3d.com
 127.0.0.1 ads-sdk-configuration.unityads.unity3d.com
@@ -4073,6 +4074,7 @@
 127.0.0.1 ads.gamigo.de
 127.0.0.1 ads.gaming-universe.de
 127.0.0.1 ads.gaming1.com
+127.0.0.1 ads.gammae.com
 127.0.0.1 ads.gamned.com
 127.0.0.1 ads.gandrad.org
 127.0.0.1 ads.garga.biz
@@ -4690,6 +4692,7 @@
 127.0.0.1 ads.rpgdot.com
 127.0.0.1 ads.rttnews.com
 127.0.0.1 ads.rubiconproject.com
+127.0.0.1 ads.rubyblu.com
 127.0.0.1 ads.rude.com
 127.0.0.1 ads.ruralpress.com
 127.0.0.1 ads.rvadnet.com
@@ -5298,6 +5301,7 @@
 127.0.0.1 ads3.freebannertrade.com
 127.0.0.1 ads3.gamecity.net
 127.0.0.1 ads3.haber3.com
+127.0.0.1 ads3.hotwords.com
 127.0.0.1 ads3.optad360.com
 127.0.0.1 ads3.realcities.com
 127.0.0.1 ads3.speedbit.com
@@ -6000,6 +6004,7 @@
 127.0.0.1 advertising.dclux.com
 127.0.0.1 advertising.embarcaderopublishing.com
 127.0.0.1 advertising.entensity.net
+127.0.0.1 advertising.gammae.com
 127.0.0.1 advertising.gammassp.com
 127.0.0.1 advertising.goldseek.com
 127.0.0.1 advertising.hiasys.com
@@ -9410,10 +9415,12 @@
 127.0.0.1 api.gameads.io
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.gameofwhales.com
+127.0.0.1 api.gammae.com
 127.0.0.1 api.gammaplatform.com
 127.0.0.1 api.gateway.nonprod.tt.omtrdc.net
 127.0.0.1 api.gemini.yahoo.com
 127.0.0.1 api.geniee.jp
+127.0.0.1 api.getadjacent.com
 127.0.0.1 api.getadx.com
 127.0.0.1 api.getblueshift.com
 127.0.0.1 api.getclicky.com
@@ -9839,6 +9846,7 @@
 127.0.0.1 api.rtbinternet.com
 127.0.0.1 api.rtnews.pro
 127.0.0.1 api.rubic.com.tr
+127.0.0.1 api.rubyblu.com
 127.0.0.1 api.rudderlabs.com
 127.0.0.1 api.runative.com
 127.0.0.1 api.ryanyao.design
@@ -10951,6 +10959,7 @@
 127.0.0.1 banner.gl-cash.com
 127.0.0.1 banner.goldenpalace.com
 127.0.0.1 banner.holder.com.ua
+127.0.0.1 banner.hotwords.com
 127.0.0.1 banner.hpmdnetwork.ru
 127.0.0.1 banner.icmedia.eu
 127.0.0.1 banner.img.co.za
@@ -12463,6 +12472,7 @@
 127.0.0.1 cdn.rocketme.top
 127.0.0.1 cdn.rossoad.com
 127.0.0.1 cdn.sand-08.adnxs.net
+127.0.0.1 cdn.seaofads.com
 127.0.0.1 cdn.serving.ad.org.vn
 127.0.0.1 cdn.shemaletube.pro
 127.0.0.1 cdn.sinam.top
@@ -13145,6 +13155,7 @@
 127.0.0.1 click.goraps.com
 127.0.0.1 click.gospect.com
 127.0.0.1 click.gowadogo.com
+127.0.0.1 click.green-red.com
 127.0.0.1 click.greenbaydecking.com
 127.0.0.1 click.gridsumdissector.com
 127.0.0.1 click.gwallet.com
@@ -14535,6 +14546,7 @@
 127.0.0.1 decentraland.pro
 127.0.0.1 declaredvalue.top
 127.0.0.1 dedyamazon.top
+127.0.0.1 deepdelver.top
 127.0.0.1 deeplink.api-sandbox.notarycam.com
 127.0.0.1 defacto-analytics.net
 127.0.0.1 default-apac.ssp.adnxs.net
@@ -15985,6 +15997,7 @@
 127.0.0.1 eul.s.360.cn
 127.0.0.1 eur.ads.simpli.fi
 127.0.0.1 eur.formpr.top
+127.0.0.1 euro-referer.click
 127.0.0.1 eurolive.pro
 127.0.0.1 europe-west2.ads.playground.xyz
 127.0.0.1 eurowin.top
@@ -17264,6 +17277,7 @@
 127.0.0.1 google-shopping-v2.sapoapps.vn
 127.0.0.1 google-shopping.sapoapps.vn
 127.0.0.1 google-test.managed.tt.omtrdc.net
+127.0.0.1 google-test.rubyblu.com
 127.0.0.1 google-vast-p2e.sitescout.com
 127.0.0.1 google-vast-p2w.sitescout.com
 127.0.0.1 google-vast-z1n.sitescout.com
@@ -27867,6 +27881,7 @@
 127.0.0.1 sophisticated-rain.pro
 127.0.0.1 sopulit.top
 127.0.0.1 sor-sdk.follow-apps.com
+127.0.0.1 sorrowfulmaybe.pro
 127.0.0.1 sotetahe.pro
 127.0.0.1 soul-ad.soulapp.cn
 127.0.0.1 soul-advice.us.intellitxt.com
@@ -28752,6 +28767,7 @@
 127.0.0.1 swapstation.top
 127.0.0.1 sweatybar.pro
 127.0.0.1 sweden-dev.hostadvance-reg.tt.omtrdc.net
+127.0.0.1 sweepadstoday.click
 127.0.0.1 sweetasian.pro
 127.0.0.1 sweetflatteens.pro
 127.0.0.1 swirl-ads.gotrackier.com
@@ -30089,6 +30105,7 @@
 127.0.0.1 treatwellationsdevdiscovid19support.support.sa-api.brasil.athena.tt.omtrdc.net
 127.0.0.1 tredirects.ero-advertising.com
 127.0.0.1 tremendous-tour.pro
+127.0.0.1 tremendouspresentation.pro
 127.0.0.1 trends.mobile.sina.cn
 127.0.0.1 treseemon.click
 127.0.0.1 trial-ns1.email-partner-paytwtelecom.net.daraz.com
@@ -32242,6 +32259,7 @@
 127.0.0.1 wary-pressure.pro
 127.0.0.1 waryboot.pro
 127.0.0.1 wastefulenthusiasm.pro
+127.0.0.1 wastefulpack.pro
 127.0.0.1 wat.ad.daum.net
 127.0.0.1 watbo.top
 127.0.0.1 watbt.top
@@ -32272,6 +32290,7 @@
 127.0.0.1 wdata.ero-advertising.com
 127.0.0.1 wdesk1.mi.tt.omtrdc.net
 127.0.0.1 wdpro-mkt-prod2-lb.campaign.adobe.com
+127.0.0.1 weabalance.top
 127.0.0.1 weapfuh.originalriver-tone.top
 127.0.0.1 wearygrocery.pro
 127.0.0.1 weather-analytics-events.apple.com
@@ -36983,6 +37002,7 @@
 127.0.0.1 www.softwareadvice.com
 127.0.0.1 www.sokmil-ad.com
 127.0.0.1 www.sonnyadvertise.com
+127.0.0.1 www.sorrowfulmaybe.pro
 127.0.0.1 www.sotetahe.pro
 127.0.0.1 www.source2cs.pro
 127.0.0.1 www.sourcecode.pro
@@ -37261,6 +37281,7 @@
 127.0.0.1 www.trainr.partner-alpha.net.daraz.com
 127.0.0.1 www.traveladvertising.com
 127.0.0.1 www.tremendous-tour.pro
+127.0.0.1 www.tremendouspresentation.pro
 127.0.0.1 www.treseemon.click
 127.0.0.1 www.trial-lib-ht-1.partner-pay.dcloud.net.daraz.com
 127.0.0.1 www.trial-partner-payseller.net.daraz.com
@@ -37459,6 +37480,7 @@
 127.0.0.1 www.warporn.pro
 127.0.0.1 www.wary-pressure.pro
 127.0.0.1 www.wastefulenthusiasm.pro
+127.0.0.1 www.wastefulpack.pro
 127.0.0.1 www.watchfreeporn.pro
 127.0.0.1 www.watchmygf.mobi
 127.0.0.1 www.waterypower.pro
@@ -37915,6 +37937,7 @@
 127.0.0.1 x4hub-pro.com
 127.0.0.1 x5.geekshub.bond
 127.0.0.1 x5.hatagashira.com
+127.0.0.1 x5.hebiichigo.com
 127.0.0.1 x5.jougennotuki.com
 127.0.0.1 x5.pulsemgr.com
 127.0.0.1 x5.swippl.xyz
