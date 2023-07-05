@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-07-05 09:40:18 
+#更新时间: 2023-07-05 22:16:53 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:32324
+#规则数量:32301
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -4807,6 +4807,7 @@
 94.140.14.33 aecpm.alicdn.com
 94.140.14.33 aeg32y.top
 94.140.14.33 aeisons-info.bgpgrs.top
+94.140.14.33 aeonpay3dace-cajp.ckcck.top
 94.140.14.33 aeonpay3dface-cajp.huaihua8.top
 94.140.14.33 aer-api-application-spring.net.daraz.com
 94.140.14.33 aer-api.docs.net.daraz.com
@@ -5032,14 +5033,9 @@
 94.140.14.33 amazon-vsduayv.dns-report.com
 94.140.14.33 amazon-xvcbf.dynamic-dns.net
 94.140.14.33 amazon.myaccount-us.click
-94.140.14.33 amazonbackgth.top
-94.140.14.33 amazonpthmoy.top
-94.140.14.33 amazonrteuhf.top
 94.140.14.33 amazonshopd.top
 94.140.14.33 amazonshopg.top
 94.140.14.33 amazonshopp.top
-94.140.14.33 amazontehrefjnh.top
-94.140.14.33 amazontehrefund.top
 94.140.14.33 ambassadors-antivirus.hindishayarismshub.api.sre.tt.omtrdc.net
 94.140.14.33 ambitious-upstairs.pro
 94.140.14.33 amdc.m.taobao.com
@@ -7355,7 +7351,6 @@
 94.140.14.33 api.callget.cn
 94.140.14.33 api.calq.io
 94.140.14.33 api.campaigns.notino.com
-94.140.14.33 api.carrottrack.io
 94.140.14.33 api.catch.gift
 94.140.14.33 api.cazamba.com
 94.140.14.33 api.cc3.infra4.tt.omtrdc.net
@@ -7820,7 +7815,6 @@
 94.140.14.33 api.rse.global.tt.omtrdc.net
 94.140.14.33 api.rsislambanjarmasin.com
 94.140.14.33 api.rtnews.pro
-94.140.14.33 api.rubic.com.tr
 94.140.14.33 api.rudderlabs.com
 94.140.14.33 api.runative.com
 94.140.14.33 api.ryanyao.design
@@ -8103,6 +8097,8 @@
 94.140.14.33 appbetnewapp.top
 94.140.14.33 appc.baidu.com
 94.140.14.33 appchichlive.top
+94.140.14.33 appdynamics.top
+94.140.14.33 appdynamicspro.top
 94.140.14.33 appier.mobi
 94.140.14.33 applandforbuddies.top
 94.140.14.33 apple-icloud-lost.top
@@ -8287,7 +8283,6 @@
 94.140.14.33 asvcgatewayhenticatemail.partner.net.daraz.com
 94.140.14.33 aswq.mmtsa.top
 94.140.14.33 asxcoinmaxs.top
-94.140.14.33 asxx-pro.com
 94.140.14.33 at.360.audion.fm
 94.140.14.33 at.umeng.com
 94.140.14.33 at1.doubanio.com
@@ -9806,7 +9801,6 @@
 94.140.14.33 cffh.formew.top
 94.140.14.33 cfg.flurry.com
 94.140.14.33 cfger-www.partner-pay.net.daraz.com
-94.140.14.33 cfogh.inputgiant.top
 94.140.14.33 cg.progrr.top
 94.140.14.33 cg036-zigzagstrchd-www.partner.net.daraz.com
 94.140.14.33 cgadvocacia.adv.br
@@ -9842,6 +9836,7 @@
 94.140.14.33 challengess.top
 94.140.14.33 chameleon.ad
 94.140.14.33 chanalytics.merchantadvantage.com
+94.140.14.33 chancex.btspolsky.top
 94.140.14.33 chanceyoupl.top
 94.140.14.33 channel.api.duapp.com
 94.140.14.33 channel.m.163.com
@@ -9979,7 +9974,6 @@
 94.140.14.33 cj7g.top
 94.140.14.33 cjhd.mediav.com
 94.140.14.33 cjhq.baidu.com
-94.140.14.33 cjnbm.sooneur.top
 94.140.14.33 ck.ads.heytapmobi.com
 94.140.14.33 ck.ads.oppomobile.com
 94.140.14.33 ck.jads.co
@@ -10764,7 +10758,9 @@
 94.140.14.33 corpns.api-pluto-emailvision.net.daraz.com
 94.140.14.33 correctinnovation.top
 94.140.14.33 correocs.top
+94.140.14.33 correos-sp.top
 94.140.14.33 correosas.top
+94.140.14.33 correosb-cr.top
 94.140.14.33 correosea.top
 94.140.14.33 correospl.top
 94.140.14.33 cors.hot-mob.com
@@ -10887,13 +10883,13 @@
 94.140.14.33 crypto-exchange365.pro
 94.140.14.33 crypto-formula.click
 94.140.14.33 crypto-stuff.pro
-94.140.14.33 crypto-usdt.top
 94.140.14.33 cryptoadvertising.net
 94.140.14.33 cryptob.goprogramia.top
 94.140.14.33 cryptobmax.goprogramia.top
 94.140.14.33 cryptobmode.goprogramia.top
 94.140.14.33 cryptobmode1.goprogramia.top
 94.140.14.33 cryptobx.goprogramia.top
+94.140.14.33 cryptoconnect.top
 94.140.14.33 cryptoloot.pro
 94.140.14.33 cryptomodx.goprogramia.top
 94.140.14.33 crypton.goprogramia.top
@@ -10996,7 +10992,6 @@
 94.140.14.33 csr41.partner-bamboopplicpartner-bambootion.net.daraz.com
 94.140.14.33 csr41.reset.partner-legacy.net.daraz.com
 94.140.14.33 csrich.pro
-94.140.14.33 cssource23.pro
 94.140.14.33 cstm.baidu.com
 94.140.14.33 cstrader.top
 94.140.14.33 cswifi12.api.net.daraz.com
@@ -11830,7 +11825,6 @@
 94.140.14.33 download.weatherblink.com
 94.140.14.33 download.webtrekk.com
 94.140.14.33 download.wildcard.applovin.com.edgekey.net
-94.140.14.33 download.windowsmicrosoft.ml
 94.140.14.33 download.withu.fit
 94.140.14.33 download.worldagritechsaopaulo.com
 94.140.14.33 download.worldagritechusa.com
@@ -11985,7 +11979,6 @@
 94.140.14.33 dworzec2.webd.pro
 94.140.14.33 dwp3ce9c.top
 94.140.14.33 dwqdhtrhfd.dns-report.com
-94.140.14.33 dwvuc.sooneur.top
 94.140.14.33 dwwyy.top
 94.140.14.33 dx-cards-css.iqiyi.com
 94.140.14.33 dxp.baidu.com
@@ -12094,6 +12087,9 @@
 94.140.14.33 edi.idmapper.api.tt.omtrdc.net
 94.140.14.33 edinetadv.com
 94.140.14.33 edit3.consumer.tt.omtrdc.net
+94.140.14.33 edksk11e-tng.top
+94.140.14.33 edksk11e-tty.top
+94.140.14.33 edksk11e-yyei.top
 94.140.14.33 edland.pro
 94.140.14.33 edu-ad-test-cdn.cdn.bcebos.com
 94.140.14.33 eduad.baidu.com
@@ -12186,7 +12182,6 @@
 94.140.14.33 elonmaxs.projectprog.click
 94.140.14.33 elonmsk.pro
 94.140.14.33 elonone.projectprog.click
-94.140.14.33 elonx2.top
 94.140.14.33 elonxpro.projectprog.click
 94.140.14.33 elonxx.projectprog.click
 94.140.14.33 eloqua.petchem-update.com
@@ -12728,7 +12723,6 @@
 94.140.14.33 finance-top.webnode.page
 94.140.14.33 financego.top
 94.140.14.33 financegoogle.top
-94.140.14.33 finances-adviser.com
 94.140.14.33 financetesl.top
 94.140.14.33 financiladvisor.site
 94.140.14.33 finangoo.click
@@ -12925,6 +12919,7 @@
 94.140.14.33 freeanimalpornclips.top
 94.140.14.33 freebsdwiad.partner-pay.net.daraz.com
 94.140.14.33 freedatalabs.top
+94.140.14.33 freefireisfolhi06r.update-terbaru.biz.id
 94.140.14.33 freefuckmovies.pro
 94.140.14.33 freegaysex.pro
 94.140.14.33 freeindianporn.mobi
@@ -12974,6 +12969,7 @@
 94.140.14.33 frogw-applicationspage-partner.net.daraz.com
 94.140.14.33 frolaboratorioage-partner.net.daraz.com
 94.140.14.33 front.aid-ad.jp
+94.140.14.33 front9w2.pro
 94.140.14.33 frontier-toutiao.snssdk.com
 94.140.14.33 frontpaaffiliatee-partner.net.daraz.com
 94.140.14.33 frontpaamericae-partner.net.daraz.com
@@ -13480,7 +13476,6 @@
 94.140.14.33 google-deckoffice.ml
 94.140.14.33 google-docs-view.131423.xyz
 94.140.14.33 google-docs.org
-94.140.14.33 google-drive.zip
 94.140.14.33 google-drive36.tt.omtrdc.net
 94.140.14.33 google-finance.pw
 94.140.14.33 google-hangouts-33.tt.omtrdc.net
@@ -13504,7 +13499,6 @@
 94.140.14.33 google.schreinerei-wohlfart.de
 94.140.14.33 google.trk.oeremil.com
 94.140.14.33 google.xn--dunam-2gb.com
-94.140.14.33 googleaccounts.jiqigushi.top
 94.140.14.33 googleads-cn.com
 94.140.14.33 googleads.g.doubleclick.net
 94.140.14.33 googleads.github.io
@@ -13574,7 +13568,6 @@
 94.140.14.33 grett.pro
 94.140.14.33 grez.fallz.click
 94.140.14.33 gritspera.mobi
-94.140.14.33 grizzlyadventureco.com
 94.140.14.33 groglezapto.pro
 94.140.14.33 gromder-invest.pro
 94.140.14.33 gromore.pangolin-sdk-toutiao.com
@@ -13738,6 +13731,7 @@
 94.140.14.33 hbepd.formatdue.top
 94.140.14.33 hblock-check.molinero.dev
 94.140.14.33 hbndffhpjh.top
+94.140.14.33 hc-adviseurs.nl
 94.140.14.33 hc-analytics.idp.clogin.att.com
 94.140.14.33 hcadv.video.ums.uc.cn
 94.140.14.33 hd-porn-video.pro
@@ -14267,6 +14261,7 @@
 94.140.14.33 impservice.union.youdao.com
 94.140.14.33 impservice.youdao.com
 94.140.14.33 impservice2.youdao.com
+94.140.14.33 imtoken-open.com
 94.140.14.33 in-appadvertising.com
 94.140.14.33 in-post-pl-myid272xs.0xfee1dead.top
 94.140.14.33 in-post-pl-myid272xs.abbqza.top
@@ -14949,7 +14944,6 @@
 94.140.14.33 jiguang.cn
 94.140.14.33 jike001.top
 94.140.14.33 jikicotho.pro
-94.140.14.33 jilcp.inputgiant.top
 94.140.14.33 jimmychoostore.top
 94.140.14.33 jimny.pro
 94.140.14.33 jinhua8.top
@@ -15200,6 +15194,7 @@
 94.140.14.33 klayt-x.click
 94.140.14.33 klik4d.top
 94.140.14.33 klikadvertising.com
+94.140.14.33 klo.lifetradefx.top
 94.140.14.33 klodben-invest.pro
 94.140.14.33 klopfsdfs.dns-dns.com
 94.140.14.33 klwukospapf.click
@@ -15319,6 +15314,7 @@
 94.140.14.33 kurilo.pro
 94.140.14.33 kurone-koyamato.amgnazwng.top
 94.140.14.33 kurone-koyamato.amxangaw.top
+94.140.14.33 kuronekoyamao.top
 94.140.14.33 kuronekoyamato.top
 94.140.14.33 kv-analytics.kiotviet.vn
 94.140.14.33 kvd15.freepl.top
@@ -15394,7 +15390,6 @@
 94.140.14.33 las.onlineprog.top
 94.140.14.33 las.programmtrad.top
 94.140.14.33 last-actor.pro
-94.140.14.33 lasuthec.top
 94.140.14.33 lat.ttssonine.top
 94.140.14.33 later-analytics-reports.s3-accelerate.amazonaws.com
 94.140.14.33 latest-express-1.top
@@ -15416,7 +15411,6 @@
 94.140.14.33 layer-ads.de
 94.140.14.33 layerads.ero-advertising.com
 94.140.14.33 layers.ero-advertising.com
-94.140.14.33 layerzer0.pro
 94.140.14.33 layfik.lixprog.click
 94.140.14.33 lazada-sg-8getistrators.partner.net.daraz.com
 94.140.14.33 lazmblmywqqqj.top
@@ -16215,6 +16209,7 @@
 94.140.14.33 mbi-xnat-api.erc.erc.tt.omtrdc.net
 94.140.14.33 mbl.pro-masters.xyz
 94.140.14.33 mbn5.freepl.top
+94.140.14.33 mbn6.freepl.top
 94.140.14.33 mbvbvfcdsgew.top
 94.140.14.33 mbveryu.top
 94.140.14.33 mbzl-pro.xyz
@@ -16336,7 +16331,6 @@
 94.140.14.33 metamask-airdrop.top
 94.140.14.33 metamask.xlylh6.top
 94.140.14.33 metamaske.pro
-94.140.14.33 metamasktoken.click
 94.140.14.33 metawww.partner-legacy.net.daraz.com
 94.140.14.33 metering-api.geo.hosted.entitlements.tt.omtrdc.net
 94.140.14.33 metok.sys.miui.com
@@ -16801,6 +16795,7 @@
 94.140.14.33 mqyibin.top
 94.140.14.33 mr.da.netease.com
 94.140.14.33 mra1.metregplt.top
+94.140.14.33 mrb2.newteslasup.click
 94.140.14.33 mrk1.metregplt.top
 94.140.14.33 mrk2.metregplt.top
 94.140.14.33 mrul-europewest.partner.net.daraz.com
@@ -17094,6 +17089,7 @@
 94.140.14.33 nads.rpcviadsion.net.daraz.com
 94.140.14.33 naesadr-int.corp.tt.omtrdc.net
 94.140.14.33 naesaeicmgt-api-api-mgmtd.tt.omtrdc.net
+94.140.14.33 nag.onlineprog.top
 94.140.14.33 nag.programtts.top
 94.140.14.33 nagrania-z-kamer.click
 94.140.14.33 nagraniezkamery.click
@@ -17264,7 +17260,6 @@
 94.140.14.33 newwww-cvs.partner-pay.net.daraz.com
 94.140.14.33 newxxx.pro
 94.140.14.33 nex.163.com
-94.140.14.33 nexi-pay-mobi.com
 94.140.14.33 next-pops.top
 94.140.14.33 nextclickadv.com
 94.140.14.33 nextdark.pro
@@ -17282,7 +17277,6 @@
 94.140.14.33 ngreditinaja.top
 94.140.14.33 nguoilon.top
 94.140.14.33 ngvnrhb.top
-94.140.14.33 nhanqua-freefire.grenae.click
 94.140.14.33 nhatvip.mobi
 94.140.14.33 nhbkamazon.top
 94.140.14.33 nhentai.pro
@@ -18044,6 +18038,7 @@
 94.140.14.33 othstr.beacon.qq.com
 94.140.14.33 othstr.play.aiseet.atianqi.com
 94.140.14.33 otl1.freepl.top
+94.140.14.33 otl4.freepl.top
 94.140.14.33 ots.programmtrad.top
 94.140.14.33 ots.trprogonline.top
 94.140.14.33 otz10.mttrade.top
@@ -19303,7 +19298,6 @@
 94.140.14.33 postal.user-login.top
 94.140.14.33 postback.yandexadexchange.net
 94.140.14.33 postes.user-login.top
-94.140.14.33 postesee.top
 94.140.14.33 postger-www.partner-pay.net.daraz.com
 94.140.14.33 postli.top
 94.140.14.33 postmaster-serveremail-update.web.app
@@ -19452,6 +19446,7 @@
 94.140.14.33 pro-chat.activ-one1.xyz
 94.140.14.33 pro-chat.program-pro2.xyz
 94.140.14.33 pro-cloudappr-is-1-2.net.daraz.com
+94.140.14.33 pro-consultanta.ro
 94.140.14.33 pro-education.online
 94.140.14.33 pro-factory.com
 94.140.14.33 pro-fakty24-info.com.pl
@@ -19506,6 +19501,7 @@
 94.140.14.33 pro-systinv.quest
 94.140.14.33 pro-tslx.program-pro2.xyz
 94.140.14.33 pro-tslx.programm-one.site
+94.140.14.33 pro-vp.read.gd
 94.140.14.33 pro-web-metrics.alias.s24cloud.net
 94.140.14.33 pro-web.net
 94.140.14.33 pro-webtech.com
@@ -19887,14 +19883,12 @@
 94.140.14.33 rb.adnxs-simple.com
 94.140.14.33 rb.adnxs.com
 94.140.14.33 rbazhaheiz.top
-94.140.14.33 rbfcu-online.top
 94.140.14.33 rbvi.top
 94.140.14.33 rc7e.top
 94.140.14.33 rcdqt.calify.top
 94.140.14.33 rch.aboutnews.top
 94.140.14.33 rcsadv.it
 94.140.14.33 rcsden.top
-94.140.14.33 rcum.sylacy.top
 94.140.14.33 rcv.a-i-ad.com
 94.140.14.33 rcv.mobad.ijinshan.com
 94.140.14.33 rcv.union-wifi.com
@@ -20114,12 +20108,10 @@
 94.140.14.33 roanconsol.top
 94.140.14.33 robbreport.share.ntv.io
 94.140.14.33 robertmln.mlnone.top
-94.140.14.33 roblox-browser.com
 94.140.14.33 rockdriller.top
 94.140.14.33 rocketme.top
 94.140.14.33 rodhaninvesting.pro
 94.140.14.33 rodzinnesprawypl.click
-94.140.14.33 rohsv.inputgiant.top
 94.140.14.33 roi-pro.com
 94.140.14.33 roimedia.advertserve.com
 94.140.14.33 rokvteri-dl.top
@@ -20490,7 +20482,6 @@
 94.140.14.33 sadaqat.top
 94.140.14.33 sads-03a1f4bbc.from-ak.com
 94.140.14.33 safe-click.net
-94.140.14.33 safe-security25896315.click
 94.140.14.33 safe.res.meizu.com
 94.140.14.33 safelinksweb-login-microsoftonline.cigam-corp.com
 94.140.14.33 safeshops.top
@@ -21438,7 +21429,6 @@
 94.140.14.33 sharethrough.adnxs.com
 94.140.14.33 sharpminiature.top
 94.140.14.33 shblzf.top
-94.140.14.33 sheins.top
 94.140.14.33 shemale-porn.pro
 94.140.14.33 shemalecams.pro
 94.140.14.33 shemaletube.pro
@@ -21511,7 +21501,6 @@
 94.140.14.33 sina.mediav.com
 94.140.14.33 singapore-advantage.com
 94.140.14.33 single.upsight-api.com
-94.140.14.33 sinngularitydao.top
 94.140.14.33 siodemka24h7.click
 94.140.14.33 sirinlabs.pro
 94.140.14.33 siriusprocyon.top
@@ -21717,7 +21706,6 @@
 94.140.14.33 sourcecsgo2.pro
 94.140.14.33 sp-api.a8.net
 94.140.14.33 sp-api.dable.io
-94.140.14.33 sp-correos.top
 94.140.14.33 sp-ycpi.analytics.yahoo.com
 94.140.14.33 sp.advertising.com
 94.140.14.33 sp.analytics.yahoo.com
@@ -21769,6 +21757,7 @@
 94.140.14.33 spitefulif.pro
 94.140.14.33 spk-54.top
 94.140.14.33 spk-card.click
+94.140.14.33 spk-daten-upgrade.de
 94.140.14.33 spk-update.de
 94.140.14.33 splash-screen.voodoo-ads.io
 94.140.14.33 splash-tastic.tumblr.com
@@ -22267,6 +22256,7 @@
 94.140.14.33 stormyproposal.pro
 94.140.14.33 stoxn.putoptical.top
 94.140.14.33 str1.freepl.top
+94.140.14.33 str4.freepl.top
 94.140.14.33 straight-shift.pro
 94.140.14.33 strangepopsin.top
 94.140.14.33 straszneinfo283.click
@@ -22345,7 +22335,6 @@
 94.140.14.33 suppportteam37462354.click
 94.140.14.33 suppressiveruthless.top
 94.140.14.33 supreme-ad-blocker.info
-94.140.14.33 supreme-representative27334.click
 94.140.14.33 surf-bar-traffic.com
 94.140.14.33 surfe.pro
 94.140.14.33 surugabanke-co-jp.top
@@ -22996,6 +22985,7 @@
 94.140.14.33 top-camgirls.com
 94.140.14.33 top-camsites.com
 94.140.14.33 top-casting-termine.de
+94.140.14.33 top-cheats.com
 94.140.14.33 top-clips.space
 94.140.14.33 top-courseglobal.biz
 94.140.14.33 top-daily-profit.com
@@ -23179,6 +23169,7 @@
 94.140.14.33 tr.scienceshumaines.pro
 94.140.14.33 tr.update.groupon.be
 94.140.14.33 tra2.api.baifendian.com
+94.140.14.33 traadecurve.top
 94.140.14.33 trace-2000.com
 94.140.14.33 trace-blt-symmetry.webnode.co.uk
 94.140.14.33 trace.51jingying.com
@@ -23922,7 +23913,6 @@
 94.140.14.33 uqanb.termot.top
 94.140.14.33 uraimeandc.top
 94.140.14.33 uredy.top
-94.140.14.33 url3007.365-azure.com
 94.140.14.33 url8807.global.passport.xiaomi.com
 94.140.14.33 urlconfig-data-retrieval.api.tt.omtrdc.net
 94.140.14.33 ursorsee.pro
@@ -24006,7 +23996,6 @@
 94.140.14.33 uu-bskyb.hb-api.tt.omtrdc.net
 94.140.14.33 uusee.adsame.com
 94.140.14.33 uvideos.cdnvideos.pro
-94.140.14.33 uvkhw.sooneur.top
 94.140.14.33 uwandlt.top
 94.140.14.33 uwfpvlcpn.top
 94.140.14.33 uwh.megdom.top
@@ -25429,8 +25418,6 @@
 94.140.14.33 wdesk1.mi.tt.omtrdc.net
 94.140.14.33 wdishpurchasingcorporation.hb-api.tt.omtrdc.net
 94.140.14.33 wdpro-mkt-prod2-lb.campaign.adobe.com
-94.140.14.33 we-need-your-fee1234188.click
-94.140.14.33 we-need-your-feedback63515.click
 94.140.14.33 weabalance.top
 94.140.14.33 weapfuh.originalriver-tone.top
 94.140.14.33 wearygrocery.pro
@@ -26715,7 +26702,6 @@
 94.140.14.33 www.advantageoutlayreeds.com
 94.140.14.33 www.advantagesclotblend.com
 94.140.14.33 www.advantageseliminatebystander.com
-94.140.14.33 www.advantagespire.com
 94.140.14.33 www.advard.com
 94.140.14.33 www.advconversion.com
 94.140.14.33 www.advenations.com
@@ -26782,7 +26768,6 @@
 94.140.14.33 www.advinci.co
 94.140.14.33 www.advinci.life
 94.140.14.33 www.advinci.net
-94.140.14.33 www.advinci.uno
 94.140.14.33 www.adviralmedia.com
 94.140.14.33 www.advise.co
 94.140.14.33 www.advisedlyremove.com
@@ -27495,7 +27480,6 @@
 94.140.14.33 www.drastycznewiadomosci.click
 94.140.14.33 www.dravor-investing.pro
 94.140.14.33 www.drc-prof.ofishlprog2.click
-94.140.14.33 www.dreary-east.pro
 94.140.14.33 www.dreds.click
 94.140.14.33 www.dronexpro.pro
 94.140.14.33 www.dropped-click.com
@@ -27612,7 +27596,6 @@
 94.140.14.33 www.ewwwolds-partner.net.daraz.com
 94.140.14.33 www.exactadvertising.com
 94.140.14.33 www.exchange-traffic.com
-94.140.14.33 www.excitablefew.pro
 94.140.14.33 www.exemail-partner-pay.net.daraz.com
 94.140.14.33 www.exemplary-range.pro
 94.140.14.33 www.exhausted-use.pro
@@ -27802,7 +27785,6 @@
 94.140.14.33 www.grapf.click
 94.140.14.33 www.gratkadlabystrzaka.click
 94.140.14.33 www.greenfieldinvestment.pro
-94.140.14.33 www.gregariousflower.pro
 94.140.14.33 www.grez.fallz.click
 94.140.14.33 www.grhgjh.dns-dns.com
 94.140.14.33 www.groglezapto.pro
@@ -27917,7 +27899,6 @@
 94.140.14.33 www.idspaces.ero-advertising.com
 94.140.14.33 www.iinnypunkt.click
 94.140.14.33 www.ikasgok-invest.pro
-94.140.14.33 www.illiterate-estate.pro
 94.140.14.33 www.illustriousmind.pro
 94.140.14.33 www.ilom.vallz.click
 94.140.14.33 www.im1.partner-pay.net.daraz.com
@@ -28016,7 +27997,6 @@
 94.140.14.33 www.ivint-pl.selplip882105.click
 94.140.14.33 www.ivint-pl.zamow38495.click
 94.140.14.33 www.iy8yhpmgrcpwkcvh.pro
-94.140.14.33 www.jadedhide.pro
 94.140.14.33 www.jads.co
 94.140.14.33 www.jamdomn.pro
 94.140.14.33 www.javhd.pro
@@ -28350,6 +28330,7 @@
 94.140.14.33 www.moviexxx.mobi
 94.140.14.33 www.mozemyrazemtu.click
 94.140.14.33 www.mpi.ofishlprog1.click
+94.140.14.33 www.mrb2.newteslasup.click
 94.140.14.33 www.ms-secur0utlook-share.web.app
 94.140.14.33 www.ms.maskproj.click
 94.140.14.33 www.msgdph-uqps.click
@@ -29476,6 +29457,7 @@
 94.140.14.33 www.pro-systinv.online
 94.140.14.33 www.pro-systinv.quest
 94.140.14.33 www.pro-tslx.program-pro2.xyz
+94.140.14.33 www.pro-vp.read.gd
 94.140.14.33 www.pro.activ-chz.xyz
 94.140.14.33 www.pro.activeprofi1.host
 94.140.14.33 www.pro.activeprov.xyz
@@ -29899,7 +29881,6 @@
 94.140.14.33 www.talkingdata.com
 94.140.14.33 www.tapdaq-adverts.global.ssl.fastly.net
 94.140.14.33 www.tapixesa.pro
-94.140.14.33 www.tautcare.pro
 94.140.14.33 www.tcm.optica.ero-advertising.com
 94.140.14.33 www.teaccessmcat-partner-pay.net.daraz.com
 94.140.14.33 www.teamadvertise.info
@@ -30088,7 +30069,6 @@
 94.140.14.33 www.traffictrade.pro
 94.140.14.33 www.trainr.partner-alpha.net.daraz.com
 94.140.14.33 www.traveladvertising.com
-94.140.14.33 www.tremendous-tour.pro
 94.140.14.33 www.tremendouspresentation.pro
 94.140.14.33 www.treseemon.click
 94.140.14.33 www.trial-lib-ht-1.partner-pay.dcloud.net.daraz.com
@@ -30144,7 +30124,6 @@
 94.140.14.33 www.uc-baidu.cc
 94.140.14.33 www.ucdn.website
 94.140.14.33 www.ufgron-invest.pro
-94.140.14.33 www.ugly-charity.pro
 94.140.14.33 www.uk.partner.equifax.co.uk
 94.140.14.33 www.ukcomparends.pro
 94.140.14.33 www.ultimatetube.pro
@@ -30921,7 +30900,6 @@
 94.140.14.33 xswape.top
 94.140.14.33 xteenvids.pro
 94.140.14.33 xteenx.pro
-94.140.14.33 xtgev.inputgiant.top
 94.140.14.33 xtrades.pro
 94.140.14.33 xuhsamazon.top
 94.140.14.33 xuivver.top
@@ -31170,8 +31148,7 @@
 94.140.14.33 youprojectbis.top
 94.140.14.33 your-advantages.co.uk
 94.140.14.33 your-analytics.org
-94.140.14.33 your-barrier357491.click
-94.140.14.33 your-barrier3574947.click
+94.140.14.33 your-barrier357493.click
 94.140.14.33 youradmission.top
 94.140.14.33 yourbestappever.top
 94.140.14.33 yourealization.top
