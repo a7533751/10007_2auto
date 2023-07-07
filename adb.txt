@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-07-07 22:07:37
+! Last modified: 2023-07-07 22:15:15
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-07-07 22:07:36 ^
+!更新时间: 2023-07-07 22:15:15 ^
 
-!规则数量:32434^
+!规则数量:32441^
 !#################^
 
 ||0-5-wechat-0.net.daraz.com^
@@ -884,6 +884,7 @@
 ||ad-dev.everymundo.net^
 ||ad-dev.globalnoticias.pt^
 ||ad-display.wikawika.xyz^
+||ad-drcn.dt.dbankcloud.com^
 ||ad-ebis.bookpass.auone.jp^
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-emea.doubleclick.net^
@@ -3728,6 +3729,7 @@
 ||ads.waterbondage.com^
 ||ads.watson.ch^
 ||ads.weather.ca^
+||ads.weathercn.com^
 ||ads.web.de^
 ||ads.web.tr^
 ||ads.web21.com^
@@ -4771,6 +4773,7 @@
 ||adwoplok-investing.pro^
 ||adwpaces.ero-advertising.com^
 ||adx-api.otm-r.com^
+||adx-drcn.op.dbankcloud.cn^
 ||adx-dre.op.hicloud.com^
 ||adx-f.ads.heytapmobi.com^
 ||adx-f.ads.heytapmobile.com^
@@ -11519,6 +11522,7 @@
 ||direct-collect.dy-api.com^
 ||direct-collect.dy-api.eu^
 ||direct-pro.space^
+||direct.ad-core-lb-v3.lf.bytelb.net^
 ||direct.blair-roger.top^
 ||direct.smbc.co.jp.loveshu.top^
 ||directadvert.net^
@@ -14006,6 +14010,7 @@
 ||htgb-www.partner.net.daraz.com^
 ||htkk1.top^
 ||htkk2.top^
+||httpdns-browser.platform.dbankcloud.cn^
 ||httpdns.alicdn.com^
 ||httpdns.browser.miui.com^
 ||httpdns.c.cdnhwc2.com^
@@ -15553,6 +15558,7 @@
 ||lf4-common-ckv-tos.pstatp.com^
 ||lf5-common-ckv-tos.pstatp.com^
 ||lf6-common-ckv-tos.pstatp.com^
+||lf6-sf-be-pack-sign.pglstatp-toutiao.com^
 ||lf7-common-ckv-tos.pstatp.com^
 ||lf8-common-ckv-tos.pstatp.com^
 ||lf9-common-ckv-tos.pstatp.com^
@@ -20744,6 +20750,7 @@
 ||sdk.apptentive.com^
 ||sdk.asapp.com^
 ||sdk.batmobi.net^
+||sdk.beizi.biz^
 ||sdk.cdnmaster.com^
 ||sdk.cferw.com^
 ||sdk.collabollc.com^
