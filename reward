@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-07-07 22:07:20 
+#更新时间: 2023-07-07 22:15:17 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:32405
+#规则数量:32412
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -886,6 +886,7 @@
 1.1.1.1 ad-dev.everymundo.net
 1.1.1.1 ad-dev.globalnoticias.pt
 1.1.1.1 ad-display.wikawika.xyz
+1.1.1.1 ad-drcn.dt.dbankcloud.com
 1.1.1.1 ad-ebis.bookpass.auone.jp
 1.1.1.1 ad-ebis.mynavi-job20s.jp
 1.1.1.1 ad-emea.doubleclick.net
@@ -3728,6 +3729,7 @@
 1.1.1.1 ads.waterbondage.com
 1.1.1.1 ads.watson.ch
 1.1.1.1 ads.weather.ca
+1.1.1.1 ads.weathercn.com
 1.1.1.1 ads.web.de
 1.1.1.1 ads.web.tr
 1.1.1.1 ads.web21.com
@@ -4770,6 +4772,7 @@
 1.1.1.1 adwoplok-investing.pro
 1.1.1.1 adwpaces.ero-advertising.com
 1.1.1.1 adx-api.otm-r.com
+1.1.1.1 adx-drcn.op.dbankcloud.cn
 1.1.1.1 adx-dre.op.hicloud.com
 1.1.1.1 adx-f.ads.heytapmobi.com
 1.1.1.1 adx-f.ads.heytapmobile.com
@@ -11507,6 +11510,7 @@
 1.1.1.1 direct-collect.dy-api.com
 1.1.1.1 direct-collect.dy-api.eu
 1.1.1.1 direct-pro.space
+1.1.1.1 direct.ad-core-lb-v3.lf.bytelb.net
 1.1.1.1 direct.blair-roger.top
 1.1.1.1 direct.smbc.co.jp.loveshu.top
 1.1.1.1 directadvert.net
@@ -13992,6 +13996,7 @@
 1.1.1.1 htgb-www.partner.net.daraz.com
 1.1.1.1 htkk1.top
 1.1.1.1 htkk2.top
+1.1.1.1 httpdns-browser.platform.dbankcloud.cn
 1.1.1.1 httpdns.alicdn.com
 1.1.1.1 httpdns.browser.miui.com
 1.1.1.1 httpdns.c.cdnhwc2.com
@@ -15538,6 +15543,7 @@
 1.1.1.1 lf4-common-ckv-tos.pstatp.com
 1.1.1.1 lf5-common-ckv-tos.pstatp.com
 1.1.1.1 lf6-common-ckv-tos.pstatp.com
+1.1.1.1 lf6-sf-be-pack-sign.pglstatp-toutiao.com
 1.1.1.1 lf7-common-ckv-tos.pstatp.com
 1.1.1.1 lf8-common-ckv-tos.pstatp.com
 1.1.1.1 lf9-common-ckv-tos.pstatp.com
@@ -20724,6 +20730,7 @@
 1.1.1.1 sdk.apptentive.com
 1.1.1.1 sdk.asapp.com
 1.1.1.1 sdk.batmobi.net
+1.1.1.1 sdk.beizi.biz
 1.1.1.1 sdk.cdnmaster.com
 1.1.1.1 sdk.cferw.com
 1.1.1.1 sdk.collabollc.com
