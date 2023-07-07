@@ -1618,10 +1618,23 @@
 127.0.0.1 sdktmp.hubcloud.com.cn
 #BeiZi 广告
 127.0.0.1 api-htp.beizi.biz
+127.0.0.1 sdk.beizi.biz
 
 # coolapk
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com.queniuiq.com
 127.0.0.1 api-access.pangolin-sdk-toutiao1.com
 127.0.0.1 api-access.pangolin-sdk-toutiao1-b.com
 127.0.0.1 pangolin-sdk-toutiao1.com
+#127.0.0.1 mon.zijieapi.com
+#127.0.0.1 api.csjplatform.com
 
+#HUAWEI
+127.0.0.1 lf6-sf-be-pack-sign.pglstatp-toutiao.com
+127.0.0.1 direct.ad-core-lb-v3.lf.bytelb.net
+127.0.0.1 adx-drcn.op.dbankcloud.cn
+127.0.0.1 ads.weathercn.com
+127.0.0.1 httpdns-browser.platform.dbankcloud.cn
+127.0.0.1 ad-drcn.dt.dbankcloud.com
+
+
+ 
