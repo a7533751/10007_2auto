@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-07-18 22:15:08 
+#更新时间: 2023-07-19 10:42:28 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:32932
+#规则数量:32937
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1350,6 +1350,7 @@
 1.1.1.1 ad.eporner.com
 1.1.1.1 ad.erkiss.club
 1.1.1.1 ad.ero-advertising.com
+1.1.1.1 ad.erotikflix.com
 1.1.1.1 ad.es.doubleclick.net
 1.1.1.1 ad.ettoday.net
 1.1.1.1 ad.eurosport.com
@@ -3074,6 +3075,7 @@
 1.1.1.1 ads.imeem.com
 1.1.1.1 ads.img.co.za
 1.1.1.1 ads.img.globo.com
+1.1.1.1 ads.imgdesu.art
 1.1.1.1 ads.imguol.com
 1.1.1.1 ads.imgur.com
 1.1.1.1 ads.imovideo.ru
@@ -5978,6 +5980,7 @@
 1.1.1.1 analytics.reliant.com
 1.1.1.1 analytics.rever.vn
 1.1.1.1 analytics.reyrey.net
+1.1.1.1 analytics.ripped.guide
 1.1.1.1 analytics.rivaliq.com
 1.1.1.1 analytics.robinhood.com
 1.1.1.1 analytics.rogersmedia.com
@@ -14000,6 +14003,7 @@
 1.1.1.1 haiwai-ic.ksosoft.com
 1.1.1.1 halal.ad
 1.1.1.1 halleyperson.pro
+1.1.1.1 hallothoulap.top
 1.1.1.1 halo.ad.gt
 1.1.1.1 hamdrik-investing.pro
 1.1.1.1 hammerhewer.top
@@ -14243,6 +14247,7 @@
 1.1.1.1 hosting2215432.online.pro
 1.1.1.1 hosting2234405.online.pro
 1.1.1.1 hosting2280850.online.pro
+1.1.1.1 hostmaster.brandnewapp.pro
 1.1.1.1 hostmaster.rtnews.pro
 1.1.1.1 hostmasteraapipodcast.api.tt.omtrdc.net
 1.1.1.1 hostnetadv.site
