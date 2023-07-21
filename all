@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-07-21 09:20:18 
+#更新时间: 2023-07-21 22:13:33 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:40289
+#规则数量:40305
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -515,10 +515,6 @@
 1.1.1.1 1rjtdluzie7c.top
 1.1.1.1 1stage.partner.net.daraz.com
 1.1.1.1 1stc6vz58kxw.top
-1.1.1.1 1supportmail200.top
-1.1.1.1 1supportmail201.top
-1.1.1.1 1supportmail202.top
-1.1.1.1 1supportmail203.top
 1.1.1.1 1top.activeprog3.top
 1.1.1.1 1tprog.activpl-pro.site
 1.1.1.1 1ts03.top
@@ -1028,7 +1024,6 @@
 1.1.1.1 ab.adadvisor.net
 1.1.1.1 ab.advertiserurl.com
 1.1.1.1 ab86b.top
-1.1.1.1 abbreviationvaccinate.top
 1.1.1.1 abc-ads.com
 1.1.1.1 abc.comick.top
 1.1.1.1 abc.hb-api.tt.omtrdc.net
@@ -1140,11 +1135,11 @@
 1.1.1.1 accounts-api-psbulle6.hb-fa-dev.tt.omtrdc.net
 1.1.1.1 accounts-bskyb.hb-api.tt.omtrdc.net
 1.1.1.1 accounts-facebook.com-verificate.top
-1.1.1.1 accounts-google-com.google.research.skyfencenet.com
+1.1.1.1 accounts-google-com.gsuite.nfr38.skyfencenet.com
 1.1.1.1 accounts-group.com-pastas.top
 1.1.1.1 accounts.doubleclick.net
 1.1.1.1 accounts.emailvision.partner.net.daraz.com
-1.1.1.1 accounts.google.suyuda.top
+1.1.1.1 accounts.google.com.jpc.io
 1.1.1.1 accounts.int2-pmgt.api.tt.omtrdc.net
 1.1.1.1 accounts.pqa-np.api.api.tt.omtrdc.net
 1.1.1.1 accountsbskyb.hb-api.tt.omtrdc.net
@@ -1169,6 +1164,7 @@
 1.1.1.1 acdn.xapads.com
 1.1.1.1 ace-tag.advertising.com
 1.1.1.1 acesso-sicred.app-troca.top
+1.1.1.1 acevents.top
 1.1.1.1 acg-fg.corp.tt.omtrdc.net
 1.1.1.1 achalert-api.adfs.tt.omtrdc.net
 1.1.1.1 achariah.top
@@ -1182,6 +1178,7 @@
 1.1.1.1 acoossu.top
 1.1.1.1 acoossz.top
 1.1.1.1 acorp-springcorp-springs.corp-springrint-mo.net.daraz.com
+1.1.1.1 acpherson15.top
 1.1.1.1 acquisition.top
 1.1.1.1 acs.www.partner-prod.net.daraz.com
 1.1.1.1 acspaces.ero-advertising.com
@@ -1687,6 +1684,7 @@
 1.1.1.1 ad.graciamediaweb.com
 1.1.1.1 ad.grafika.cz
 1.1.1.1 ad.greedland.net
+1.1.1.1 ad.grhoo.com
 1.1.1.1 ad.groupon.be
 1.1.1.1 ad.groupon.co.uk
 1.1.1.1 ad.groupon.com
@@ -2502,7 +2500,6 @@
 1.1.1.1 adminht.top
 1.1.1.1 adminicdn-print-motratorcdn-print-mo-yancancook.net.daraz.com
 1.1.1.1 administiadvisionatoiadvisions-yancancook.net.daraz.com
-1.1.1.1 administratehinge.top
 1.1.1.1 administration.hb-api.tt.omtrdc.net
 1.1.1.1 administrator-freshegg-www.partner.net.daraz.com
 1.1.1.1 administrator-freshegg.partner-assets.net.daraz.com
@@ -2538,7 +2535,6 @@
 1.1.1.1 adminsfreya-www.ctl.partner-pay.net.daraz.com
 1.1.1.1 adminsfreya.pro.net.daraz.com
 1.1.1.1 admintegrationbeta-interaction.partner.net.daraz.com
-1.1.1.1 adminuser.telegrram.top
 1.1.1.1 adminwww.partner.net.daraz.com
 1.1.1.1 admmaazure-freyal.partner.net.daraz.com
 1.1.1.1 admmaazure-r-ln-1l.partner.net.daraz.com
@@ -3570,6 +3566,7 @@
 1.1.1.1 ads.kompass.com
 1.1.1.1 ads.konsept.is
 1.1.1.1 ads.koreanfriendfinder.com
+1.1.1.1 ads.koreaom
 1.1.1.1 ads.kozmetika-bg.com
 1.1.1.1 ads.krawall.de
 1.1.1.1 ads.ksl.com
@@ -4051,6 +4048,7 @@
 1.1.1.1 ads.spintrade.com
 1.1.1.1 ads.sportradar.com
 1.1.1.1 ads.sporttv.today
+1.1.1.1 ads.spotx.tv
 1.1.1.1 ads.spymac.net
 1.1.1.1 ads.stackoverflow.com
 1.1.1.1 ads.standartnews.com
@@ -5345,6 +5343,7 @@
 1.1.1.1 aeisons-info.bgpgrs.top
 1.1.1.1 aemail-partner-paythorization.car40.net.daraz.com
 1.1.1.1 aeom-jp.top
+1.1.1.1 aeon-card.tnftx.top
 1.1.1.1 aeonbankg.top
 1.1.1.1 aeonnn.top
 1.1.1.1 aeonpay3dface-cajp.huaihua8.top
@@ -5433,6 +5432,7 @@
 1.1.1.1 aid-ad.jp
 1.1.1.1 aijiamao.top
 1.1.1.1 aimailstage.partner.net.daraz.com
+1.1.1.1 ainsburyo8.top
 1.1.1.1 aio.lp.mydas.mobi
 1.1.1.1 aiqua-sdk.c.appier.net
 1.1.1.1 aircryptogpt.top
@@ -5612,7 +5612,6 @@
 1.1.1.1 amavirgin.pro
 1.1.1.1 amaz.emailon.top
 1.1.1.1 amazinelistrun.pro
-1.1.1.1 amazoe.top
 1.1.1.1 amazom.snmzou.top
 1.1.1.1 amazom.wunior.top
 1.1.1.1 amazon-bcdsg.dns-report.com
@@ -5625,11 +5624,10 @@
 1.1.1.1 amazon-vsduayv.dns-report.com
 1.1.1.1 amazon-xvcbf.dynamic-dns.net
 1.1.1.1 amazon.myaccount-us.click
-1.1.1.1 amazonbuy.top
+1.1.1.1 amazonoshp.top
 1.1.1.1 amazonshopd.top
 1.1.1.1 amazonshopg.top
 1.1.1.1 amazonshopp.top
-1.1.1.1 amazor.top
 1.1.1.1 amazos.top
 1.1.1.1 amazou.top
 1.1.1.1 amazov.top
@@ -6241,6 +6239,7 @@
 1.1.1.1 analytics.kkb.com.tr
 1.1.1.1 analytics.klickly.com
 1.1.1.1 analytics.kongregate.io
+1.1.1.1 analytics.kooapp.com
 1.1.1.1 analytics.krieselreihe.com
 1.1.1.1 analytics.kurocore.com
 1.1.1.1 analytics.kwebsoft.com
@@ -9829,11 +9828,6 @@
 1.1.1.1 audid-api.taobao.com
 1.1.1.1 audience.xml.adx1.com
 1.1.1.1 audika-d2d.ads.tt.omtrdc.net
-1.1.1.1 audiocallertu.top
-1.1.1.1 audiocallertun.top
-1.1.1.1 audiocallertune.top
-1.1.1.1 audiocallerxsss.top
-1.1.1.1 audiocallerz.top
 1.1.1.1 augustow-haus.ads.tt.omtrdc.net
 1.1.1.1 aulh-bnrc-fl.top
 1.1.1.1 aum.api.us.us.tt.omtrdc.net
@@ -10091,7 +10085,6 @@
 1.1.1.1 badgeup.top
 1.1.1.1 badjs.qq.com
 1.1.1.1 badjs.weixinbridge.com
-1.1.1.1 badmintonyearn.top
 1.1.1.1 badvirgin.com
 1.1.1.1 badvirgins.com
 1.1.1.1 badvirtue.com
@@ -10118,6 +10111,7 @@
 1.1.1.1 baifen.music.baidu.com
 1.1.1.1 bal.piieenadzee-tutaaj.top
 1.1.1.1 bal.programmtrad.top
+1.1.1.1 baldwon.top
 1.1.1.1 baliadv.com
 1.1.1.1 ball.lepsage.top
 1.1.1.1 ball.tendion.top
@@ -10836,6 +10830,7 @@
 1.1.1.1 brandnewapp.pro
 1.1.1.1 brasil-admmail.partner.net.daraz.com
 1.1.1.1 brave-browser-app.net
+1.1.1.1 bravia-cfgdst-ore-pro.bda.ndmdhs.com
 1.1.1.1 bravica.pro
 1.1.1.1 brawe.pro
 1.1.1.1 brazil-brazil-tienda.api.tt.omtrdc.net
@@ -10988,6 +10983,7 @@
 1.1.1.1 bw.coolplattf.top
 1.1.1.1 bwandlv.top
 1.1.1.1 bwinc.hb-api.tt.omtrdc.net
+1.1.1.1 bwmvzwkbqlmrz.top
 1.1.1.1 bwmxdg.kimono-365.jp
 1.1.1.1 bwogldv.top
 1.1.1.1 bwp.download.com
@@ -11794,7 +11790,6 @@
 1.1.1.1 china-upgrade-system.pedradosino.com.br
 1.1.1.1 chineseinla.com
 1.1.1.1 chineseporn.top
-1.1.1.1 chinisle.top
 1.1.1.1 chiulong.top
 1.1.1.1 choicedorm.top
 1.1.1.1 choidangcap.pro
@@ -12429,8 +12424,8 @@
 1.1.1.1 coin-airdrop.top
 1.1.1.1 coin500.top
 1.1.1.1 coinbas.top
+1.1.1.1 coinbase-airdrop.top
 1.1.1.1 coinbase.download-update.com
-1.1.1.1 coinbasedex.top
 1.1.1.1 coindark-invest.pro
 1.1.1.1 coinexbit.top
 1.1.1.1 coinlife.click
@@ -12520,7 +12515,6 @@
 1.1.1.1 connectedtwtelecomw.partner-pay.dcloud.net.daraz.com
 1.1.1.1 connectedtwtelecomwwwdmetrictest.partner-pay.net.daraz.com
 1.1.1.1 connectedwww.partner-payseller.net.daraz.com
-1.1.1.1 conscientiousdismay.top
 1.1.1.1 constanceonline.top
 1.1.1.1 constel-analytics.com
 1.1.1.1 consul-www.controller.partner.net.daraz.com
@@ -12919,13 +12913,9 @@
 1.1.1.1 correo-csr12.api.net.daraz.com
 1.1.1.1 correo.partner.net.daraz.com
 1.1.1.1 correocs.top
-1.1.1.1 correois.top
-1.1.1.1 correos-ese.top
 1.1.1.1 correos-lz.top
-1.1.1.1 correos-zl.top
 1.1.1.1 correosas.top
 1.1.1.1 correosb-cr.top
-1.1.1.1 correosbolivia.top
 1.1.1.1 correosea.top
 1.1.1.1 correospl.top
 1.1.1.1 correoswagger-www.partner-pay.net.daraz.com
@@ -12951,7 +12941,6 @@
 1.1.1.1 counter.top.ge
 1.1.1.1 counter.top.kg
 1.1.1.1 counterimg1.adultrevenueservice.com
-1.1.1.1 counterstrike-2.pro
 1.1.1.1 counterstrikesource2.pro
 1.1.1.1 coup-ling-dm.net
 1.1.1.1 coursegriffe.top
@@ -13038,6 +13027,7 @@
 1.1.1.1 crm-webapp.www.partner-pay.net.daraz.com
 1.1.1.1 crmwwwmanagement.partner.net.daraz.com
 1.1.1.1 crosstek-check.sites.tt.omtrdc.net
+1.1.1.1 crotaciunm.top
 1.1.1.1 crpro.tes1aprodj.click
 1.1.1.1 crpt-pro.beauty
 1.1.1.1 crptb.goprogramia.top
@@ -13354,6 +13344,7 @@
 1.1.1.1 cuteteenmovs.pro
 1.1.1.1 cvcc.innplats.top
 1.1.1.1 cvfr.formhh.top
+1.1.1.1 cvowper.top
 1.1.1.1 cvr.ad-brix.com
 1.1.1.1 cvs-car10.ebs-partner.net.daraz.com
 1.1.1.1 cvs-car10.partner-pay.net.daraz.com
@@ -13475,7 +13466,6 @@
 1.1.1.1 damselfly.clk.click
 1.1.1.1 dan-bitly.click
 1.1.1.1 danahughesk.top
-1.1.1.1 dancehypocritical.top
 1.1.1.1 danddadventures.com
 1.1.1.1 danieapp30.api.tt.omtrdc.net
 1.1.1.1 dao.pltradelife.top
@@ -13610,6 +13600,7 @@
 1.1.1.1 dbsbank-65.click
 1.1.1.1 dbsbank-gs.top
 1.1.1.1 dbsbank-sg.top
+1.1.1.1 dbsbank-vip.top
 1.1.1.1 dbsbank.click
 1.1.1.1 dbsbank.top
 1.1.1.1 dbsbank65.top
@@ -14469,7 +14460,6 @@
 1.1.1.1 download.weatherblink.com
 1.1.1.1 download.webtrekk.com
 1.1.1.1 download.wildcard.applovin.com.edgekey.net
-1.1.1.1 download.windowsmicrosoft.ml
 1.1.1.1 download.withu.fit
 1.1.1.1 download.yesmessenger.com
 1.1.1.1 download.youzu.com
@@ -14602,6 +14592,7 @@
 1.1.1.1 dssl.partner-pay-getter.ns.emailvision.authenticate.net.daraz.com
 1.1.1.1 dssl.partner-paygh.ns.emailvision.authenticate.net.daraz.com
 1.1.1.1 dstaff-partner.emailfreshegg.net.daraz.com
+1.1.1.1 dswqzjtuiw.top
 1.1.1.1 dszcxnbvfwe.top
 1.1.1.1 dtomcat-partner-pay.engine.freshegg.net.daraz.com
 1.1.1.1 dts.crispadvertising.com
@@ -15183,7 +15174,9 @@
 1.1.1.1 epbxs-partner.net.daraz.com
 1.1.1.1 epc.somewear.top
 1.1.1.1 epe.tradelifeworld.top
+1.1.1.1 epenser.top
 1.1.1.1 eph-adsjutarnji.cdn.sysbee.net
+1.1.1.1 ephanie.top
 1.1.1.1 ephemeralcounters.api.roblox.com
 1.1.1.1 ephvv.top
 1.1.1.1 epic-drop.top
@@ -15655,6 +15648,7 @@
 1.1.1.1 fgy3tg.jav-7mmtv.top
 1.1.1.1 fgyy.innplats.top
 1.1.1.1 fhatfee.ero-advertising.com
+1.1.1.1 fhioredawe.top
 1.1.1.1 fhreyer.top
 1.1.1.1 fhtjhgjkty.top
 1.1.1.1 fi-analytics.mgsn.it
@@ -15754,7 +15748,6 @@
 1.1.1.1 fkasjfhaj.top
 1.1.1.1 fkglkpkgkduh.top
 1.1.1.1 fkkldo.everadpro.click
-1.1.1.1 fkxyamazon.top
 1.1.1.1 flamebeard.top
 1.1.1.1 flare-analytics.com
 1.1.1.1 flash-counter.com
@@ -15960,6 +15953,7 @@
 1.1.1.1 frogadvert.ru
 1.1.1.1 frogmailage-partner.net.daraz.com
 1.1.1.1 front.aid-ad.jp
+1.1.1.1 frontend60.top
 1.1.1.1 frontgu-partner.net.daraz.com
 1.1.1.1 frontier-toutiao.snssdk.com
 1.1.1.1 frontkube-csr31-partner.net.daraz.com
@@ -16214,6 +16208,7 @@
 1.1.1.1 get.comfirty.top
 1.1.1.1 getbiggainsurvey.top
 1.1.1.1 getbiz.top
+1.1.1.1 getcode2.pro
 1.1.1.1 getenterprises.click
 1.1.1.1 getfy-click.info
 1.1.1.1 getpads.top
@@ -17003,7 +16998,6 @@
 1.1.1.1 htgb.k8s.partner.net.daraz.com
 1.1.1.1 htgscore-api-a.staff.net.daraz.com
 1.1.1.1 hththtmanagement.partner.net.daraz.com
-1.1.1.1 htiqamazon.top
 1.1.1.1 htkk1.top
 1.1.1.1 htkk2.top
 1.1.1.1 http-api-docs-beta-interaction.net.daraz.com
@@ -18183,6 +18177,8 @@
 1.1.1.1 joyceblog.top
 1.1.1.1 jp-ads.mediaforge.com
 1.1.1.1 jp-click.mediaforge.com
+1.1.1.1 jp-smbc.top
+1.1.1.1 jp-smbo.top
 1.1.1.1 jp.api.share.mob.com
 1.1.1.1 jp.devs.data.mob.com
 1.1.1.1 jp.f.gm.mob.com
@@ -18281,6 +18277,7 @@
 1.1.1.1 k1.uk88.top
 1.1.1.1 k2.uk88.top
 1.1.1.1 k42kw.top
+1.1.1.1 k666888.top
 1.1.1.1 k8s-api-docsprint-mo-ns1.twtelecom.net.daraz.com
 1.1.1.1 k8s-dev.ns.iadvision.net.daraz.com
 1.1.1.1 k8s-dev.r-oa-api-pluto.net.daraz.com
@@ -19073,6 +19070,7 @@
 1.1.1.1 longup.best-sales.top
 1.1.1.1 lontv.mobi
 1.1.1.1 looedu.top
+1.1.1.1 loooksrare.pro
 1.1.1.1 loopholepl.click
 1.1.1.1 lootplatform.pro
 1.1.1.1 lopull-bd-alt1-drzlivealhost-www.partner.net.daraz.com
@@ -19661,6 +19659,7 @@
 1.1.1.1 mco2.plsttrade.top
 1.1.1.1 mconferencel-europewest.partner.net.daraz.com
 1.1.1.1 mcpoc.linenet.top
+1.1.1.1 mcredit-vaymc.top
 1.1.1.1 mcrevents1-pqa.api.api.tt.omtrdc.net
 1.1.1.1 mcs.snssdk.com
 1.1.1.1 md-pro.maxi-bl0g.site
@@ -19748,6 +19747,7 @@
 1.1.1.1 merchandise.opera-api.com
 1.1.1.1 mercury-sdk.snssdk.com
 1.1.1.1 meritiny.top
+1.1.1.1 mermans.top
 1.1.1.1 meroyharte.top
 1.1.1.1 merry-angels-top.ma.cx
 1.1.1.1 merryfrantically.top
@@ -20174,6 +20174,7 @@
 1.1.1.1 monadvs.com
 1.1.1.1 monetize-api.coronalabs.com
 1.1.1.1 moneyfoolli.top
+1.1.1.1 moneymaker.mobi
 1.1.1.1 moneyprofitgame.click
 1.1.1.1 mongj.btspolsky.top
 1.1.1.1 monitor-tools.cn.miaozhen.com
@@ -20270,6 +20271,7 @@
 1.1.1.1 ms.maskproj.click
 1.1.1.1 ms.shopee-test.top
 1.1.1.1 ms.yandex.ru
+1.1.1.1 mscqt.top
 1.1.1.1 msd4.freepl.top
 1.1.1.1 msdk-files.webengage.com
 1.1.1.1 msdk.qq.com
@@ -20375,7 +20377,6 @@
 1.1.1.1 muikdok-invest.pro
 1.1.1.1 multi-az-ad.kuaishou.cn
 1.1.1.1 multicoloredsteak.pro
-1.1.1.1 multitudecompassion.top
 1.1.1.1 munin.www.partner.nautilus.net.daraz.com
 1.1.1.1 munion.mediav.com
 1.1.1.1 mus1npoststope.passioshop.top
@@ -20494,6 +20495,7 @@
 1.1.1.1 mzinf.infinitypro.top
 1.1.1.1 mzk.endics.top
 1.1.1.1 mzmeta.infinitypro.top
+1.1.1.1 mzpower.btspolsky.top
 1.1.1.1 mzpro.infinitypro.top
 1.1.1.1 mzpro.tes1aprodj.click
 1.1.1.1 mzs3.metregplt.top
@@ -21252,6 +21254,7 @@
 1.1.1.1 nsscore-api.aws-emailvision.net.daraz.com
 1.1.1.1 nsspyder-api-stage.eedgevision.net.daraz.com
 1.1.1.1 nsstgx-c.iadvision.net.daraz.com
+1.1.1.1 nstance.top
 1.1.1.1 nsystem-r-es-1.emailvisystem-r-es-1ion.partner.net.daraz.com
 1.1.1.1 nt6f.top
 1.1.1.1 ntdll.top
@@ -21360,7 +21363,6 @@
 1.1.1.1 office365-eu-update.com
 1.1.1.1 office365-us-update.com
 1.1.1.1 officeadmin.radian1.webd.pro
-1.1.1.1 officepost.pro
 1.1.1.1 offline-adv.oray.com
 1.1.1.1 offmsg.umeng.com
 1.1.1.1 offrforyou1st.top
@@ -21695,7 +21697,6 @@
 1.1.1.1 onedrive-download.com
 1.1.1.1 oneid.mmstat.com
 1.1.1.1 oneloadpkw.partner-pay.dcloud.net.daraz.com
-1.1.1.1 onespinbike.top
 1.1.1.1 onet-update-y7gt7f-7gvr88tfgy.boxmode.io
 1.1.1.1 onet1111.webd.pro
 1.1.1.1 onevenadvnow.com
@@ -22772,10 +22773,12 @@
 1.1.1.1 paylahdbs.top
 1.1.1.1 payment-bskyb.hb-api.tt.omtrdc.net
 1.1.1.1 payment-ns.partner-payvision.net.daraz.com
+1.1.1.1 paymentoutdated.top
 1.1.1.1 paypal-account-confirmation-update-required.ksmchesterfield.co.uk
 1.1.1.1 paypal-gb.check-id421.com
 1.1.1.1 paypalssl.doubleclick.net
 1.1.1.1 paypartc.top
+1.1.1.1 paypay-c2.rhuyc.top
 1.1.1.1 paypay.ytbsy.top
 1.1.1.1 paypayfjkalf.top
 1.1.1.1 paypayxvvb.top
@@ -23148,6 +23151,7 @@
 1.1.1.1 pl-polska-pl.top
 1.1.1.1 pl-polska.top
 1.1.1.1 pl-polskas.top
+1.1.1.1 pl-polskasa.top
 1.1.1.1 pl-polskss.top
 1.1.1.1 pl-post-office.top
 1.1.1.1 pl-potser.top
@@ -23166,6 +23170,7 @@
 1.1.1.1 pl.pl-correopl88.top
 1.1.1.1 pl.plcorreopl66.top
 1.1.1.1 pl.plcorreopl88.top
+1.1.1.1 pl.plpsco.top
 1.1.1.1 pl.poczta-polskasy.top
 1.1.1.1 pl.princessmask.pro
 1.1.1.1 pl1.maralgel.pro
@@ -23251,13 +23256,16 @@
 1.1.1.1 poczta-pisms.top
 1.1.1.1 poczta-pl.portfel-moniiy.pro
 1.1.1.1 poczta-plsms.top
+1.1.1.1 poczta-po.top
 1.1.1.1 poczta-pollka-pl.top
 1.1.1.1 poczta-pollka.top
+1.1.1.1 poczta-polsest.top
 1.1.1.1 poczta-polska-pl.top
 1.1.1.1 poczta-polska-pl.zenco.top
 1.1.1.1 poczta-polska-pl.zyxrec.top
 1.1.1.1 poczta-polska.jackyc.top
 1.1.1.1 poczta-polska.top
+1.1.1.1 poczta-polskad.top
 1.1.1.1 poczta-polskapl.top
 1.1.1.1 poczta-post.top
 1.1.1.1 poczta-psuasc.top
@@ -23614,8 +23622,6 @@
 1.1.1.1 print-mo-xspace.partner.net.daraz.com
 1.1.1.1 print-mo.partner-pay-europewest.net.daraz.com
 1.1.1.1 print.www-xspace.partner.net.daraz.com
-1.1.1.1 printendorse.top
-1.1.1.1 printerportray.top
 1.1.1.1 printpvc.top
 1.1.1.1 prism.pandora.tv
 1.1.1.1 priv-apac-partner.net.daraz.com
@@ -23823,6 +23829,7 @@
 1.1.1.1 progressive.lp.mydas.mobi
 1.1.1.1 project.projectprog.click
 1.1.1.1 projectorreviews.advertserve.com
+1.1.1.1 projectpilgrim.top
 1.1.1.1 projectx.projectprog.click
 1.1.1.1 prologon.pro
 1.1.1.1 promax.ofishlprog2.click
@@ -23843,10 +23850,13 @@
 1.1.1.1 properbunch.pro
 1.1.1.1 propolfx.top
 1.1.1.1 prostezycie.click
+1.1.1.1 protaciunmm.top
+1.1.1.1 protaciuty.top
 1.1.1.1 protect-ad.com
 1.1.1.1 protect.advancedcleaner.com
 1.1.1.1 proton-int.flurry.com
 1.1.1.1 proton.flurry.com
+1.1.1.1 prottaciunnm.top
 1.1.1.1 prov.profitactiv1.top
 1.1.1.1 provincia.adnxs.com
 1.1.1.1 provisioning-api.engagepf-dev.tt.omtrdc.net
@@ -24029,6 +24039,7 @@
 1.1.1.1 ql6.top
 1.1.1.1 qlikview.api-docsns2.twtelecom.net.daraz.com
 1.1.1.1 qlikview.www.partner-pay.net.daraz.com
+1.1.1.1 qmykwjryyrrjj.top
 1.1.1.1 qnmob3.doubanio.com
 1.1.1.1 qoinex.top
 1.1.1.1 qooav.top
@@ -24186,6 +24197,7 @@
 1.1.1.1 rdr.ad-score.com
 1.1.1.1 rdrm1.click
 1.1.1.1 rdrs.ad-score.com
+1.1.1.1 rdswort.top
 1.1.1.1 rdxgrdz.top
 1.1.1.1 re.m.taobao.com
 1.1.1.1 re.taobao.com
@@ -24265,7 +24277,6 @@
 1.1.1.1 reemo-ad.jp
 1.1.1.1 ref.ad-brix.com
 1.1.1.1 refilwewians.top
-1.1.1.1 reflexscotbox.top
 1.1.1.1 refpa.top
 1.1.1.1 refpa47525.top
 1.1.1.1 refpabuyoj.top
@@ -24476,6 +24487,7 @@
 1.1.1.1 rj82p.yancancook.api.net.daraz.com
 1.1.1.1 rj82prj82prj82p.partner.net.daraz.com
 1.1.1.1 rj84p.api.daraz.com.0-gkm-portal.net.daraz.com
+1.1.1.1 rkl.mix-legl.top
 1.1.1.1 rktoon5.top
 1.1.1.1 rkv9.top
 1.1.1.1 rlog-api.under9.co
@@ -24524,6 +24536,7 @@
 1.1.1.1 royalmail.logistic-update.com
 1.1.1.1 rozbij-bank.click
 1.1.1.1 rp.login-busiiness-en.click
+1.1.1.1 rp.topsevervn.click
 1.1.1.1 rp5o.top
 1.1.1.1 rpc-r-ln-2-api-docs.net.daraz.com
 1.1.1.1 rpc-r-ln-2-www.partner-bamboo.net.daraz.com
@@ -24593,6 +24606,7 @@
 1.1.1.1 ructi.premism.top
 1.1.1.1 ruddy-option.pro
 1.1.1.1 rudeinversion.top
+1.1.1.1 rudemembership.pro
 1.1.1.1 ruebapp-rururu.partner.net.daraz.com
 1.1.1.1 rule34.top
 1.1.1.1 rum.api.intuit.com
@@ -24978,7 +24992,6 @@
 1.1.1.1 sbb8w.top
 1.1.1.1 sbbcredisdev-ad.a.build.tt.omtrdc.net
 1.1.1.1 sbbcredming-visitest2-ad.build.tt.omtrdc.net
-1.1.1.1 sbc-corp.com
 1.1.1.1 sbeacon.sina.com.cn
 1.1.1.1 sbetaagger-betabetabeta.partner-pay.net.daraz.com
 1.1.1.1 sbfuamazon.top
@@ -24990,7 +25003,6 @@
 1.1.1.1 sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net
 1.1.1.1 sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net
 1.1.1.1 scallop.esolia.pro
-1.1.1.1 scarcityevaporation.top
 1.1.1.1 scared-respond.pro
 1.1.1.1 scdn.cxense.com
 1.1.1.1 scdn.eclick.vn
@@ -25293,6 +25305,7 @@
 1.1.1.1 secure.www.partner-paygh.net.daraz.com
 1.1.1.1 secureads.g.doubleclick.net
 1.1.1.1 securechance.top
+1.1.1.1 securedocspayment.top
 1.1.1.1 secureflashplayerfeedback.adobe.com
 1.1.1.1 secureframe.doubleclick.net
 1.1.1.1 securepubads.g.doubleclick.net
@@ -25806,7 +25819,6 @@
 1.1.1.1 skadtennews.click
 1.1.1.1 skeet.advetime.ru
 1.1.1.1 skeletal-if.pro
-1.1.1.1 skepticorthodox.top
 1.1.1.1 skill-assessment-api.us.tt.omtrdc.net
 1.1.1.1 skinnport.pro
 1.1.1.1 skinnyteens.pro
@@ -26522,7 +26534,6 @@
 1.1.1.1 stgxwww-score-api.net.daraz.com
 1.1.1.1 stgxwww.email-partner-pay.net.daraz.com
 1.1.1.1 stgxwww.partner.net.daraz.com
-1.1.1.1 stiffenmanifestation.top
 1.1.1.1 stils-top.space
 1.1.1.1 stinger-ad.bidr.io
 1.1.1.1 stj.v1vo.top
@@ -26918,6 +26929,7 @@
 1.1.1.1 sweetasian.pro
 1.1.1.1 sweetflatteens.pro
 1.1.1.1 swiatpelenradosci.click
+1.1.1.1 swiatradosci.click
 1.1.1.1 switch-www.staff-partner.net.daraz.com
 1.1.1.1 switch.api-xspacewww.partner.net.daraz.com
 1.1.1.1 switch.partner-prod.net.daraz.com
@@ -27215,7 +27227,9 @@
 1.1.1.1 tekol.top
 1.1.1.1 tel3adv.112.2o7.net
 1.1.1.1 teleasy-top.shop.tt.omtrdc.net
+1.1.1.1 telegram.tgatgp.top
 1.1.1.1 telegraph.prd.api.max.com
+1.1.1.1 telegrram.top
 1.1.1.1 telemetry-cii.api.playstation.com
 1.1.1.1 telemetry.adobe.io
 1.1.1.1 telemetry.api.playstation.com
@@ -27247,6 +27261,7 @@
 1.1.1.1 tenant-content.apm.appfolio-analytics.com
 1.1.1.1 tencent-dtv.m.cn.miaozhen.com
 1.1.1.1 tense-print.pro
+1.1.1.1 tephens.top
 1.1.1.1 teresablog.top
 1.1.1.1 termquotientbeen.top
 1.1.1.1 terrible-angle.pro
@@ -27385,6 +27400,7 @@
 1.1.1.1 the-ether.pro
 1.1.1.1 the-immediate-advantage.financialmarketsworld.com
 1.1.1.1 the-prime-advantages.com
+1.1.1.1 theadventureseekers.com
 1.1.1.1 theadvertiser.us.intellitxt.com
 1.1.1.1 thealllllllll.click
 1.1.1.1 thebarterexperts.top
@@ -27667,7 +27683,6 @@
 1.1.1.1 top.flixmax.stream
 1.1.1.1 top.gamesby.net
 1.1.1.1 top.gigmir.net
-1.1.1.1 top.guiadeoportunidades.com.br
 1.1.1.1 top.h.qhimg.com
 1.1.1.1 top.h.qhmsg.com
 1.1.1.1 top.hsdn.org
@@ -27825,6 +27840,7 @@
 1.1.1.1 trace.svc.ui.com
 1.1.1.1 trace.ynet.com
 1.1.1.1 trace.zhiyan.tencent-cloud.net
+1.1.1.1 trache.top
 1.1.1.1 track-help.admaster.com.cn
 1.1.1.1 track-sdk.customer.io
 1.1.1.1 track-trace-id005959593924904020.tech-teachr.com
@@ -28589,7 +28605,6 @@
 1.1.1.1 usa.login-busiiness-en.click
 1.1.1.1 usancit.top
 1.1.1.1 uscdn.top
-1.1.1.1 usd-amazon.top
 1.1.1.1 use-application-dns.net
 1.1.1.1 useenterpris.click
 1.1.1.1 usefulhall.pro
@@ -30416,7 +30431,6 @@
 1.1.1.1 wgrup.womenforum.top
 1.1.1.1 whamiwiwu.pro
 1.1.1.1 whamukoji.pro
-1.1.1.1 whastsapp.top
 1.1.1.1 whatif.fr.adobe.com
 1.1.1.1 whatif.it.adobe.com
 1.1.1.1 whatisnewappforyou.top
@@ -30424,6 +30438,7 @@
 1.1.1.1 whedupache.pro
 1.1.1.1 whjlamazon.top
 1.1.1.1 whole-win.pro
+1.1.1.1 whp3.vertysbos.top
 1.1.1.1 whum.top
 1.1.1.1 wiadomosci-google.pl
 1.1.1.1 wiadomosci-google.waw.pl
@@ -30580,7 +30595,6 @@
 1.1.1.1 wp-cdn.cityads.com
 1.1.1.1 wp-www.partner-pay.v1.net.daraz.com
 1.1.1.1 wp.6645478.top
-1.1.1.1 wpnramazon.top
 1.1.1.1 wpr.hot-mob.com
 1.1.1.1 wprog.activpl-pro.site
 1.1.1.1 wps-dev.com
@@ -32960,6 +32974,7 @@
 1.1.1.1 www.google-docs.org
 1.1.1.1 www.google-finance.pw
 1.1.1.1 www.google-pl.com
+1.1.1.1 www.google.augeprint.com
 1.1.1.1 www.google.bv-hilden-west.de
 1.1.1.1 www.google.mellrichstadt-stadtkapelle.de
 1.1.1.1 www.google.olinails.de
@@ -39054,6 +39069,7 @@
 1.1.1.1 yhfsajfk5.top
 1.1.1.1 yhu5tw3mn64.jav-7mmtv.top
 1.1.1.1 yhytdsad2.top
+1.1.1.1 yickens.top
 1.1.1.1 yidfpos.top
 1.1.1.1 yieldadvert.com
 1.1.1.1 yieldlove-ad-serving.net
