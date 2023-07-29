@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-07-29 09:12:37 
+#更新时间: 2023-07-29 22:11:37 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24883
+#规则数量:24897
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -768,6 +768,7 @@
 127.0.0.1 act.activeprog2.top
 127.0.0.1 act.activpl-pro.site
 127.0.0.1 act.commercial.shouji.360.cn
+127.0.0.1 act.vip.iqiyi.com
 127.0.0.1 act1.activeprog1.top
 127.0.0.1 act1.activpl-pro.site
 127.0.0.1 acti.profitactiv1.top
@@ -2872,6 +2873,8 @@
 127.0.0.1 ads.livetv681.me
 127.0.0.1 ads.livetv683.me
 127.0.0.1 ads.livetv684.me
+127.0.0.1 ads.livetv686.me
+127.0.0.1 ads.livetv687.me
 127.0.0.1 ads.lmmob.com
 127.0.0.1 ads.localyokelmedia.com
 127.0.0.1 ads.lomadee.com
@@ -6669,6 +6672,7 @@
 127.0.0.1 api.tumra.com
 127.0.0.1 api.turn.com
 127.0.0.1 api.tusdk.com
+127.0.0.1 api.tv.sohu.com
 127.0.0.1 api.tvinfo.skysrt.com
 127.0.0.1 api.tvpage.com
 127.0.0.1 api.tw06.xlmc.sec.miui.com
@@ -7591,6 +7595,7 @@
 127.0.0.1 bowed-common.pro
 127.0.0.1 bowresi.top
 127.0.0.1 boxbskyb.hb-api.tt.omtrdc.net
+127.0.0.1 boxer.baidu.com
 127.0.0.1 boyporn.pro
 127.0.0.1 bp.mobad.ijinshan.com
 127.0.0.1 bp.newplatf.top
@@ -9251,6 +9256,7 @@
 127.0.0.1 dcdn.adnxs.com
 127.0.0.1 dcgedownloads3.download.tt.omtrdc.net
 127.0.0.1 dcm.nxt.api.tt.omtrdc.net
+127.0.0.1 dcms.1688.com
 127.0.0.1 dco-jads-727222375.us-west-2.elb.amazonaws.com
 127.0.0.1 dcp-poc-api.tt.omtrdc.net
 127.0.0.1 dcp.pro-activprofit.site
@@ -9928,6 +9934,7 @@
 127.0.0.1 e346ab6c68.click
 127.0.0.1 eads.to
 127.0.0.1 eagleasp.adsame.com
+127.0.0.1 eamqbaqzaewwq.top
 127.0.0.1 earnallgainsurvey.top
 127.0.0.1 earningoogl.top
 127.0.0.1 east.ads.simpli.fi
@@ -10984,6 +10991,7 @@
 127.0.0.1 google.olinails.de
 127.0.0.1 google.schreinerei-wohlfart.de
 127.0.0.1 google.trk.oeremil.com
+127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads-cn.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
@@ -11052,6 +11060,7 @@
 127.0.0.1 gsdljpost.top
 127.0.0.1 gsgy.formhh.top
 127.0.0.1 gslbali.ximalaya.com
+127.0.0.1 gsp1.baidu.com
 127.0.0.1 gts-ads.twistbox.com
 127.0.0.1 guangzhengtwentynine.top
 127.0.0.1 guangzhouta.top
@@ -12265,6 +12274,7 @@
 127.0.0.1 js2.ad-score.com
 127.0.0.1 js2.ad-stir.com
 127.0.0.1 jserr.cnzz.com
+127.0.0.1 jslbaha.top
 127.0.0.1 jsmedia.adsame.com
 127.0.0.1 jsqmt.qq.com
 127.0.0.1 jssdk.cnzz.com
@@ -13376,6 +13386,7 @@
 127.0.0.1 miui.hftaili.com
 127.0.0.1 mivideo.g.mi.com
 127.0.0.1 mix.adsame.com
+127.0.0.1 mix.sina.com.cn
 127.0.0.1 mixadvert.com
 127.0.0.1 mixer.sina.cn
 127.0.0.1 mixern.sina.cn
@@ -16283,6 +16294,7 @@
 127.0.0.1 restricted.boomboxpentest.pandora.tt.omtrdc.net
 127.0.0.1 restrictfoxentertainment.hb-api.tt.omtrdc.net
 127.0.0.1 retargeting.inner-active.mobi
+127.0.0.1 retcode.taobao.com
 127.0.0.1 retiremonkey.top
 127.0.0.1 retroporn.pro
 127.0.0.1 retropornpics.pro
@@ -17828,6 +17840,7 @@
 127.0.0.1 subp-eu-1.api-gateway.sit.ls.tt.omtrdc.net
 127.0.0.1 subp-eu-west-2-opensearch.api-gateway.ls.tt.omtrdc.net
 127.0.0.1 subsaltracon.top
+127.0.0.1 subscription.iqiyi.com
 127.0.0.1 subtle-selection.pro
 127.0.0.1 subwayfranchiseeadvertising.sc.omtrdc.net
 127.0.0.1 success-oyq.top
@@ -18040,6 +18053,7 @@
 127.0.0.1 tags.api.umbel.com
 127.0.0.1 tags.fly-ads.net
 127.0.0.1 tags.native-ad.net
+127.0.0.1 tagtic.cn
 127.0.0.1 tahatch.click
 127.0.0.1 tai.rik.top
 127.0.0.1 tai.win79.pro
