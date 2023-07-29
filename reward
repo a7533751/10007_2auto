@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-07-29 09:12:26 
+#更新时间: 2023-07-29 22:11:48 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24829
+#规则数量:24843
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -767,6 +767,7 @@
 1.1.1.1 act.activeprog2.top
 1.1.1.1 act.activpl-pro.site
 1.1.1.1 act.commercial.shouji.360.cn
+1.1.1.1 act.vip.iqiyi.com
 1.1.1.1 act1.activeprog1.top
 1.1.1.1 act1.activpl-pro.site
 1.1.1.1 acti.profitactiv1.top
@@ -2867,6 +2868,8 @@
 1.1.1.1 ads.livetv681.me
 1.1.1.1 ads.livetv683.me
 1.1.1.1 ads.livetv684.me
+1.1.1.1 ads.livetv686.me
+1.1.1.1 ads.livetv687.me
 1.1.1.1 ads.lmmob.com
 1.1.1.1 ads.localyokelmedia.com
 1.1.1.1 ads.lomadee.com
@@ -6649,6 +6652,7 @@
 1.1.1.1 api.tumra.com
 1.1.1.1 api.turn.com
 1.1.1.1 api.tusdk.com
+1.1.1.1 api.tv.sohu.com
 1.1.1.1 api.tvinfo.skysrt.com
 1.1.1.1 api.tvpage.com
 1.1.1.1 api.tw06.xlmc.sec.miui.com
@@ -7569,6 +7573,7 @@
 1.1.1.1 bowed-common.pro
 1.1.1.1 bowresi.top
 1.1.1.1 boxbskyb.hb-api.tt.omtrdc.net
+1.1.1.1 boxer.baidu.com
 1.1.1.1 boyporn.pro
 1.1.1.1 bp.mobad.ijinshan.com
 1.1.1.1 bp.newplatf.top
@@ -9223,6 +9228,7 @@
 1.1.1.1 dcdn.adnxs.com
 1.1.1.1 dcgedownloads3.download.tt.omtrdc.net
 1.1.1.1 dcm.nxt.api.tt.omtrdc.net
+1.1.1.1 dcms.1688.com
 1.1.1.1 dco-jads-727222375.us-west-2.elb.amazonaws.com
 1.1.1.1 dcp-poc-api.tt.omtrdc.net
 1.1.1.1 dcp.pro-activprofit.site
@@ -9895,6 +9901,7 @@
 1.1.1.1 e346ab6c68.click
 1.1.1.1 eads.to
 1.1.1.1 eagleasp.adsame.com
+1.1.1.1 eamqbaqzaewwq.top
 1.1.1.1 earnallgainsurvey.top
 1.1.1.1 earningoogl.top
 1.1.1.1 east.ads.simpli.fi
@@ -10950,6 +10957,7 @@
 1.1.1.1 google.olinails.de
 1.1.1.1 google.schreinerei-wohlfart.de
 1.1.1.1 google.trk.oeremil.com
+1.1.1.1 googleadapis.l.google.com
 1.1.1.1 googleads-cn.com
 1.1.1.1 googleads.g.doubleclick.net
 1.1.1.1 googleads2.g.doubleclick.net
@@ -11018,6 +11026,7 @@
 1.1.1.1 gsdljpost.top
 1.1.1.1 gsgy.formhh.top
 1.1.1.1 gslbali.ximalaya.com
+1.1.1.1 gsp1.baidu.com
 1.1.1.1 gts-ads.twistbox.com
 1.1.1.1 guangzhengtwentynine.top
 1.1.1.1 guangzhouta.top
@@ -12229,6 +12238,7 @@
 1.1.1.1 js2.ad-score.com
 1.1.1.1 js2.ad-stir.com
 1.1.1.1 jserr.cnzz.com
+1.1.1.1 jslbaha.top
 1.1.1.1 jsmedia.adsame.com
 1.1.1.1 jsqmt.qq.com
 1.1.1.1 jssdk.cnzz.com
@@ -13338,6 +13348,7 @@
 1.1.1.1 miui.hftaili.com
 1.1.1.1 mivideo.g.mi.com
 1.1.1.1 mix.adsame.com
+1.1.1.1 mix.sina.com.cn
 1.1.1.1 mixadvert.com
 1.1.1.1 mixer.sina.cn
 1.1.1.1 mixern.sina.cn
@@ -16240,6 +16251,7 @@
 1.1.1.1 restricted.boomboxpentest.pandora.tt.omtrdc.net
 1.1.1.1 restrictfoxentertainment.hb-api.tt.omtrdc.net
 1.1.1.1 retargeting.inner-active.mobi
+1.1.1.1 retcode.taobao.com
 1.1.1.1 retiremonkey.top
 1.1.1.1 retroporn.pro
 1.1.1.1 retropornpics.pro
@@ -17783,6 +17795,7 @@
 1.1.1.1 subp-eu-1.api-gateway.sit.ls.tt.omtrdc.net
 1.1.1.1 subp-eu-west-2-opensearch.api-gateway.ls.tt.omtrdc.net
 1.1.1.1 subsaltracon.top
+1.1.1.1 subscription.iqiyi.com
 1.1.1.1 subtle-selection.pro
 1.1.1.1 subwayfranchiseeadvertising.sc.omtrdc.net
 1.1.1.1 success-oyq.top
@@ -17994,6 +18007,7 @@
 1.1.1.1 tags.api.umbel.com
 1.1.1.1 tags.fly-ads.net
 1.1.1.1 tags.native-ad.net
+1.1.1.1 tagtic.cn
 1.1.1.1 tahatch.click
 1.1.1.1 tai.rik.top
 1.1.1.1 tai.win79.pro
