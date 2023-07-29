@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-07-29 09:12:36 
+#更新时间: 2023-07-29 22:11:55 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24829
+#规则数量:24843
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -767,6 +767,7 @@
 94.140.14.33 act.activeprog2.top
 94.140.14.33 act.activpl-pro.site
 94.140.14.33 act.commercial.shouji.360.cn
+94.140.14.33 act.vip.iqiyi.com
 94.140.14.33 act1.activeprog1.top
 94.140.14.33 act1.activpl-pro.site
 94.140.14.33 acti.profitactiv1.top
@@ -2867,6 +2868,8 @@
 94.140.14.33 ads.livetv681.me
 94.140.14.33 ads.livetv683.me
 94.140.14.33 ads.livetv684.me
+94.140.14.33 ads.livetv686.me
+94.140.14.33 ads.livetv687.me
 94.140.14.33 ads.lmmob.com
 94.140.14.33 ads.localyokelmedia.com
 94.140.14.33 ads.lomadee.com
@@ -6649,6 +6652,7 @@
 94.140.14.33 api.tumra.com
 94.140.14.33 api.turn.com
 94.140.14.33 api.tusdk.com
+94.140.14.33 api.tv.sohu.com
 94.140.14.33 api.tvinfo.skysrt.com
 94.140.14.33 api.tvpage.com
 94.140.14.33 api.tw06.xlmc.sec.miui.com
@@ -7569,6 +7573,7 @@
 94.140.14.33 bowed-common.pro
 94.140.14.33 bowresi.top
 94.140.14.33 boxbskyb.hb-api.tt.omtrdc.net
+94.140.14.33 boxer.baidu.com
 94.140.14.33 boyporn.pro
 94.140.14.33 bp.mobad.ijinshan.com
 94.140.14.33 bp.newplatf.top
@@ -9223,6 +9228,7 @@
 94.140.14.33 dcdn.adnxs.com
 94.140.14.33 dcgedownloads3.download.tt.omtrdc.net
 94.140.14.33 dcm.nxt.api.tt.omtrdc.net
+94.140.14.33 dcms.1688.com
 94.140.14.33 dco-jads-727222375.us-west-2.elb.amazonaws.com
 94.140.14.33 dcp-poc-api.tt.omtrdc.net
 94.140.14.33 dcp.pro-activprofit.site
@@ -9895,6 +9901,7 @@
 94.140.14.33 e346ab6c68.click
 94.140.14.33 eads.to
 94.140.14.33 eagleasp.adsame.com
+94.140.14.33 eamqbaqzaewwq.top
 94.140.14.33 earnallgainsurvey.top
 94.140.14.33 earningoogl.top
 94.140.14.33 east.ads.simpli.fi
@@ -10950,6 +10957,7 @@
 94.140.14.33 google.olinails.de
 94.140.14.33 google.schreinerei-wohlfart.de
 94.140.14.33 google.trk.oeremil.com
+94.140.14.33 googleadapis.l.google.com
 94.140.14.33 googleads-cn.com
 94.140.14.33 googleads.g.doubleclick.net
 94.140.14.33 googleads2.g.doubleclick.net
@@ -11018,6 +11026,7 @@
 94.140.14.33 gsdljpost.top
 94.140.14.33 gsgy.formhh.top
 94.140.14.33 gslbali.ximalaya.com
+94.140.14.33 gsp1.baidu.com
 94.140.14.33 gts-ads.twistbox.com
 94.140.14.33 guangzhengtwentynine.top
 94.140.14.33 guangzhouta.top
@@ -12229,6 +12238,7 @@
 94.140.14.33 js2.ad-score.com
 94.140.14.33 js2.ad-stir.com
 94.140.14.33 jserr.cnzz.com
+94.140.14.33 jslbaha.top
 94.140.14.33 jsmedia.adsame.com
 94.140.14.33 jsqmt.qq.com
 94.140.14.33 jssdk.cnzz.com
@@ -13338,6 +13348,7 @@
 94.140.14.33 miui.hftaili.com
 94.140.14.33 mivideo.g.mi.com
 94.140.14.33 mix.adsame.com
+94.140.14.33 mix.sina.com.cn
 94.140.14.33 mixadvert.com
 94.140.14.33 mixer.sina.cn
 94.140.14.33 mixern.sina.cn
@@ -16240,6 +16251,7 @@
 94.140.14.33 restricted.boomboxpentest.pandora.tt.omtrdc.net
 94.140.14.33 restrictfoxentertainment.hb-api.tt.omtrdc.net
 94.140.14.33 retargeting.inner-active.mobi
+94.140.14.33 retcode.taobao.com
 94.140.14.33 retiremonkey.top
 94.140.14.33 retroporn.pro
 94.140.14.33 retropornpics.pro
@@ -17783,6 +17795,7 @@
 94.140.14.33 subp-eu-1.api-gateway.sit.ls.tt.omtrdc.net
 94.140.14.33 subp-eu-west-2-opensearch.api-gateway.ls.tt.omtrdc.net
 94.140.14.33 subsaltracon.top
+94.140.14.33 subscription.iqiyi.com
 94.140.14.33 subtle-selection.pro
 94.140.14.33 subwayfranchiseeadvertising.sc.omtrdc.net
 94.140.14.33 success-oyq.top
@@ -17994,6 +18007,7 @@
 94.140.14.33 tags.api.umbel.com
 94.140.14.33 tags.fly-ads.net
 94.140.14.33 tags.native-ad.net
+94.140.14.33 tagtic.cn
 94.140.14.33 tahatch.click
 94.140.14.33 tai.rik.top
 94.140.14.33 tai.win79.pro
