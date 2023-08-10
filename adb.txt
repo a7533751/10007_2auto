@@ -1,16 +1,16 @@
 [Adblock Plus 2.0]
 ! Title: Host 10007
 ! ZH_Homepage: https://www.gitlink.org.cn/keytoolazy/10007_auto 
-! Last modified: 2023-08-10 09:15:30
+! Last modified: 2023-08-10 22:15:09
 ! Homepage: https://github.com/lingeringsound/10007_auto 
 [Host 10007]
 !@coolapk 1007^
 !有问题可以在文件里搜索关键词^
 !例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"^
 !在相应行的开头加个"#"号^
-!更新时间: 2023-08-10 09:15:30 ^
+!更新时间: 2023-08-10 22:15:08 ^
 
-!规则数量:25026^
+!规则数量:25082^
 !#################^
 
 ||0-5.com.hopac.api.tt.omtrdc.net^
@@ -643,6 +643,7 @@
 ||a.brand.ad^
 ||a.ckm.iqiyi.com^
 ||a.cnzz.com^
+||a.consumer.net^
 ||a.cookpad-ads.com^
 ||a.dishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||a.exosrv.com^
@@ -1189,6 +1190,7 @@
 ||ad.eurosport.com^
 ||ad.eva.vn^
 ||ad.exyws.org^
+||ad.f1cd.ru^
 ||ad.fi.doubleclick.net^
 ||ad.filmweb.pl^
 ||ad.firstadsolution.com^
@@ -1570,6 +1572,7 @@
 ||ad.tv2.no^
 ||ad.tw.doubleclick.net^
 ||ad.twinksvid.com^
+||ad.twitchguru.com^
 ||ad.udition.jp^
 ||ad.uk.doubleclick.net^
 ||ad.unimhk.com^
@@ -1712,6 +1715,7 @@
 ||ad2.iinfo.cz^
 ||ad2.img.static.youmi.net^
 ||ad2.lbn.ru^
+||ad2.linxcz.cz^
 ||ad2.lupa.cz^
 ||ad2.maho.jp^
 ||ad2.media01.eu^
@@ -2273,6 +2277,7 @@
 ||ads.all-free-download.com^
 ||ads.allaccess.com.ph^
 ||ads.allsites.com^
+||ads.allvatar.com^
 ||ads.allvertical.com^
 ||ads.almasdarnews.com^
 ||ads.alphaporno.com^
@@ -2352,6 +2357,7 @@
 ||ads.beliefnet.com^
 ||ads.belointeractive.com^
 ||ads.betfair.com^
+||ads.betfair.com.au^
 ||ads.betsafe.com^
 ||ads.betweendigital.com^
 ||ads.bfast.com^
@@ -2386,6 +2392,7 @@
 ||ads.bluecava.com^
 ||ads.bluelithium.com^
 ||ads.bluemountain.com^
+||ads.bluesq.com^
 ||ads.bninews.com^
 ||ads.bnmedia.com^
 ||ads.boardtracker.com^
@@ -2415,6 +2422,7 @@
 ||ads.calgarystampede.com^
 ||ads.camrecord.com^
 ||ads.canalblog.com^
+||ads.canoe.ca^
 ||ads.captifymedia.com^
 ||ads.cardea.se^
 ||ads.careerbuilder.vn^
@@ -2726,6 +2734,7 @@
 ||ads.healthline.com^
 ||ads.hearstmags.com^
 ||ads.heartlight.org^
+||ads.heias.com^
 ||ads.hentaiheart.com^
 ||ads.heraldnet.com^
 ||ads.heroldonline.com^
@@ -3100,6 +3109,7 @@
 ||ads.phunuonline.com.vn^
 ||ads.phunusuckhoe.vn^
 ||ads.phunuvagiadinh.vn^
+||ads.pickmeup-ltd.com^
 ||ads.pictela.net^
 ||ads.pimdesign.org^
 ||ads.pinger.com^
@@ -3142,6 +3152,7 @@
 ||ads.pricescan.com^
 ||ads.primissima.it^
 ||ads.printscr.com^
+||ads.prisacom.com^
 ||ads.privatefeeds.com^
 ||ads.privatemedia.co^
 ||ads.pro-market.net^
@@ -3212,6 +3223,7 @@
 ||ads.rude.com^
 ||ads.ruralpress.com^
 ||ads.rvadnet.com^
+||ads.s3.sitepoint.com^
 ||ads.sacbee.com^
 ||ads.samba.tv^
 ||ads.samsung.com^
@@ -3219,6 +3231,7 @@
 ||ads.saplacikardepo.xyz^
 ||ads.sapo.pt^
 ||ads.satyamonline.com^
+||ads.savannahnow.com^
 ||ads.saymedia.com^
 ||ads.scabee.com^
 ||ads.schmoozecom.net^
@@ -3554,6 +3567,7 @@
 ||ads.yimg.com.edgesuite.net^
 ||ads.yldmgrimg.net^
 ||ads.ynot.com^
+||ads.yourfreedvds.com^
 ||ads.youtube.com^
 ||ads.yumenetworks.com^
 ||ads.zalo.me^
@@ -3578,6 +3592,7 @@
 ||ads1.admedia.ro^
 ||ads1.advance.net^
 ||ads1.ami-admin.com^
+||ads1.canoe.ca^
 ||ads1.careerbuilder.vn^
 ||ads1.contentabc.com^
 ||ads1.destructoid.com^
@@ -3775,6 +3790,7 @@
 ||ads5-normal-lq.zijieapi.com^
 ||ads5-normal.zijieapi.com^
 ||ads5.advance.net^
+||ads5.canoe.ca^
 ||ads5.contentabc.com^
 ||ads5.dangkybum.club^
 ||ads5.fxdepo.com^
@@ -3885,6 +3901,7 @@
 ||adshmmsg.qq.com^
 ||adsilo.pro^
 ||adsite.hot-mob.com^
+||adsk2.co^
 ||adslot.uc.cn^
 ||adslvfile.qq.com^
 ||adslvseed.qq.com^
@@ -4042,6 +4059,7 @@
 ||adv.s8bbs.com^
 ||adv.sec.intl.miui.com^
 ||adv.sec.miui.com^
+||adv.sexcounter.com^
 ||adv.starozagorci.com^
 ||adv.strategy.it^
 ||adv.thuvienphapluat.vn^
@@ -5361,7 +5379,6 @@
 ||analytics.stanby.com^
 ||analytics.starlink.com^
 ||analytics.starmakerstudios.com^
-||analytics.staticiv.com^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
 ||analytics.strava.com^
@@ -5586,6 +5603,7 @@
 ||android.rqd.qq.com^
 ||androidsdk.ads.mp.mydas.mobi^
 ||andrqd.play.aiseet.atianqi.com^
+||anemenzemkwkm.top^
 ||anewordeal.top^
 ||angrovinvest.pro^
 ||anguished-child.pro^
@@ -5944,7 +5962,6 @@
 ||api.3650022.com^
 ||api.36dfsa.com^
 ||api.448kbet.com^
-||api.52kkg.com^
 ||api.52youtu.com^
 ||api.53.localytics.com^
 ||api.557400.com^
@@ -7205,6 +7222,7 @@
 ||banner.ateam-ad.jp^
 ||banner.betfred.com^
 ||banner.betwwts.com^
+||banner.blogranking.net^
 ||banner.boostbox.com.br^
 ||banner.brand.zing.vn^
 ||banner.buempliz-online.ch^
@@ -8516,6 +8534,7 @@
 ||click.aabacosmallbusiness.com^
 ||click.aaptiv.com^
 ||click.aarthpro.com^
+||click.absoluteagency.com^
 ||click.activehealthworks.org^
 ||click.ad-stir.com^
 ||click.ad1.ru^
@@ -9445,7 +9464,6 @@
 ||developerbskyb.hb-api.tt.omtrdc.net^
 ||developerdishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||developmentbis.top^
-||device-analytics.rollout.io^
 ||device-api.asnapieu.com^
 ||device-api.urbanairship.com^
 ||devs.data.mob.com^
@@ -18681,7 +18699,6 @@
 ||track.uc.cn^
 ||track.youradventcare.com^
 ||tracker-api.my.com^
-||tracker-tds.top^
 ||tracker.baidu.com^
 ||tracker.dcdn.baidu.com^
 ||tracker.ero-advertising.com^
@@ -20915,6 +20932,7 @@
 ||www.a79746915f26c9933e70.goonlinebnparibas-pl.click^
 ||www.aadvantagepanelsandfence.com^
 ||www.aata.ero-advertising.com^
+||www.abc-ads.com^
 ||www.absystem.pro^
 ||www.abtd-txt.click^
 ||www.ac6f67b764e4e277d3ca.goonlinebnparibas-pl.click^
@@ -20931,6 +20949,7 @@
 ||www.active1.pro-masters.xyz^
 ||www.ad-arata.com^
 ||www.ad-back.net^
+||www.ad-balancer.at^
 ||www.ad-bay.com^
 ||www.ad-brix.com^
 ||www.ad-center.com^
@@ -20943,15 +20962,19 @@
 ||www.ad-indicator.com^
 ||www.ad-maven.com^
 ||www.ad-net.co.uk^
+||www.ad-pay.de^
+||www.ad-rotator.com^
 ||www.ad-score.com^
 ||www.ad-seek.jp^
 ||www.ad-server.co.za^
 ||www.ad-serverparc.nl^
 ||www.ad-souk.com^
+||www.ad-space.net^
 ||www.ad-spire.net^
 ||www.ad-srv.net^
 ||www.ad-stir.com^
 ||www.ad-survey.com^
+||www.ad-tech.com^
 ||www.ad-up.com^
 ||www.ad-words.ru^
 ||www.ad-x.co.uk^
@@ -21004,6 +21027,7 @@
 ||www.ade3.activeprog2.space^
 ||www.adf.ero-advertising.com^
 ||www.adfpaces.ero-advertising.com^
+||www.adk2.com^
 ||www.admarket.mobi^
 ||www.admaster.com.cn^
 ||www.adnxs.com^
@@ -21018,12 +21042,14 @@
 ||www.adrikon-invest.pro^
 ||www.ads-blablacar.com^
 ||www.ads-blue.com^
+||www.ads-click.com^
 ||www.ads-connect.com^
 ||www.ads-market.online^
 ||www.ads-tm-glb.click^
 ||www.ads-twitter.com^
 ||www.ads.adtube.de^
 ||www.ads.chacomedia.com^
+||www.ads.co.com^
 ||www.ads.eropower.de^
 ||www.ads.funnelconsultants.com^
 ||www.ads.gofuckyourself.com^
@@ -21050,6 +21076,7 @@
 ||www.adserver.gallerytrafficservice.com^
 ||www.adsfcdn.com^
 ||www.adsilo.pro^
+||www.adsk2.co^
 ||www.adspacds.ero-advertising.com^
 ||www.adspaces.ero-ades.ero-advertising.com^
 ||www.adspaces.ero-apaces.ero-advertising.com^
@@ -21070,11 +21097,13 @@
 ||www.adult-top-list.com^
 ||www.adult-top.worlddatingforum.com^
 ||www.adult.adrevservice.com^
+||www.adultadvertising.com^
 ||www.adultadvertising.net^
 ||www.adulteenshow.mobi^
 ||www.adultrevenueservice.com^
 ||www.adultvideos.pro^
 ||www.adultvids.pro^
+||www.adv-adserver.com^
 ||www.adv.adultpartnership.com^
 ||www.adv.axiatraders.com^
 ||www.adv.sexcounter.com^
@@ -21106,6 +21135,7 @@
 ||www.advantageseliminatebystander.com^
 ||www.advantagespire.com^
 ||www.advard.com^
+||www.advariant.com^
 ||www.advconversion.com^
 ||www.advenations.com^
 ||www.adventory.com^
@@ -21141,29 +21171,39 @@
 ||www.advertica-cdn.com^
 ||www.advertica-cdn2.com^
 ||www.advertica.ae^
+||www.adverticum.com^
 ||www.adverticum.net^
+||www.adverticus.de^
 ||www.advertise.com^
+||www.advertiseireland.com^
 ||www.advertiserurl.com^
 ||www.advertiseserve.com^
+||www.advertisespace.com^
 ||www.advertiseworld.com^
 ||www.advertiseyourgame.com^
 ||www.advertising.com^
 ||www.advertising.entensity.net^
 ||www.advertising.justusboys.net^
 ||www.advertising365.com^
+||www.advertisingbanners.com^
+||www.advertisingbox.com^
 ||www.advertisingiq.com^
 ||www.advertisingvalue.info^
 ||www.advertjunction.com^
 ||www.advertlane.com^
 ||www.advertlets.com^
+||www.advertmarket.com^
 ||www.advertmarketing.com^
+||www.advertmedia.de^
 ||www.advertmedias.com^
 ||www.advertnetworks.com^
 ||www.advertpay.net^
 ||www.advertpro.com^
 ||www.adverts.dcthomson.co.uk^
 ||www.advertserve.com^
+||www.advertstream.com^
 ||www.advertur.ru^
+||www.advertwizard.com^
 ||www.advertx.net^
 ||www.advertyz.com^
 ||www.advfeeds.com^
@@ -21178,11 +21218,13 @@
 ||www.advisedlyremove.com^
 ||www.adviseebk.site^
 ||www.advisorded.com^
+||www.advisormedia.cz^
 ||www.advisorycouncil.xyz^
 ||www.adviva.net^
 ||www.advmaker.ru^
 ||www.advmaker.su^
 ||www.advmob.cn^
+||www.advnt.com^
 ||www.advocateseducationalservices.com^
 ||www.advombat.ru^
 ||www.advotionhot.com^
@@ -21200,6 +21242,7 @@
 ||www.adxpremium.services^
 ||www.adz.mobi^
 ||www.ae888.mobi^
+||www.af-ad.co.uk^
 ||www.afcasd.tentaklsistem.click^
 ||www.afs.ero-advertising.com^
 ||www.afshanthough.pro^
@@ -21220,6 +21263,7 @@
 ||www.alisonangel-365-2.blogspot.com^
 ||www.alivaninvest.pro^
 ||www.all-hentai-download.blogspot.com^
+||www.alladvantage.com^
 ||www.allegro-lokaln04787.netwp96.click^
 ||www.allegro-lokaln3878.qendm99.click^
 ||www.allegro-pl.sprzedaz7498545.click^
@@ -21331,6 +21375,7 @@
 ||www.banne3s.ero-advertising.com^
 ||www.banne4s.ero-advertising.com^
 ||www.banner-rotation.com^
+||www.banner.cz^
 ||www.banner.czech-sex.cz^
 ||www.banner.ero-advertising.com^
 ||www.banners.adultrevenueservice.com^
@@ -21354,6 +21399,7 @@
 ||www.beserte.pro^
 ||www.besetadvocacystrap.com^
 ||www.best-investment24.pro^
+||www.best-top.ro^
 ||www.best-vpn.click^
 ||www.bestmarketstoday.click^
 ||www.bestphoneapps.mobi^
@@ -21615,6 +21661,7 @@
 ||www.dia-traffic.com^
 ||www.diadem-invest.pro^
 ||www.differenchi.pro^
+||www.digital-ads.s3.amazonaws.com^
 ||www.diligentrefrigerator.pro^
 ||www.direct-pro.space^
 ||www.directnetadvertising.net^
@@ -21637,6 +21684,7 @@
 ||www.dorilis-invest.pro^
 ||www.double-check.com^
 ||www.doubleclick.com^
+||www.doubleclick.de^
 ||www.doubleclick.ne.jp^
 ||www.doubleclick.net^
 ||www.download-adblock-zen.com^
@@ -22196,7 +22244,9 @@
 ||www.latest-news.pro^
 ||www.latilirom-invest.pro^
 ||www.lavenion0-investing.pro^
+||www.layer-ad.de^
 ||www.layer-ad.org^
+||www.layer-ads.de^
 ||www.layerads.ero-advertising.com^
 ||www.layers.ero-advertising.com^
 ||www.layfik.lixprog.click^
@@ -22276,6 +22326,7 @@
 ||www.madchemical.pro^
 ||www.mads.bz^
 ||www.mads.olled.xyz^
+||www.madvertise.de^
 ||www.magento-analytics.com^
 ||www.magicznemomenty.click^
 ||www.magicznesploty.click^
@@ -22638,6 +22689,7 @@
 ||www.patroposalun.pro^
 ||www.pattled.click^
 ||www.paxdola.click^
+||www.pay-ads.com^
 ||www.pay-click.ru^
 ||www.payperclickadvertising.org.uk^
 ||www.payu.mobilne.click^
@@ -22757,6 +22809,7 @@
 ||www.prizefestival.mobi^
 ||www.pro-ads.club^
 ||www.pro-advert.de^
+||www.pro-advertising.com^
 ||www.pro-blog.plprogram-act.site^
 ||www.pro-blog.program-plus.xyz^
 ||www.pro-cd.firebaseapp.com^
@@ -22848,6 +22901,7 @@
 ||www.project.projectprog.click^
 ||www.projectx.projectprog.click^
 ||www.promax.ofishlprog2.click^
+||www.pronetadvertising.com^
 ||www.prostezycie.click^
 ||www.przechodzimy-dalej.pro^
 ||www.przelewy24.click^
@@ -23160,6 +23214,7 @@
 ||www.tokinou8.pro^
 ||www.tomog.pro^
 ||www.top-brand-usa.com^
+||www.top-casting-termine.de^
 ||www.top-courseglobal.biz^
 ||www.top-daily-profit.com^
 ||www.top-free-casino-games.com^
@@ -23176,6 +23231,7 @@
 ||www.top-pornsites.org^
 ||www.top-premium.weebly.com^
 ||www.top-ragers.net^
+||www.top-site-list.com^
 ||www.top-sukces.site^
 ||www.top-xhamster.com^
 ||www.top-zalukaj-2022.icu^
@@ -23217,6 +23273,7 @@
 ||www.tracking.ero-advertising.com^
 ||www.tradeexpress.click^
 ||www.traffic-c.com^
+||www.traffic-exchange.com^
 ||www.traffic.club^
 ||www.traffic.name^
 ||www.traffic.ru^
@@ -23509,6 +23566,7 @@
 ||www.y-ads.net^
 ||www.yads.site^
 ||www.yc-ads.s3.amazonaws.com^
+||www.yesadvertising.com^
 ||www.yieldadvert.com^
 ||www.yinshuahangyewang.mobi^
 ||www.young-porn.pro^
@@ -23595,7 +23653,6 @@
 ||wyxcb3.top^
 ||wzjs.cdn.bcebos.com^
 ||wzjs2.cdn.bcebos.com^
-||x-adservice.com^
 ||x-n-x-x.pro^
 ||x-photobucket.top^
 ||x-videos.mobi^
@@ -24102,7 +24159,6 @@
 ||ztaan.top^
 ||zu3f.top^
 ||zuwnq.cn^
-||zvjvkjereleaz.top^
 ||zvs1.cnzz.com^
 ||zvs2.cnzz.com^
 ||zwariowane-to.click^

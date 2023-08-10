@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-08-10 09:15:26 
+#更新时间: 2023-08-10 22:15:04 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:25059
+#规则数量:25115
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -646,6 +646,7 @@
 127.0.0.1 a.brand.ad
 127.0.0.1 a.ckm.iqiyi.com
 127.0.0.1 a.cnzz.com
+127.0.0.1 a.consumer.net
 127.0.0.1 a.cookpad-ads.com
 127.0.0.1 a.dishpurchasingcorporation.hb-api.tt.omtrdc.net
 127.0.0.1 a.exosrv.com
@@ -1192,6 +1193,7 @@
 127.0.0.1 ad.eurosport.com
 127.0.0.1 ad.eva.vn
 127.0.0.1 ad.exyws.org
+127.0.0.1 ad.f1cd.ru
 127.0.0.1 ad.fi.doubleclick.net
 127.0.0.1 ad.filmweb.pl
 127.0.0.1 ad.firstadsolution.com
@@ -1573,6 +1575,7 @@
 127.0.0.1 ad.tv2.no
 127.0.0.1 ad.tw.doubleclick.net
 127.0.0.1 ad.twinksvid.com
+127.0.0.1 ad.twitchguru.com
 127.0.0.1 ad.udition.jp
 127.0.0.1 ad.uk.doubleclick.net
 127.0.0.1 ad.unimhk.com
@@ -1715,6 +1718,7 @@
 127.0.0.1 ad2.iinfo.cz
 127.0.0.1 ad2.img.static.youmi.net
 127.0.0.1 ad2.lbn.ru
+127.0.0.1 ad2.linxcz.cz
 127.0.0.1 ad2.lupa.cz
 127.0.0.1 ad2.maho.jp
 127.0.0.1 ad2.media01.eu
@@ -2276,6 +2280,7 @@
 127.0.0.1 ads.all-free-download.com
 127.0.0.1 ads.allaccess.com.ph
 127.0.0.1 ads.allsites.com
+127.0.0.1 ads.allvatar.com
 127.0.0.1 ads.allvertical.com
 127.0.0.1 ads.almasdarnews.com
 127.0.0.1 ads.alphaporno.com
@@ -2355,6 +2360,7 @@
 127.0.0.1 ads.beliefnet.com
 127.0.0.1 ads.belointeractive.com
 127.0.0.1 ads.betfair.com
+127.0.0.1 ads.betfair.com.au
 127.0.0.1 ads.betsafe.com
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.bfast.com
@@ -2389,6 +2395,7 @@
 127.0.0.1 ads.bluecava.com
 127.0.0.1 ads.bluelithium.com
 127.0.0.1 ads.bluemountain.com
+127.0.0.1 ads.bluesq.com
 127.0.0.1 ads.bninews.com
 127.0.0.1 ads.bnmedia.com
 127.0.0.1 ads.boardtracker.com
@@ -2418,6 +2425,7 @@
 127.0.0.1 ads.calgarystampede.com
 127.0.0.1 ads.camrecord.com
 127.0.0.1 ads.canalblog.com
+127.0.0.1 ads.canoe.ca
 127.0.0.1 ads.captifymedia.com
 127.0.0.1 ads.cardea.se
 127.0.0.1 ads.careerbuilder.vn
@@ -2729,6 +2737,7 @@
 127.0.0.1 ads.healthline.com
 127.0.0.1 ads.hearstmags.com
 127.0.0.1 ads.heartlight.org
+127.0.0.1 ads.heias.com
 127.0.0.1 ads.hentaiheart.com
 127.0.0.1 ads.heraldnet.com
 127.0.0.1 ads.heroldonline.com
@@ -3103,6 +3112,7 @@
 127.0.0.1 ads.phunuonline.com.vn
 127.0.0.1 ads.phunusuckhoe.vn
 127.0.0.1 ads.phunuvagiadinh.vn
+127.0.0.1 ads.pickmeup-ltd.com
 127.0.0.1 ads.pictela.net
 127.0.0.1 ads.pimdesign.org
 127.0.0.1 ads.pinger.com
@@ -3145,6 +3155,7 @@
 127.0.0.1 ads.pricescan.com
 127.0.0.1 ads.primissima.it
 127.0.0.1 ads.printscr.com
+127.0.0.1 ads.prisacom.com
 127.0.0.1 ads.privatefeeds.com
 127.0.0.1 ads.privatemedia.co
 127.0.0.1 ads.pro-market.net
@@ -3215,6 +3226,7 @@
 127.0.0.1 ads.rude.com
 127.0.0.1 ads.ruralpress.com
 127.0.0.1 ads.rvadnet.com
+127.0.0.1 ads.s3.sitepoint.com
 127.0.0.1 ads.sacbee.com
 127.0.0.1 ads.samba.tv
 127.0.0.1 ads.samsung.com
@@ -3222,6 +3234,7 @@
 127.0.0.1 ads.saplacikardepo.xyz
 127.0.0.1 ads.sapo.pt
 127.0.0.1 ads.satyamonline.com
+127.0.0.1 ads.savannahnow.com
 127.0.0.1 ads.saymedia.com
 127.0.0.1 ads.scabee.com
 127.0.0.1 ads.schmoozecom.net
@@ -3557,6 +3570,7 @@
 127.0.0.1 ads.yimg.com.edgesuite.net
 127.0.0.1 ads.yldmgrimg.net
 127.0.0.1 ads.ynot.com
+127.0.0.1 ads.yourfreedvds.com
 127.0.0.1 ads.youtube.com
 127.0.0.1 ads.yumenetworks.com
 127.0.0.1 ads.zalo.me
@@ -3581,6 +3595,7 @@
 127.0.0.1 ads1.admedia.ro
 127.0.0.1 ads1.advance.net
 127.0.0.1 ads1.ami-admin.com
+127.0.0.1 ads1.canoe.ca
 127.0.0.1 ads1.careerbuilder.vn
 127.0.0.1 ads1.contentabc.com
 127.0.0.1 ads1.destructoid.com
@@ -3778,6 +3793,7 @@
 127.0.0.1 ads5-normal-lq.zijieapi.com
 127.0.0.1 ads5-normal.zijieapi.com
 127.0.0.1 ads5.advance.net
+127.0.0.1 ads5.canoe.ca
 127.0.0.1 ads5.contentabc.com
 127.0.0.1 ads5.dangkybum.club
 127.0.0.1 ads5.fxdepo.com
@@ -3888,6 +3904,7 @@
 127.0.0.1 adshmmsg.qq.com
 127.0.0.1 adsilo.pro
 127.0.0.1 adsite.hot-mob.com
+127.0.0.1 adsk2.co
 127.0.0.1 adslot.uc.cn
 127.0.0.1 adslvfile.qq.com
 127.0.0.1 adslvseed.qq.com
@@ -4045,6 +4062,7 @@
 127.0.0.1 adv.s8bbs.com
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
+127.0.0.1 adv.sexcounter.com
 127.0.0.1 adv.starozagorci.com
 127.0.0.1 adv.strategy.it
 127.0.0.1 adv.thuvienphapluat.vn
@@ -5364,7 +5382,6 @@
 127.0.0.1 analytics.stanby.com
 127.0.0.1 analytics.starlink.com
 127.0.0.1 analytics.starmakerstudios.com
-127.0.0.1 analytics.staticiv.com
 127.0.0.1 analytics.stg.springboardvideo.com
 127.0.0.1 analytics.strangeloopnetworks.com
 127.0.0.1 analytics.strava.com
@@ -5589,6 +5606,7 @@
 127.0.0.1 android.rqd.qq.com
 127.0.0.1 androidsdk.ads.mp.mydas.mobi
 127.0.0.1 andrqd.play.aiseet.atianqi.com
+127.0.0.1 anemenzemkwkm.top
 127.0.0.1 anewordeal.top
 127.0.0.1 angrovinvest.pro
 127.0.0.1 anguished-child.pro
@@ -5947,7 +5965,6 @@
 127.0.0.1 api.3650022.com
 127.0.0.1 api.36dfsa.com
 127.0.0.1 api.448kbet.com
-127.0.0.1 api.52kkg.com
 127.0.0.1 api.52youtu.com
 127.0.0.1 api.53.localytics.com
 127.0.0.1 api.557400.com
@@ -7208,6 +7225,7 @@
 127.0.0.1 banner.ateam-ad.jp
 127.0.0.1 banner.betfred.com
 127.0.0.1 banner.betwwts.com
+127.0.0.1 banner.blogranking.net
 127.0.0.1 banner.boostbox.com.br
 127.0.0.1 banner.brand.zing.vn
 127.0.0.1 banner.buempliz-online.ch
@@ -8519,6 +8537,7 @@
 127.0.0.1 click.aabacosmallbusiness.com
 127.0.0.1 click.aaptiv.com
 127.0.0.1 click.aarthpro.com
+127.0.0.1 click.absoluteagency.com
 127.0.0.1 click.activehealthworks.org
 127.0.0.1 click.ad-stir.com
 127.0.0.1 click.ad1.ru
@@ -9448,7 +9467,6 @@
 127.0.0.1 developerbskyb.hb-api.tt.omtrdc.net
 127.0.0.1 developerdishpurchasingcorporation.hb-api.tt.omtrdc.net
 127.0.0.1 developmentbis.top
-127.0.0.1 device-analytics.rollout.io
 127.0.0.1 device-api.asnapieu.com
 127.0.0.1 device-api.urbanairship.com
 127.0.0.1 devs.data.mob.com
@@ -18684,7 +18702,6 @@
 127.0.0.1 track.uc.cn
 127.0.0.1 track.youradventcare.com
 127.0.0.1 tracker-api.my.com
-127.0.0.1 tracker-tds.top
 127.0.0.1 tracker.baidu.com
 127.0.0.1 tracker.dcdn.baidu.com
 127.0.0.1 tracker.ero-advertising.com
@@ -20918,6 +20935,7 @@
 127.0.0.1 www.a79746915f26c9933e70.goonlinebnparibas-pl.click
 127.0.0.1 www.aadvantagepanelsandfence.com
 127.0.0.1 www.aata.ero-advertising.com
+127.0.0.1 www.abc-ads.com
 127.0.0.1 www.absystem.pro
 127.0.0.1 www.abtd-txt.click
 127.0.0.1 www.ac6f67b764e4e277d3ca.goonlinebnparibas-pl.click
@@ -20934,6 +20952,7 @@
 127.0.0.1 www.active1.pro-masters.xyz
 127.0.0.1 www.ad-arata.com
 127.0.0.1 www.ad-back.net
+127.0.0.1 www.ad-balancer.at
 127.0.0.1 www.ad-bay.com
 127.0.0.1 www.ad-brix.com
 127.0.0.1 www.ad-center.com
@@ -20946,15 +20965,19 @@
 127.0.0.1 www.ad-indicator.com
 127.0.0.1 www.ad-maven.com
 127.0.0.1 www.ad-net.co.uk
+127.0.0.1 www.ad-pay.de
+127.0.0.1 www.ad-rotator.com
 127.0.0.1 www.ad-score.com
 127.0.0.1 www.ad-seek.jp
 127.0.0.1 www.ad-server.co.za
 127.0.0.1 www.ad-serverparc.nl
 127.0.0.1 www.ad-souk.com
+127.0.0.1 www.ad-space.net
 127.0.0.1 www.ad-spire.net
 127.0.0.1 www.ad-srv.net
 127.0.0.1 www.ad-stir.com
 127.0.0.1 www.ad-survey.com
+127.0.0.1 www.ad-tech.com
 127.0.0.1 www.ad-up.com
 127.0.0.1 www.ad-words.ru
 127.0.0.1 www.ad-x.co.uk
@@ -21007,6 +21030,7 @@
 127.0.0.1 www.ade3.activeprog2.space
 127.0.0.1 www.adf.ero-advertising.com
 127.0.0.1 www.adfpaces.ero-advertising.com
+127.0.0.1 www.adk2.com
 127.0.0.1 www.admarket.mobi
 127.0.0.1 www.admaster.com.cn
 127.0.0.1 www.adnxs.com
@@ -21021,12 +21045,14 @@
 127.0.0.1 www.adrikon-invest.pro
 127.0.0.1 www.ads-blablacar.com
 127.0.0.1 www.ads-blue.com
+127.0.0.1 www.ads-click.com
 127.0.0.1 www.ads-connect.com
 127.0.0.1 www.ads-market.online
 127.0.0.1 www.ads-tm-glb.click
 127.0.0.1 www.ads-twitter.com
 127.0.0.1 www.ads.adtube.de
 127.0.0.1 www.ads.chacomedia.com
+127.0.0.1 www.ads.co.com
 127.0.0.1 www.ads.eropower.de
 127.0.0.1 www.ads.funnelconsultants.com
 127.0.0.1 www.ads.gofuckyourself.com
@@ -21053,6 +21079,7 @@
 127.0.0.1 www.adserver.gallerytrafficservice.com
 127.0.0.1 www.adsfcdn.com
 127.0.0.1 www.adsilo.pro
+127.0.0.1 www.adsk2.co
 127.0.0.1 www.adspacds.ero-advertising.com
 127.0.0.1 www.adspaces.ero-ades.ero-advertising.com
 127.0.0.1 www.adspaces.ero-apaces.ero-advertising.com
@@ -21073,11 +21100,13 @@
 127.0.0.1 www.adult-top-list.com
 127.0.0.1 www.adult-top.worlddatingforum.com
 127.0.0.1 www.adult.adrevservice.com
+127.0.0.1 www.adultadvertising.com
 127.0.0.1 www.adultadvertising.net
 127.0.0.1 www.adulteenshow.mobi
 127.0.0.1 www.adultrevenueservice.com
 127.0.0.1 www.adultvideos.pro
 127.0.0.1 www.adultvids.pro
+127.0.0.1 www.adv-adserver.com
 127.0.0.1 www.adv.adultpartnership.com
 127.0.0.1 www.adv.axiatraders.com
 127.0.0.1 www.adv.sexcounter.com
@@ -21109,6 +21138,7 @@
 127.0.0.1 www.advantageseliminatebystander.com
 127.0.0.1 www.advantagespire.com
 127.0.0.1 www.advard.com
+127.0.0.1 www.advariant.com
 127.0.0.1 www.advconversion.com
 127.0.0.1 www.advenations.com
 127.0.0.1 www.adventory.com
@@ -21144,29 +21174,39 @@
 127.0.0.1 www.advertica-cdn.com
 127.0.0.1 www.advertica-cdn2.com
 127.0.0.1 www.advertica.ae
+127.0.0.1 www.adverticum.com
 127.0.0.1 www.adverticum.net
+127.0.0.1 www.adverticus.de
 127.0.0.1 www.advertise.com
+127.0.0.1 www.advertiseireland.com
 127.0.0.1 www.advertiserurl.com
 127.0.0.1 www.advertiseserve.com
+127.0.0.1 www.advertisespace.com
 127.0.0.1 www.advertiseworld.com
 127.0.0.1 www.advertiseyourgame.com
 127.0.0.1 www.advertising.com
 127.0.0.1 www.advertising.entensity.net
 127.0.0.1 www.advertising.justusboys.net
 127.0.0.1 www.advertising365.com
+127.0.0.1 www.advertisingbanners.com
+127.0.0.1 www.advertisingbox.com
 127.0.0.1 www.advertisingiq.com
 127.0.0.1 www.advertisingvalue.info
 127.0.0.1 www.advertjunction.com
 127.0.0.1 www.advertlane.com
 127.0.0.1 www.advertlets.com
+127.0.0.1 www.advertmarket.com
 127.0.0.1 www.advertmarketing.com
+127.0.0.1 www.advertmedia.de
 127.0.0.1 www.advertmedias.com
 127.0.0.1 www.advertnetworks.com
 127.0.0.1 www.advertpay.net
 127.0.0.1 www.advertpro.com
 127.0.0.1 www.adverts.dcthomson.co.uk
 127.0.0.1 www.advertserve.com
+127.0.0.1 www.advertstream.com
 127.0.0.1 www.advertur.ru
+127.0.0.1 www.advertwizard.com
 127.0.0.1 www.advertx.net
 127.0.0.1 www.advertyz.com
 127.0.0.1 www.advfeeds.com
@@ -21181,11 +21221,13 @@
 127.0.0.1 www.advisedlyremove.com
 127.0.0.1 www.adviseebk.site
 127.0.0.1 www.advisorded.com
+127.0.0.1 www.advisormedia.cz
 127.0.0.1 www.advisorycouncil.xyz
 127.0.0.1 www.adviva.net
 127.0.0.1 www.advmaker.ru
 127.0.0.1 www.advmaker.su
 127.0.0.1 www.advmob.cn
+127.0.0.1 www.advnt.com
 127.0.0.1 www.advocateseducationalservices.com
 127.0.0.1 www.advombat.ru
 127.0.0.1 www.advotionhot.com
@@ -21203,6 +21245,7 @@
 127.0.0.1 www.adxpremium.services
 127.0.0.1 www.adz.mobi
 127.0.0.1 www.ae888.mobi
+127.0.0.1 www.af-ad.co.uk
 127.0.0.1 www.afcasd.tentaklsistem.click
 127.0.0.1 www.afs.ero-advertising.com
 127.0.0.1 www.afshanthough.pro
@@ -21223,6 +21266,7 @@
 127.0.0.1 www.alisonangel-365-2.blogspot.com
 127.0.0.1 www.alivaninvest.pro
 127.0.0.1 www.all-hentai-download.blogspot.com
+127.0.0.1 www.alladvantage.com
 127.0.0.1 www.allegro-lokaln04787.netwp96.click
 127.0.0.1 www.allegro-lokaln3878.qendm99.click
 127.0.0.1 www.allegro-pl.sprzedaz7498545.click
@@ -21334,6 +21378,7 @@
 127.0.0.1 www.banne3s.ero-advertising.com
 127.0.0.1 www.banne4s.ero-advertising.com
 127.0.0.1 www.banner-rotation.com
+127.0.0.1 www.banner.cz
 127.0.0.1 www.banner.czech-sex.cz
 127.0.0.1 www.banner.ero-advertising.com
 127.0.0.1 www.banners.adultrevenueservice.com
@@ -21357,6 +21402,7 @@
 127.0.0.1 www.beserte.pro
 127.0.0.1 www.besetadvocacystrap.com
 127.0.0.1 www.best-investment24.pro
+127.0.0.1 www.best-top.ro
 127.0.0.1 www.best-vpn.click
 127.0.0.1 www.bestmarketstoday.click
 127.0.0.1 www.bestphoneapps.mobi
@@ -21618,6 +21664,7 @@
 127.0.0.1 www.dia-traffic.com
 127.0.0.1 www.diadem-invest.pro
 127.0.0.1 www.differenchi.pro
+127.0.0.1 www.digital-ads.s3.amazonaws.com
 127.0.0.1 www.diligentrefrigerator.pro
 127.0.0.1 www.direct-pro.space
 127.0.0.1 www.directnetadvertising.net
@@ -21640,6 +21687,7 @@
 127.0.0.1 www.dorilis-invest.pro
 127.0.0.1 www.double-check.com
 127.0.0.1 www.doubleclick.com
+127.0.0.1 www.doubleclick.de
 127.0.0.1 www.doubleclick.ne.jp
 127.0.0.1 www.doubleclick.net
 127.0.0.1 www.download-adblock-zen.com
@@ -22199,7 +22247,9 @@
 127.0.0.1 www.latest-news.pro
 127.0.0.1 www.latilirom-invest.pro
 127.0.0.1 www.lavenion0-investing.pro
+127.0.0.1 www.layer-ad.de
 127.0.0.1 www.layer-ad.org
+127.0.0.1 www.layer-ads.de
 127.0.0.1 www.layerads.ero-advertising.com
 127.0.0.1 www.layers.ero-advertising.com
 127.0.0.1 www.layfik.lixprog.click
@@ -22279,6 +22329,7 @@
 127.0.0.1 www.madchemical.pro
 127.0.0.1 www.mads.bz
 127.0.0.1 www.mads.olled.xyz
+127.0.0.1 www.madvertise.de
 127.0.0.1 www.magento-analytics.com
 127.0.0.1 www.magicznemomenty.click
 127.0.0.1 www.magicznesploty.click
@@ -22641,6 +22692,7 @@
 127.0.0.1 www.patroposalun.pro
 127.0.0.1 www.pattled.click
 127.0.0.1 www.paxdola.click
+127.0.0.1 www.pay-ads.com
 127.0.0.1 www.pay-click.ru
 127.0.0.1 www.payperclickadvertising.org.uk
 127.0.0.1 www.payu.mobilne.click
@@ -22760,6 +22812,7 @@
 127.0.0.1 www.prizefestival.mobi
 127.0.0.1 www.pro-ads.club
 127.0.0.1 www.pro-advert.de
+127.0.0.1 www.pro-advertising.com
 127.0.0.1 www.pro-blog.plprogram-act.site
 127.0.0.1 www.pro-blog.program-plus.xyz
 127.0.0.1 www.pro-cd.firebaseapp.com
@@ -22851,6 +22904,7 @@
 127.0.0.1 www.project.projectprog.click
 127.0.0.1 www.projectx.projectprog.click
 127.0.0.1 www.promax.ofishlprog2.click
+127.0.0.1 www.pronetadvertising.com
 127.0.0.1 www.prostezycie.click
 127.0.0.1 www.przechodzimy-dalej.pro
 127.0.0.1 www.przelewy24.click
@@ -23163,6 +23217,7 @@
 127.0.0.1 www.tokinou8.pro
 127.0.0.1 www.tomog.pro
 127.0.0.1 www.top-brand-usa.com
+127.0.0.1 www.top-casting-termine.de
 127.0.0.1 www.top-courseglobal.biz
 127.0.0.1 www.top-daily-profit.com
 127.0.0.1 www.top-free-casino-games.com
@@ -23179,6 +23234,7 @@
 127.0.0.1 www.top-pornsites.org
 127.0.0.1 www.top-premium.weebly.com
 127.0.0.1 www.top-ragers.net
+127.0.0.1 www.top-site-list.com
 127.0.0.1 www.top-sukces.site
 127.0.0.1 www.top-xhamster.com
 127.0.0.1 www.top-zalukaj-2022.icu
@@ -23220,6 +23276,7 @@
 127.0.0.1 www.tracking.ero-advertising.com
 127.0.0.1 www.tradeexpress.click
 127.0.0.1 www.traffic-c.com
+127.0.0.1 www.traffic-exchange.com
 127.0.0.1 www.traffic.club
 127.0.0.1 www.traffic.name
 127.0.0.1 www.traffic.ru
@@ -23512,6 +23569,7 @@
 127.0.0.1 www.y-ads.net
 127.0.0.1 www.yads.site
 127.0.0.1 www.yc-ads.s3.amazonaws.com
+127.0.0.1 www.yesadvertising.com
 127.0.0.1 www.yieldadvert.com
 127.0.0.1 www.yinshuahangyewang.mobi
 127.0.0.1 www.young-porn.pro
@@ -23598,7 +23656,6 @@
 127.0.0.1 wyxcb3.top
 127.0.0.1 wzjs.cdn.bcebos.com
 127.0.0.1 wzjs2.cdn.bcebos.com
-127.0.0.1 x-adservice.com
 127.0.0.1 x-n-x-x.pro
 127.0.0.1 x-photobucket.top
 127.0.0.1 x-videos.mobi
@@ -24105,7 +24162,6 @@
 127.0.0.1 ztaan.top
 127.0.0.1 zu3f.top
 127.0.0.1 zuwnq.cn
-127.0.0.1 zvjvkjereleaz.top
 127.0.0.1 zvs1.cnzz.com
 127.0.0.1 zvs2.cnzz.com
 127.0.0.1 zwariowane-to.click
