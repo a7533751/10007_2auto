@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-08-18 09:01:02 
+#更新时间: 2023-08-18 22:12:51 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:24570
+#规则数量:24582
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -487,7 +487,6 @@
 94.140.14.33 4ur.click
 94.140.14.33 4vfeqdvwe16k.top
 94.140.14.33 5.hb-api.tt.omtrdc.net
-94.140.14.33 50h6v79p.top
 94.140.14.33 50i2n.top
 94.140.14.33 51-8.api.tt.omtrdc.net
 94.140.14.33 51jqq.top
@@ -602,6 +601,7 @@
 94.140.14.33 92lottery.mobi
 94.140.14.33 9308935.com
 94.140.14.33 95urbehxy2dh.top
+94.140.14.33 96n5r5va.top
 94.140.14.33 979c7-uppps.click
 94.140.14.33 98a2b7ff62688ae88a6d.goonline-bnpparibas-pl.click
 94.140.14.33 991019.top
@@ -1104,6 +1104,7 @@
 94.140.14.33 ad.br.doubleclick.net
 94.140.14.33 ad.broadstreetads.com
 94.140.14.33 ad.bubblestat.com
+94.140.14.33 ad.buzzvil.com
 94.140.14.33 ad.bwise.ch
 94.140.14.33 ad.byfuh.com
 94.140.14.33 ad.ca.doubleclick.net
@@ -2123,6 +2124,7 @@
 94.140.14.33 ads-mediafin.adhese.com
 94.140.14.33 ads-nrc.adhese.com
 94.140.14.33 ads-partners.coupang.com
+94.140.14.33 ads-pd04.revsci.net
 94.140.14.33 ads-pebblemedia.adhese.com
 94.140.14.33 ads-pixiv.net
 94.140.14.33 ads-privacy-api.prd.mz.internal.unity3d.com
@@ -5751,7 +5753,6 @@
 94.140.14.33 api-lp-www.tt.omtrdc.net
 94.140.14.33 api-luckycoinsdk.doglobal.net
 94.140.14.33 api-lvb.h2-pqa.tt.omtrdc.net
-94.140.14.33 api-marketolog.mts.ru
 94.140.14.33 api-mcp.adsp.xunlei.com
 94.140.14.33 api-mds-us.csw-qa.uds-qa.tt.omtrdc.net
 94.140.14.33 api-medicplanos-hml.tt.omtrdc.net
@@ -6947,6 +6948,7 @@
 94.140.14.33 ax.mpcdn.top
 94.140.14.33 axdsz.pro
 94.140.14.33 axqs.liopah.top
+94.140.14.33 axvnsla.top
 94.140.14.33 az2.expensivesurvey.click
 94.140.14.33 azarlive-branch.vsohu.admaster.com.cn
 94.140.14.33 azx.takilon.top
@@ -7468,7 +7470,6 @@
 94.140.14.33 bo8-9.idmapper.api.api.tt.omtrdc.net
 94.140.14.33 boba.lixprog.click
 94.140.14.33 bobo.163.com
-94.140.14.33 bobstayget.top
 94.140.14.33 bochka.inventnamb.click
 94.140.14.33 bodencl.hb-api.tt.omtrdc.net
 94.140.14.33 bof2-0.idmapper.api.api.tt.omtrdc.net
@@ -8116,6 +8117,7 @@
 94.140.14.33 check-activity.com.ru
 94.140.14.33 check-now.online
 94.140.14.33 check-update-today.com
+94.140.14.33 check.c3scores.com
 94.140.14.33 check.dropcanoiles.com
 94.140.14.33 check.lawashpol.site
 94.140.14.33 check.rayjump.com
@@ -10573,6 +10575,7 @@
 94.140.14.33 gombo-api.com
 94.140.14.33 goo-access-analytics.appspot.com
 94.140.14.33 goodadvert.ru
+94.140.14.33 goodday21.top
 94.140.14.33 goodindianporn.pro
 94.140.14.33 goofpa.inventnamb.click
 94.140.14.33 goog.emailon.top
@@ -11816,6 +11819,7 @@
 94.140.14.33 jegon-investing.pro
 94.140.14.33 jellyfish.pandora.xiaomi.com
 94.140.14.33 jeremix9.webd.pro
+94.140.14.33 jerjrqqzmzkzy.top
 94.140.14.33 jetdpdchat.tronshop.top
 94.140.14.33 jf.eutrty.top
 94.140.14.33 jfdaily.adsame.com
@@ -12695,6 +12699,7 @@
 94.140.14.33 marial.pro
 94.140.14.33 marii.activeprog1.top
 94.140.14.33 mark.l.qq.com
+94.140.14.33 market-backend.api.2gis.ru
 94.140.14.33 market.m.qq.com
 94.140.14.33 marketapart2219-o1x.marketbirthday.top
 94.140.14.33 marketing-api.upsight.com
@@ -13786,7 +13791,6 @@
 94.140.14.33 oeeee.adsame.com
 94.140.14.33 ofeetles.pro
 94.140.14.33 offer.advotionhot.com
-94.140.14.33 offergate.pro
 94.140.14.33 offerwall.yandex.net
 94.140.14.33 office365-eu-update.com
 94.140.14.33 office365-us-update.com
@@ -13821,13 +13825,17 @@
 94.140.14.33 oix-polsca.asoromeilqop555.click
 94.140.14.33 ok.marcukesh.top
 94.140.14.33 oka.programtts.top
+94.140.14.33 okag.top
+94.140.14.33 okcf.top
 94.140.14.33 okcy.top
 94.140.14.33 okdi.top
 94.140.14.33 okew.top
 94.140.14.33 okoc.top
+94.140.14.33 okod.top
 94.140.14.33 okoy.top
 94.140.14.33 oksioninvest.pro
 94.140.14.33 okwa.top
+94.140.14.33 okwg.top
 94.140.14.33 old-go.pro
 94.140.14.33 oldsex.pro
 94.140.14.33 olgin-investing.pro
@@ -17832,6 +17840,7 @@
 94.140.14.33 thesac2.top
 94.140.14.33 thesac3.top
 94.140.14.33 thesac4.top
+94.140.14.33 thesac5.top
 94.140.14.33 thesac7.top
 94.140.14.33 thichawheja.pro
 94.140.14.33 thichsex.pro
@@ -18424,7 +18433,6 @@
 94.140.14.33 uev.ad-stir.com
 94.140.14.33 uewl.top
 94.140.14.33 ufgron-invest.pro
-94.140.14.33 ufiler-pro.ru
 94.140.14.33 ufiler.pro
 94.140.14.33 ug.snssdk.com
 94.140.14.33 ugc3.api.api.tt.omtrdc.net
@@ -20357,6 +20365,7 @@
 94.140.14.33 www.8kun.top
 94.140.14.33 www.8muses.download
 94.140.14.33 www.95urbehxy2dh.top
+94.140.14.33 www.96n5r5va.top
 94.140.14.33 www.979c7-uppps.click
 94.140.14.33 www.98a2b7ff62688ae88a6d.goonline-bnpparibas-pl.click
 94.140.14.33 www.991019.top
@@ -20482,7 +20491,6 @@
 94.140.14.33 www.ads-click.com
 94.140.14.33 www.ads-connect.com
 94.140.14.33 www.ads-market.online
-94.140.14.33 www.ads-tm-glb.click
 94.140.14.33 www.ads-twitter.com
 94.140.14.33 www.ads.adtube.de
 94.140.14.33 www.ads.chacomedia.com
@@ -20813,6 +20821,7 @@
 94.140.14.33 www.banne2s.ero-advertising.com
 94.140.14.33 www.banne3s.ero-advertising.com
 94.140.14.33 www.banne4s.ero-advertising.com
+94.140.14.33 www.banner-exchange-24.de
 94.140.14.33 www.banner-rotation.com
 94.140.14.33 www.banner.cz
 94.140.14.33 www.banner.czech-sex.cz
@@ -21519,6 +21528,7 @@
 94.140.14.33 www.in-appadvertising.com
 94.140.14.33 www.in-post.id-dostawa32984.click
 94.140.14.33 www.inail.simcoin.webd.pro
+94.140.14.33 www.indelible-awareness.pro
 94.140.14.33 www.indelibleweird.pro
 94.140.14.33 www.indian-xnxx.pro
 94.140.14.33 www.indoporn.mobi
@@ -21980,7 +21990,6 @@
 94.140.14.33 www.naughty-traffic.com
 94.140.14.33 www.naughtytamysadventures.blogspot.com
 94.140.14.33 www.neblio.click
-94.140.14.33 www.necessaryclassroom.pro
 94.140.14.33 www.needadvertising.com
 94.140.14.33 www.neeew.pro-activprofit.site
 94.140.14.33 www.nehodyshy.pro
@@ -22051,7 +22060,6 @@
 94.140.14.33 www.obstanceder.pro
 94.140.14.33 www.odbierz.izigrosz.click
 94.140.14.33 www.odbierz.lazurowy.click
-94.140.14.33 www.offergate.pro
 94.140.14.33 www.officeadmin.radian1.webd.pro
 94.140.14.33 www.ofis.pro-fit.host
 94.140.14.33 www.ogladamyvideo.click
@@ -22393,6 +22401,7 @@
 94.140.14.33 www.razmokl-invest.pro
 94.140.14.33 www.realnewslongdays.pro
 94.140.14.33 www.reddleops.pro
+94.140.14.33 www.redewdit.pro
 94.140.14.33 www.redirect.ero-advertising.com
 94.140.14.33 www.redirects.ero-advertising.com
 94.140.14.33 www.refuzzlizing.pro
@@ -22558,6 +22567,7 @@
 94.140.14.33 www.storage-ad.com
 94.140.14.33 www.store.apps.googleplay.pro
 94.140.14.33 www.store.destiny-api.com
+94.140.14.33 www.straight-shift.pro
 94.140.14.33 www.straszneinfo283.click
 94.140.14.33 www.streamadvocate.com
 94.140.14.33 www.streamwatch.pro
@@ -22790,7 +22800,6 @@
 94.140.14.33 www.uc-baidu.cc
 94.140.14.33 www.ucdn.website
 94.140.14.33 www.ufgron-invest.pro
-94.140.14.33 www.ufiler-pro.ru
 94.140.14.33 www.ufiler.pro
 94.140.14.33 www.uk.partner.equifax.co.uk
 94.140.14.33 www.ukcomparends.pro
@@ -22930,6 +22939,7 @@
 94.140.14.33 www.wdata.ero-advertising.com
 94.140.14.33 www.web.cellfun.mobi
 94.140.14.33 www.webadv.co
+94.140.14.33 www.webmine.pro
 94.140.14.33 www.weliko.mi-scooter.co
 94.140.14.33 www.wellmadeabroad.pro
 94.140.14.33 www.weplay-events.pro
@@ -22954,6 +22964,7 @@
 94.140.14.33 www.windhawkadvisors.com
 94.140.14.33 www.wirtaspin-investing.pro
 94.140.14.33 www.wirtualnyswiat.click
+94.140.14.33 www.withdromnit.pro
 94.140.14.33 www.wks.ero-advertising.com
 94.140.14.33 www.wnetrzeizewnetrzne.click
 94.140.14.33 www.workerdisadvantageunrest.com
@@ -23046,6 +23057,7 @@
 94.140.14.33 www.zalatwmy-wszyscy.click
 94.140.14.33 www.zauroczonyprzezyciami.click
 94.140.14.33 www.zauroczonyzyciem.click
+94.140.14.33 www.zazerygu.pro
 94.140.14.33 www.zb5xpvwvups.click
 94.140.14.33 www.zbieram-bonusy.click
 94.140.14.33 www.zdrowienakazdydzien.click
