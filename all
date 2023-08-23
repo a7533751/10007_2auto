@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-08-23 09:01:34 
+#更新时间: 2023-08-23 22:13:25 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:36500
+#规则数量:36515
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -720,6 +720,7 @@
 1.1.1.1 4-72-com.top
 1.1.1.1 4-foxentertainment.hb-api.tt.omtrdc.net
 1.1.1.1 4.auth-ns.api.api.tt.omtrdc.net
+1.1.1.1 41056a.savefeminism.top
 1.1.1.1 421.idmapper.api.api.tt.omtrdc.net
 1.1.1.1 434.api.tt.omtrdc.net
 1.1.1.1 435.activeprog2.top
@@ -760,7 +761,6 @@
 1.1.1.1 54-240-196-163.tt.omtrdc.net
 1.1.1.1 542.dev.api.tt.omtrdc.net
 1.1.1.1 558ao12sqrok.top
-1.1.1.1 561395118.top
 1.1.1.1 567lives.top
 1.1.1.1 56kqs1f8t09y.top
 1.1.1.1 56peda.vpn-clients.corp.tt.omtrdc.net
@@ -3449,7 +3449,6 @@
 1.1.1.1 ads.ireel.com
 1.1.1.1 ads.ireport.com
 1.1.1.1 ads.isoftmarketing.com
-1.1.1.1 ads.istngo.com
 1.1.1.1 ads.itv.com
 1.1.1.1 ads.iwangmedia.com
 1.1.1.1 ads.iwannawatch.to
@@ -5118,7 +5117,6 @@
 1.1.1.1 advimg.ad-mapps.com
 1.1.1.1 advinapps.com
 1.1.1.1 advinci.co
-1.1.1.1 advinci.life
 1.1.1.1 advinci.net
 1.1.1.1 adviralmedia.com
 1.1.1.1 advise.co
@@ -8852,9 +8850,6 @@
 1.1.1.1 asp-api.atl.tt.omtrdc.net
 1.1.1.1 asp.adsame.com
 1.1.1.1 ass-traffic-porn.blogspot.com
-1.1.1.1 assallenoassaciatescouk.top
-1.1.1.1 assallenoasssacatesoasiaacatesoasiccouk.top
-1.1.1.1 assallenociatescouk.top
 1.1.1.1 asseco.top
 1.1.1.1 assemblyturtle.top
 1.1.1.1 assertions.top
@@ -9092,6 +9087,7 @@
 1.1.1.1 autumnfrontpage-partner.net.daraz.com
 1.1.1.1 autumnwww.partner-prod.net.daraz.com
 1.1.1.1 autwlanenticatemail.partner.net.daraz.com
+1.1.1.1 auyouth.top
 1.1.1.1 av1.xdrig.com
 1.1.1.1 available-portal.partner.net.daraz.com
 1.1.1.1 avair.top
@@ -9644,7 +9640,7 @@
 1.1.1.1 beta.ad-maven.com
 1.1.1.1 beta.ads.zalo.me
 1.1.1.1 beta.analytics.console-mobile.tt.omtrdc.net
-1.1.1.1 betacsgo.pro
+1.1.1.1 betacsgo2.pro
 1.1.1.1 betahit.click
 1.1.1.1 betalib-ln-2api-xspacewww.partner.net.daraz.com
 1.1.1.1 betapad.top
@@ -12069,6 +12065,7 @@
 1.1.1.1 cs2get.pro
 1.1.1.1 cs2gg.pro
 1.1.1.1 cs2go.pro
+1.1.1.1 cs2gobeta.pro
 1.1.1.1 cs2invite.pro
 1.1.1.1 cs2open.pro
 1.1.1.1 cs2prime.pro
@@ -12077,7 +12074,6 @@
 1.1.1.1 csebapp-cscscs.partner.net.daraz.com
 1.1.1.1 csgo-empire.pro
 1.1.1.1 csgo-luxe.top
-1.1.1.1 csgo-skin.top
 1.1.1.1 csgo-skins4.pro
 1.1.1.1 csgo-stars.top
 1.1.1.1 csgo2key.pro
@@ -12566,7 +12562,7 @@
 1.1.1.1 dellveryollx3700.cewnts103.click
 1.1.1.1 delphilawadvisory.com
 1.1.1.1 delplaya-api.advangelists.com
-1.1.1.1 delwargal.click
+1.1.1.1 delusionlinguistics.top
 1.1.1.1 demail-partner-pay1.freshegg.ingress.net.daraz.com
 1.1.1.1 dememere.top
 1.1.1.1 demo-api-localhost.r-ln-1.net.daraz.com
@@ -12638,7 +12634,6 @@
 1.1.1.1 dev-registry.corp.corp.tt.omtrdc.net
 1.1.1.1 dev-share.beaconlearningapp.com
 1.1.1.1 dev-share.smartfashion.ai
-1.1.1.1 dev-we-sustainabilityengine-query-api.az.hmgroup.tech
 1.1.1.1 dev-wwwmanagement.partner.net.daraz.com
 1.1.1.1 dev.corp.keele-nnw-leis-mc-leis.net.daraz.com
 1.1.1.1 dev.eutradepeopl.top
@@ -13358,7 +13353,6 @@
 1.1.1.1 download.mediaget.com
 1.1.1.1 download.mediaplay.ru
 1.1.1.1 download.parkunload.com
-1.1.1.1 download.pdf00.cn
 1.1.1.1 download.planify.io
 1.1.1.1 download.poolking.in
 1.1.1.1 download.qianka.com
@@ -13544,6 +13538,7 @@
 1.1.1.1 dwp3ce9c.top
 1.1.1.1 dwqdhtrhfd.dns-report.com
 1.1.1.1 dwqgrega.dns-dns.com
+1.1.1.1 dwqhtrgs.dns-stuff.com
 1.1.1.1 dx-cards-css.iqiyi.com
 1.1.1.1 dxp.baidu.com
 1.1.1.1 dy1.maxpeoplepl.top
@@ -13803,6 +13798,7 @@
 1.1.1.1 eekmbamyvkenb.top
 1.1.1.1 eemreyrwkqwnv.top
 1.1.1.1 eeqa.liopah.top
+1.1.1.1 eeqzrllnzkbkb.top
 1.1.1.1 eer.pro1wrld.top
 1.1.1.1 eerw.dddplat.top
 1.1.1.1 eeva.liopah.top
@@ -14640,6 +14636,7 @@
 1.1.1.1 fclick.baidu.com
 1.1.1.1 fclog.baidu.com
 1.1.1.1 fcmatch.google.com
+1.1.1.1 fd.finlandi.top
 1.1.1.1 fd.pro1wrld.top
 1.1.1.1 fd.propl.top
 1.1.1.1 fd2.lifepeoplexf.top
@@ -15846,6 +15843,7 @@
 1.1.1.1 had.newprogram.top
 1.1.1.1 hadlacrighterthen.pro
 1.1.1.1 haflinforms.top
+1.1.1.1 haha.mxioldowo.top
 1.1.1.1 haidongqing.top
 1.1.1.1 hairycunts.mobi
 1.1.1.1 hairypornpics.pro
@@ -15965,6 +15963,7 @@
 1.1.1.1 hed.programtts.top
 1.1.1.1 hegarberetrof.pro
 1.1.1.1 hegk01a.top
+1.1.1.1 hegk02a.top
 1.1.1.1 hegk03a.top
 1.1.1.1 hegk05a.top
 1.1.1.1 hegk06a.top
@@ -16225,6 +16224,7 @@
 1.1.1.1 htgb-apac-partner.ebs.net.daraz.com
 1.1.1.1 htgb.k8s.partner.net.daraz.com
 1.1.1.1 hththtmanagement.partner.net.daraz.com
+1.1.1.1 htienlu.top
 1.1.1.1 htkk1.top
 1.1.1.1 htkk2.top
 1.1.1.1 htsvc.www.partner.net.daraz.com
@@ -16234,7 +16234,6 @@
 1.1.1.1 httpdns.alicdn.com
 1.1.1.1 httpdns.browser.miui.com
 1.1.1.1 httpdns.c.cdnhwc2.com
-1.1.1.1 httpdns.kg.qq.com
 1.1.1.1 httpdns.n.netease.com
 1.1.1.1 httpdns.netease.com
 1.1.1.1 httpdns.pro
@@ -16639,6 +16638,7 @@
 1.1.1.1 impservice.union.youdao.com
 1.1.1.1 impservice.youdao.com
 1.1.1.1 impservice2.youdao.com
+1.1.1.1 imtoken-af.pro
 1.1.1.1 in-appadvertising.com
 1.1.1.1 in-post-pl-myid272xs.0xfee1dead.top
 1.1.1.1 in-post-pl-myid272xs.abbqza.top
@@ -16683,6 +16683,7 @@
 1.1.1.1 incestsex.pro
 1.1.1.1 incesttube.pro
 1.1.1.1 incestvideo.pro
+1.1.1.1 inch2.top
 1.1.1.1 inchoate.top
 1.1.1.1 inconsequential-skin.pro
 1.1.1.1 indelible-awareness.pro
@@ -17266,7 +17267,6 @@
 1.1.1.1 ironcladmemory.pro
 1.1.1.1 ironsource.mobi
 1.1.1.1 irpmt.mail.163.com
-1.1.1.1 irresponsibilityadvertiseanthony.com
 1.1.1.1 irritating-standard.pro
 1.1.1.1 irs-gov.pro
 1.1.1.1 irwus.agriry.top
@@ -17337,7 +17337,6 @@
 1.1.1.1 j721s.top
 1.1.1.1 j9j6l.top
 1.1.1.1 ja.ad-stir.com
-1.1.1.1 jac-redirect.top
 1.1.1.1 jadedhide.pro
 1.1.1.1 jads.co
 1.1.1.1 jagged-yellow.pro
@@ -17352,6 +17351,7 @@
 1.1.1.1 jankok04.webd.pro
 1.1.1.1 japan-porn.mobi
 1.1.1.1 japan-porn.pro
+1.1.1.1 japan.lronlsaoxk.top
 1.1.1.1 japananal.pro
 1.1.1.1 japanese-sex.pro
 1.1.1.1 japaneseporn.pro
@@ -17455,7 +17455,6 @@
 1.1.1.1 jj.newspp.top
 1.1.1.1 jjaaybqjbnlaw.top
 1.1.1.1 jjbu00.top
-1.1.1.1 jjfnjjh.tokenapp.download
 1.1.1.1 jjiv.top
 1.1.1.1 jjkkkaopo.vertysbos.top
 1.1.1.1 jjkwrqjklaaqa.top
@@ -17596,6 +17595,7 @@
 1.1.1.1 jvaemllmeezyw.top
 1.1.1.1 jvbzzmnjezeba.top
 1.1.1.1 jvnvrqzvyvbmv.top
+1.1.1.1 jvnvrqzvyvbww.top
 1.1.1.1 jvylyreyazmea.top
 1.1.1.1 jwandla.top
 1.1.1.1 jwnmnnnzrebqa.top
@@ -17820,7 +17820,6 @@
 1.1.1.1 kowqd5.top
 1.1.1.1 kowqd7.top
 1.1.1.1 kowqd9.top
-1.1.1.1 kpod.top
 1.1.1.1 kpqnj.top
 1.1.1.1 kpstaticbj.wx.ckjr001.com
 1.1.1.1 kqisa.top
@@ -18388,13 +18387,10 @@
 1.1.1.1 lknlkndasda.top
 1.1.1.1 ll.prowrld.top
 1.1.1.1 llauthaccess.top
-1.1.1.1 llenoassaciatescouk.top
-1.1.1.1 llenociatescouk.top
 1.1.1.1 llhhbb.top
 1.1.1.1 llq.yourchance.top
 1.1.1.1 lm22.top
 1.1.1.1 lmadvertising.engine.adglare.net
-1.1.1.1 lmailcnnfdnetfewyfjsmaikachex.top
 1.1.1.1 lmekamrykbbky.top
 1.1.1.1 lmjwqbjmkrzyw.top
 1.1.1.1 lmlicenses.wip4.adobe.com
@@ -18500,9 +18496,11 @@
 1.1.1.1 login-es.suupportfb-m.click
 1.1.1.1 login-es.vyphuy-mlog.click
 1.1.1.1 login-fb.anhlongvanon.click
+1.1.1.1 login-fbcnd.kavarus2.click
 1.1.1.1 login-fr.ffbsuupport.click
 1.1.1.1 login-ne.supportffb.click
 1.1.1.1 login-nestbenk.top
+1.1.1.1 login-sp.kavarus2.click
 1.1.1.1 login-sp.vyphuy-mlog.click
 1.1.1.1 login-update-santander.com
 1.1.1.1 login-us.vyphuy-mlog.click
@@ -18620,12 +18618,14 @@
 1.1.1.1 lrqvmaverkabb.top
 1.1.1.1 lrswl.com
 1.1.1.1 lrvrayrnqjzkz.top
+1.1.1.1 lrzzqvzjejjmz.top
 1.1.1.1 lrzzqvzjejqwn.top
 1.1.1.1 ls.l.qq.com
 1.1.1.1 lsancil.top
 1.1.1.1 lslbahl.top
 1.1.1.1 lsmma.lixprog.click
 1.1.1.1 lso.goodpltrmm.click
+1.1.1.1 lsraelpostl.top
 1.1.1.1 ltsafnv1.top
 1.1.1.1 ltv-data-api.kube-prod.vungle.com
 1.1.1.1 lubao-food.mobi
@@ -19125,7 +19125,6 @@
 1.1.1.1 match.ads.betweendigital.com
 1.1.1.1 match.p4p.1688.com
 1.1.1.1 matchid.adfox.yandex.ru
-1.1.1.1 mate-mask.top
 1.1.1.1 material-ssl.mediav.com
 1.1.1.1 material.jfdaily.adsame.com
 1.1.1.1 material.mediav.com
@@ -19189,6 +19188,7 @@
 1.1.1.1 maxterinfo.top
 1.1.1.1 maxwww.partner-authenticate.net.daraz.com
 1.1.1.1 maxx1.pro-masters.xyz
+1.1.1.1 may.kavarus1.click
 1.1.1.1 may88.top
 1.1.1.1 may88vn.top
 1.1.1.1 mayinbathiflex.top
@@ -19502,6 +19502,7 @@
 1.1.1.1 mill.newprogram.top
 1.1.1.1 mill.pro-masters.xyz
 1.1.1.1 millustry.top
+1.1.1.1 mimi.roikdlamoool.top
 1.1.1.1 mimilcnf.pro
 1.1.1.1 mincure-ad.com
 1.1.1.1 mindless-series.pro
@@ -19804,6 +19805,7 @@
 1.1.1.1 movieads.ero-advertising.com
 1.1.1.1 moviesteen.pro
 1.1.1.1 moviexxx.mobi
+1.1.1.1 movil-eurobic.top
 1.1.1.1 moyisi0.top
 1.1.1.1 mozemyrazemtu.click
 1.1.1.1 mp.cmllw.iego.net
@@ -19923,6 +19925,7 @@
 1.1.1.1 mth2.plsttrade.top
 1.1.1.1 mtj.baidu.com
 1.1.1.1 mtm3.aconitem.top
+1.1.1.1 mtn.voden-za.top
 1.1.1.1 mtn1.aconitem.top
 1.1.1.1 mtpint.mobi
 1.1.1.1 mtrace.play.aiseet.atianqi.com
@@ -20469,7 +20472,6 @@
 1.1.1.1 ns.acc-partner-bamboo.emailvision.net.daraz.com
 1.1.1.1 ns.acc.emailvision.partner-legacy.net.daraz.com
 1.1.1.1 ns.admin.emailvision.partner-assets.net.daraz.com
-1.1.1.1 ns.adobe.com
 1.1.1.1 ns.alt2.emailvision.partner.net.daraz.com
 1.1.1.1 ns.america.emailvision.partner.net.daraz.com
 1.1.1.1 ns.analytics-yancancook-admins.emailvision.net.daraz.com
@@ -23154,7 +23156,6 @@
 1.1.1.1 poimel.pro
 1.1.1.1 pointaccessfirstfl.top
 1.1.1.1 pointed-deal.pro
-1.1.1.1 poiue.top
 1.1.1.1 pokemongogiveaways.top
 1.1.1.1 pokkt.fuse-ad.com
 1.1.1.1 pol.lifepeoplexf.top
@@ -23322,6 +23323,7 @@
 1.1.1.1 post.update.spotxchange.com
 1.1.1.1 post.update.wo.gumgum.com
 1.1.1.1 post1.voiceads.cn
+1.1.1.1 postal-track.top
 1.1.1.1 postal.user-login.top
 1.1.1.1 postback.yandexadexchange.net
 1.1.1.1 postchkm.top
@@ -23338,6 +23340,7 @@
 1.1.1.1 postmodernism.click
 1.1.1.1 postnory.top
 1.1.1.1 postoffic-za.top
+1.1.1.1 postoffice.com-lux.top
 1.1.1.1 postofiice-za.top
 1.1.1.1 postool.top
 1.1.1.1 postshee.top
@@ -24848,6 +24851,9 @@
 1.1.1.1 saison-card.wwlbkx.top
 1.1.1.1 saison-card.xarsuq.top
 1.1.1.1 sakjiw.top
+1.1.1.1 saks5thavenue.top
+1.1.1.1 saksfifthavenuemall.top
+1.1.1.1 saksfifthavenuestore.top
 1.1.1.1 sakura-traffic.com
 1.1.1.1 sakuraset.top
 1.1.1.1 salkaner-invest.pro
@@ -25309,6 +25315,7 @@
 1.1.1.1 serving-ad.tv24.vn
 1.1.1.1 serving.ad.org.vn
 1.1.1.1 serving.dfnb-ads.com
+1.1.1.1 servirescu.top
 1.1.1.1 servscu.mobi
 1.1.1.1 session-replay.browser-intake-datadoghq.com
 1.1.1.1 sessotube.pro
@@ -25317,7 +25324,6 @@
 1.1.1.1 settings-analytics.hotstar.com
 1.1.1.1 setup.advancedcleaner.com
 1.1.1.1 seure-update.fartit.com
-1.1.1.1 sevrye.top
 1.1.1.1 sex-com.pro
 1.1.1.1 sex-hd.pro
 1.1.1.1 sex-jav.pro
@@ -25704,6 +25710,7 @@
 1.1.1.1 siodemka24h7.click
 1.1.1.1 sirinlabs.pro
 1.1.1.1 siriusprocyon.top
+1.1.1.1 sisi.nksawodjgoo.top
 1.1.1.1 site-api.project1service.com
 1.1.1.1 site.atacadaonlinee.top
 1.1.1.1 site.e.mi.com
@@ -26605,6 +26612,7 @@
 1.1.1.1 swietnechwile.click
 1.1.1.1 swiezainformacja.click
 1.1.1.1 swiezeinformacje.click
+1.1.1.1 swisspost.ar-trace.com
 1.1.1.1 switchw.partner-assets.net.daraz.com
 1.1.1.1 swmg.top
 1.1.1.1 swniamazon.top
@@ -26917,6 +26925,7 @@
 1.1.1.1 tekol.top
 1.1.1.1 tel3adv.112.2o7.net
 1.1.1.1 telegraph.prd.api.max.com
+1.1.1.1 telegrzm.top
 1.1.1.1 telemetry-cii.api.playstation.com
 1.1.1.1 telemetry.adobe.io
 1.1.1.1 telemetry.api.playstation.com
@@ -27056,7 +27065,6 @@
 1.1.1.1 tf2mandem.pro
 1.1.1.1 tflukhelp.top
 1.1.1.1 tfsnp.hnhgmh.mobi
-1.1.1.1 tg-hk.top
 1.1.1.1 tg.for4you.top
 1.1.1.1 tg.meitu.com
 1.1.1.1 tg0qu.top
@@ -27139,6 +27147,7 @@
 1.1.1.1 tiscaliadv01.webtrekk.net
 1.1.1.1 titan-man.pro
 1.1.1.1 titanfall-download.net
+1.1.1.1 titi.x9iaokdlowmw.top
 1.1.1.1 titistore.top
 1.1.1.1 tiumbs.ero-advertising.com
 1.1.1.1 tiz.jsite.top
@@ -27539,7 +27548,6 @@
 1.1.1.1 track.push-ad.com
 1.1.1.1 track.spyder-api-stage.net.daraz.com
 1.1.1.1 track.top-rated-deals.pro
-1.1.1.1 track.toroadvertising.com
 1.1.1.1 track.trackgacor.click
 1.1.1.1 track.uc.cn
 1.1.1.1 track.youradventcare.com
@@ -28047,6 +28055,7 @@
 1.1.1.1 udc.msn.com
 1.1.1.1 udohyn.top
 1.1.1.1 udp.push.mob.com
+1.1.1.1 uem.migu.cn
 1.1.1.1 uerqelim91ut.click
 1.1.1.1 uev.ad-stir.com
 1.1.1.1 uewl.top
@@ -28126,6 +28135,7 @@
 1.1.1.1 union.youdao.com
 1.1.1.1 unionimage.baidu.com
 1.1.1.1 unionsug.baidu.com
+1.1.1.1 uniswap-v3.swapto.pro
 1.1.1.1 univision.click
 1.1.1.1 unlawful-clock.pro
 1.1.1.1 unlinedcap.pro
@@ -28189,6 +28199,7 @@
 1.1.1.1 update-security.ddns.info
 1.1.1.1 update-security.qhigh.com
 1.1.1.1 update-skype.freehostia.com
+1.1.1.1 update-status-id.com
 1.1.1.1 update-trackhk.net
 1.1.1.1 update.123juzi.net
 1.1.1.1 update.360safe.com
@@ -28237,7 +28248,6 @@
 1.1.1.1 update.wtag.adaptv.advertising.com
 1.1.1.1 update04.update.tt.omtrdc.net
 1.1.1.1 updateadvancedgreatlytheproduct.vip
-1.1.1.1 updatepro.pro
 1.1.1.1 updaterecomended.pro
 1.1.1.1 updates.guitar-pro.com
 1.1.1.1 updatesecure.pro
@@ -28296,7 +28306,6 @@
 1.1.1.1 uq7c.top
 1.1.1.1 uraimeandc.top
 1.1.1.1 uredy.top
-1.1.1.1 urlcloudchecker.pro
 1.1.1.1 ursorsee.pro
 1.1.1.1 urzadzamy.click
 1.1.1.1 us-ads.openx.net
@@ -28359,19 +28368,26 @@
 1.1.1.1 usns2.partner-assetsl.bellsouth.net.daraz.com
 1.1.1.1 usns2usns2usns2.partner-payseller.net.daraz.com
 1.1.1.1 usp1.baidu.com
+1.1.1.1 uspaagqf.top
+1.1.1.1 uspbmnot.top
 1.1.1.1 uspdpywe.top
+1.1.1.1 uspefhwi.top
 1.1.1.1 uspeis.top
 1.1.1.1 uspflyyu.top
+1.1.1.1 uspitsme.top
 1.1.1.1 uspkqkhc.top
 1.1.1.1 uspmschg.top
 1.1.1.1 uspoqhmm.top
 1.1.1.1 usposzqm.top
 1.1.1.1 usppledz.top
+1.1.1.1 usppspjh.top
+1.1.1.1 uspqnigj.top
 1.1.1.1 usps-logistics.top
 1.1.1.1 usps.kbiew.top
-1.1.1.1 usps.moozf.top
 1.1.1.1 usps.widqv.top
+1.1.1.1 usps1755.top
 1.1.1.1 uspszui.top
+1.1.1.1 uspxmwbu.top
 1.1.1.1 ussmelap094p.arrownao.corp.tt.omtrdc.net
 1.1.1.1 ust-ad.com
 1.1.1.1 ustat.pro
@@ -28391,7 +28407,6 @@
 1.1.1.1 utvamazon.top
 1.1.1.1 utwjh.agriry.top
 1.1.1.1 uusee.adsame.com
-1.1.1.1 uuxknzkdkk22.top
 1.1.1.1 uvideos.cdnvideos.pro
 1.1.1.1 uwandlt.top
 1.1.1.1 uwfpvlcpn.top
@@ -30061,7 +30076,6 @@
 1.1.1.1 wetteens.top
 1.1.1.1 wew.mix-legl.top
 1.1.1.1 wework.api.tt.omtrdc.net
-1.1.1.1 wgqcheng.top
 1.1.1.1 wgrup.womenforum.top
 1.1.1.1 whamiwiwu.pro
 1.1.1.1 whamukoji.pro
@@ -34939,6 +34953,7 @@
 1.1.1.1 xipxop.papiashvili.top
 1.1.1.1 xiuxiu.android.dl.meitu.com
 1.1.1.1 xiwuvyo1.pro
+1.1.1.1 xixi.xueiolpopa.top
 1.1.1.1 xjue.top
 1.1.1.1 xk3b.top
 1.1.1.1 xl2d.top
