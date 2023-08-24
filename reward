@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-08-23 22:13:58 
+#更新时间: 2023-08-24 09:01:26 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:36611
+#规则数量:36613
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -5869,6 +5869,7 @@
 127.0.0.1 analytics.cnfanart.com
 127.0.0.1 analytics.cnnchile.com
 127.0.0.1 analytics.cocolog-nifty.com
+127.0.0.1 analytics.code.illusion.jp
 127.0.0.1 analytics.codeforscience.org
 127.0.0.1 analytics.codeskulptor.org
 127.0.0.1 analytics.codigo.se
@@ -5934,6 +5935,7 @@
 127.0.0.1 analytics.eleague.com
 127.0.0.1 analytics.electro-com.ru
 127.0.0.1 analytics.elegela.net
+127.0.0.1 analytics.elegela.us
 127.0.0.1 analytics.elx.cloud
 127.0.0.1 analytics.emarketer.com
 127.0.0.1 analytics.emol.com
