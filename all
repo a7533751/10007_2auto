@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-09-01 14:27:26 
+#更新时间: 2023-09-01 22:13:39 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:35840
+#规则数量:35842
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -3541,6 +3541,7 @@
 127.0.0.1 ads.livetv687.me
 127.0.0.1 ads.livetv689.me
 127.0.0.1 ads.livetv691.me
+127.0.0.1 ads.livetv697.me
 127.0.0.1 ads.livetvcdn.net
 127.0.0.1 ads.lmmob.com
 127.0.0.1 ads.localyokelmedia.com
@@ -5655,7 +5656,6 @@
 127.0.0.1 analytics-ssl.bradyid.com
 127.0.0.1 analytics-stamp.confi.com.vc
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
-127.0.0.1 analytics-static.unister-gmbh.de
 127.0.0.1 analytics-tcp.mintegral.net
 127.0.0.1 analytics-testing.applications.net.daraz.com
 127.0.0.1 analytics-track.machbird.com
@@ -6473,7 +6473,6 @@
 127.0.0.1 analytics.underarmour.com
 127.0.0.1 analytics.unibuddy.co
 127.0.0.1 analytics.unilogcorp.com
-127.0.0.1 analytics.unister-gmbh.de
 127.0.0.1 analytics.unity3d.com
 127.0.0.1 analytics.unive.nl
 127.0.0.1 analytics.unsw.edu.au
@@ -9604,6 +9603,7 @@
 127.0.0.1 binarium.click
 127.0.0.1 bind-gateway.corp.appnexus.com
 127.0.0.1 bingtuo.mobi
+127.0.0.1 binomo-id.pro
 127.0.0.1 biorad.tt.hb-api.tt.omtrdc.net
 127.0.0.1 bipacesoenlinea.click
 127.0.0.1 bipacesoriaenlinea.click
@@ -15502,7 +15502,6 @@
 127.0.0.1 gusabid.adview.com
 127.0.0.1 gustofwind.click
 127.0.0.1 gutagony.top
-127.0.0.1 gutenberg.marketing-flash.dd
 127.0.0.1 guxiezhuang.top
 127.0.0.1 gv1.xdrig.com
 127.0.0.1 gv4e.top
@@ -16056,6 +16055,7 @@
 127.0.0.1 hybrid-prd.ad-prd.s.joyn.de
 127.0.0.1 hydra2020.top
 127.0.0.1 hype-ads.com
+127.0.0.1 hyper-soft.pro
 127.0.0.1 hyrewusha.pro
 127.0.0.1 hysdkservice.g.mi.com
 127.0.0.1 hytjhdfgds.dns-report.com
@@ -29893,6 +29893,7 @@
 127.0.0.1 wlan-switch.mirror.corp-spring.net.daraz.com
 127.0.0.1 wlan-switpre-open-api.authorization.net.daraz.com
 127.0.0.1 wlife.activeprog3.top
+127.0.0.1 wlmarathonbet.adsrv.eacdn.com
 127.0.0.1 wlneteller.adsrv.eacdn.com
 127.0.0.1 wlpinnacle.adsrv.eacdn.com
 127.0.0.1 wls.clysor.top
@@ -31601,6 +31602,7 @@
 127.0.0.1 www.geeb.pro
 127.0.0.1 www.gemini2.click
 127.0.0.1 www.genishury.pro
+127.0.0.1 www.geovanisantos.adv.br
 127.0.0.1 www.get-partner.life
 127.0.0.1 www.getenterprises.click
 127.0.0.1 www.getterebs-partner.net.daraz.com
