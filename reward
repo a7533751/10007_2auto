@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-09-03 22:12:06 
+#更新时间: 2023-09-04 09:03:53 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:35508
+#规则数量:35543
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -724,6 +724,7 @@
 1.1.1.1 4an0u0avxj66.top
 1.1.1.1 4anners.ero-advertising.com
 1.1.1.1 4b49srgf0gth.top
+1.1.1.1 4chan-ads.org
 1.1.1.1 4ebh3yrxat58.top
 1.1.1.1 4fwww0-5.eu.api.tt.omtrdc.net
 1.1.1.1 4fwww19.us.api.tt.omtrdc.net
@@ -1330,6 +1331,7 @@
 1.1.1.1 ad-sun.de
 1.1.1.1 ad-survey.com
 1.1.1.1 ad-switcher.com
+1.1.1.1 ad-sys.com
 1.1.1.1 ad-tag.biz
 1.1.1.1 ad-tag.inner-active.mobi
 1.1.1.1 ad-tech.com
@@ -1436,6 +1438,7 @@
 1.1.1.1 ad.adview.pl
 1.1.1.1 ad.advst.cp33.ott.cibntv.net
 1.1.1.1 ad.adwo.com
+1.1.1.1 ad.adworx.at
 1.1.1.1 ad.adx.adnxs.com
 1.1.1.1 ad.adxcore.com
 1.1.1.1 ad.ae.doubleclick.net
@@ -2028,6 +2031,7 @@
 1.1.1.1 ad.tom.com
 1.1.1.1 ad.topwar.ru
 1.1.1.1 ad.toutiao.com
+1.1.1.1 ad.tpmn.co.kr
 1.1.1.1 ad.track.us.org
 1.1.1.1 ad.trackrdtck.com
 1.1.1.1 ad.trafficgate.net
@@ -2151,8 +2155,10 @@
 1.1.1.1 ad1.lbn.ru
 1.1.1.1 ad1.missyusa.com
 1.1.1.1 ad1.nend.net
+1.1.1.1 ad1.on.cc
 1.1.1.1 ad1.pamedia.com.au
 1.1.1.1 ad1.popcap.com
+1.1.1.1 ad1.ru
 1.1.1.1 ad1.sibnet.ru
 1.1.1.1 ad1.speedbit.com
 1.1.1.1 ad1.tone.ne.jp
@@ -2200,6 +2206,7 @@
 1.1.1.1 ad2.nend.net
 1.1.1.1 ad2.netriota.hu
 1.1.1.1 ad2.nmm.de
+1.1.1.1 ad2.on.cc
 1.1.1.1 ad2.pl
 1.1.1.1 ad2.plugmedia.hk
 1.1.1.1 ad2.rambler.ru
@@ -2253,6 +2260,7 @@
 1.1.1.1 ad4.layerads.ero-advertising.com
 1.1.1.1 ad4.lbn.ru
 1.1.1.1 ad4.nend.net
+1.1.1.1 ad4.on.cc
 1.1.1.1 ad4.sina.com.cn
 1.1.1.1 ad4.speedbit.com
 1.1.1.1 ad4.thumbs.ero-advertising.com
@@ -2266,6 +2274,7 @@
 1.1.1.1 ad5.emediate.dk
 1.1.1.1 ad5.fpa.ero-advertising.com
 1.1.1.1 ad5.lbn.ru
+1.1.1.1 ad5.on.cc
 1.1.1.1 ad5.speedbit.com
 1.1.1.1 ad5.udn.com
 1.1.1.1 ad6.bannerbank.ru
@@ -2275,6 +2284,7 @@
 1.1.1.1 ad6.contentabc.com
 1.1.1.1 ad6.emediate.dk
 1.1.1.1 ad6.horvitznewspapers.net
+1.1.1.1 ad6.on.cc
 1.1.1.1 ad6.speedbit.com
 1.1.1.1 ad7.api.ero-advertising.com
 1.1.1.1 ad7.bannerbank.ru
@@ -2287,6 +2297,7 @@
 1.1.1.1 ad7.gueb.com
 1.1.1.1 ad7.leadboltads.net
 1.1.1.1 ad7.literotica.com
+1.1.1.1 ad7.on.cc
 1.1.1.1 ad7.speedbit.com
 1.1.1.1 ad7.thumbs.ero-advertising.com
 1.1.1.1 ad8.adfarm1.adition.com
@@ -2315,6 +2326,8 @@
 1.1.1.1 adalytics.prixacdn.net
 1.1.1.1 adamkurier.top
 1.1.1.1 adaos-ads.net
+1.1.1.1 adapi.about.co.kr
+1.1.1.1 adapi.addealsnetwork.com
 1.1.1.1 adapi.gunosy.com
 1.1.1.1 adapi.inlcorp.com
 1.1.1.1 adapi.izuiyou.com
@@ -2937,6 +2950,7 @@
 1.1.1.1 ads.bfmio.com
 1.1.1.1 ads.bgfree.com
 1.1.1.1 ads.bgtop.net
+1.1.1.1 ads.bhol.co.il
 1.1.1.1 ads.bianca.com
 1.1.1.1 ads.bid
 1.1.1.1 ads.bidclix.com
@@ -4683,6 +4697,7 @@
 1.1.1.1 adv.admeme.net
 1.1.1.1 adv.adultpartnership.com
 1.1.1.1 adv.adview.pl
+1.1.1.1 adv.aftonbladet.se
 1.1.1.1 adv.aiclk.com
 1.1.1.1 adv.all-free-download.com
 1.1.1.1 adv.anhsangvacuocsong.vn
@@ -4714,6 +4729,7 @@
 1.1.1.1 adv.h2porn.com
 1.1.1.1 adv.herocraft.com
 1.1.1.1 adv.hwupgrade.it
+1.1.1.1 adv.imadrep.co.kr
 1.1.1.1 adv.jxnews.com.cn
 1.1.1.1 adv.khan.co.kr
 1.1.1.1 adv.klick.vn
@@ -5047,6 +5063,7 @@
 1.1.1.1 adverts.trojanpublishing.net
 1.1.1.1 advertserve.com
 1.1.1.1 advertshot.ru
+1.1.1.1 advertstar.net
 1.1.1.1 advertstar.ru
 1.1.1.1 advertstream.com
 1.1.1.1 advertte.com
@@ -15464,6 +15481,7 @@
 1.1.1.1 hangngon.pro
 1.1.1.1 hao.360.cn
 1.1.1.1 hao123.xywy.com
+1.1.1.1 hao123union.baidu.com
 1.1.1.1 haohaopao.top
 1.1.1.1 haohuo.snssdk.com
 1.1.1.1 haokoubei.top
@@ -18378,6 +18396,7 @@
 1.1.1.1 mads.amazon-adsystem.com
 1.1.1.1 mads.amazon.com
 1.1.1.1 mads.bz
+1.1.1.1 mads.com
 1.1.1.1 mads.dailymail.co.uk
 1.1.1.1 mads.olled.xyz
 1.1.1.1 madvertise.de
@@ -18844,6 +18863,7 @@
 1.1.1.1 me.login.cuuthay.click
 1.1.1.1 me.xdrig.com
 1.1.1.1 meagerdrawing.pro
+1.1.1.1 meas.ad.pr.ameba.jp
 1.1.1.1 meastprintl-portal.partner.net.daraz.com
 1.1.1.1 meatytell.pro
 1.1.1.1 mebed.dm-event.net
@@ -21228,6 +21248,7 @@
 1.1.1.1 overo1xcoast.wiewshop.top
 1.1.1.1 ovoadv.com
 1.1.1.1 owandlk.top
+1.1.1.1 ox-d.advanceweb.com
 1.1.1.1 oxbet.top
 1.1.1.1 oxfoadv.store
 1.1.1.1 oyasu-mi.tokyo
@@ -25906,6 +25927,7 @@
 1.1.1.1 stils-top.space
 1.1.1.1 stinger-ad.bidr.io
 1.1.1.1 stj.v1vo.top
+1.1.1.1 stjjp.msn.com
 1.1.1.1 stm-cdn.cn.miaozhen.com
 1.1.1.1 stm-collect.cn.miaozhen.com
 1.1.1.1 stmp.ad.daum.net
@@ -27903,6 +27925,7 @@
 1.1.1.1 utilized-memory.pro
 1.1.1.1 utils.partner-payseller.net.daraz.com
 1.1.1.1 utk.baidu.cn
+1.1.1.1 utm.sankei.jp.msn.com
 1.1.1.1 utoken.umeng.com
 1.1.1.1 utop.umengcloud.com
 1.1.1.1 utp-dmp.ucweb.com
@@ -30046,6 +30069,7 @@
 1.1.1.1 www.4an0u0avxj66.top
 1.1.1.1 www.4anners.ero-advertising.com
 1.1.1.1 www.4b49srgf0gth.top
+1.1.1.1 www.4chan-ads.org
 1.1.1.1 www.4ebh3yrxat58.top
 1.1.1.1 www.4g3tj3l2r7zr.top
 1.1.1.1 www.4icvix60bz86.top
@@ -30139,6 +30163,7 @@
 1.1.1.1 www.ad-srv.net
 1.1.1.1 www.ad-stir.com
 1.1.1.1 www.ad-survey.com
+1.1.1.1 www.ad-sys.com
 1.1.1.1 www.ad-tech.com
 1.1.1.1 www.ad-up.com
 1.1.1.1 www.ad-words.ru
@@ -30161,6 +30186,7 @@
 1.1.1.1 www.ad1.api.ero-advertising.com
 1.1.1.1 www.ad1.banners.ero-advertising.com
 1.1.1.1 www.ad1.ero-advertising.com
+1.1.1.1 www.ad1.ru
 1.1.1.1 www.ad2.api.ero-advertising.com
 1.1.1.1 www.ad2.banners.ero-advertising.com
 1.1.1.1 www.ad2.ero-advertising.com
@@ -30193,9 +30219,11 @@
 1.1.1.1 www.ade3.activeprog2.space
 1.1.1.1 www.adf.ero-advertising.com
 1.1.1.1 www.adfpaces.ero-advertising.com
+1.1.1.1 www.adk2.co
 1.1.1.1 www.adk2.com
 1.1.1.1 www.admarket.mobi
 1.1.1.1 www.admaster.com.cn
+1.1.1.1 www.admaster.net
 1.1.1.1 www.adnxs.com
 1.1.1.1 www.adnxs.net
 1.1.1.1 www.adobe.5v.pl
@@ -30280,6 +30308,7 @@
 1.1.1.1 www.adv.sexcounter.com
 1.1.1.1 www.adv24-7.org
 1.1.1.1 www.adv9.net
+1.1.1.1 www.advaction.ru
 1.1.1.1 www.advairdiskus.news
 1.1.1.1 www.advaliant.com
 1.1.1.1 www.advance-leg.space
@@ -30294,6 +30323,7 @@
 1.1.1.1 www.advancementaccrue.com
 1.1.1.1 www.advancemycommission.com
 1.1.1.1 www.advancepeak.info
+1.1.1.1 www.advancets.org
 1.1.1.1 www.advancingrecruitingamy.com
 1.1.1.1 www.advang.com
 1.1.1.1 www.advangelists.com
@@ -30336,6 +30366,7 @@
 1.1.1.1 www.adversespurt.com
 1.1.1.1 www.adversesuffering.com
 1.1.1.1 www.adverster.com
+1.1.1.1 www.advertbox.ru
 1.1.1.1 www.advertbox.us
 1.1.1.1 www.adverterenbijrtl.nl
 1.1.1.1 www.adverterenbijsbs.nl
@@ -30371,9 +30402,11 @@
 1.1.1.1 www.advertmedias.com
 1.1.1.1 www.advertnetworks.com
 1.1.1.1 www.advertpay.net
+1.1.1.1 www.advertpay.ru
 1.1.1.1 www.advertpro.com
 1.1.1.1 www.adverts.dcthomson.co.uk
 1.1.1.1 www.advertserve.com
+1.1.1.1 www.advertstar.net
 1.1.1.1 www.advertstream.com
 1.1.1.1 www.advertur.ru
 1.1.1.1 www.advertwizard.com
@@ -30384,6 +30417,7 @@
 1.1.1.1 www.advice-ads.s3.amazonaws.com
 1.1.1.1 www.adview.cn
 1.1.1.1 www.adview.com
+1.1.1.1 www.adview.pl
 1.1.1.1 www.advinci.co
 1.1.1.1 www.advinci.net
 1.1.1.1 www.adviralmedia.com
@@ -30399,6 +30433,7 @@
 1.1.1.1 www.advmob.cn
 1.1.1.1 www.advnt.com
 1.1.1.1 www.advocateseducationalservices.com
+1.1.1.1 www.advolution.de
 1.1.1.1 www.advombat.ru
 1.1.1.1 www.advotionhot.com
 1.1.1.1 www.advsmedia.net
@@ -30988,6 +31023,7 @@
 1.1.1.1 www.differenchi.pro
 1.1.1.1 www.digital-ads.s3.amazonaws.com
 1.1.1.1 www.direct-pro.space
+1.1.1.1 www.directadvert.ru
 1.1.1.1 www.directnetadvertising.net
 1.1.1.1 www.dirtypinvest.pro
 1.1.1.1 www.disabled-w-htgb-a.partner-pay.net.daraz.com
@@ -31178,6 +31214,7 @@
 1.1.1.1 www.ewew.tentaklsistem.click
 1.1.1.1 www.exactadvertising.com
 1.1.1.1 www.exchange-traffic.com
+1.1.1.1 www.exit-ad.com
 1.1.1.1 www.exit-ad.de
 1.1.1.1 www.expansion-advisor.space
 1.1.1.1 www.expensivesurvey.click
@@ -31437,7 +31474,6 @@
 1.1.1.1 www.hlorka.lixprog.click
 1.1.1.1 www.holaenergy.click
 1.1.1.1 www.honestcapital.pro
-1.1.1.1 www.honorableinitiative.pro
 1.1.1.1 www.hopetopinvest.pro
 1.1.1.1 www.hordasinvest.pro
 1.1.1.1 www.hospitabletradition.pro
@@ -31668,7 +31704,6 @@
 1.1.1.1 www.kghm22.click
 1.1.1.1 www.kihudevo.pro
 1.1.1.1 www.kijol.lixprog.click
-1.1.1.1 www.kindhearted-winter.pro
 1.1.1.1 www.kingads.mobi
 1.1.1.1 www.kkalls.inventnamb.click
 1.1.1.1 www.kkkkla.everadpro.click
@@ -31812,6 +31847,7 @@
 1.1.1.1 www.mabelorinvest.pro
 1.1.1.1 www.madchemical.pro
 1.1.1.1 www.mads.bz
+1.1.1.1 www.mads.com
 1.1.1.1 www.mads.olled.xyz
 1.1.1.1 www.madvertise.de
 1.1.1.1 www.magento-analytics.com
@@ -32793,6 +32829,7 @@
 1.1.1.1 www.samtek-invest.pro
 1.1.1.1 www.sapsixysho.pro
 1.1.1.1 www.satr.tes1aprodj.click
+1.1.1.1 www.sbs-ad.com
 1.1.1.1 www.sc-analytics.appspot.com
 1.1.1.1 www.scm-car10.partner-assets.net.daraz.com
 1.1.1.1 www.scm-r-ln-1-partner-pay.net.daraz.com
@@ -33179,7 +33216,6 @@
 1.1.1.1 www.traffictrade.pro
 1.1.1.1 www.tranquilechoes.click
 1.1.1.1 www.traveladvertising.com
-1.1.1.1 www.treasured-dad.pro
 1.1.1.1 www.trendyiinspiracje.click
 1.1.1.1 www.trendyinformacyjne.click
 1.1.1.1 www.trendyzycia.click
@@ -33305,7 +33341,6 @@
 1.1.1.1 www.vadilimer.pro
 1.1.1.1 www.vads.net.vn
 1.1.1.1 www.vads.vn
-1.1.1.1 www.vagueleader.pro
 1.1.1.1 www.valuableadvantage.monster
 1.1.1.1 www.vanderebony.pro
 1.1.1.1 www.vanderlisten.pro
