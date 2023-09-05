@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-09-05 11:40:48 
+#更新时间: 2023-09-05 22:13:55 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:35506
+#规则数量:35505
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1458,6 +1458,7 @@
 1.1.1.1 ad.angel-live.com
 1.1.1.1 ad.animehub.ac
 1.1.1.1 ad.animeitaly.org
+1.1.1.1 ad.animeitaly.tv
 1.1.1.1 ad.ants.vn
 1.1.1.1 ad.anuntis.com
 1.1.1.1 ad.aorta-net.com
@@ -2045,6 +2046,7 @@
 1.1.1.1 ad.tw.doubleclick.net
 1.1.1.1 ad.twinksvid.com
 1.1.1.1 ad.twitchguru.com
+1.1.1.1 ad.u-car.com.tw
 1.1.1.1 ad.udition.jp
 1.1.1.1 ad.uk.doubleclick.net
 1.1.1.1 ad.unimhk.com
@@ -6138,6 +6140,7 @@
 1.1.1.1 analytics.naturequant.com
 1.1.1.1 analytics.navyfederal.org
 1.1.1.1 analytics.ncaa.com
+1.1.1.1 analytics.neoogilvy.uy
 1.1.1.1 analytics.net.iberia.com
 1.1.1.1 analytics.netcent.se
 1.1.1.1 analytics.netshops.com
@@ -9748,6 +9751,7 @@
 1.1.1.1 booking-online-verify.top
 1.1.1.1 booking-transaction.top
 1.1.1.1 bookingwww.controller.partner.net.daraz.com
+1.1.1.1 bookletcarline.top
 1.1.1.1 bookmakers.click
 1.1.1.1 books-analytics-events.apple.com
 1.1.1.1 books-analytics-events.news.apple-dns.net
@@ -26117,6 +26121,7 @@
 1.1.1.1 syndication.link2az.com
 1.1.1.1 syndication.link2nx.com
 1.1.1.1 syndication.link2zz.com
+1.1.1.1 syndication.link3dx.com
 1.1.1.1 syndication.link5c.com
 1.1.1.1 syndication.linkfryn.com
 1.1.1.1 syndication.linkwitt.com
@@ -26220,6 +26225,7 @@
 1.1.1.1 t7z.cupid.iqiyi.com
 1.1.1.1 ta.qq.com
 1.1.1.1 taalamrusski.top
+1.1.1.1 tableautroller.top
 1.1.1.1 tableful.top
 1.1.1.1 tableterotica.mobi
 1.1.1.1 tad.chainreact.xyz
@@ -30575,7 +30581,6 @@
 1.1.1.1 www.bawerdas-invest.pro
 1.1.1.1 www.bdg-analytics.appspot.com
 1.1.1.1 www.bemydate.mobi
-1.1.1.1 www.beneficial-gather.pro
 1.1.1.1 www.berzde.lixprog.click
 1.1.1.1 www.beserte.pro
 1.1.1.1 www.besetadvocacystrap.com
@@ -30734,7 +30739,6 @@
 1.1.1.1 www.check.whozyourdoula.com
 1.1.1.1 www.checkout.confirmation.pro
 1.1.1.1 www.cheeradvise.com
-1.1.1.1 www.cheerful-thanks.pro
 1.1.1.1 www.chefb-partner.net.daraz.com
 1.1.1.1 www.chefns3email-partner-pay.net.daraz.com
 1.1.1.1 www.chefns3k8s.partner.net.daraz.com
@@ -31610,7 +31614,6 @@
 1.1.1.1 www.jkla.tes1aprodj.click
 1.1.1.1 www.jmrnews.pro
 1.1.1.1 www.join.top-invst.click
-1.1.1.1 www.jointmixture.pro
 1.1.1.1 www.joktauninvest.pro
 1.1.1.1 www.jordadokinvest.pro
 1.1.1.1 www.jquery-cdn.download
@@ -32847,7 +32850,6 @@
 1.1.1.1 www.smtp.ero-advertising.com
 1.1.1.1 www.smyfinancial.com
 1.1.1.1 www.snallbusinessadvvice.site
-1.1.1.1 www.snappy-examination.pro
 1.1.1.1 www.snoar.trapetka.click
 1.1.1.1 www.socialadvertise.com
 1.1.1.1 www.softsmart.mobi
@@ -32882,7 +32884,6 @@
 1.1.1.1 www.spyder-api-partner-paygh.net.daraz.com
 1.1.1.1 www.spyder-api-stagepartner.net.daraz.com
 1.1.1.1 www.spyder-vpdp.partner-pay-getter.net.daraz.com
-1.1.1.1 www.squeakyheart.pro
 1.1.1.1 www.srv.juiceadv.com
 1.1.1.1 www.sskmnews.pro
 1.1.1.1 www.ssl-applications-kube-partner.net.daraz.com
@@ -33228,10 +33229,8 @@
 1.1.1.1 www.unidorlin-invest.pro
 1.1.1.1 www.union-wifi.com
 1.1.1.1 www.universal-traffic.com
-1.1.1.1 www.unlinedcap.pro
 1.1.1.1 www.unluckydead.pro
 1.1.1.1 www.unrulymorning.pro
-1.1.1.1 www.unsteadybreakfast.pro
 1.1.1.1 www.update-1.com
 1.1.1.1 www.update-accounts-id.online
 1.1.1.1 www.update-accout.debetowa.live
