@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-09-05 11:40:54 
+#更新时间: 2023-09-05 22:13:55 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:35635
+#规则数量:35634
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1461,6 +1461,7 @@
 127.0.0.1 ad.angel-live.com
 127.0.0.1 ad.animehub.ac
 127.0.0.1 ad.animeitaly.org
+127.0.0.1 ad.animeitaly.tv
 127.0.0.1 ad.ants.vn
 127.0.0.1 ad.anuntis.com
 127.0.0.1 ad.aorta-net.com
@@ -2051,6 +2052,7 @@
 127.0.0.1 ad.tw.doubleclick.net
 127.0.0.1 ad.twinksvid.com
 127.0.0.1 ad.twitchguru.com
+127.0.0.1 ad.u-car.com.tw
 127.0.0.1 ad.udition.jp
 127.0.0.1 ad.uk.doubleclick.net
 127.0.0.1 ad.unimhk.com
@@ -6161,6 +6163,7 @@
 127.0.0.1 analytics.naturequant.com
 127.0.0.1 analytics.navyfederal.org
 127.0.0.1 analytics.ncaa.com
+127.0.0.1 analytics.neoogilvy.uy
 127.0.0.1 analytics.net.iberia.com
 127.0.0.1 analytics.netcent.se
 127.0.0.1 analytics.netshops.com
@@ -9784,6 +9787,7 @@
 127.0.0.1 booking-online-verify.top
 127.0.0.1 booking-transaction.top
 127.0.0.1 bookingwww.controller.partner.net.daraz.com
+127.0.0.1 bookletcarline.top
 127.0.0.1 bookmakers.click
 127.0.0.1 books-analytics-events.apple.com
 127.0.0.1 books-analytics-events.news.apple-dns.net
@@ -26227,6 +26231,7 @@
 127.0.0.1 syndication.link2az.com
 127.0.0.1 syndication.link2nx.com
 127.0.0.1 syndication.link2zz.com
+127.0.0.1 syndication.link3dx.com
 127.0.0.1 syndication.link5c.com
 127.0.0.1 syndication.linkfryn.com
 127.0.0.1 syndication.linkwitt.com
@@ -26331,6 +26336,7 @@
 127.0.0.1 t7z.cupid.iqiyi.com
 127.0.0.1 ta.qq.com
 127.0.0.1 taalamrusski.top
+127.0.0.1 tableautroller.top
 127.0.0.1 tableful.top
 127.0.0.1 tableterotica.mobi
 127.0.0.1 tad.chainreact.xyz
@@ -30703,7 +30709,6 @@
 127.0.0.1 www.bawerdas-invest.pro
 127.0.0.1 www.bdg-analytics.appspot.com
 127.0.0.1 www.bemydate.mobi
-127.0.0.1 www.beneficial-gather.pro
 127.0.0.1 www.berzde.lixprog.click
 127.0.0.1 www.beserte.pro
 127.0.0.1 www.besetadvocacystrap.com
@@ -30862,7 +30867,6 @@
 127.0.0.1 www.check.whozyourdoula.com
 127.0.0.1 www.checkout.confirmation.pro
 127.0.0.1 www.cheeradvise.com
-127.0.0.1 www.cheerful-thanks.pro
 127.0.0.1 www.chefb-partner.net.daraz.com
 127.0.0.1 www.chefns3email-partner-pay.net.daraz.com
 127.0.0.1 www.chefns3k8s.partner.net.daraz.com
@@ -31738,7 +31742,6 @@
 127.0.0.1 www.jkla.tes1aprodj.click
 127.0.0.1 www.jmrnews.pro
 127.0.0.1 www.join.top-invst.click
-127.0.0.1 www.jointmixture.pro
 127.0.0.1 www.joktauninvest.pro
 127.0.0.1 www.jordadokinvest.pro
 127.0.0.1 www.jquery-cdn.download
@@ -32975,7 +32978,6 @@
 127.0.0.1 www.smtp.ero-advertising.com
 127.0.0.1 www.smyfinancial.com
 127.0.0.1 www.snallbusinessadvvice.site
-127.0.0.1 www.snappy-examination.pro
 127.0.0.1 www.snoar.trapetka.click
 127.0.0.1 www.socialadvertise.com
 127.0.0.1 www.softsmart.mobi
@@ -33010,7 +33012,6 @@
 127.0.0.1 www.spyder-api-partner-paygh.net.daraz.com
 127.0.0.1 www.spyder-api-stagepartner.net.daraz.com
 127.0.0.1 www.spyder-vpdp.partner-pay-getter.net.daraz.com
-127.0.0.1 www.squeakyheart.pro
 127.0.0.1 www.srv.juiceadv.com
 127.0.0.1 www.sskmnews.pro
 127.0.0.1 www.ssl-applications-kube-partner.net.daraz.com
@@ -33356,10 +33357,8 @@
 127.0.0.1 www.unidorlin-invest.pro
 127.0.0.1 www.union-wifi.com
 127.0.0.1 www.universal-traffic.com
-127.0.0.1 www.unlinedcap.pro
 127.0.0.1 www.unluckydead.pro
 127.0.0.1 www.unrulymorning.pro
-127.0.0.1 www.unsteadybreakfast.pro
 127.0.0.1 www.update-1.com
 127.0.0.1 www.update-accounts-id.online
 127.0.0.1 www.update-accout.debetowa.live
