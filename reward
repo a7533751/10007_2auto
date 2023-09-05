@@ -2,12 +2,12 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-09-05 11:41:04 
+#更新时间: 2023-09-05 22:14:19 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:35473
+#规则数量:35472
 ##################
 
 108.177.111.90 translate.googleapis.com
@@ -1458,6 +1458,7 @@
 94.140.14.33 ad.angel-live.com
 94.140.14.33 ad.animehub.ac
 94.140.14.33 ad.animeitaly.org
+94.140.14.33 ad.animeitaly.tv
 94.140.14.33 ad.ants.vn
 94.140.14.33 ad.anuntis.com
 94.140.14.33 ad.aorta-net.com
@@ -2045,6 +2046,7 @@
 94.140.14.33 ad.tw.doubleclick.net
 94.140.14.33 ad.twinksvid.com
 94.140.14.33 ad.twitchguru.com
+94.140.14.33 ad.u-car.com.tw
 94.140.14.33 ad.udition.jp
 94.140.14.33 ad.uk.doubleclick.net
 94.140.14.33 ad.unimhk.com
@@ -6138,6 +6140,7 @@
 94.140.14.33 analytics.naturequant.com
 94.140.14.33 analytics.navyfederal.org
 94.140.14.33 analytics.ncaa.com
+94.140.14.33 analytics.neoogilvy.uy
 94.140.14.33 analytics.net.iberia.com
 94.140.14.33 analytics.netcent.se
 94.140.14.33 analytics.netshops.com
@@ -9748,6 +9751,7 @@
 94.140.14.33 booking-online-verify.top
 94.140.14.33 booking-transaction.top
 94.140.14.33 bookingwww.controller.partner.net.daraz.com
+94.140.14.33 bookletcarline.top
 94.140.14.33 bookmakers.click
 94.140.14.33 books-analytics-events.apple.com
 94.140.14.33 books-analytics-events.news.apple-dns.net
@@ -26117,6 +26121,7 @@
 94.140.14.33 syndication.link2az.com
 94.140.14.33 syndication.link2nx.com
 94.140.14.33 syndication.link2zz.com
+94.140.14.33 syndication.link3dx.com
 94.140.14.33 syndication.link5c.com
 94.140.14.33 syndication.linkfryn.com
 94.140.14.33 syndication.linkwitt.com
@@ -26220,6 +26225,7 @@
 94.140.14.33 t7z.cupid.iqiyi.com
 94.140.14.33 ta.qq.com
 94.140.14.33 taalamrusski.top
+94.140.14.33 tableautroller.top
 94.140.14.33 tableful.top
 94.140.14.33 tableterotica.mobi
 94.140.14.33 tad.chainreact.xyz
@@ -30575,7 +30581,6 @@
 94.140.14.33 www.bawerdas-invest.pro
 94.140.14.33 www.bdg-analytics.appspot.com
 94.140.14.33 www.bemydate.mobi
-94.140.14.33 www.beneficial-gather.pro
 94.140.14.33 www.berzde.lixprog.click
 94.140.14.33 www.beserte.pro
 94.140.14.33 www.besetadvocacystrap.com
@@ -30734,7 +30739,6 @@
 94.140.14.33 www.check.whozyourdoula.com
 94.140.14.33 www.checkout.confirmation.pro
 94.140.14.33 www.cheeradvise.com
-94.140.14.33 www.cheerful-thanks.pro
 94.140.14.33 www.chefb-partner.net.daraz.com
 94.140.14.33 www.chefns3email-partner-pay.net.daraz.com
 94.140.14.33 www.chefns3k8s.partner.net.daraz.com
@@ -31610,7 +31614,6 @@
 94.140.14.33 www.jkla.tes1aprodj.click
 94.140.14.33 www.jmrnews.pro
 94.140.14.33 www.join.top-invst.click
-94.140.14.33 www.jointmixture.pro
 94.140.14.33 www.joktauninvest.pro
 94.140.14.33 www.jordadokinvest.pro
 94.140.14.33 www.jquery-cdn.download
@@ -32847,7 +32850,6 @@
 94.140.14.33 www.smtp.ero-advertising.com
 94.140.14.33 www.smyfinancial.com
 94.140.14.33 www.snallbusinessadvvice.site
-94.140.14.33 www.snappy-examination.pro
 94.140.14.33 www.snoar.trapetka.click
 94.140.14.33 www.socialadvertise.com
 94.140.14.33 www.softsmart.mobi
@@ -32882,7 +32884,6 @@
 94.140.14.33 www.spyder-api-partner-paygh.net.daraz.com
 94.140.14.33 www.spyder-api-stagepartner.net.daraz.com
 94.140.14.33 www.spyder-vpdp.partner-pay-getter.net.daraz.com
-94.140.14.33 www.squeakyheart.pro
 94.140.14.33 www.srv.juiceadv.com
 94.140.14.33 www.sskmnews.pro
 94.140.14.33 www.ssl-applications-kube-partner.net.daraz.com
@@ -33228,10 +33229,8 @@
 94.140.14.33 www.unidorlin-invest.pro
 94.140.14.33 www.union-wifi.com
 94.140.14.33 www.universal-traffic.com
-94.140.14.33 www.unlinedcap.pro
 94.140.14.33 www.unluckydead.pro
 94.140.14.33 www.unrulymorning.pro
-94.140.14.33 www.unsteadybreakfast.pro
 94.140.14.33 www.update-1.com
 94.140.14.33 www.update-accounts-id.online
 94.140.14.33 www.update-accout.debetowa.live
