@@ -1,14 +1,9 @@
 name: add_hosts_master
 on:
   workflow_dispatch:
-#on:
-#  watch:
-#    types: [started]
-#  schedule:
-#    - cron: '0 */14 * * *'
 
 jobs:
-   master:
+  master:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
@@ -32,18 +27,18 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
-        force : true
+        force: true
 
-   developer:
+  developer:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
-          ref: developer
+        ref: developer
     - name: Create local changes developer
       run: |
         sudo rm -rf /etc/localtime
-        sudo ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+        sudo ln-s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
         sudo apt-get install -y dos2unix
         bash update_action.sh && bash update_README.sh
     - name: Commit files developer
@@ -58,14 +53,14 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: developer
-        force : true
+        force: true
 
-   Feature:
+  Feature:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
-          ref: Feature
+        ref: Feature
     - name: Create local changes Feature
       run: |
         sudo rm -rf /etc/localtime
@@ -84,14 +79,14 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: Feature
-        force : true
+        force: true
 
-   PC_For_Test:
+  PC_For_Test:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
-          ref: PC_For_Test
+        ref: PC_For_Test
     - name: Create local changes PC_For_Test
       run: |
         sudo rm -rf /etc/localtime
@@ -110,18 +105,18 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: PC_For_Test
-        force : true
-        
-   Feature1:
+        force: true
+
+  Feature1:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
       with:
-          ref: Feature1
+        ref: Feature1
     - name: Create local changes Feature1
       run: |
         sudo rm -rf /etc/localtime
-        sudo ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+        sudo ln-s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
         sudo apt-get install -y dos2unix
         bash update_action.sh && bash update_README.sh
     - name: Commit files Feature1
@@ -136,5 +131,4 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: Feature1
-        force : true
-       
+        force: true
