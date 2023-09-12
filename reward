@@ -2,18 +2,21 @@
 #有问题可以在文件里搜索关键词
 #例如"toutiao(头条)"，"MIUI xiaomi (小米)"，"reward(奖励)"
 #在相应行的开头加个"#"号
-#更新时间: 2023-09-12 09:01:27 
+#更新时间: 2023-09-12 09:18:14 
 127.0.0.1 localhost
 ::1 localhost
 ::1 ip6-loopback
 ::1 ip6-localhost
-#规则数量:43930
+#规则数量:43966
 ##################
 
 ! Homepage: https://github.com/afwfv/DD-AD
+104.16.36.232 www.digitalocean.com
+104.23.108.74 icook.tw
 108.177.111.90 translate.googleapis.com
 108.177.122.90 translate.googleapis.com
 108.177.125.186 translate.googleapis.com
+108.177.125.188 mtalk.google.com
 108.177.126.90 translate.googleapis.com
 108.177.127.90 translate.googleapis.com
 108.177.97.100 translate.googleapis.com
@@ -42788,7 +42791,11 @@
 127.0.0.1 zzdh.cnzz.com
 127.0.0.1 zzu.mixiot.top
 127.0.0.1 zzxd.mediav.com
+13.107.21.200 cn.bing.com
+140.82.113.10                 codeload.github.com
+140.82.113.4                  github.com
 140.82.113.5                  api.github.com
+140.82.114.6                  api.github.com
 142.250.0.90 translate.googleapis.com
 142.250.1.90 translate.googleapis.com
 142.250.10.200 translate.googleapis.com
@@ -42815,6 +42822,7 @@
 142.250.113.90 translate.googleapis.com
 142.250.114.84 translate.googleapis.com
 142.250.114.90 translate.googleapis.com
+142.250.115.188 alt7-mtalk.google.com
 142.250.115.90 translate.googleapis.com
 142.250.12.90 translate.googleapis.com
 142.250.123.118 translate.googleapis.com
@@ -43573,6 +43581,7 @@
 172.217.193.90 translate.googleapis.com
 172.217.194.90 translate.googleapis.com
 172.217.195.90 translate.googleapis.com
+172.217.197.188 alt7-mtalk.google.com
 172.217.197.90 translate.googleapis.com
 172.217.203.90 translate.googleapis.com
 172.217.204.90 translate.googleapis.com
@@ -43601,13 +43610,29 @@
 172.253.58.90 translate.googleapis.com
 172.253.62.90 translate.googleapis.com
 172.253.63.90 translate.googleapis.com
+172.67.161.231 g.kfd.me
+172.67.161.231 wiki.kfd.me
+173.194.219.188 alt7-mtalk.google.com
 180.163.151.162 translate.googleapis.com
 192.178.49.10 translate.googleapis.com
 192.178.49.174 translate.googleapis.com
 192.178.49.185 translate.googleapis.com
 192.178.49.23 translate.googleapis.com
 192.178.50.43 translate.googleapis.com
+203.208.39.247 services.googleapis.com
+203.208.40.120 services.googleapis.com
 203.208.40.66 translate.googleapis.com
+203.208.40.87 g.cn
+203.208.40.87 services.googleapis.com
+203.208.40.88 services.googleapis.com
+203.208.41.120 services.googleapis.com
+203.208.41.63 services.googleapis.com
+203.208.41.95 services.googleapis.com
+203.208.43.119 services.googleapis.com
+203.208.43.120 services.googleapis.com
+203.208.50.183 services.googleapis.com
+203.208.50.87 services.googleapis.com
+203.208.50.95 services.googleapis.com
 216.239.32.40 translate.googleapis.com
 216.58.209.174 translate.googleapis.com
 216.58.214.14 translate.googleapis.com
@@ -43615,6 +43640,11 @@
 216.58.227.65 translate.googleapis.com
 216.58.227.66 translate.googleapis.com
 216.58.227.67 translate.googleapis.com
+3.3.3.3 alt1-mtalk.google.com
+3.3.3.3 alt2-mtalk.google.com
+3.3.3.3 alt5-mtalk.google.com
+3.3.3.3 alt6-mtalk.google.com
+3.3.3.3 alt8-mtalk.google.com
 34.147.100.198 translate.googleapis.com
 34.64.4.102 translate.googleapis.com
 34.64.4.110 translate.googleapis.com
@@ -43704,10 +43734,16 @@
 64.233.190.81 translate.googleapis.com
 64.233.190.99 translate.googleapis.com
 64.233.191.211 translate.googleapis.com
+74.125.129.188 64.233.188.188
+74.125.129.188 mtalk.google.com
+74.125.137.188 alt7-mtalk.google.com
 74.125.137.90 translate.googleapis.com
 74.125.139.18 translate.googleapis.com
 74.125.193.186 translate.googleapis.com
 74.125.196.113 translate.googleapis.com
+74.125.200.188 alt3-mtalk.google.com
+74.125.200.188 alt4-mtalk.google.com
+74.125.200.188 alt7-mtalk.google.com
 a.ad.guru
 aa.zerg.pro
 abc.comick.top
