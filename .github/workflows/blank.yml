@@ -1,9 +1,11 @@
 name: add_hosts_master
 on:
-  watch:
-    types: [started]
-  schedule:
-    - cron: '0 */14 * * *'
+  workflow_dispatch:
+#on:
+#  watch:
+#    types: [started]
+#  schedule:
+#    - cron: '0 */14 * * *'
 
 jobs:
    master:
