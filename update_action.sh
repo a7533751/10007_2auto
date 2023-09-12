@@ -342,12 +342,20 @@ wipe_value `pwd`/host
 setup_environment
 }
 
+function RUnning_grep_values_conf(){
+local hosts_file=`pwd`/host
+cat "${hosts_file}" >> "${file}"
+
+
+
+
+}
 
 #开始运行
 #设置环境
 RUnning_SETUPS_environment
 #筛选设定值
-#RUnning_grep_values_conf
+RUnning_grep_values_conf
 Do_detect_hosts
 #制作去除广告奖励的Host
 mktouch_host
