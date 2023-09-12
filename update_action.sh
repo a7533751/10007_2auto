@@ -147,7 +147,6 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts|hostsVN
 https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt|KADhosts
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts|shady-hosts
 https://urlhaus.abuse.ch/downloads/hostfile|URLHaus
-https://raw.hellogithub.com/hosts|冷莫hosts加速github
 '
 
 echo -e "\n※下载hosts中……"
