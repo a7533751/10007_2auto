@@ -136,6 +136,19 @@ https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts|yhost
 https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts|大圣净化
 https://hosts.oisd.nl/basic|oisd
 https://neodev.team/lite_host|neodev
+https://raw.githubusercontent.com/rentianyu/ad-set-hosts/master/hosts|小贝塔
+https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts|E7KMbb
+https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts|ilpl
+https://raw.githubusercontent.com/neodevpro/neodevhost/master/host|neodevpro
+https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/hosts.txt|DD
+https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt|AdguardTeam
+https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|Badd-Boyz-Hosts
+https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts|hostsVN
+https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt|KADhosts
+https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts|shady-hosts
+#http://someonewhocares.org/hosts/|someonewhocares
+https://urlhaus.abuse.ch/downloads/hostfile|URLHaus
+https://raw.hellogithub.com/hosts|冷莫 hosts 加速 github hosts 项目
 '
 
 echo -e "\n※下载hosts中……"
@@ -588,7 +601,3 @@ rm -rf `pwd`/result `pwd`/host `pwd`/tmp_hosts
 test -f `pwd`/reward && echo "文件大小 $( du -sh `pwd`/reward )，hosts数量: $(cat `pwd`/reward | wc -l ) "
 test -f `pwd`/all && echo "文件大小 $( du -sh `pwd`/all )，hosts数量: $(cat `pwd`/all | wc -l ) "
 test -f `pwd`/adb.txt && echo "文件大小 $( du -sh `pwd`/adb.txt )，hosts数量: $(cat `pwd`/adb.txt | wc -l ) "
-
-
-
-
