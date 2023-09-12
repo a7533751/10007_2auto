@@ -127,6 +127,7 @@ mkdir -p "${tmp_DIR}"
 #adhost 禁用 2022.11.20
 #https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts|AdHost
 #http://someonewhocares.org/hosts/|someonewhocares
+#https://file-git.trli.club/file-hosts/allow/Domains|Domains
 
 local hosts_list='
 https://hblock.molinero.dev/hosts|hblock
@@ -148,7 +149,6 @@ https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt|KAD
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts|shady-hosts
 https://urlhaus.abuse.ch/downloads/hostfile|URLHaus
 https://adblock.mahakala.is|mahakala
-https://file-git.trli.club/file-hosts/allow/Domains|Domains
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt|Cats-Team
 '
 
