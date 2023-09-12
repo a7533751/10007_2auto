@@ -126,7 +126,7 @@ mkdir -p "${tmp_DIR}"
 
 #adhost 禁用 2022.11.20
 #https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts|AdHost
-
+#http://someonewhocares.org/hosts/|someonewhocares
 
 local hosts_list='
 https://hblock.molinero.dev/hosts|hblock
@@ -146,9 +146,8 @@ https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|Ba
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts|hostsVN
 https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt|KADhosts
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts|shady-hosts
-#http://someonewhocares.org/hosts/|someonewhocares
 https://urlhaus.abuse.ch/downloads/hostfile|URLHaus
-https://raw.hellogithub.com/hosts|冷莫 hosts 加速 github hosts 项目
+https://raw.hellogithub.com/hosts|冷莫hosts加速github
 '
 
 echo -e "\n※下载hosts中……"
