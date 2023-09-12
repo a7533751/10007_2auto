@@ -342,43 +342,12 @@ wipe_value `pwd`/host
 setup_environment
 }
 
-function RUnning_grep_values_conf(){
-local hosts_file=`pwd`/host
-
-#22.09.26
-grep_value_file '1' 'yandex' "${hosts_file}"
-#22.10.06
-#华为隐私收集和部分广告
-grep_value_file '1' 'hicloud' "${hosts_file}"
-#yandex广告
-grep_value_file '1' 'yandexadexchange' "${hosts_file}"
-#22.10.24 网易邮箱
-grep_value_file '1' '163' "${hosts_file}"
-#22.10.25 恢复QQ相关域名拦截，可能会有大量误杀
-grep_value_file '1' 'qq' "`pwd`/tmp_hosts/yhost"
-grep_value_file '1' 'qq' "`pwd`/tmp_hosts/大圣净化"
-
-#虎扑 2022.11.20
-grep_value_file '1' 'hupu' "${hosts_file}"
-
-#Hub 联盟
-grep_value_file "1" 'hubcloud' "$hosts_file"
-grep_value_file "0" 'adv.' "$hosts_file"
-grep_value_file "1" 'adv-' "$hosts_file"
-#BeiZi 广告
-grep_value_file "1" 'BeiZi' "$hosts_file"
-
-
-
-
-
-}
 
 #开始运行
 #设置环境
 RUnning_SETUPS_environment
 #筛选设定值
-RUnning_grep_values_conf
+#RUnning_grep_values_conf
 Do_detect_hosts
 #制作去除广告奖励的Host
 mktouch_host
