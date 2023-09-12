@@ -343,8 +343,8 @@ setup_environment
 }
 
 function RUnning_grep_values_conf(){
-local hosts_file=`pwd`/host
-grep_value_file '1' '*' "${hosts_file}"
+local hosts_file="${merged_file}"
+
 
 
 
