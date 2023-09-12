@@ -147,6 +147,9 @@ https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts|hostsVN
 https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt|KADhosts
 https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts|shady-hosts
 https://urlhaus.abuse.ch/downloads/hostfile|URLHaus
+https://adblock.mahakala.is|mahakala
+https://file-git.trli.club/file-hosts/allow/Domains|Domains
+https://raw.githubusercontent.com/Cats-Team/AdRules/main/hosts.txt|Cats-Team
 '
 
 echo -e "\n※下载hosts中……"
