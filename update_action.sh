@@ -128,6 +128,7 @@ mkdir -p "${tmp_DIR}"
 #https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts|AdHost
 #http://someonewhocares.org/hosts/|someonewhocares
 #https://file-git.trli.club/file-hosts/allow/Domains|Domains
+#https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt|AdguardTeam
 
 local hosts_list='
 https://hblock.molinero.dev/hosts|hblock
@@ -142,7 +143,6 @@ https://raw.githubusercontent.com/E7KMbb/AD-hosts/master/system/etc/hosts|E7KMbb
 https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts|ilpl
 https://raw.githubusercontent.com/neodevpro/neodevhost/master/host|neodevpro
 https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/hosts.txt|DD
-https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt|AdguardTeam
 https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts|Badd-Boyz-Hosts
 https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts|hostsVN
 https://raw.githubusercontent.com/FiltersHeroes/KADhosts/master/KADhosts.txt|KADhosts
